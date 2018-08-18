@@ -15,6 +15,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0003]|[Compare the Triplets]|
 |[E0004]|[A Very Big Sum]|
 |[E0005]|[Diagonal Difference]|
+|[E0006]|[Plus Minus]|
 
 [E0001]: https://github.com/mohammed-shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
