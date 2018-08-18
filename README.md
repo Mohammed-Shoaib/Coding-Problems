@@ -11,5 +11,5 @@ The questions are divided into 3 levels of difficulty:
 |:--------------:|-----------------|
 |[E0001]|[Solve Me First]|
 
-[E0001]: https://github.com/shoaib98libra/Hackerrank-Problems/blob/master/Easy/E0001.cpp
+[E0001]: https://github.com/mohammed-shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
