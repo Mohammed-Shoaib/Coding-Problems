@@ -1,5 +1,5 @@
 /*
-Link: https://www.hackerrank.com/challenges/plus-minus/problem
+Problem Statement: https://www.hackerrank.com/challenges/plus-minus/problem
 */
 
 #include <iostream>

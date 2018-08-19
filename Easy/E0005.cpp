@@ -1,5 +1,5 @@
 /*
-Link: https://www.hackerrank.com/challenges/diagonal-difference/problem
+Problem Statement: https://www.hackerrank.com/challenges/diagonal-difference/problem
 */
 
 #include <iostream>

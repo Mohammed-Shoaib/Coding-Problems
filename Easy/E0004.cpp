@@ -1,5 +1,5 @@
 /*
-Link: https://www.hackerrank.com/challenges/a-very-big-sum/problem
+Problem Statement: https://www.hackerrank.com/challenges/a-very-big-sum/problem
 */
 
 #include <iostream>
@@ -18,7 +18,7 @@ int main()
 {
     int len, num;
     cin>>len;
-    vector<long> arr(len);
+    vector<long> arr;
     for(int i=0 ; i<len ; i++){
         cin>>num;
         arr.push_back(num);

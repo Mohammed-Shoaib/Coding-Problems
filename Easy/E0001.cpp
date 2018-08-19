@@ -1,5 +1,5 @@
 /*
-Link: https://www.hackerrank.com/challenges/solve-me-first/problem
+Problem Statement: https://www.hackerrank.com/challenges/solve-me-first/problem
 */
 
 #include <iostream>

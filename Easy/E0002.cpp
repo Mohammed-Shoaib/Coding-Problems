@@ -1,5 +1,5 @@
 /*
-Link: https://www.hackerrank.com/challenges/simple-array-sum/problem
+Problem Statement: https://www.hackerrank.com/challenges/simple-array-sum/problem
 */
 
 #include <iostream>

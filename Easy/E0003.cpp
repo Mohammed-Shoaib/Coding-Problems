@@ -1,5 +1,5 @@
 /*
-Link: https://www.hackerrank.com/challenges/compare-the-triplets/problem
+Problem Statement: https://www.hackerrank.com/challenges/compare-the-triplets/problem
 */
 
 #include <iostream>
