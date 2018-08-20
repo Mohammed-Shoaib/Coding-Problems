@@ -16,6 +16,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0004]|[A Very Big Sum]|
 |[E0005]|[Diagonal Difference]|
 |[E0006]|[Plus Minus]|
+|[E0007]|[Staircase]|
 
 [E0001]: https://github.com/mohammed-shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
@@ -34,3 +35,6 @@ The questions are divided into 3 levels of difficulty:
 
 [E0006]: https://github.com/mohammed-shoaib/HackerRank-Problems/blob/master/Easy/E0006.cpp
 [Plus Minus]: https://www.hackerrank.com/challenges/plus-minus/problem
+
+[E0007]: https://github.com/mohammed-shoaib/HackerRank-Problems/blob/master/Easy/E0007.cpp
+[Staircase]: https://www.hackerrank.com/challenges/staircase/problem
