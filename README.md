@@ -19,6 +19,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0007]|[Staircase]|
 |[E0008]|[Mini-Max Sum]|
 |[E0009]|[Birthday Cake Candles]|
+|[E0010]|[Grading Students]|
 
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
@@ -46,3 +47,6 @@ The questions are divided into 3 levels of difficulty:
 
 [E0009]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0009.cpp
 [Birthday Cake Candles]: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+
+[E0010]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0010.cpp
+[Grading Students]: https://www.hackerrank.com/challenges/grading/problem
