@@ -21,6 +21,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0009]|[Birthday Cake Candles]|
 |[E0010]|[Grading Students]|
 |[E0011]|[Apple and Orange]|
+|[E0012]|[Breaking the Records]|
 
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
@@ -54,3 +55,6 @@ The questions are divided into 3 levels of difficulty:
 
 [E0011]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0011.cpp
 [Apple and Orange]: https://www.hackerrank.com/challenges/apple-and-orange/problem
+
+[E0012]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0012.cpp
+[Breaking the Records]: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
