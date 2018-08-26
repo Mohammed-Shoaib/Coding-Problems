@@ -22,6 +22,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0010]|[Grading Students]|
 |[E0011]|[Apple and Orange]|
 |[E0012]|[Breaking the Records]|
+|[E0013]|[Bon Appétit]|
 
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
@@ -58,3 +59,6 @@ The questions are divided into 3 levels of difficulty:
 
 [E0012]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0012.cpp
 [Breaking the Records]: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+
+[E0013]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0013.cpp
+[Bon Appétit]: https://www.hackerrank.com/challenges/bon-appetit/problem
