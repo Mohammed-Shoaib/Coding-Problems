@@ -24,6 +24,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0012]|[Breaking the Records]|
 |[E0013]|[Bon Appétit]|
 |[E0014]|[Drawing Book]|
+|[E0015]|[Counting Valleys]|
 
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
@@ -66,3 +67,6 @@ The questions are divided into 3 levels of difficulty:
 
 [E0014]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0014.cpp
 [Drawing Book]: https://www.hackerrank.com/challenges/drawing-book/problem
+
+[E0015]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0015.cpp
+[Counting Valleys]: https://www.hackerrank.com/challenges/counting-valleys/problem
