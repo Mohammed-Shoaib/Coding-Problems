@@ -26,6 +26,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0014]|[Drawing Book]|
 |[E0015]|[Counting Valleys]|
 |[E0016]|[Cats and a Mouse]|
+|[E0017]|[The Hurdle Race]|
 
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
@@ -74,3 +75,6 @@ The questions are divided into 3 levels of difficulty:
 
 [E0016]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0016.cpp
 [Cats and a Mouse]: https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+
+[E0017]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0017.cpp
+[The Hurdle Race]: https://www.hackerrank.com/challenges/the-hurdle-race/problem
