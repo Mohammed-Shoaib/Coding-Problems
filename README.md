@@ -32,6 +32,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0020]|[Angry Professor]|
 |[E0021]|[Beautiful Days at the Movies]|
 |[E0022]|[Save the Prisoner!]|
+|[E0023]|[Sherlock and Squares]|
 
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
@@ -98,3 +99,6 @@ The questions are divided into 3 levels of difficulty:
 
 [E0022]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0022.cpp
 [Save the Prisoner!]: https://www.hackerrank.com/challenges/save-the-prisoner/problem
+
+[E0023]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0023.cpp
+[Sherlock and Squares]: https://www.hackerrank.com/challenges/sherlock-and-squares/problem
