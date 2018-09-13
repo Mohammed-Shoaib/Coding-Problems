@@ -34,6 +34,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0022]|[Save the Prisoner!]|
 |[E0023]|[Sherlock and Squares]|
 |[E0024]|[Library Fine]|
+|[E0025]|[Circular Array Rotation]|
 
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
@@ -106,3 +107,6 @@ The questions are divided into 3 levels of difficulty:
 
 [E0024]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0024.cpp
 [Library Fine]: https://www.hackerrank.com/challenges/library-fine/problem
+
+[E0025]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0025.cpp
+[Circular Array Rotation]: https://www.hackerrank.com/challenges/circular-array-rotation/problem
