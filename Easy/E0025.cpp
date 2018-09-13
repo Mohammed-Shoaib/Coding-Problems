@@ -1,5 +1,5 @@
 /*
-Problem Statement: https://www.hackerrank.com/challenges/circular-array-rotation/problem#
+Problem Statement: https://www.hackerrank.com/challenges/circular-array-rotation/problem
 */
 
 #include <iostream>
