@@ -36,6 +36,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0024]|[Library Fine]|
 |[E0025]|[Circular Array Rotation]|
 |[E0026]|[Cut the sticks]|
+|[E0027]|[Repeated String]|
 
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
@@ -114,3 +115,6 @@ The questions are divided into 3 levels of difficulty:
 
 [E0026]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0026.cpp
 [Cut the sticks]: https://www.hackerrank.com/challenges/cut-the-sticks/problem
+
+[E0027]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0026.cpp
+[Repeated String]: https://www.hackerrank.com/challenges/repeated-string/problem
