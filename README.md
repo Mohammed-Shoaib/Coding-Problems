@@ -116,5 +116,5 @@ The questions are divided into 3 levels of difficulty:
 [E0026]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0026.cpp
 [Cut the sticks]: https://www.hackerrank.com/challenges/cut-the-sticks/problem
 
-[E0027]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0026.cpp
+[E0027]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0027.cpp
 [Repeated String]: https://www.hackerrank.com/challenges/repeated-string/problem
