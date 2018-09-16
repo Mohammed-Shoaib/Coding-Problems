@@ -37,6 +37,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0025]|[Circular Array Rotation]|
 |[E0026]|[Cut the sticks]|
 |[E0027]|[Repeated String]|
+|[E0028]|[Equalize the Array]|
 
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
@@ -118,3 +119,6 @@ The questions are divided into 3 levels of difficulty:
 
 [E0027]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0027.cpp
 [Repeated String]: https://www.hackerrank.com/challenges/repeated-string/problem
+
+[E0028]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0028.cpp
+[Equalize the Array]: https://www.hackerrank.com/challenges/equality-in-a-array/problem
