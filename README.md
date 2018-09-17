@@ -38,6 +38,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0026]|[Cut the sticks]|
 |[E0027]|[Repeated String]|
 |[E0028]|[Equalize the Array]|
+|[E0029]|[Taum and B'day]|
 
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
@@ -122,3 +123,6 @@ The questions are divided into 3 levels of difficulty:
 
 [E0028]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0028.cpp
 [Equalize the Array]: https://www.hackerrank.com/challenges/equality-in-a-array/problem
+
+[E0029]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0028.cpp
+[Taum and B'day]: https://www.hackerrank.com/challenges/taum-and-bday/problem
