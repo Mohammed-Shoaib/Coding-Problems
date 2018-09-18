@@ -125,8 +125,8 @@ The questions are divided into 3 levels of difficulty:
 [E0028]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0028.cpp
 [Equalize the Array]: https://www.hackerrank.com/challenges/equality-in-a-array/problem
 
-[E0029]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0028.cpp
+[E0029]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0029.cpp
 [Taum and B'day]: https://www.hackerrank.com/challenges/taum-and-bday/problem
 
-[E0030]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0028.cpp
+[E0030]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0030.cpp
 [Modified Kaprekar Numbers]: https://www.hackerrank.com/challenges/kaprekar-numbers/problem
