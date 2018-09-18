@@ -39,6 +39,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0027]|[Repeated String]|
 |[E0028]|[Equalize the Array]|
 |[E0029]|[Taum and B'day]|
+|[E0030]|[Modified Kaprekar Numbers]|
 
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
@@ -126,3 +127,6 @@ The questions are divided into 3 levels of difficulty:
 
 [E0029]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0028.cpp
 [Taum and B'day]: https://www.hackerrank.com/challenges/taum-and-bday/problem
+
+[E0030]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0028.cpp
+[Modified Kaprekar Numbers]: https://www.hackerrank.com/challenges/kaprekar-numbers/problem
