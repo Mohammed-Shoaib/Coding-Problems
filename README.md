@@ -41,6 +41,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0029]|[Taum and B'day]|
 |[E0030]|[Modified Kaprekar Numbers]|
 |[E0031]|[Find Digits]|
+|[E0032]|[Fair Rations]|
 
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
@@ -133,4 +134,7 @@ The questions are divided into 3 levels of difficulty:
 [Modified Kaprekar Numbers]: https://www.hackerrank.com/challenges/kaprekar-numbers/problem
 
 [E0031]: https://www.hackerrank.com/challenges/find-digits/problem
-[Find Digits]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0030.cpp
+[Find Digits]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0031.cpp
+
+[E0032]: https://www.hackerrank.com/challenges/fair-rations/problem
+[Fair Rations]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0032.cpp
