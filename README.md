@@ -42,6 +42,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0030]|[Modified Kaprekar Numbers]|
 |[E0031]|[Find Digits]|
 |[E0032]|[Fair Rations]|
+|[E0033.cpp]|[Jumping on the Clouds]|
 
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
@@ -138,3 +139,6 @@ The questions are divided into 3 levels of difficulty:
 
 [E0032]: https://www.hackerrank.com/challenges/fair-rations/problem
 [Fair Rations]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0032.cpp
+
+[E0033.cpp]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0033.cpp
+[Jumping on the Clouds]: https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
