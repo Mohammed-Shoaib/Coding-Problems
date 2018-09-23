@@ -44,6 +44,12 @@ The questions are divided into 3 levels of difficulty:
 |[E0032]|[Fair Rations]|
 |[E0033]|[Jumping on the Clouds]|
 
+## Medium
+
+|Problem Solution|Problem Statement|
+|:--------------:|-----------------|
+|[M0001]|[Climbing the Leaderboard]|
+
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
 
@@ -142,3 +148,6 @@ The questions are divided into 3 levels of difficulty:
 
 [E0033]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0033.cpp
 [Jumping on the Clouds]: https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
+
+[M0001]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0001.cpp
+[Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
