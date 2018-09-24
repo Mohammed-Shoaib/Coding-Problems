@@ -49,6 +49,7 @@ The questions are divided into 3 levels of difficulty:
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
 |[M0001]|[Climbing the Leaderboard]|
+|[M0002]|[The Coin Change Problem]|
 
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
@@ -151,3 +152,6 @@ The questions are divided into 3 levels of difficulty:
 
 [M0001]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0001.cpp
 [Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+
+[M0002]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0002.cpp
+[The Coin Change Problem]: https://www.hackerrank.com/challenges/coin-change/problem
