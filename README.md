@@ -51,6 +51,7 @@ The questions are divided into 3 levels of difficulty:
 |[M0001]|[Climbing the Leaderboard]|
 |[M0002]|[The Coin Change Problem]|
 |[M0003]|[Extra Long Factorials]|
+|[M0004]|[Encryption]|
 
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
@@ -162,4 +163,3 @@ The questions are divided into 3 levels of difficulty:
 
 [M0004]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0004.cpp
 [Encryption]: https://www.hackerrank.com/challenges/encryption/problem
-|[M0004]|[Encryption]|
