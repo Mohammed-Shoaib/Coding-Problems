@@ -159,3 +159,7 @@ The questions are divided into 3 levels of difficulty:
 
 [M0003]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0003.cpp
 [Extra Long Factorials]: https://www.hackerrank.com/challenges/extra-long-factorials/problem
+
+[M0004]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0004.cpp
+[Encryption]: https://www.hackerrank.com/challenges/encryption/problem
+|[M0004]|[Encryption]|
