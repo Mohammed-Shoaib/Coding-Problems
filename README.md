@@ -52,6 +52,7 @@ The questions are divided into 3 levels of difficulty:
 |[M0002]|[The Coin Change Problem]|
 |[M0003]|[Extra Long Factorials]|
 |[M0004]|[Encryption]|
+|[M0005]|[3D Surface Area]|
 
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
@@ -163,3 +164,6 @@ The questions are divided into 3 levels of difficulty:
 
 [M0004]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0004.cpp
 [Encryption]: https://www.hackerrank.com/challenges/encryption/problem
+
+[M0005]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0005.cpp
+[3D Surface Area]: https://www.hackerrank.com/challenges/3d-surface-area/problem
