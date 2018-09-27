@@ -43,6 +43,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0031]|[Find Digits]|
 |[E0032]|[Fair Rations]|
 |[E0033]|[Jumping on the Clouds]|
+|[E0034]|[Jumping on the Clouds: Revisited]|
 
 ## Medium
 
@@ -167,3 +168,6 @@ The questions are divided into 3 levels of difficulty:
 
 [M0005]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0005.cpp
 [3D Surface Area]: https://www.hackerrank.com/challenges/3d-surface-area/problem
+
+[E0034]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0034.cpp
+[Jumping on the Clouds: Revisited]: https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
