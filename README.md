@@ -54,6 +54,7 @@ The questions are divided into 3 levels of difficulty:
 |[M0003]|[Extra Long Factorials]|
 |[M0004]|[Encryption]|
 |[M0005]|[3D Surface Area]|
+|[M0006]|[Non-Divisible Subset]|
 
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
@@ -154,6 +155,9 @@ The questions are divided into 3 levels of difficulty:
 [E0033]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0033.cpp
 [Jumping on the Clouds]: https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
 
+[E0034]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0034.cpp
+[Jumping on the Clouds: Revisited]: https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
+
 [M0001]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0001.cpp
 [Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
 
@@ -169,5 +173,5 @@ The questions are divided into 3 levels of difficulty:
 [M0005]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0005.cpp
 [3D Surface Area]: https://www.hackerrank.com/challenges/3d-surface-area/problem
 
-[E0034]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0034.cpp
-[Jumping on the Clouds: Revisited]: https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
+[M0006]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0006.cpp
+[Non-Divisible Subset]: https://www.hackerrank.com/challenges/non-divisible-subset/problem
