@@ -44,6 +44,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0032]|[Fair Rations]|
 |[E0033]|[Jumping on the Clouds]|
 |[E0034]|[Jumping on the Clouds: Revisited]|
+|[E0035]|[Service Lane]|
 
 ## Medium
 
@@ -157,6 +158,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0034]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0034.cpp
 [Jumping on the Clouds: Revisited]: https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
+
+[E0035]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0035.cpp
+[Service Lane]: https://www.hackerrank.com/challenges/service-lane/problem
 
 [M0001]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0001.cpp
 [Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
