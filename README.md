@@ -179,3 +179,7 @@ The questions are divided into 3 levels of difficulty:
 
 [M0006]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0006.cpp
 [Non-Divisible Subset]: https://www.hackerrank.com/challenges/non-divisible-subset/problem
+
+[E0036]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0036.cpp
+[Migratory Birds]: https://www.hackerrank.com/challenges/migratory-birds/problem
+|[E0036]|[Migratory Birds]|
