@@ -45,6 +45,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0033]|[Jumping on the Clouds]|
 |[E0034]|[Jumping on the Clouds: Revisited]|
 |[E0035]|[Service Lane]|
+|[E0036]|[Migratory Birds]|
 
 ## Medium
 
@@ -162,6 +163,9 @@ The questions are divided into 3 levels of difficulty:
 [E0035]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0035.cpp
 [Service Lane]: https://www.hackerrank.com/challenges/service-lane/problem
 
+[E0036]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0036.cpp
+[Migratory Birds]: https://www.hackerrank.com/challenges/migratory-birds/problem
+
 [M0001]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0001.cpp
 [Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
 
@@ -179,7 +183,3 @@ The questions are divided into 3 levels of difficulty:
 
 [M0006]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0006.cpp
 [Non-Divisible Subset]: https://www.hackerrank.com/challenges/non-divisible-subset/problem
-
-[E0036]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0036.cpp
-[Migratory Birds]: https://www.hackerrank.com/challenges/migratory-birds/problem
-|[E0036]|[Migratory Birds]|
