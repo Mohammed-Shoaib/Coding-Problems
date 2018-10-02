@@ -46,6 +46,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0034]|[Jumping on the Clouds: Revisited]|
 |[E0035]|[Service Lane]|
 |[E0036]|[Migratory Birds]|
+|[E0037]|[Minimum Distances]|
 
 ## Medium
 
@@ -165,6 +166,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0036]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0036.cpp
 [Migratory Birds]: https://www.hackerrank.com/challenges/migratory-birds/problem
+
+[E0037]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0037.cpp
+[Minimum Distances]: https://www.hackerrank.com/challenges/minimum-distances/problem
 
 [M0001]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0001.cpp
 [Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
