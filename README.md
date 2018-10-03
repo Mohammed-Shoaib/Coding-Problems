@@ -47,6 +47,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0035]|[Service Lane]|
 |[E0036]|[Migratory Birds]|
 |[E0037]|[Minimum Distances]|
+|[E0038]|[Pangrams]|
 
 ## Medium
 
@@ -169,6 +170,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0037]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0037.cpp
 [Minimum Distances]: https://www.hackerrank.com/challenges/minimum-distances/problem
+
+[E0038]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0038.cpp
+[Pangrams]: https://www.hackerrank.com/challenges/pangrams/problem
 
 [M0001]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0001.cpp
 [Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
