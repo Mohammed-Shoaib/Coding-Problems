@@ -191,3 +191,7 @@ The questions are divided into 3 levels of difficulty:
 
 [M0006]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0006.cpp
 [Non-Divisible Subset]: https://www.hackerrank.com/challenges/non-divisible-subset/problem
+
+[E0039]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0039.cpp
+[Lisa's Workbook]: https://www.hackerrank.com/challenges/lisa-workbook/problem
+|[E0039]|[Lisa's Workbook]|
