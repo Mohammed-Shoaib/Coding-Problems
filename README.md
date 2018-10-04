@@ -48,6 +48,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0036]|[Migratory Birds]|
 |[E0037]|[Minimum Distances]|
 |[E0038]|[Pangrams]|
+|[E0039]|[Lisa's Workbook]|
 
 ## Medium
 
@@ -174,6 +175,9 @@ The questions are divided into 3 levels of difficulty:
 [E0038]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0038.cpp
 [Pangrams]: https://www.hackerrank.com/challenges/pangrams/problem
 
+[E0039]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0039.cpp
+[Lisa's Workbook]: https://www.hackerrank.com/challenges/lisa-workbook/problem
+
 [M0001]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0001.cpp
 [Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
 
@@ -191,7 +195,3 @@ The questions are divided into 3 levels of difficulty:
 
 [M0006]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0006.cpp
 [Non-Divisible Subset]: https://www.hackerrank.com/challenges/non-divisible-subset/problem
-
-[E0039]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0039.cpp
-[Lisa's Workbook]: https://www.hackerrank.com/challenges/lisa-workbook/problem
-|[E0039]|[Lisa's Workbook]|
