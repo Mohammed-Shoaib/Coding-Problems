@@ -49,6 +49,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0037]|[Minimum Distances]|
 |[E0038]|[Pangrams]|
 |[E0039]|[Lisa's Workbook]|
+|[E0040]|[Cavity Map]|
 
 ## Medium
 
@@ -177,6 +178,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0039]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0039.cpp
 [Lisa's Workbook]: https://www.hackerrank.com/challenges/lisa-workbook/problem
+
+[E0040]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0040.cpp
+[Cavity Map]: https://www.hackerrank.com/challenges/cavity-map/problem
 
 [M0001]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0001.cpp
 [Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
