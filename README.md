@@ -50,6 +50,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0038]|[Pangrams]|
 |[E0039]|[Lisa's Workbook]|
 |[E0040]|[Cavity Map]|
+|[E0041]|[Manasa and Stones]|
 
 ## Medium
 
@@ -181,6 +182,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0040]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0040.cpp
 [Cavity Map]: https://www.hackerrank.com/challenges/cavity-map/problem
+
+[E0041]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0041.cpp
+[Manasa and Stones]: https://www.hackerrank.com/challenges/manasa-and-stones/problem
 
 [M0001]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0001.cpp
 [Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
