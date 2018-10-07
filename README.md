@@ -51,6 +51,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0039]|[Lisa's Workbook]|
 |[E0040]|[Cavity Map]|
 |[E0041]|[Manasa and Stones]|
+|[E0042]|[Flatland Space Stations]|
 
 ## Medium
 
@@ -185,6 +186,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0041]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0041.cpp
 [Manasa and Stones]: https://www.hackerrank.com/challenges/manasa-and-stones/problem
+
+[E0042]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0042.cpp
+[Flatland Space Stations]: https://www.hackerrank.com/challenges/flatland-space-stations/problem
 
 [M0001]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0001.cpp
 [Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
