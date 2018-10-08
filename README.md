@@ -52,6 +52,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0040]|[Cavity Map]|
 |[E0041]|[Manasa and Stones]|
 |[E0042]|[Flatland Space Stations]|
+|[E0043]|[Sequence Equation]|
 
 ## Medium
 
@@ -189,6 +190,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0042]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0042.cpp
 [Flatland Space Stations]: https://www.hackerrank.com/challenges/flatland-space-stations/problem
+
+[E0043]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0043.cpp
+[Sequence Equation]: https://www.hackerrank.com/challenges/permutation-equation/problem
 
 [M0001]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0001.cpp
 [Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
