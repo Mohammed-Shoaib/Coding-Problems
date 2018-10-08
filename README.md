@@ -53,6 +53,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0041]|[Manasa and Stones]|
 |[E0042]|[Flatland Space Stations]|
 |[E0043]|[Sequence Equation]|
+|[E0044]|[Mars Exploration]|
 
 ## Medium
 
@@ -193,6 +194,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0043]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0043.cpp
 [Sequence Equation]: https://www.hackerrank.com/challenges/permutation-equation/problem
+
+[E0044]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0044.cpp
+[Mars Exploration]: https://www.hackerrank.com/challenges/mars-exploration/problem
 
 [M0001]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0001.cpp
 [Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
