@@ -54,6 +54,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0042]|[Flatland Space Stations]|
 |[E0043]|[Sequence Equation]|
 |[E0044]|[Mars Exploration]|
+|[E0045]|[Happy Ladybugs]|
 
 ## Medium
 
@@ -197,6 +198,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0044]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0044.cpp
 [Mars Exploration]: https://www.hackerrank.com/challenges/mars-exploration/problem
+
+[E0045]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0045.cpp
+[Happy Ladybugs]: https://www.hackerrank.com/challenges/happy-ladybugs/problem
 
 [M0001]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0001.cpp
 [Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
