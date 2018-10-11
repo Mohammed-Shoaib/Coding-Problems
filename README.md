@@ -55,6 +55,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0043]|[Sequence Equation]|
 |[E0044]|[Mars Exploration]|
 |[E0045]|[Happy Ladybugs]|
+|[E0046]|[Sock Merchant]|
 
 ## Medium
 
@@ -201,6 +202,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0045]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0045.cpp
 [Happy Ladybugs]: https://www.hackerrank.com/challenges/happy-ladybugs/problem
+
+[E0046]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0046.cpp
+[Sock Merchant]: https://www.hackerrank.com/challenges/sock-merchant/problem
 
 [M0001]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0001.cpp
 [Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
