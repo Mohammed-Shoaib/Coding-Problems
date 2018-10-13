@@ -57,6 +57,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0045]|[Happy Ladybugs]|
 |[E0046]|[Sock Merchant]|
 |[E0047]|[Electronics Shop]|
+|[E0048]|[HackerRank in a String!]|
 
 ## Medium
 
@@ -209,6 +210,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0047]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0047.cpp
 [Electronics Shop]: https://www.hackerrank.com/challenges/electronics-shop/problem
+
+[E0048]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0048.cpp
+[HackerRank in a String!]: https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem
 
 [M0001]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0001.cpp
 [Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
