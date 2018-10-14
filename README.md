@@ -69,6 +69,7 @@ The questions are divided into 3 levels of difficulty:
 |[M0004]|[Encryption]|
 |[M0005]|[3D Surface Area]|
 |[M0006]|[Non-Divisible Subset]|
+|[M0007]|[The Time in Words]|
 
 ## Hard
 
@@ -241,6 +242,9 @@ The questions are divided into 3 levels of difficulty:
 
 [M0006]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0006.cpp
 [Non-Divisible Subset]: https://www.hackerrank.com/challenges/non-divisible-subset/problem
+
+[M0007]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0007.cpp
+[The Time in Words]: https://www.hackerrank.com/challenges/the-time-in-words/problem
 
 [//]: # (Hard)
 
