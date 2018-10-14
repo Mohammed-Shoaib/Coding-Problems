@@ -70,6 +70,14 @@ The questions are divided into 3 levels of difficulty:
 |[M0005]|[3D Surface Area]|
 |[M0006]|[Non-Divisible Subset]|
 
+## Hard
+
+|Problem Solution|Problem Statement|
+|:--------------:|-----------------|
+|[H0001]|[Matrix Layer Rotation]|
+
+[//]: # (Easy)
+
 [E0001]: https://github.com/Mohammed-Shoaib/Hackerrank-Problems/blob/master/Easy/E0001.cpp
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
 
@@ -214,6 +222,8 @@ The questions are divided into 3 levels of difficulty:
 [E0048]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0048.cpp
 [HackerRank in a String!]: https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem
 
+[//]: # (Medium)
+
 [M0001]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0001.cpp
 [Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
 
@@ -231,3 +241,8 @@ The questions are divided into 3 levels of difficulty:
 
 [M0006]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0006.cpp
 [Non-Divisible Subset]: https://www.hackerrank.com/challenges/non-divisible-subset/problem
+
+[//]: # (Hard)
+
+[H0001]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Hard/H0001.cpp
+[Matrix Layer Rotation]: https://www.hackerrank.com/challenges/matrix-rotation-algo/problem
