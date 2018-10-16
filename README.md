@@ -58,6 +58,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0046]|[Sock Merchant]|
 |[E0047]|[Electronics Shop]|
 |[E0048]|[HackerRank in a String!]|
+|[E0049]|[Funny String]|
 
 ## Medium
 
@@ -222,6 +223,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0048]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0048.cpp
 [HackerRank in a String!]: https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem
+
+[E0049]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0049.cpp
+[Funny String]: https://www.hackerrank.com/challenges/funny-string/problem
 
 [//]: # (Medium)
 
