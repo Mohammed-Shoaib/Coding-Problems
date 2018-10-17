@@ -71,6 +71,7 @@ The questions are divided into 3 levels of difficulty:
 |[M0005]|[3D Surface Area]|
 |[M0006]|[Non-Divisible Subset]|
 |[M0007]|[The Time in Words]|
+|[M0008]|[The Grid Search]|
 
 ## Hard
 
@@ -249,6 +250,9 @@ The questions are divided into 3 levels of difficulty:
 
 [M0007]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0007.cpp
 [The Time in Words]: https://www.hackerrank.com/challenges/the-time-in-words/problem
+
+[M0008]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0008.cpp
+[The Grid Search]: https://www.hackerrank.com/challenges/the-grid-search/problem
 
 [//]: # (Hard)
 
