@@ -59,6 +59,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0047]|[Electronics Shop]|
 |[E0048]|[HackerRank in a String!]|
 |[E0049]|[Funny String]|
+|[E0050]|[Alternating Characters]|
 
 ## Medium
 
@@ -227,6 +228,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0049]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0049.cpp
 [Funny String]: https://www.hackerrank.com/challenges/funny-string/problem
+
+[E0050]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Easy/E0050.cpp
+[Alternating Characters]: https://www.hackerrank.com/challenges/alternating-characters/problem
 
 [//]: # (Medium)
 
