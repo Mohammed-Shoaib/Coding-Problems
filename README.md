@@ -73,6 +73,7 @@ The questions are divided into 3 levels of difficulty:
 |[M0006]|[Non-Divisible Subset]|
 |[M0007]|[The Time in Words]|
 |[M0008]|[The Grid Search]|
+|[M0009]|[Absolute Permutation]|
 
 ## Hard
 
@@ -257,6 +258,9 @@ The questions are divided into 3 levels of difficulty:
 
 [M0008]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0008.cpp
 [The Grid Search]: https://www.hackerrank.com/challenges/the-grid-search/problem
+
+[M0009]: https://github.com/Mohammed-Shoaib/HackerRank-Problems/blob/master/Medium/M0009.cpp
+[Absolute Permutation]: https://www.hackerrank.com/challenges/absolute-permutation/problem
 
 [//]: # (Hard)
 
