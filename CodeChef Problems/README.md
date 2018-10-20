@@ -1,0 +1,35 @@
+# CodeChef Problems
+Solutions to some of the questions on the CodeChef [website](https://www.codechef.com "CodeChef").
+
+The questions are divided into 6 levels of difficulty:
+* Beginner
+* Easy
+* Medium
+* Hard
+* Challenge
+* Peer
+
+## Beginner
+
+|Problem Solution|Problem Statement|
+|:--------------:|-----------------|
+|[B0001]|[ATM]|
+
+## Easy
+
+|Problem Solution|Problem Statement|
+|:--------------:|-----------------|
+
+## Medium
+
+|Problem Solution|Problem Statement|
+|:--------------:|-----------------|
+
+[//]: # (Beginner)
+
+[B0001]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0001.cpp
+[ATM]: https://www.codechef.com/problems/HS08TEST
+
+[//]: # (Easy)
+
+[//]: # (Medium)
