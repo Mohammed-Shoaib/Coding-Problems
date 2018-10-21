@@ -25,6 +25,7 @@ The questions are divided into 6 levels of difficulty:
 
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
+|[M0001]|[504 Gateway Time-out]|
 
 [//]: # (Beginner)
 
@@ -37,3 +38,6 @@ The questions are divided into 6 levels of difficulty:
 [Life, the Universe, and Everything]: https://www.codechef.com/problems/TEST
 
 [//]: # (Medium)
+
+[M0001]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Medium/M0001.cpp
+[504 Gateway Time-out]: https://www.codechef.com/problems/COINS
