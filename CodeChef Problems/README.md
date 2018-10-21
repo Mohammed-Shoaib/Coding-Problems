@@ -19,6 +19,7 @@ The questions are divided into 6 levels of difficulty:
 
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
+|[E0001]|[Life, the Universe, and Everything]|
 
 ## Medium
 
@@ -31,5 +32,8 @@ The questions are divided into 6 levels of difficulty:
 [ATM]: https://www.codechef.com/problems/HS08TEST
 
 [//]: # (Easy)
+
+[E0001]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0001.cpp
+[Life, the Universe, and Everything]: https://www.codechef.com/problems/TEST
 
 [//]: # (Medium)
