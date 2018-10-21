@@ -25,7 +25,7 @@ The questions are divided into 6 levels of difficulty:
 
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
-|[M0001]|[504 Gateway Time-out]|
+|[M0001]|[Bytelandian gold coins]|
 
 [//]: # (Beginner)
 
@@ -40,4 +40,4 @@ The questions are divided into 6 levels of difficulty:
 [//]: # (Medium)
 
 [M0001]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Medium/M0001.cpp
-[504 Gateway Time-out]: https://www.codechef.com/problems/COINS
+[Bytelandian gold coins]: https://www.codechef.com/problems/COINS
