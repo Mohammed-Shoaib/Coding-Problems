@@ -74,6 +74,7 @@ The questions are divided into 3 levels of difficulty:
 |[M0007]|[The Time in Words]|
 |[M0008]|[The Grid Search]|
 |[M0009]|[Absolute Permutation]|
+|[M0010]|[Larry's Array]|
 
 ## Hard
 
@@ -261,6 +262,9 @@ The questions are divided into 3 levels of difficulty:
 
 [M0009]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Medium/M0009.cpp
 [Absolute Permutation]: https://www.hackerrank.com/challenges/absolute-permutation/problem
+
+[M0010]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Medium/M0010.cpp
+[Larry's Array]: https://www.hackerrank.com/challenges/larrys-array/problem
 
 [//]: # (Hard)
 
