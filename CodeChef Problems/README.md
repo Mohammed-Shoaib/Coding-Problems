@@ -14,6 +14,7 @@ The questions are divided into 6 levels of difficulty:
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
 |[B0001]|[ATM]|
+|[B0002]|[Enormous Input Test]|
 
 ## Easy
 
@@ -31,6 +32,9 @@ The questions are divided into 6 levels of difficulty:
 
 [B0001]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0001.cpp
 [ATM]: https://www.codechef.com/problems/HS08TEST
+
+[B0002]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0002.cpp
+[Enormous Input Test]: https://www.codechef.com/problems/INTEST
 
 [//]: # (Easy)
 
