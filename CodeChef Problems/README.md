@@ -16,6 +16,7 @@ The questions are divided into 6 levels of difficulty:
 |[B0001]|[ATM]|
 |[B0002]|[Enormous Input Test]|
 |[B0003]|[Small factorials]|
+|[B0004]|[Add Two Numbers]|
 
 ## Easy
 
@@ -39,6 +40,9 @@ The questions are divided into 6 levels of difficulty:
 
 [B0003]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0003.cpp
 [Small factorials]: https://www.codechef.com/problems/FCTRL2
+
+[B0004]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0004.cpp
+[Add Two Numbers]: https://www.codechef.com/problems/FLOW001
 
 [//]: # (Easy)
 
