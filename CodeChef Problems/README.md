@@ -23,6 +23,7 @@ The questions are divided into 6 levels of difficulty:
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
 |[E0001]|[Life, the Universe, and Everything]|
+|[E0002]|[Factorial]|
 
 ## Medium
 
@@ -48,6 +49,9 @@ The questions are divided into 6 levels of difficulty:
 
 [E0001]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0001.cpp
 [Life, the Universe, and Everything]: https://www.codechef.com/problems/TEST
+
+[E0002]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0002.cpp
+[Factorial]: https://www.codechef.com/problems/FCTRL
 
 [//]: # (Medium)
 
