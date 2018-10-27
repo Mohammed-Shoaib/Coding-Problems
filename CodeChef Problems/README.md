@@ -24,6 +24,7 @@ The questions are divided into 6 levels of difficulty:
 |:--------------:|-----------------|
 |[E0001]|[Life, the Universe, and Everything]|
 |[E0002]|[Factorial]|
+|[E0003]|[Ciel and A-B Problem]|
 
 ## Medium
 
@@ -52,6 +53,9 @@ The questions are divided into 6 levels of difficulty:
 
 [E0002]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0002.cpp
 [Factorial]: https://www.codechef.com/problems/FCTRL
+
+[E0003]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0003.cpp
+[Ciel and A-B Problem]: https://www.codechef.com/problems/CIELAB
 
 [//]: # (Medium)
 
