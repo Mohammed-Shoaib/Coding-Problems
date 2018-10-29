@@ -26,6 +26,7 @@ The questions are divided into 6 levels of difficulty:
 |[E0002]|[Factorial]|
 |[E0003]|[Ciel and A-B Problem]|
 |[E0004]|[Racing Horses]|
+|[E0005]|[Cleaning Up]|
 
 ## Medium
 
@@ -60,6 +61,9 @@ The questions are divided into 6 levels of difficulty:
 
 [E0004]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0004.cpp
 [Racing Horses]: https://www.codechef.com/problems/HORSES
+
+[E0005]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0005.cpp
+[Cleaning Up]: https://www.codechef.com/problems/CLEANUP
 
 [//]: # (Medium)
 
