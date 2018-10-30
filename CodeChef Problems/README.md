@@ -27,6 +27,7 @@ The questions are divided into 6 levels of difficulty:
 |[E0003]|[Ciel and A-B Problem]|
 |[E0004]|[Racing Horses]|
 |[E0005]|[Cleaning Up]|
+|[E0006]|[Uncle Johny]|
 
 ## Medium
 
@@ -64,6 +65,9 @@ The questions are divided into 6 levels of difficulty:
 
 [E0005]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0005.cpp
 [Cleaning Up]: https://www.codechef.com/problems/CLEANUP
+
+[E0006]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0006.cpp
+[Uncle Johny]: https://www.codechef.com/problems/JOHNY
 
 [//]: # (Medium)
 
