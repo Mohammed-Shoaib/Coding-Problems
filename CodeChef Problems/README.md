@@ -22,6 +22,7 @@ The questions are divided into 6 levels of difficulty:
 |[B0007]|[Sum of Digits]|
 |[B0008]|[The Lead Game]|
 |[B0009]|[Find Remainder]|
+|[B0010]|[Number Mirror]|
 
 ## Easy
 
@@ -70,6 +71,9 @@ The questions are divided into 6 levels of difficulty:
 
 [B0009]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0009.cpp
 [Find Remainder]: https://www.codechef.com/problems/FLOW002
+
+[B0010]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0010.cpp
+[Number Mirror]: https://www.codechef.com/problems/START01
 
 [//]: # (Easy)
 
