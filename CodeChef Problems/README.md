@@ -17,6 +17,7 @@ The questions are divided into 6 levels of difficulty:
 |[B0002]|[Enormous Input Test]|
 |[B0003]|[Small factorials]|
 |[B0004]|[Add Two Numbers]|
+|[B0005]|[The Block Game]|
 
 ## Easy
 
@@ -50,6 +51,9 @@ The questions are divided into 6 levels of difficulty:
 
 [B0004]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0004.cpp
 [Add Two Numbers]: https://www.codechef.com/problems/FLOW001
+
+[B0005]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0005.cpp
+[The Block Game]: https://www.codechef.com/problems/PALL01
 
 [//]: # (Easy)
 
