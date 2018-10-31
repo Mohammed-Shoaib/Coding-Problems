@@ -18,6 +18,7 @@ The questions are divided into 6 levels of difficulty:
 |[B0003]|[Small factorials]|
 |[B0004]|[Add Two Numbers]|
 |[B0005]|[The Block Game]|
+|[B0006]|[Turbo Sort]|
 
 ## Easy
 
@@ -54,6 +55,9 @@ The questions are divided into 6 levels of difficulty:
 
 [B0005]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0005.cpp
 [The Block Game]: https://www.codechef.com/problems/PALL01
+
+[B0006]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0006.cpp
+[Turbo Sort]: https://www.codechef.com/problems/TSORT
 
 [//]: # (Easy)
 
