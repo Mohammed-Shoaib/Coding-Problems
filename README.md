@@ -18,6 +18,6 @@ Solutions to some of the coding problems from popular websites. Currently, there
 
 |Type|Solved|
 |:-----:|:-----:|
-|Beginner|7|
+|Beginner|8|
 |Easy|8|
 |Medium|1|

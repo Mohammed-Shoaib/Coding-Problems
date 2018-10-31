@@ -20,6 +20,7 @@ The questions are divided into 6 levels of difficulty:
 |[B0005]|[The Block Game]|
 |[B0006]|[Turbo Sort]|
 |[B0007]|[Sum of Digits]|
+|[B0008]|[The Lead Game]|
 
 ## Easy
 
@@ -62,6 +63,9 @@ The questions are divided into 6 levels of difficulty:
 
 [B0007]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0007.cpp
 [Sum of Digits]: https://www.codechef.com/problems/FLOW006
+
+[B0008]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0008.cpp
+[The Lead Game]: https://www.codechef.com/problems/TLG
 
 [//]: # (Easy)
 
