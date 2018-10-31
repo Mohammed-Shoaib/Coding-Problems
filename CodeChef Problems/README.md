@@ -28,6 +28,7 @@ The questions are divided into 6 levels of difficulty:
 |[E0004]|[Racing Horses]|
 |[E0005]|[Cleaning Up]|
 |[E0006]|[Uncle Johny]|
+|[E0007]|[Coin Flip]|
 
 ## Medium
 
@@ -68,6 +69,9 @@ The questions are divided into 6 levels of difficulty:
 
 [E0006]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0006.cpp
 [Uncle Johny]: https://www.codechef.com/problems/JOHNY
+
+[E0007]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0007.cpp
+[Coin Flip]: https://www.codechef.com/problems/CONFLIP
 
 [//]: # (Medium)
 
