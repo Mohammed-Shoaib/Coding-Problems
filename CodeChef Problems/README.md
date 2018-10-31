@@ -19,6 +19,7 @@ The questions are divided into 6 levels of difficulty:
 |[B0004]|[Add Two Numbers]|
 |[B0005]|[The Block Game]|
 |[B0006]|[Turbo Sort]|
+|[B0007]|[Sum of Digits]|
 
 ## Easy
 
@@ -58,6 +59,9 @@ The questions are divided into 6 levels of difficulty:
 
 [B0006]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0006.cpp
 [Turbo Sort]: https://www.codechef.com/problems/TSORT
+
+[B0007]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0007.cpp
+[Sum of Digits]: https://www.codechef.com/problems/FLOW006
 
 [//]: # (Easy)
 
