@@ -21,6 +21,7 @@ The questions are divided into 6 levels of difficulty:
 |[B0006]|[Turbo Sort]|
 |[B0007]|[Sum of Digits]|
 |[B0008]|[The Lead Game]|
+|[B0009]|[Find Remainder]|
 
 ## Easy
 
@@ -66,6 +67,9 @@ The questions are divided into 6 levels of difficulty:
 
 [B0008]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0008.cpp
 [The Lead Game]: https://www.codechef.com/problems/TLG
+
+[B0009]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0009.cpp
+[Find Remainder]: https://www.codechef.com/problems/FLOW002
 
 [//]: # (Easy)
 
