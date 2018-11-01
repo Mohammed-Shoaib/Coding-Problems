@@ -23,6 +23,7 @@ The questions are divided into 6 levels of difficulty:
 |[B0008]|[The Lead Game]|
 |[B0009]|[Find Remainder]|
 |[B0010]|[Number Mirror]|
+|[B0011]|[Lucky Four]|
 
 ## Easy
 
@@ -75,6 +76,9 @@ The questions are divided into 6 levels of difficulty:
 
 [B0010]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0010.cpp
 [Number Mirror]: https://www.codechef.com/problems/START01
+
+[B0011]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0011.cpp
+[Lucky Four]: https://www.codechef.com/problems/LUCKFOUR
 
 [//]: # (Easy)
 
