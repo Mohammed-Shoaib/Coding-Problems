@@ -28,6 +28,7 @@ The questions are divided into 6 levels of difficulty:
 |[B0013]|[Reverse The Number]|
 |[B0014]|[Ciel and Receipt]|
 |[B0015]|[Finding Square Roots]|
+|[B0016]|[Chef and Remissness]|
 
 ## Easy
 
@@ -96,6 +97,9 @@ The questions are divided into 6 levels of difficulty:
 
 [B0015]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0015.cpp
 [Finding Square Roots]: https://www.codechef.com/problems/FSQRT
+
+[B0016]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0016.cpp
+[Chef and Remissness]: https://www.codechef.com/problems/REMISS
 
 [//]: # (Easy)
 
