@@ -24,6 +24,7 @@ The questions are divided into 6 levels of difficulty:
 |[B0009]|[Find Remainder]|
 |[B0010]|[Number Mirror]|
 |[B0011]|[Lucky Four]|
+|[B0012]|[First and Last Digit]|
 
 ## Easy
 
@@ -79,6 +80,9 @@ The questions are divided into 6 levels of difficulty:
 
 [B0011]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0011.cpp
 [Lucky Four]: https://www.codechef.com/problems/LUCKFOUR
+
+[B0012]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0012.cpp
+[First and Last Digit]: https://www.codechef.com/problems/FLOW004
 
 [//]: # (Easy)
 
