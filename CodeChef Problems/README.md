@@ -31,6 +31,7 @@ The questions are divided into 6 levels of difficulty:
 |[B0016]|[Chef and Remissness]|
 |[B0017]|[Second Largest]|
 |[B0018]|[Ambiguous Permutations]|
+|[B0019]|[Small Factorial]|
 
 ## Easy
 
@@ -108,6 +109,9 @@ The questions are divided into 6 levels of difficulty:
 
 [B0018]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0018.cpp
 [Ambiguous Permutations]: https://www.codechef.com/problems/PERMUT2
+
+[B0019]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0019.cpp
+[Small Factorial]: https://www.codechef.com/problems/FLOW018
 
 [//]: # (Easy)
 
