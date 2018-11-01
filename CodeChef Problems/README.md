@@ -30,6 +30,7 @@ The questions are divided into 6 levels of difficulty:
 |[B0015]|[Finding Square Roots]|
 |[B0016]|[Chef and Remissness]|
 |[B0017]|[Second Largest]|
+|[B0018]|[Ambiguous Permutations]|
 
 ## Easy
 
@@ -104,6 +105,9 @@ The questions are divided into 6 levels of difficulty:
 
 [B0017]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0017.cpp
 [Second Largest]: https://www.codechef.com/problems/FLOW017
+
+[B0018]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0018.cpp
+[Ambiguous Permutations]: https://www.codechef.com/problems/PERMUT2
 
 [//]: # (Easy)
 
