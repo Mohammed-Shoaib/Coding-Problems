@@ -25,6 +25,7 @@ The questions are divided into 6 levels of difficulty:
 |[B0010]|[Number Mirror]|
 |[B0011]|[Lucky Four]|
 |[B0012]|[First and Last Digit]|
+|[B0013]|[Reverse The Number]|
 
 ## Easy
 
@@ -83,6 +84,9 @@ The questions are divided into 6 levels of difficulty:
 
 [B0012]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0012.cpp
 [First and Last Digit]: https://www.codechef.com/problems/FLOW004
+
+[B0013]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0013.cpp
+[Reverse The Number]: https://www.codechef.com/problems/FLOW007
 
 [//]: # (Easy)
 
