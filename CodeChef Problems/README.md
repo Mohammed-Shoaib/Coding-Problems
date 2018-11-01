@@ -42,6 +42,7 @@ The questions are divided into 6 levels of difficulty:
 |[E0007]|[Coin Flip]|
 |[E0008]|[Paying up]|
 |[E0009]|[Name Reduction]|
+|[E0010]|[Internet Media Types]|
 
 ## Medium
 
@@ -124,6 +125,9 @@ The questions are divided into 6 levels of difficulty:
 
 [E0009]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0009.cpp
 [Name Reduction]: https://www.codechef.com/problems/NAME1
+
+[E0010]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0010.cpp
+[Internet Media Types]: https://www.codechef.com/problems/MIME2
 
 [//]: # (Medium)
 
