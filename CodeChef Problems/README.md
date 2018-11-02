@@ -33,6 +33,7 @@ The questions are divided into 6 levels of difficulty:
 |[B0018]|[Ambiguous Permutations]|
 |[B0019]|[Small Factorial]|
 |[B0020]|[Servant]|
+|[B0021]|[Cutting Recipes]|
 
 ## Easy
 
@@ -117,6 +118,9 @@ The questions are divided into 6 levels of difficulty:
 
 [B0020]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0020.cpp
 [Servant]: https://www.codechef.com/problems/FLOW008
+
+[B0021]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0021.cpp
+[Cutting Recipes]: https://www.codechef.com/problems/RECIPE
 
 [//]: # (Easy)
 
