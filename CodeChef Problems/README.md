@@ -35,6 +35,7 @@ The questions are divided into 6 levels of difficulty:
 |[B0020]|[Servant]|
 |[B0021]|[Cutting Recipes]|
 |[B0022]|[Smallest Numbers of Notes]|
+|[B0023]|[Valid Triangles]|
 
 ## Easy
 
@@ -125,6 +126,9 @@ The questions are divided into 6 levels of difficulty:
 
 [B0022]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0022.cpp
 [Smallest Numbers of Notes]: https://www.codechef.com/problems/FLOW005
+
+[B0023]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0023.cpp
+[Valid Triangles]: https://www.codechef.com/problems/FLOW013
 
 [//]: # (Easy)
 
