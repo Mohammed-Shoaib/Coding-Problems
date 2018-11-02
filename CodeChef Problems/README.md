@@ -37,6 +37,7 @@ The questions are divided into 6 levels of difficulty:
 |[B0022]|[Smallest Numbers of Notes]|
 |[B0023]|[Valid Triangles]|
 |[B0024]|[Chef And Operators]|
+|[B0025]|[Primality Test]|
 
 ## Easy
 
@@ -133,6 +134,9 @@ The questions are divided into 6 levels of difficulty:
 
 [B0024]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0024.cpp
 [Chef And Operators]: https://www.codechef.com/problems/CHOPRT
+
+[B0025]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0025.cpp
+[Primality Test]: https://www.codechef.com/problems/PRB01
 
 [//]: # (Easy)
 
