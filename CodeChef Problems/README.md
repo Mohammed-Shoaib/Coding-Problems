@@ -34,6 +34,7 @@ The questions are divided into 6 levels of difficulty:
 |[B0019]|[Small Factorial]|
 |[B0020]|[Servant]|
 |[B0021]|[Cutting Recipes]|
+|[B0022]|[Smallest Numbers of Notes]|
 
 ## Easy
 
@@ -121,6 +122,9 @@ The questions are divided into 6 levels of difficulty:
 
 [B0021]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0021.cpp
 [Cutting Recipes]: https://www.codechef.com/problems/RECIPE
+
+[B0022]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0022.cpp
+[Smallest Numbers of Notes]: https://www.codechef.com/problems/FLOW005
 
 [//]: # (Easy)
 
