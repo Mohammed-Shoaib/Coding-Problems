@@ -48,6 +48,7 @@ The questions are divided into 6 levels of difficulty:
 |[E0008]|[Paying up]|
 |[E0009]|[Name Reduction]|
 |[E0010]|[Internet Media Types]|
+|[E0011]|[Nuclear Reactors]|
 
 ## Medium
 
@@ -148,6 +149,9 @@ The questions are divided into 6 levels of difficulty:
 
 [E0010]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0010.cpp
 [Internet Media Types]: https://www.codechef.com/problems/MIME2
+
+[E0011]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0011.cpp
+[Nuclear Reactors]: https://www.codechef.com/problems/NUKES
 
 [//]: # (Medium)
 
