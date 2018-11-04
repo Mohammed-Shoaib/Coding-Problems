@@ -54,6 +54,7 @@ The questions are divided into 6 levels of difficulty:
 |[E0009]|[Name Reduction]|
 |[E0010]|[Internet Media Types]|
 |[E0011]|[Nuclear Reactors]|
+|[E0012]|[Carvans]|
 
 ## Medium
 
@@ -172,6 +173,9 @@ The questions are divided into 6 levels of difficulty:
 
 [E0011]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0011.cpp
 [Nuclear Reactors]: https://www.codechef.com/problems/NUKES
+
+[E0012]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0012.cpp
+[Carvans]: https://www.codechef.com/problems/CARVANS
 
 [//]: # (Medium)
 
