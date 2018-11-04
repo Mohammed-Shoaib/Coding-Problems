@@ -55,6 +55,7 @@ The questions are divided into 6 levels of difficulty:
 |[E0010]|[Internet Media Types]|
 |[E0011]|[Nuclear Reactors]|
 |[E0012]|[Carvans]|
+|[E0013]|[Buying Sweets]|
 
 ## Medium
 
@@ -176,6 +177,9 @@ The questions are divided into 6 levels of difficulty:
 
 [E0012]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0012.cpp
 [Carvans]: https://www.codechef.com/problems/CARVANS
+
+[E0013]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0013.cpp
+[Buying Sweets]: https://www.codechef.com/problems/BUYING2
 
 [//]: # (Medium)
 
