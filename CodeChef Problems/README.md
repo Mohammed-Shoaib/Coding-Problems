@@ -57,6 +57,7 @@ The questions are divided into 6 levels of difficulty:
 |[E0012]|[Carvans]|
 |[E0013]|[Buying Sweets]|
 |[E0014]|[Jewels and Stones]|
+|[E0015]|[Chef and Feedback]|
 
 ## Medium
 
@@ -184,6 +185,9 @@ The questions are divided into 6 levels of difficulty:
 
 [E0014]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0014.cpp
 [Jewels and Stones]: https://www.codechef.com/problems/STONES
+
+[E0015]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0015.cpp
+[Chef and Feedback]: https://www.codechef.com/problems/ERROR
 
 [//]: # (Medium)
 
