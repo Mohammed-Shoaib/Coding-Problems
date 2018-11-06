@@ -56,6 +56,7 @@ The questions are divided into 6 levels of difficulty:
 |[E0011]|[Nuclear Reactors]|
 |[E0012]|[Carvans]|
 |[E0013]|[Buying Sweets]|
+|[E0014]|[Jewels and Stones]|
 
 ## Medium
 
@@ -180,6 +181,9 @@ The questions are divided into 6 levels of difficulty:
 
 [E0013]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0013.cpp
 [Buying Sweets]: https://www.codechef.com/problems/BUYING2
+
+[E0014]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0014.cpp
+[Jewels and Stones]: https://www.codechef.com/problems/STONES
 
 [//]: # (Medium)
 
