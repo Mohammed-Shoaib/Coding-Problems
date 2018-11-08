@@ -58,6 +58,7 @@ The questions are divided into 6 levels of difficulty:
 |[E0013]|[Buying Sweets]|
 |[E0014]|[Jewels and Stones]|
 |[E0015]|[Chef and Feedback]|
+|[E0016]|[Maximum Weight Difference]|
 
 ## Medium
 
@@ -188,6 +189,9 @@ The questions are divided into 6 levels of difficulty:
 
 [E0015]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0015.cpp
 [Chef and Feedback]: https://www.codechef.com/problems/ERROR
+
+[E0016]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0016.cpp
+[Maximum Weight Difference]: https://www.codechef.com/problems/MAXDIFF
 
 [//]: # (Medium)
 
