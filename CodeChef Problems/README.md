@@ -59,6 +59,7 @@ The questions are divided into 6 levels of difficulty:
 |[E0014]|[Jewels and Stones]|
 |[E0015]|[Chef and Feedback]|
 |[E0016]|[Maximum Weight Difference]|
+|[E0017]|[Discrepancies in the Voters List]|
 
 ## Medium
 
@@ -192,6 +193,9 @@ The questions are divided into 6 levels of difficulty:
 
 [E0016]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0016.cpp
 [Maximum Weight Difference]: https://www.codechef.com/problems/MAXDIFF
+
+[E0017]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0017.cpp
+[Discrepancies in the Voters List]: https://www.codechef.com/problems/VOTERS
 
 [//]: # (Medium)
 
