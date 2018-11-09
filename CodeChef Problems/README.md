@@ -60,6 +60,7 @@ The questions are divided into 6 levels of difficulty:
 |[E0015]|[Chef and Feedback]|
 |[E0016]|[Maximum Weight Difference]|
 |[E0017]|[Discrepancies in the Voters List]|
+|[E0018]|[Dividing Stamps]|
 
 ## Medium
 
@@ -196,6 +197,9 @@ The questions are divided into 6 levels of difficulty:
 
 [E0017]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0017.cpp
 [Discrepancies in the Voters List]: https://www.codechef.com/problems/VOTERS
+
+[E0018]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0018.cpp
+[Dividing Stamps]: https://www.codechef.com/problems/DIVIDING
 
 [//]: # (Medium)
 
