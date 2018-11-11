@@ -62,6 +62,7 @@ The questions are divided into 6 levels of difficulty:
 |[E0017]|[Discrepancies in the Voters List]|
 |[E0018]|[Dividing Stamps]|
 |[E0019]|[Farmer Feb]|
+|[E0020]|[Little Elephant and Permutations]|
 
 ## Medium
 
@@ -204,6 +205,9 @@ The questions are divided into 6 levels of difficulty:
 
 [E0019]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0019.cpp
 [Farmer Feb]: https://www.codechef.com/problems/POTATOES
+
+[E0020]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0020.cpp
+[Little Elephant and Permutations]: https://www.codechef.com/problems/LEPERMUT
 
 [//]: # (Medium)
 
