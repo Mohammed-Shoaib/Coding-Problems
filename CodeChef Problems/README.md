@@ -61,6 +61,7 @@ The questions are divided into 6 levels of difficulty:
 |[E0016]|[Maximum Weight Difference]|
 |[E0017]|[Discrepancies in the Voters List]|
 |[E0018]|[Dividing Stamps]|
+|[E0019]|[Farmer Feb]|
 
 ## Medium
 
@@ -200,6 +201,9 @@ The questions are divided into 6 levels of difficulty:
 
 [E0018]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0018.cpp
 [Dividing Stamps]: https://www.codechef.com/problems/DIVIDING
+
+[E0019]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0019.cpp
+[Farmer Feb]: https://www.codechef.com/problems/POTATOES
 
 [//]: # (Medium)
 
