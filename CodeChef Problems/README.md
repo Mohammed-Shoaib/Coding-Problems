@@ -1,7 +1,7 @@
 # CodeChef Problems
 Solutions to some of the questions on the CodeChef [website](https://www.codechef.com "CodeChef").
 
-The questions are divided into 6 levels of difficulty:
+The questions are divided into 6 categories:
 * Beginner
 * Easy
 * Medium
@@ -63,6 +63,7 @@ The questions are divided into 6 levels of difficulty:
 |[E0018]|[Dividing Stamps]|
 |[E0019]|[Farmer Feb]|
 |[E0020]|[Little Elephant and Permutations]|
+|[E0021]|[Arranging Cup-cakes]|
 
 ## Medium
 
@@ -208,6 +209,9 @@ The questions are divided into 6 levels of difficulty:
 
 [E0020]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0020.cpp
 [Little Elephant and Permutations]: https://www.codechef.com/problems/LEPERMUT
+
+[E0021]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0021.cpp
+[Arranging Cup-cakes]: https://www.codechef.com/problems/RESQ
 
 [//]: # (Medium)
 
