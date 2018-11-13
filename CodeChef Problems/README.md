@@ -64,6 +64,7 @@ The questions are divided into 6 categories:
 |[E0019]|[Farmer Feb]|
 |[E0020]|[Little Elephant and Permutations]|
 |[E0021]|[Arranging Cup-cakes]|
+|[E0022]|[A Very Easy Problem!]|
 
 ## Medium
 
@@ -212,6 +213,9 @@ The questions are divided into 6 categories:
 
 [E0021]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0021.cpp
 [Arranging Cup-cakes]: https://www.codechef.com/problems/RESQ
+
+[E0022]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0022.cpp
+[A Very Easy Problem!]: https://www.codechef.com/problems/EASYPROB
 
 [//]: # (Medium)
 
