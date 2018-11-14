@@ -65,6 +65,7 @@ The questions are divided into 6 categories:
 |[E0020]|[Little Elephant and Permutations]|
 |[E0021]|[Arranging Cup-cakes]|
 |[E0022]|[A Very Easy Problem!]|
+|[E0023]|[Prime Generator]|
 
 ## Medium
 
@@ -216,6 +217,9 @@ The questions are divided into 6 categories:
 
 [E0022]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0022.cpp
 [A Very Easy Problem!]: https://www.codechef.com/problems/EASYPROB
+
+[E0023]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0023.cpp
+[Prime Generator]: https://www.codechef.com/problems/PRIME1
 
 [//]: # (Medium)
 
