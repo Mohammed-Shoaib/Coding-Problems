@@ -50,6 +50,7 @@ The questions are divided into 6 categories:
 |[B0035]|[Greedy puppy]|
 |[B0036]|[Transform the Expression]|
 |[B0037]|[Packaging Cupcakes]|
+|[B0038]|[Sums in a Triangle]|
 
 ## Easy
 
@@ -197,6 +198,9 @@ The questions are divided into 6 categories:
 
 [B0037]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0037.cpp
 [Packaging Cupcakes]: https://www.codechef.com/problems/MUFFINS3
+
+[B0038]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0038.cpp
+[Sums in a Triangle]: https://www.codechef.com/problems/SUMTRIAN
 
 [//]: # (Easy)
 
