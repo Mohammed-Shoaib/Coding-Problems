@@ -39,6 +39,7 @@ The questions are divided into 6 categories:
 |[B0024]|[Chef And Operators]|
 |[B0025]|[Primality Test]|
 |[B0026]|[Mahasena]|
+|[B0027]|[Id and Ship]|
 
 ## Easy
 
@@ -153,6 +154,9 @@ The questions are divided into 6 categories:
 
 [B0026]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0026.cpp
 [Mahasena]: https://www.codechef.com/problems/AMR15A
+
+[B0027]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0027.cpp
+[Id and Ship]: https://www.codechef.com/problems/FLOW010
 
 [//]: # (Easy)
 
