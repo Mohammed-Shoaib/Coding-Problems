@@ -42,6 +42,7 @@ The questions are divided into 6 categories:
 |[B0027]|[Id and Ship]|
 |[B0028]|[Fit Squares in Triangle]|
 |[B0029]|[Three Way Communications]|
+|[B0030]|[The Smallest Pair]|
 
 ## Easy
 
@@ -165,6 +166,9 @@ The questions are divided into 6 categories:
 
 [B0029]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0029.cpp
 [Three Way Communications]: https://www.codechef.com/problems/COMM3
+
+[B0030]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0030.cpp
+[The Smallest Pair]: https://www.codechef.com/problems/SMPAIR
 
 [//]: # (Easy)
 
