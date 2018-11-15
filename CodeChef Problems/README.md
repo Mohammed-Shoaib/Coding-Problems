@@ -49,6 +49,7 @@ The questions are divided into 6 categories:
 |[B0034]|[Gross Salary]|
 |[B0035]|[Greedy puppy]|
 |[B0036]|[Transform the Expression]|
+|[B0037]|[Packaging Cupcakes]|
 
 ## Easy
 
@@ -193,6 +194,9 @@ The questions are divided into 6 categories:
 
 [B0036]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0036.cpp
 [Transform the Expression]: https://www.codechef.com/problems/ONP
+
+[B0037]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0037.cpp
+[Packaging Cupcakes]: https://www.codechef.com/problems/MUFFINS3
 
 [//]: # (Easy)
 
