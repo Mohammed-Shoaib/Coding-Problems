@@ -56,6 +56,7 @@ The questions are divided into 6 categories:
 |[B0041]|[Chef and Two Strings]|
 |[B0042]|[Chef and Fruits]|
 |[B0043]|[Chef and the Wildcard Matching]|
+|[B0044]|[Cops and the Thief Devu]|
 
 ## Easy
 
@@ -221,6 +222,9 @@ The questions are divided into 6 categories:
 
 [B0043]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0043.cpp
 [Chef and the Wildcard Matching]: https://www.codechef.com/problems/TWOSTR
+
+[B0044]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0044.cpp
+[Cops and the Thief Devu]: https://www.codechef.com/problems/COPS
 
 [//]: # (Easy)
 
