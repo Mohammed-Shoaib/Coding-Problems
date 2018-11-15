@@ -53,6 +53,7 @@ The questions are divided into 6 categories:
 |[B0038]|[Sums in a Triangle]|
 |[B0039]|[Grade The Steel]|
 |[B0040]|[Puppy and Sum]|
+|[B0041]|[Chef and Two Strings]|
 
 ## Easy
 
@@ -209,6 +210,9 @@ The questions are divided into 6 categories:
 
 [B0040]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0040.cpp
 [Puppy and Sum]: https://www.codechef.com/problems/PPSUM
+
+[B0041]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0041.cpp
+[Chef and Two Strings]: https://www.codechef.com/problems/CHEFSTLT
 
 [//]: # (Easy)
 
