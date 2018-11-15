@@ -41,6 +41,7 @@ The questions are divided into 6 categories:
 |[B0026]|[Mahasena]|
 |[B0027]|[Id and Ship]|
 |[B0028]|[Fit Squares in Triangle]|
+|[B0029]|[Three Way Communications]|
 
 ## Easy
 
@@ -161,6 +162,9 @@ The questions are divided into 6 categories:
 
 [B0028]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0028.cpp
 [Fit Squares in Triangle]: https://www.codechef.com/problems/TRISQ
+
+[B0029]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0029.cpp
+[Three Way Communications]: https://www.codechef.com/problems/COMM3
 
 [//]: # (Easy)
 
