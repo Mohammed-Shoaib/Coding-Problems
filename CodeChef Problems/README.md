@@ -44,6 +44,7 @@ The questions are divided into 6 categories:
 |[B0029]|[Three Way Communications]|
 |[B0030]|[The Smallest Pair]|
 |[B0031]|[Total Expenses]|
+|[B0032]|[GCD and LCM]|
 
 ## Easy
 
@@ -173,6 +174,9 @@ The questions are divided into 6 categories:
 
 [B0031]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0031.cpp
 [Total Expenses]: https://www.codechef.com/problems/FLOW009
+
+[B0032]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0032.cpp
+[GCD and LCM]: https://www.codechef.com/problems/FLOW016
 
 [//]: # (Easy)
 
