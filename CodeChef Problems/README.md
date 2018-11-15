@@ -47,6 +47,7 @@ The questions are divided into 6 categories:
 |[B0032]|[GCD and LCM]|
 |[B0033]|[Tanu and Head-bob]|
 |[B0034]|[Gross Salary]|
+|[B0035]|[Greedy puppy]|
 
 ## Easy
 
@@ -185,6 +186,9 @@ The questions are divided into 6 categories:
 
 [B0034]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0034.cpp
 [Gross Salary]: https://www.codechef.com/problems/FLOW011
+
+[B0035]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0035.cpp
+[Greedy puppy]: https://www.codechef.com/problems/GDOG
 
 [//]: # (Easy)
 
