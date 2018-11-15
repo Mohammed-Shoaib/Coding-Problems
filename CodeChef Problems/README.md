@@ -52,6 +52,7 @@ The questions are divided into 6 categories:
 |[B0037]|[Packaging Cupcakes]|
 |[B0038]|[Sums in a Triangle]|
 |[B0039]|[Grade The Steel]|
+|[B0040]|[Puppy and Sum]|
 
 ## Easy
 
@@ -205,6 +206,9 @@ The questions are divided into 6 categories:
 
 [B0039]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0039.cpp
 [Grade The Steel]: https://www.codechef.com/problems/FLOW014
+
+[B0040]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0040.cpp
+[Puppy and Sum]: https://www.codechef.com/problems/PPSUM
 
 [//]: # (Easy)
 
