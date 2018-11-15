@@ -45,6 +45,7 @@ The questions are divided into 6 categories:
 |[B0030]|[The Smallest Pair]|
 |[B0031]|[Total Expenses]|
 |[B0032]|[GCD and LCM]|
+|[B0033]|[Tanu and Head-bob]|
 
 ## Easy
 
@@ -177,6 +178,9 @@ The questions are divided into 6 categories:
 
 [B0032]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0032.cpp
 [GCD and LCM]: https://www.codechef.com/problems/FLOW016
+
+[B0033]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0033.cpp
+[Tanu and Head-bob]: https://www.codechef.com/problems/HEADBOB
 
 [//]: # (Easy)
 
