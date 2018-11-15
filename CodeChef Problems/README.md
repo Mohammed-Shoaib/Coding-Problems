@@ -51,6 +51,7 @@ The questions are divided into 6 categories:
 |[B0036]|[Transform the Expression]|
 |[B0037]|[Packaging Cupcakes]|
 |[B0038]|[Sums in a Triangle]|
+|[B0039]|[Grade The Steel]|
 
 ## Easy
 
@@ -201,6 +202,9 @@ The questions are divided into 6 categories:
 
 [B0038]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0038.cpp
 [Sums in a Triangle]: https://www.codechef.com/problems/SUMTRIAN
+
+[B0039]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0039.cpp
+[Grade The Steel]: https://www.codechef.com/problems/FLOW014
 
 [//]: # (Easy)
 
