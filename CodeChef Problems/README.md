@@ -43,6 +43,7 @@ The questions are divided into 6 categories:
 |[B0028]|[Fit Squares in Triangle]|
 |[B0029]|[Three Way Communications]|
 |[B0030]|[The Smallest Pair]|
+|[B0031]|[Total Expenses]|
 
 ## Easy
 
@@ -169,6 +170,9 @@ The questions are divided into 6 categories:
 
 [B0030]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0030.cpp
 [The Smallest Pair]: https://www.codechef.com/problems/SMPAIR
+
+[B0031]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0031.cpp
+[Total Expenses]: https://www.codechef.com/problems/FLOW009
 
 [//]: # (Easy)
 
