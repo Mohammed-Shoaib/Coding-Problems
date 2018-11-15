@@ -57,6 +57,7 @@ The questions are divided into 6 categories:
 |[B0042]|[Chef and Fruits]|
 |[B0043]|[Chef and the Wildcard Matching]|
 |[B0044]|[Cops and the Thief Devu]|
+|[B0045]|[Minimum Maximum]|
 
 ## Easy
 
@@ -225,6 +226,9 @@ The questions are divided into 6 categories:
 
 [B0044]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0044.cpp
 [Cops and the Thief Devu]: https://www.codechef.com/problems/COPS
+
+[B0045]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0045.cpp
+[Minimum Maximum]: https://www.codechef.com/problems/MNMX
 
 [//]: # (Easy)
 
