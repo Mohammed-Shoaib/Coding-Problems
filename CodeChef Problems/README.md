@@ -48,6 +48,7 @@ The questions are divided into 6 categories:
 |[B0033]|[Tanu and Head-bob]|
 |[B0034]|[Gross Salary]|
 |[B0035]|[Greedy puppy]|
+|[B0036]|[Transform the Expression]|
 
 ## Easy
 
@@ -189,6 +190,9 @@ The questions are divided into 6 categories:
 
 [B0035]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0035.cpp
 [Greedy puppy]: https://www.codechef.com/problems/GDOG
+
+[B0036]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0036.cpp
+[Transform the Expression]: https://www.codechef.com/problems/ONP
 
 [//]: # (Easy)
 
