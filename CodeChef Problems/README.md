@@ -46,6 +46,7 @@ The questions are divided into 6 categories:
 |[B0031]|[Total Expenses]|
 |[B0032]|[GCD and LCM]|
 |[B0033]|[Tanu and Head-bob]|
+|[B0034]|[Gross Salary]|
 
 ## Easy
 
@@ -181,6 +182,9 @@ The questions are divided into 6 categories:
 
 [B0033]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0033.cpp
 [Tanu and Head-bob]: https://www.codechef.com/problems/HEADBOB
+
+[B0034]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0034.cpp
+[Gross Salary]: https://www.codechef.com/problems/FLOW011
 
 [//]: # (Easy)
 
