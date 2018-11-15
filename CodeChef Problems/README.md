@@ -40,6 +40,7 @@ The questions are divided into 6 categories:
 |[B0025]|[Primality Test]|
 |[B0026]|[Mahasena]|
 |[B0027]|[Id and Ship]|
+|[B0028]|[Fit Squares in Triangle]|
 
 ## Easy
 
@@ -157,6 +158,9 @@ The questions are divided into 6 categories:
 
 [B0027]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0027.cpp
 [Id and Ship]: https://www.codechef.com/problems/FLOW010
+
+[B0028]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0028.cpp
+[Fit Squares in Triangle]: https://www.codechef.com/problems/TRISQ
 
 [//]: # (Easy)
 
