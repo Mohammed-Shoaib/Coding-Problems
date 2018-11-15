@@ -55,6 +55,7 @@ The questions are divided into 6 categories:
 |[B0040]|[Puppy and Sum]|
 |[B0041]|[Chef and Two Strings]|
 |[B0042]|[Chef and Fruits]|
+|[B0043]|[Chef and the Wildcard Matching]|
 
 ## Easy
 
@@ -217,6 +218,9 @@ The questions are divided into 6 categories:
 
 [B0042]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0042.cpp
 [Chef and Fruits]: https://www.codechef.com/problems/FRUITS
+
+[B0043]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0043.cpp
+[Chef and the Wildcard Matching]: https://www.codechef.com/problems/TWOSTR
 
 [//]: # (Easy)
 
