@@ -58,6 +58,7 @@ The questions are divided into 6 categories:
 |[B0043]|[Chef and the Wildcard Matching]|
 |[B0044]|[Cops and the Thief Devu]|
 |[B0045]|[Minimum Maximum]|
+|[B0046]|[Piece of cake]|
 
 ## Easy
 
@@ -230,6 +231,9 @@ The questions are divided into 6 categories:
 
 [B0045]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0045.cpp
 [Minimum Maximum]: https://www.codechef.com/problems/MNMX
+
+[B0046]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0046.cpp
+[Piece of cake]: https://www.codechef.com/problems/LCH15JAB
 
 [//]: # (Easy)
 
