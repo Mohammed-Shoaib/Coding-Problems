@@ -59,6 +59,7 @@ The questions are divided into 6 categories:
 |[B0044]|[Cops and the Thief Devu]|
 |[B0045]|[Minimum Maximum]|
 |[B0046]|[Piece of cake]|
+|[B0047]|[Chef and Dolls]|
 
 ## Easy
 
@@ -234,6 +235,9 @@ The questions are divided into 6 categories:
 
 [B0046]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0046.cpp
 [Piece of cake]: https://www.codechef.com/problems/LCH15JAB
+
+[B0047]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0047.cpp
+[Chef and Dolls]: https://www.codechef.com/problems/MISSP
 
 [//]: # (Easy)
 
