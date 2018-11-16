@@ -63,6 +63,7 @@ The questions are divided into 6 categories:
 |[B0048]|[Coins And Triangle]|
 |[B0049]|[Malvika is peculiar about color of balloons]|
 |[B0050]|[Farmer And His Plot]|
+|[B0051]|[Help Lost Robot!]|
 
 ## Easy
 
@@ -250,6 +251,9 @@ The questions are divided into 6 categories:
 
 [B0050]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0050.cpp
 [Farmer And His Plot]: https://www.codechef.com/problems/RECTSQ
+
+[B0051]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0051.cpp
+[Help Lost Robot!]: https://www.codechef.com/problems/ICPC16A
 
 [//]: # (Easy)
 
