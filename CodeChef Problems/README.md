@@ -67,6 +67,7 @@ The questions are divided into 6 categories:
 |[B0052]|[Version Control System]|
 |[B0053]|[Kitchen Timetable]|
 |[B0054]|[Good Joke!]|
+|[B0055]|[Forgotten Language]|
 
 ## Easy
 
@@ -266,6 +267,9 @@ The questions are divided into 6 categories:
 
 [B0054]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0054.cpp
 [Good Joke!]: https://www.codechef.com/problems/RRJOKE
+
+[B0055]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0055.cpp
+[Forgotten Language]: https://www.codechef.com/problems/FRGTNLNG
 
 [//]: # (Easy)
 
