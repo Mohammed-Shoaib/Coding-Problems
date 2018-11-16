@@ -64,6 +64,7 @@ The questions are divided into 6 categories:
 |[B0049]|[Malvika is peculiar about color of balloons]|
 |[B0050]|[Farmer And His Plot]|
 |[B0051]|[Help Lost Robot!]|
+|[B0052]|[Version Control System]|
 
 ## Easy
 
@@ -254,6 +255,9 @@ The questions are divided into 6 categories:
 
 [B0051]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0051.cpp
 [Help Lost Robot!]: https://www.codechef.com/problems/ICPC16A
+
+[B0052]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0052.cpp
+[Version Control System]: https://www.codechef.com/problems/VCS
 
 [//]: # (Easy)
 
