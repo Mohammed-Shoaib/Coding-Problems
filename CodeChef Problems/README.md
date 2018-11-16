@@ -60,6 +60,7 @@ The questions are divided into 6 categories:
 |[B0045]|[Minimum Maximum]|
 |[B0046]|[Piece of cake]|
 |[B0047]|[Chef and Dolls]|
+|[B0048]|[Coins And Triangle]|
 
 ## Easy
 
@@ -238,6 +239,9 @@ The questions are divided into 6 categories:
 
 [B0047]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0047.cpp
 [Chef and Dolls]: https://www.codechef.com/problems/MISSP
+
+[B0048]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0048.cpp
+[Coins And Triangle]: https://www.codechef.com/problems/TRICOIN
 
 [//]: # (Easy)
 
