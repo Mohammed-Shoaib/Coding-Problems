@@ -65,6 +65,7 @@ The questions are divided into 6 categories:
 |[B0050]|[Farmer And His Plot]|
 |[B0051]|[Help Lost Robot!]|
 |[B0052]|[Version Control System]|
+|[B0053]|[Kitchen Timetable]|
 
 ## Easy
 
@@ -258,6 +259,9 @@ The questions are divided into 6 categories:
 
 [B0052]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0052.cpp
 [Version Control System]: https://www.codechef.com/problems/VCS
+
+[B0053]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0053.cpp
+[Kitchen Timetable]: https://www.codechef.com/problems/KTTABLE
 
 [//]: # (Easy)
 
