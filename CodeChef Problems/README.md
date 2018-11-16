@@ -86,6 +86,7 @@ The questions are divided into 6 categories:
 |[E0021]|[Arranging Cup-cakes]|
 |[E0022]|[A Very Easy Problem!]|
 |[E0023]|[Prime Generator]|
+|[E0024]|[Splitting Candies]|
 
 ## Medium
 
@@ -300,6 +301,9 @@ The questions are divided into 6 categories:
 
 [E0023]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0023.cpp
 [Prime Generator]: https://www.codechef.com/problems/PRIME1
+
+[E0024]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0024.cpp
+[Splitting Candies]: https://www.codechef.com/problems/SPCANDY
 
 [//]: # (Medium)
 
