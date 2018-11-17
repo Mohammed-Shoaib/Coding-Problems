@@ -95,6 +95,7 @@ The questions are divided into 6 categories:
 |[B0080]|[Tickets]|
 |[B0081]|[Chef and Table Tennis]|
 |[B0082]|[Beautiful Arrays]|
+|[B0083]|[Two vs Ten]|
 
 ## Easy
 
@@ -379,6 +380,9 @@ The questions are divided into 6 categories:
 
 [B0082]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0082.cpp
 [Beautiful Arrays]: https://www.codechef.com/problems/ICPC16B
+
+[B0083]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0083.cpp
+[Two vs Ten]: https://www.codechef.com/problems/TWOVSTEN
 
 [//]: # (Easy)
 
