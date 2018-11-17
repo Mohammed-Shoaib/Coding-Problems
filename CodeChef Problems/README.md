@@ -81,6 +81,7 @@ The questions are divided into 6 categories:
 |[B0066]|[Bear and Candies 123]|
 |[B0067]|[Two Numbers]|
 |[B0068]|[Brackets]|
+|[B0069]|[Chef and Rainbow Array]|
 
 ## Easy
 
@@ -323,6 +324,9 @@ The questions are divided into 6 categories:
 
 [B0068]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0068.cpp
 [Brackets]: https://www.codechef.com/problems/BRACKETS
+
+[B0069]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0069.cpp
+[Chef and Rainbow Array]: https://www.codechef.com/problems/RAINBOWA
 
 [//]: # (Easy)
 
