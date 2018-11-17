@@ -77,6 +77,7 @@ The questions are divided into 6 categories:
 |[B0062]|[Alternating subarray prefix]|
 |[B0063]|[Count Subarrays]|
 |[B0064]|[Studying Alphabet]|
+|[B0065]|[Palindromic substrings]|
 
 ## Easy
 
@@ -307,6 +308,9 @@ The questions are divided into 6 categories:
 
 [B0064]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0064.cpp
 [Studying Alphabet]: https://www.codechef.com/problems/ALPHABET
+
+[B0065]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0065.cpp
+[Palindromic substrings]: https://www.codechef.com/problems/STRPALIN
 
 [//]: # (Easy)
 
