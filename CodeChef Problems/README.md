@@ -86,6 +86,7 @@ The questions are divided into 6 categories:
 |[B0071]|[Download file]|
 |[B0072]|[Chef and String]|
 |[B0073]|[Sum OR Difference]|
+|[B0074]|[Lazy Jem]|
 
 ## Easy
 
@@ -343,6 +344,9 @@ The questions are divided into 6 categories:
 
 [B0073]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0073.cpp
 [Sum OR Difference]: https://www.codechef.com/problems/DIFFSUM
+
+[B0074]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0074.cpp
+[Lazy Jem]: https://www.codechef.com/problems/TALAZY
 
 [//]: # (Easy)
 
