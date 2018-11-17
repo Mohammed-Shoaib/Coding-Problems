@@ -80,6 +80,7 @@ The questions are divided into 6 categories:
 |[B0065]|[Palindromic substrings]|
 |[B0066]|[Bear and Candies 123]|
 |[B0067]|[Two Numbers]|
+|[B0068]|[Brackets]|
 
 ## Easy
 
@@ -319,6 +320,9 @@ The questions are divided into 6 categories:
 
 [B0067]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0067.cpp
 [Two Numbers]: https://www.codechef.com/problems/TWONMS
+
+[B0068]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0068.cpp
+[Brackets]: https://www.codechef.com/problems/BRACKETS
 
 [//]: # (Easy)
 
