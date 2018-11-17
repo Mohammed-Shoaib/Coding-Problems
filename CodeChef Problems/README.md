@@ -75,6 +75,7 @@ The questions are divided into 6 categories:
 |[B0060]|[Devu and friendship testing]|
 |[B0061]|[Alternating subarray prefix]|
 |[B0062]|[Alternating subarray prefix]|
+|[B0063]|[Count Subarrays]|
 
 ## Easy
 
@@ -299,6 +300,9 @@ The questions are divided into 6 categories:
 
 [B0062]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0062.cpp
 [Alternating subarray prefix]: https://www.codechef.com/problems/ALTARAY
+
+[B0063]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0063.cpp
+[Count Subarrays]: https://www.codechef.com/problems/SUBINC
 
 [//]: # (Easy)
 
