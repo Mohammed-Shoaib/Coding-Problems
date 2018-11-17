@@ -97,6 +97,7 @@ The questions are divided into 6 categories:
 |[E0022]|[A Very Easy Problem!]|
 |[E0023]|[Prime Generator]|
 |[E0024]|[Splitting Candies]|
+|[E0025]|[Number Game Revisited]|
 
 ## Medium
 
@@ -344,6 +345,9 @@ The questions are divided into 6 categories:
 
 [E0024]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0024.cpp
 [Splitting Candies]: https://www.codechef.com/problems/SPCANDY
+
+[E0025]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0025.cpp
+[Number Game Revisited]: https://www.codechef.com/problems/NUMGAME2
 
 [//]: # (Medium)
 
