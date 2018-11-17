@@ -97,6 +97,7 @@ The questions are divided into 6 categories:
 |[B0082]|[Beautiful Arrays]|
 |[B0083]|[Two vs Ten]|
 |[B0084]|[Decrement OR Increment]|
+|[B0085]|[Chef and Cook-Off]|
 
 ## Easy
 
@@ -387,6 +388,9 @@ The questions are divided into 6 categories:
 
 [B0084]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0084.cpp
 [Decrement OR Increment]: https://www.codechef.com/problems/DECINC
+
+[B0085]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0085.cpp
+[Chef and Cook-Off]: https://www.codechef.com/problems/CCOOK
 
 [//]: # (Easy)
 
