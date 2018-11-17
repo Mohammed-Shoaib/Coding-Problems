@@ -94,6 +94,7 @@ The questions are divided into 6 categories:
 |[B0079]|[Gregorian Calendar]|
 |[B0080]|[Tickets]|
 |[B0081]|[Chef and Table Tennis]|
+|[B0082]|[Beautiful Arrays]|
 
 ## Easy
 
@@ -375,6 +376,9 @@ The questions are divided into 6 categories:
 
 [B0081]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0081.cpp
 [Chef and Table Tennis]: https://www.codechef.com/problems/TTENIS
+
+[B0082]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0082.cpp
+[Beautiful Arrays]: https://www.codechef.com/problems/ICPC16B
 
 [//]: # (Easy)
 
