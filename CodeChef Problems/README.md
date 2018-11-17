@@ -68,6 +68,7 @@ The questions are divided into 6 categories:
 |[B0053]|[Kitchen Timetable]|
 |[B0054]|[Good Joke!]|
 |[B0055]|[Forgotten Language]|
+|[B0056]|[Chef and his Sequence]|
 
 ## Easy
 
@@ -271,6 +272,9 @@ The questions are divided into 6 categories:
 
 [B0055]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0055.cpp
 [Forgotten Language]: https://www.codechef.com/problems/FRGTNLNG
+
+[B0056]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0056.cpp
+[Chef and his Sequence]: https://www.codechef.com/problems/CHEFSQ
 
 [//]: # (Easy)
 
