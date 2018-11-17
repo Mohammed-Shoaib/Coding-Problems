@@ -91,6 +91,7 @@ The questions are divided into 6 categories:
 |[B0076]|[Rectangle]|
 |[B0077]|[Chef and Subarrays]|
 |[B0078]|[Simple Statistics]|
+|[B0079]|[Gregorian Calendar]|
 
 ## Easy
 
@@ -363,6 +364,9 @@ The questions are divided into 6 categories:
 
 [B0078]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0078.cpp
 [Simple Statistics]: https://www.codechef.com/problems/SIMPSTAT
+
+[B0079]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0079.cpp
+[Gregorian Calendar]: https://www.codechef.com/problems/FLOW015
 
 [//]: # (Easy)
 
