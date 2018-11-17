@@ -85,6 +85,7 @@ The questions are divided into 6 categories:
 |[B0070]|[Cats and Dogs]|
 |[B0071]|[Download file]|
 |[B0072]|[Chef and String]|
+|[B0073]|[Sum OR Difference]|
 
 ## Easy
 
@@ -339,6 +340,9 @@ The questions are divided into 6 categories:
 
 [B0072]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0072.cpp
 [Chef and String]: https://www.codechef.com/problems/CHRL2
+
+[B0073]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0073.cpp
+[Sum OR Difference]: https://www.codechef.com/problems/DIFFSUM
 
 [//]: # (Easy)
 
