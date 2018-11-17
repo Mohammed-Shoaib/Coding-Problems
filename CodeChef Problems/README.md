@@ -72,6 +72,7 @@ The questions are divided into 6 categories:
 |[B0057]|[Chef and digits of a number]|
 |[B0058]|[Movie Weekend]|
 |[B0059]|[Chef And Coloring]|
+|[B0060]|[Devu and friendship testing]|
 
 ## Easy
 
@@ -287,6 +288,9 @@ The questions are divided into 6 categories:
 
 [B0059]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0059.cpp
 [Chef And Coloring]: https://www.codechef.com/problems/COLOR
+
+[B0060]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0060.cpp
+[Devu and friendship testing]: https://www.codechef.com/problems/CFRTEST
 
 [//]: # (Easy)
 
