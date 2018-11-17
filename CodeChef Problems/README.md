@@ -71,6 +71,7 @@ The questions are divided into 6 categories:
 |[B0056]|[Chef and his Sequence]|
 |[B0057]|[Chef and digits of a number]|
 |[B0058]|[Movie Weekend]|
+|[B0059]|[Chef And Coloring]|
 
 ## Easy
 
@@ -283,6 +284,9 @@ The questions are divided into 6 categories:
 
 [B0058]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0058.cpp
 [Movie Weekend]: https://www.codechef.com/problems/MOVIEWKN
+
+[B0059]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0059.cpp
+[Chef And Coloring]: https://www.codechef.com/problems/COLOR
 
 [//]: # (Easy)
 
