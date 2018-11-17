@@ -73,6 +73,7 @@ The questions are divided into 6 categories:
 |[B0058]|[Movie Weekend]|
 |[B0059]|[Chef And Coloring]|
 |[B0060]|[Devu and friendship testing]|
+|[B0061]|[Alternating subarray prefix]|
 
 ## Easy
 
@@ -291,6 +292,9 @@ The questions are divided into 6 categories:
 
 [B0060]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0060.cpp
 [Devu and friendship testing]: https://www.codechef.com/problems/CFRTEST
+
+[B0061]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0061.cpp
+[Alternating subarray prefix]: https://www.codechef.com/problems/ALTARAY
 
 [//]: # (Easy)
 
