@@ -79,6 +79,7 @@ The questions are divided into 6 categories:
 |[B0064]|[Studying Alphabet]|
 |[B0065]|[Palindromic substrings]|
 |[B0066]|[Bear and Candies 123]|
+|[B0067]|[Two Numbers]|
 
 ## Easy
 
@@ -315,6 +316,9 @@ The questions are divided into 6 categories:
 
 [B0066]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0066.cpp
 [Bear and Candies 123]: https://www.codechef.com/problems/CANDY123
+
+[B0067]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0067.cpp
+[Two Numbers]: https://www.codechef.com/problems/TWONMS
 
 [//]: # (Easy)
 
