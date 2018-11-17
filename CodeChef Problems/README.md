@@ -89,6 +89,7 @@ The questions are divided into 6 categories:
 |[B0074]|[Lazy Jem]|
 |[B0075]|[Sticks]|
 |[B0076]|[Rectangle]|
+|[B0077]|[Chef and Subarrays]|
 
 ## Easy
 
@@ -355,6 +356,9 @@ The questions are divided into 6 categories:
 
 [B0076]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0076.cpp
 [Rectangle]: https://www.codechef.com/problems/RECTANGL
+
+[B0077]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0077.cpp
+[Chef and Subarrays]: https://www.codechef.com/problems/CHEFARRP
 
 [//]: # (Easy)
 
