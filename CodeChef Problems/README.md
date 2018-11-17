@@ -93,6 +93,7 @@ The questions are divided into 6 categories:
 |[B0078]|[Simple Statistics]|
 |[B0079]|[Gregorian Calendar]|
 |[B0080]|[Tickets]|
+|[B0081]|[Chef and Table Tennis]|
 
 ## Easy
 
@@ -371,6 +372,9 @@ The questions are divided into 6 categories:
 
 [B0080]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0080.cpp
 [Tickets]: https://www.codechef.com/problems/TICKETS5
+
+[B0081]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0081.cpp
+[Chef and Table Tennis]: https://www.codechef.com/problems/TTENIS
 
 [//]: # (Easy)
 
