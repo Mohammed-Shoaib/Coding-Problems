@@ -70,6 +70,7 @@ The questions are divided into 6 categories:
 |[B0055]|[Forgotten Language]|
 |[B0056]|[Chef and his Sequence]|
 |[B0057]|[Chef and digits of a number]|
+|[B0058]|[Movie Weekend]|
 
 ## Easy
 
@@ -279,6 +280,9 @@ The questions are divided into 6 categories:
 
 [B0057]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0057.cpp
 [Chef and digits of a number]: https://www.codechef.com/problems/LONGSEQ
+
+[B0058]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0058.cpp
+[Movie Weekend]: https://www.codechef.com/problems/MOVIEWKN
 
 [//]: # (Easy)
 
