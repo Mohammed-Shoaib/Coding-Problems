@@ -69,6 +69,7 @@ The questions are divided into 6 categories:
 |[B0054]|[Good Joke!]|
 |[B0055]|[Forgotten Language]|
 |[B0056]|[Chef and his Sequence]|
+|[B0057]|[Chef and digits of a number]|
 
 ## Easy
 
@@ -275,6 +276,9 @@ The questions are divided into 6 categories:
 
 [B0056]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0056.cpp
 [Chef and his Sequence]: https://www.codechef.com/problems/CHEFSQ
+
+[B0057]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0057.cpp
+[Chef and digits of a number]: https://www.codechef.com/problems/LONGSEQ
 
 [//]: # (Easy)
 
