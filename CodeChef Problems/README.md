@@ -90,6 +90,7 @@ The questions are divided into 6 categories:
 |[B0075]|[Sticks]|
 |[B0076]|[Rectangle]|
 |[B0077]|[Chef and Subarrays]|
+|[B0078]|[Simple Statistics]|
 
 ## Easy
 
@@ -359,6 +360,9 @@ The questions are divided into 6 categories:
 
 [B0077]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0077.cpp
 [Chef and Subarrays]: https://www.codechef.com/problems/CHEFARRP
+
+[B0078]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0078.cpp
+[Simple Statistics]: https://www.codechef.com/problems/SIMPSTAT
 
 [//]: # (Easy)
 
