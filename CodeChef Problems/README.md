@@ -88,6 +88,7 @@ The questions are divided into 6 categories:
 |[B0073]|[Sum OR Difference]|
 |[B0074]|[Lazy Jem]|
 |[B0075]|[Sticks]|
+|[B0076]|[Rectangle]|
 
 ## Easy
 
@@ -351,6 +352,9 @@ The questions are divided into 6 categories:
 
 [B0075]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0075.cpp
 [Sticks]: https://www.codechef.com/problems/STICKS
+
+[B0076]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0076.cpp
+[Rectangle]: https://www.codechef.com/problems/RECTANGL
 
 [//]: # (Easy)
 
