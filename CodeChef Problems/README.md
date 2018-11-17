@@ -92,6 +92,7 @@ The questions are divided into 6 categories:
 |[B0077]|[Chef and Subarrays]|
 |[B0078]|[Simple Statistics]|
 |[B0079]|[Gregorian Calendar]|
+|[B0080]|[Tickets]|
 
 ## Easy
 
@@ -367,6 +368,9 @@ The questions are divided into 6 categories:
 
 [B0079]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0079.cpp
 [Gregorian Calendar]: https://www.codechef.com/problems/FLOW015
+
+[B0080]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0080.cpp
+[Tickets]: https://www.codechef.com/problems/TICKETS5
 
 [//]: # (Easy)
 
