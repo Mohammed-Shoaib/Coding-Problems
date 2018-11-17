@@ -96,6 +96,7 @@ The questions are divided into 6 categories:
 |[B0081]|[Chef and Table Tennis]|
 |[B0082]|[Beautiful Arrays]|
 |[B0083]|[Two vs Ten]|
+|[B0084]|[Decrement OR Increment]|
 
 ## Easy
 
@@ -383,6 +384,9 @@ The questions are divided into 6 categories:
 
 [B0083]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0083.cpp
 [Two vs Ten]: https://www.codechef.com/problems/TWOVSTEN
+
+[B0084]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0084.cpp
+[Decrement OR Increment]: https://www.codechef.com/problems/DECINC
 
 [//]: # (Easy)
 
