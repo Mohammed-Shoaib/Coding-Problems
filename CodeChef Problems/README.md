@@ -82,6 +82,7 @@ The questions are divided into 6 categories:
 |[B0067]|[Two Numbers]|
 |[B0068]|[Brackets]|
 |[B0069]|[Chef and Rainbow Array]|
+|[B0070]|[Cats and Dogs]|
 
 ## Easy
 
@@ -327,6 +328,9 @@ The questions are divided into 6 categories:
 
 [B0069]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0069.cpp
 [Chef and Rainbow Array]: https://www.codechef.com/problems/RAINBOWA
+
+[B0070]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0070.cpp
+[Cats and Dogs]: https://www.codechef.com/problems/CATSDOGS
 
 [//]: # (Easy)
 
