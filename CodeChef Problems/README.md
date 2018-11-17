@@ -78,6 +78,7 @@ The questions are divided into 6 categories:
 |[B0063]|[Count Subarrays]|
 |[B0064]|[Studying Alphabet]|
 |[B0065]|[Palindromic substrings]|
+|[B0066]|[Bear and Candies 123]|
 
 ## Easy
 
@@ -311,6 +312,9 @@ The questions are divided into 6 categories:
 
 [B0065]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0065.cpp
 [Palindromic substrings]: https://www.codechef.com/problems/STRPALIN
+
+[B0066]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0066.cpp
+[Bear and Candies 123]: https://www.codechef.com/problems/CANDY123
 
 [//]: # (Easy)
 
