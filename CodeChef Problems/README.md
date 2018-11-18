@@ -129,6 +129,7 @@ The questions are divided into 6 categories:
 |[E0024]|[Splitting Candies]|
 |[E0025]|[Number Game Revisited]|
 |[E0026]|[Chef-jumping]|
+|[E0027]|[The Minimum Number Of Moves]|
 
 ## Medium
 
@@ -472,6 +473,9 @@ The questions are divided into 6 categories:
 
 [E0026]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0026.cpp
 [Chef-jumping]: https://www.codechef.com/problems/OJUMPS
+
+[E0027]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0027.cpp
+[The Minimum Number Of Moves]: https://www.codechef.com/problems/SALARY
 
 [//]: # (Medium)
 
