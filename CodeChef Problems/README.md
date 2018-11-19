@@ -130,6 +130,7 @@ The questions are divided into 6 categories:
 |[E0025]|[Number Game Revisited]|
 |[E0026]|[Chef-jumping]|
 |[E0027]|[The Minimum Number Of Moves]|
+|[E0028]|[Subtraction Game 1]|
 
 ## Medium
 
@@ -476,6 +477,9 @@ The questions are divided into 6 categories:
 
 [E0027]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0027.cpp
 [The Minimum Number Of Moves]: https://www.codechef.com/problems/SALARY
+
+[E0028]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0028.cpp
+[Subtraction Game 1]: https://www.codechef.com/problems/AMSGAME1
 
 [//]: # (Medium)
 
