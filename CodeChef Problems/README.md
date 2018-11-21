@@ -131,6 +131,7 @@ The questions are divided into 6 categories:
 |[E0026]|[Chef-jumping]|
 |[E0027]|[The Minimum Number Of Moves]|
 |[E0028]|[Subtraction Game 1]|
+|[E0029]|[Subtraction Game 2]|
 
 ## Medium
 
@@ -480,6 +481,9 @@ The questions are divided into 6 categories:
 
 [E0028]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0028.cpp
 [Subtraction Game 1]: https://www.codechef.com/problems/AMSGAME1
+
+[E0029]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0029.cpp
+[Subtraction Game 2]: https://www.codechef.com/problems/AMSGAME2
 
 [//]: # (Medium)
 
