@@ -132,6 +132,7 @@ The questions are divided into 6 categories:
 |[E0027]|[The Minimum Number Of Moves]|
 |[E0028]|[Subtraction Game 1]|
 |[E0029]|[Subtraction Game 2]|
+|[E0030]|[Little Elephant and Bombs]|
 
 ## Medium
 
@@ -484,6 +485,9 @@ The questions are divided into 6 categories:
 
 [E0029]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0029.cpp
 [Subtraction Game 2]: https://www.codechef.com/problems/AMSGAME2
+
+[E0030]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0030.cpp
+[Little Elephant and Bombs]: https://www.codechef.com/problems/LEBOMBS
 
 [//]: # (Medium)
 
