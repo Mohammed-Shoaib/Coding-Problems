@@ -134,6 +134,7 @@ The questions are divided into 6 categories:
 |[E0029]|[Subtraction Game 2]|
 |[E0030]|[Little Elephant and Bombs]|
 |[E0031]|[Your Name is Mine]|
+|[E0032]|[Copy-Paste]|
 
 ## Medium
 
@@ -492,6 +493,9 @@ The questions are divided into 6 categories:
 
 [E0031]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0031.cpp
 [Your Name is Mine]: https://www.codechef.com/problems/NAME2
+
+[E0032]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0032.cpp
+[Copy-Paste]: https://www.codechef.com/problems/RRCOPY
 
 [//]: # (Medium)
 
