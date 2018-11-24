@@ -74,7 +74,7 @@ The questions are divided into 6 categories:
 |[B0059]|[Chef And Coloring]|
 |[B0060]|[Devu and friendship testing]|
 |[B0061]|[Alternating subarray prefix]|
-|[B0062]|[Alternating subarray prefix]|
+|[B0062]|[Devu and Grapes]|
 |[B0063]|[Count Subarrays]|
 |[B0064]|[Studying Alphabet]|
 |[B0065]|[Palindromic substrings]|
@@ -328,7 +328,7 @@ The questions are divided into 6 categories:
 [Alternating subarray prefix]: https://www.codechef.com/problems/ALTARAY
 
 [B0062]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0062.cpp
-[Alternating subarray prefix]: https://www.codechef.com/problems/ALTARAY
+[Devu and Grapes]: https://www.codechef.com/problems/DEVUGRAP
 
 [B0063]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Beginner/B0063.cpp
 [Count Subarrays]: https://www.codechef.com/problems/SUBINC

@@ -1,4 +1,4 @@
-// Problem Code: ALTARAY
+// Problem Code: DEVUGRAP
 
 #include <iostream>
 #include <vector>
@@ -6,16 +6,12 @@
 
 using namespace std;
 
-long devuAndGrapes(int K, vector<int> N) {
+long long devuAndGrapes(int K, vector<int> N) {
     int R;
-    long grapes;
-    grapes = 0;
+    long long grapes = 0;
     for(int i=0 ; i<N.size() ; i++) {
         R = N[i] % K;
-        if(N[i] < K)
-            grapes += K - R;
-        else
-            grapes += min(R, K-R);
+        grapes += (N[i] < K) ? (K - R) : min(R, K-R);
     }
     return grapes;
 }
