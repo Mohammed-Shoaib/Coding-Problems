@@ -135,6 +135,7 @@ The questions are divided into 6 categories:
 |[E0030]|[Little Elephant and Bombs]|
 |[E0031]|[Your Name is Mine]|
 |[E0032]|[Copy-Paste]|
+|[E0033]|[Tourist Translations]|
 
 ## Medium
 
@@ -496,6 +497,9 @@ The questions are divided into 6 categories:
 
 [E0032]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0032.cpp
 [Copy-Paste]: https://www.codechef.com/problems/RRCOPY
+
+[E0033]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0033.cpp
+[Tourist Translations]: https://www.codechef.com/problems/TOTR
 
 [//]: # (Medium)
 
