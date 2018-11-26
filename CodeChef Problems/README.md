@@ -136,6 +136,7 @@ The questions are divided into 6 categories:
 |[E0031]|[Your Name is Mine]|
 |[E0032]|[Copy-Paste]|
 |[E0033]|[Tourist Translations]|
+|[E0034]|[Magic Pairs]|
 
 ## Medium
 
@@ -500,6 +501,9 @@ The questions are divided into 6 categories:
 
 [E0033]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0033.cpp
 [Tourist Translations]: https://www.codechef.com/problems/TOTR
+
+[E0034]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0034.cpp
+[Magic Pairs]: https://www.codechef.com/problems/ALEXNUMB
 
 [//]: # (Medium)
 
