@@ -137,6 +137,7 @@ The questions are divided into 6 categories:
 |[E0032]|[Copy-Paste]|
 |[E0033]|[Tourist Translations]|
 |[E0034]|[Magic Pairs]|
+|[E0035]|[Decreasing String]|
 
 ## Medium
 
@@ -504,6 +505,9 @@ The questions are divided into 6 categories:
 
 [E0034]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0034.cpp
 [Magic Pairs]: https://www.codechef.com/problems/ALEXNUMB
+
+[E0035]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0035.cpp
+[Decreasing String]: https://www.codechef.com/problems/DECSTR
 
 [//]: # (Medium)
 
