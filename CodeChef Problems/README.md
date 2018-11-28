@@ -138,6 +138,7 @@ The questions are divided into 6 categories:
 |[E0033]|[Tourist Translations]|
 |[E0034]|[Magic Pairs]|
 |[E0035]|[Decreasing String]|
+|[E0036]|[Chef and Notebooks]|
 
 ## Medium
 
@@ -508,6 +509,9 @@ The questions are divided into 6 categories:
 
 [E0035]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0035.cpp
 [Decreasing String]: https://www.codechef.com/problems/DECSTR
+
+[E0036]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0036.cpp
+[Chef and Notebooks]: https://www.codechef.com/problems/CNOTE
 
 [//]: # (Medium)
 
