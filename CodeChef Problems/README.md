@@ -139,6 +139,7 @@ The questions are divided into 6 categories:
 |[E0034]|[Magic Pairs]|
 |[E0035]|[Decreasing String]|
 |[E0036]|[Chef and Notebooks]|
+|[E0037]|[Divide the Cake]|
 
 ## Medium
 
@@ -512,6 +513,9 @@ The questions are divided into 6 categories:
 
 [E0036]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0036.cpp
 [Chef and Notebooks]: https://www.codechef.com/problems/CNOTE
+
+[E0037]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0037.cpp
+[Divide the Cake]: https://www.codechef.com/problems/ANUDTC
 
 [//]: # (Medium)
 
