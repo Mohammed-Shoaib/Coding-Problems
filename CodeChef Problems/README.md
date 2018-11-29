@@ -140,6 +140,7 @@ The questions are divided into 6 categories:
 |[E0035]|[Decreasing String]|
 |[E0036]|[Chef and Notebooks]|
 |[E0037]|[Divide the Cake]|
+|[E0038]|[Chopsticks]|
 
 ## Medium
 
@@ -516,6 +517,9 @@ The questions are divided into 6 categories:
 
 [E0037]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0037.cpp
 [Divide the Cake]: https://www.codechef.com/problems/ANUDTC
+
+[E0038]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0038.cpp
+[Chopsticks]: https://www.codechef.com/problems/TACHSTCK
 
 [//]: # (Medium)
 
