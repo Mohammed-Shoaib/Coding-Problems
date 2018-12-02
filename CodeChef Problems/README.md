@@ -142,6 +142,7 @@ The questions are divided into 6 categories:
 |[E0037]|[Divide the Cake]|
 |[E0038]|[Chopsticks]|
 |[E0039]|[Open the Dragon Scroll]|
+|[E0040]|[The Ball And Cups]|
 
 ## Medium
 
@@ -524,6 +525,9 @@ The questions are divided into 6 categories:
 
 [E0039]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0039.cpp
 [Open the Dragon Scroll]: https://www.codechef.com/problems/DRAGNXOR
+
+[E0040]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0040.cpp
+[The Ball And Cups]: https://www.codechef.com/problems/TAVISUAL
 
 [//]: # (Medium)
 
