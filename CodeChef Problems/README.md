@@ -143,6 +143,7 @@ The questions are divided into 6 categories:
 |[E0038]|[Chopsticks]|
 |[E0039]|[Open the Dragon Scroll]|
 |[E0040]|[The Ball And Cups]|
+|[E0041]|[Please like me]|
 
 ## Medium
 
@@ -528,6 +529,9 @@ The questions are divided into 6 categories:
 
 [E0040]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0040.cpp
 [The Ball And Cups]: https://www.codechef.com/problems/TAVISUAL
+
+[E0041]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0041.cpp
+[Please like me]: https://www.codechef.com/problems/PLZLYKME
 
 [//]: # (Medium)
 
