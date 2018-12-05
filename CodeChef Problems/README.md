@@ -145,6 +145,7 @@ The questions are divided into 6 categories:
 |[E0040]|[The Ball And Cups]|
 |[E0041]|[Please like me]|
 |[E0042]|[Walk on the Axis]|
+|[E0043]|[Lucky Long]|
 
 ## Medium
 
@@ -536,6 +537,9 @@ The questions are divided into 6 categories:
 
 [E0042]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0042.cpp
 [Walk on the Axis]: https://www.codechef.com/problems/ANUWTA
+
+[E0043]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0043.cpp
+[Lucky Long]: https://www.codechef.com/problems/LUCKY5
 
 [//]: # (Medium)
 
