@@ -147,6 +147,7 @@ The questions are divided into 6 categories:
 |[E0042]|[Walk on the Axis]|
 |[E0043]|[Lucky Long]|
 |[E0044]|[Walk]|
+|[E00]|[Chef and Ground]|
 
 ## Medium
 
@@ -544,6 +545,9 @@ The questions are divided into 6 categories:
 
 [E0044]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0044.cpp
 [Walk]: https://www.codechef.com/problems/WALK
+
+[E00]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0045.c
+[Chef and Ground]: https://www.codechef.com/problems/CHEFGR
 
 [//]: # (Medium)
 
