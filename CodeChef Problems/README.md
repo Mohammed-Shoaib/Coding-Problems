@@ -146,6 +146,7 @@ The questions are divided into 6 categories:
 |[E0041]|[Please like me]|
 |[E0042]|[Walk on the Axis]|
 |[E0043]|[Lucky Long]|
+|[E0044]|[Walk]|
 
 ## Medium
 
@@ -540,6 +541,9 @@ The questions are divided into 6 categories:
 
 [E0043]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0043.cpp
 [Lucky Long]: https://www.codechef.com/problems/LUCKY5
+
+[E0044]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0044.cpp
+[Walk]: https://www.codechef.com/problems/WALK
 
 [//]: # (Medium)
 
