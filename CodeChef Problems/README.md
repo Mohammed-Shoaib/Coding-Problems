@@ -149,6 +149,7 @@ The questions are divided into 6 categories:
 |[E0044]|[Walk]|
 |[E0045]|[Chef and Ground]|
 |[E0046]|[Suraj goes shopping]|
+|[E0047]|[Subarray GCD]|
 
 ## Medium
 
@@ -552,6 +553,9 @@ The questions are divided into 6 categories:
 
 [E0046]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0046.cpp
 [Suraj goes shopping]: https://www.codechef.com/problems/ANUBTG
+
+[E0047]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0047.cpp
+[Subarray GCD]: https://www.codechef.com/problems/SUBGCD
 
 [//]: # (Medium)
 
