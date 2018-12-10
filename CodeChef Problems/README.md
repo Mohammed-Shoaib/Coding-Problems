@@ -150,6 +150,7 @@ The questions are divided into 6 categories:
 |[E0045]|[Chef and Ground]|
 |[E0046]|[Suraj goes shopping]|
 |[E0047]|[Subarray GCD]|
+|[E0048]|[Chef and Subarray]|
 
 ## Medium
 
@@ -556,6 +557,9 @@ The questions are divided into 6 categories:
 
 [E0047]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0047.cpp
 [Subarray GCD]: https://www.codechef.com/problems/SUBGCD
+
+[E0048]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0048.cpp
+[Chef and Subarray]: https://www.codechef.com/problems/CHEFZOT
 
 [//]: # (Medium)
 
