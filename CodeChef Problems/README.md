@@ -151,6 +151,7 @@ The questions are divided into 6 categories:
 |[E0046]|[Suraj goes shopping]|
 |[E0047]|[Subarray GCD]|
 |[E0048]|[Chef and Subarray]|
+|[E0049]|[Attic Crossing]|
 
 ## Medium
 
@@ -560,6 +561,9 @@ The questions are divided into 6 categories:
 
 [E0048]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0048.cpp
 [Chef and Subarray]: https://www.codechef.com/problems/CHEFZOT
+
+[E0049]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0049.cpp
+[Attic Crossing]: https://www.codechef.com/problems/ATTIC
 
 [//]: # (Medium)
 
