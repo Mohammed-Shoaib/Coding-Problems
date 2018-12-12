@@ -152,6 +152,7 @@ The questions are divided into 6 categories:
 |[E0047]|[Subarray GCD]|
 |[E0048]|[Chef and Subarray]|
 |[E0049]|[Attic Crossing]|
+|[E0050]|[Code Crazy Minions]|
 
 ## Medium
 
@@ -564,6 +565,9 @@ The questions are divided into 6 categories:
 
 [E0049]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0049.cpp
 [Attic Crossing]: https://www.codechef.com/problems/ATTIC
+
+[E0050]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0050.cpp
+[Code Crazy Minions]: https://www.codechef.com/problems/NOCODING
 
 [//]: # (Medium)
 
