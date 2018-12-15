@@ -154,6 +154,7 @@ The questions are divided into 6 categories:
 |[E0049]|[Attic Crossing]|
 |[E0050]|[Code Crazy Minions]|
 |[E0051]|[GCD2]|
+|[E0052]|[Count Substrings]|
 
 ## Medium
 
@@ -572,6 +573,9 @@ The questions are divided into 6 categories:
 
 [E0051]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0051.cpp
 [GCD2]: https://www.codechef.com/problems/GCD2
+
+[E0052]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0052.cpp
+[Count Substrings]: https://www.codechef.com/problems/CSUB
 
 [//]: # (Medium)
 
