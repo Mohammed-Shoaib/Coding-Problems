@@ -155,6 +155,7 @@ The questions are divided into 6 categories:
 |[E0050]|[Code Crazy Minions]|
 |[E0051]|[GCD2]|
 |[E0052]|[Count Substrings]|
+|[E0053]|[The Best Box]|
 
 ## Medium
 
@@ -576,6 +577,9 @@ The questions are divided into 6 categories:
 
 [E0052]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0052.cpp
 [Count Substrings]: https://www.codechef.com/problems/CSUB
+
+[E0053]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0053.cpp
+[The Best Box]: https://www.codechef.com/problems/J7
 
 [//]: # (Medium)
 
