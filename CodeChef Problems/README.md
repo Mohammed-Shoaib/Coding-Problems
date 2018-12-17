@@ -157,6 +157,7 @@ The questions are divided into 6 categories:
 |[E0052]|[Count Substrings]|
 |[E0053]|[The Best Box]|
 |[E0054]|[Beautiful Garland]|
+|[E0055]|[A-B Game]|
 
 ## Medium
 
@@ -584,6 +585,9 @@ The questions are divided into 6 categories:
 
 [E0054]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0054.cpp
 [Beautiful Garland]: https://www.codechef.com/problems/BEAUTGAR
+
+[E0055]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0055.cpp
+[A-B Game]: https://www.codechef.com/problems/ABGAME
 
 [//]: # (Medium)
 
