@@ -156,6 +156,7 @@ The questions are divided into 6 categories:
 |[E0051]|[GCD2]|
 |[E0052]|[Count Substrings]|
 |[E0053]|[The Best Box]|
+|[E0054]|[Beautiful Garland]|
 
 ## Medium
 
@@ -580,6 +581,9 @@ The questions are divided into 6 categories:
 
 [E0053]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0053.cpp
 [The Best Box]: https://www.codechef.com/problems/J7
+
+[E0054]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0054.cpp
+[Beautiful Garland]: https://www.codechef.com/problems/BEAUTGAR
 
 [//]: # (Medium)
 
