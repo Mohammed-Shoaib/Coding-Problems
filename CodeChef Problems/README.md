@@ -158,6 +158,7 @@ The questions are divided into 6 categories:
 |[E0053]|[The Best Box]|
 |[E0054]|[Beautiful Garland]|
 |[E0055]|[A-B Game]|
+|[E0056]|[Permutation Cycles]|
 
 ## Medium
 
@@ -588,6 +589,9 @@ The questions are divided into 6 categories:
 
 [E0055]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0055.cpp
 [A-B Game]: https://www.codechef.com/problems/ABGAME
+
+[E0056]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0056.cpp
+[Permutation Cycles]: https://www.codechef.com/problems/PCYCLE
 
 [//]: # (Medium)
 
