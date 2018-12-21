@@ -160,6 +160,7 @@ The questions are divided into 6 categories:
 |[E0055]|[A-B Game]|
 |[E0056]|[Permutation Cycles]|
 |[E0057]|[Most Frequent Element]|
+|[E0058]|[Chef and Gift]|
 
 ## Medium
 
@@ -596,6 +597,9 @@ The questions are divided into 6 categories:
 
 [E0057]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0057.cpp
 [Most Frequent Element]: https://www.codechef.com/problems/MFREQ
+
+[E0058]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0058.cpp
+[Chef and Gift]: https://www.codechef.com/problems/PRGIFT
 
 [//]: # (Medium)
 
