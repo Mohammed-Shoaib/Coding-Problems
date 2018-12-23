@@ -162,6 +162,7 @@ The questions are divided into 6 categories:
 |[E0057]|[Most Frequent Element]|
 |[E0058]|[Chef and Gift]|
 |[E0059]|[Chef and easy problem]|
+|[E0060]|[Cutting Pizza]|
 
 ## Medium
 
@@ -604,6 +605,9 @@ The questions are divided into 6 categories:
 
 [E0059]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0059.cpp
 [Chef and easy problem]: https://www.codechef.com/problems/CHEFA
+
+[E0060]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0060.cpp
+[Cutting Pizza]: https://www.codechef.com/problems/CUTPIZ
 
 [//]: # (Medium)
 
