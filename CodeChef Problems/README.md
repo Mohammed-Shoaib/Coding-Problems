@@ -164,6 +164,7 @@ The questions are divided into 6 categories:
 |[E0059]|[Chef and easy problem]|
 |[E0060]|[Cutting Pizza]|
 |[E0061]|[Beats and Pieces]|
+|[E0062]|[Little Elephant and Strings]|
 
 ## Medium
 
@@ -612,6 +613,9 @@ The questions are divided into 6 categories:
 
 [E0061]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0061.cpp
 [Beats and Pieces]: https://www.codechef.com/problems/BPS
+
+[E0062]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0062.cpp
+[Little Elephant and Strings]: https://www.codechef.com/problems/LUCKYSTR
 
 [//]: # (Medium)
 
