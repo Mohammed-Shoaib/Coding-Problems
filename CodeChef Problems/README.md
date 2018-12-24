@@ -163,6 +163,7 @@ The questions are divided into 6 categories:
 |[E0058]|[Chef and Gift]|
 |[E0059]|[Chef and easy problem]|
 |[E0060]|[Cutting Pizza]|
+|[E0061]|[Beats and Pieces]|
 
 ## Medium
 
@@ -608,6 +609,9 @@ The questions are divided into 6 categories:
 
 [E0060]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0060.cpp
 [Cutting Pizza]: https://www.codechef.com/problems/CUTPIZ
+
+[E0061]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0061.cpp
+[Beats and Pieces]: https://www.codechef.com/problems/BPS
 
 [//]: # (Medium)
 
