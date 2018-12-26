@@ -19,5 +19,5 @@ Solutions to some of the coding problems from popular websites. Currently, there
 |Type|Solved|
 |:-----:|:-----:|
 |Beginner|85|
-|Easy|63|
+|Easy|64|
 |Medium|1|

@@ -166,6 +166,7 @@ The questions are divided into 6 categories:
 |[E0061]|[Beats and Pieces]|
 |[E0062]|[Little Elephant and Strings]|
 |[E0063]|[Recipe Reconstruction]|
+|[E0064]|[Fit to Play]|
 
 ## Medium
 
@@ -620,6 +621,9 @@ The questions are divided into 6 categories:
 
 [E0063]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0063.cpp
 [Recipe Reconstruction]: https://www.codechef.com/problems/RRECIPE
+
+[E0064]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0064.cpp
+[Fit to Play]: https://www.codechef.com/problems/PLAYFIT
 
 [//]: # (Medium)
 
