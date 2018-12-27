@@ -167,6 +167,7 @@ The questions are divided into 6 categories:
 |[E0062]|[Little Elephant and Strings]|
 |[E0063]|[Recipe Reconstruction]|
 |[E0064]|[Fit to Play]|
+|[E0065]|[Not a Triangle]|
 
 ## Medium
 
@@ -624,6 +625,9 @@ The questions are divided into 6 categories:
 
 [E0064]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0064.cpp
 [Fit to Play]: https://www.codechef.com/problems/PLAYFIT
+
+[E0065]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0065.cpp
+[Not a Triangle]: https://www.codechef.com/problems/NOTATRI
 
 [//]: # (Medium)
 
