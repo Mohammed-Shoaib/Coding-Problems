@@ -169,6 +169,7 @@ The questions are divided into 6 categories:
 |[E0064]|[Fit to Play]|
 |[E0065]|[Not a Triangle]|
 |[E0066]|[Compilers and parsers]|
+|[E0067]|[Stone]|
 
 ## Medium
 
@@ -632,6 +633,9 @@ The questions are divided into 6 categories:
 
 [E0066]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0066.cpp
 [Compilers and parsers]: https://www.codechef.com/problems/COMPILER
+
+[E0067]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0067.cpp
+[Stone]: https://www.codechef.com/problems/RRSTONE
 
 [//]: # (Medium)
 
