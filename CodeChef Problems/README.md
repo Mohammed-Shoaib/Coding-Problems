@@ -168,6 +168,7 @@ The questions are divided into 6 categories:
 |[E0063]|[Recipe Reconstruction]|
 |[E0064]|[Fit to Play]|
 |[E0065]|[Not a Triangle]|
+|[E0066]|[Compilers and parsers]|
 
 ## Medium
 
@@ -628,6 +629,9 @@ The questions are divided into 6 categories:
 
 [E0065]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0065.cpp
 [Not a Triangle]: https://www.codechef.com/problems/NOTATRI
+
+[E0066]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0066.cpp
+[Compilers and parsers]: https://www.codechef.com/problems/COMPILER
 
 [//]: # (Medium)
 
