@@ -170,6 +170,7 @@ The questions are divided into 6 categories:
 |[E0065]|[Not a Triangle]|
 |[E0066]|[Compilers and parsers]|
 |[E0067]|[Stone]|
+|[E0068]|[Andrew and the Meatballs]|
 
 ## Medium
 
@@ -636,6 +637,9 @@ The questions are divided into 6 categories:
 
 [E0067]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0067.cpp
 [Stone]: https://www.codechef.com/problems/RRSTONE
+
+[E0068]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0068.cpp
+[Andrew and the Meatballs]: https://www.codechef.com/problems/AMMEAT
 
 [//]: # (Medium)
 
