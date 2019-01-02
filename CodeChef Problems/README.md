@@ -172,6 +172,7 @@ The questions are divided into 6 categories:
 |[E0067]|[Stone]|
 |[E0068]|[Andrew and the Meatballs]|
 |[E0069]|[Chef and Stones]|
+|[E0070]|[Row and Column Operations]|
 
 ## Medium
 
@@ -644,6 +645,9 @@ The questions are divided into 6 categories:
 
 [E0069]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0069.cpp
 [Chef and Stones]: https://www.codechef.com/problems/CHEFSTON
+
+[E0070]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0070.cpp
+[Row and Column Operations]: https://www.codechef.com/problems/ROWCOLOP
 
 [//]: # (Medium)
 
