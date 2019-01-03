@@ -174,6 +174,7 @@ The questions are divided into 6 categories:
 |[E0069]|[Chef and Stones]|
 |[E0070]|[Row and Column Operations]|
 |[E0071]|[Chef and Kingship]|
+|[E0072]|[The Way to a Friends House Is Never Too Long]|
 
 ## Medium
 
@@ -652,6 +653,9 @@ The questions are divided into 6 categories:
 
 [E0071]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0071.cpp
 [Chef and Kingship]: https://www.codechef.com/problems/KINGSHIP
+
+[E0072]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0072.cpp
+[The Way to a Friends House Is Never Too Long]: https://www.codechef.com/problems/POINTS
 
 [//]: # (Medium)
 
