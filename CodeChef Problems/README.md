@@ -176,6 +176,7 @@ The questions are divided into 6 categories:
 |[E0071]|[Chef and Kingship]|
 |[E0072]|[The Way to a Friends House Is Never Too Long]|
 |[E0073]|[Approximately]|
+|[E0074]|[Longest Common Pattern]|
 
 ## Medium
 
@@ -660,6 +661,9 @@ The questions are divided into 6 categories:
 
 [E0073]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0073.cpp
 [Approximately]: https://www.codechef.com/problems/APPROX
+
+[E0074]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0074.cpp
+[Longest Common Pattern]: https://www.codechef.com/problems/LCPESY
 
 [//]: # (Medium)
 
