@@ -177,6 +177,7 @@ The questions are divided into 6 categories:
 |[E0072]|[The Way to a Friends House Is Never Too Long]|
 |[E0073]|[Approximately]|
 |[E0074]|[Longest Common Pattern]|
+|[E0075]|[Sum Queries]|
 
 ## Medium
 
@@ -664,6 +665,9 @@ The questions are divided into 6 categories:
 
 [E0074]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0074.cpp
 [Longest Common Pattern]: https://www.codechef.com/problems/LCPESY
+
+[E0075]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0075.cpp
+[Sum Queries]: https://www.codechef.com/problems/RRSUM
 
 [//]: # (Medium)
 
