@@ -184,6 +184,7 @@ The questions are divided into 6 categories:
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
 |[M0001]|[Bytelandian gold coins]|
+|[M0002]|[Closing the Tweets]|
 
 [//]: # (Beginner)
 
@@ -673,3 +674,6 @@ The questions are divided into 6 categories:
 
 [M0001]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Medium/M0001.cpp
 [Bytelandian gold coins]: https://www.codechef.com/problems/COINS
+
+[M0002]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Medium/M0002.cpp
+[Closing the Tweets]: https://www.codechef.com/problems/TWTCLOSE

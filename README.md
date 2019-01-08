@@ -20,4 +20,4 @@ Solutions to some of the coding problems from popular websites. Currently, there
 |:-----:|:-----:|
 |Beginner|85|
 |Easy|75|
-|Medium|1|
+|Medium|2|
