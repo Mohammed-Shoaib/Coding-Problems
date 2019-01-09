@@ -178,6 +178,7 @@ The questions are divided into 6 categories:
 |[E0073]|[Approximately]|
 |[E0074]|[Longest Common Pattern]|
 |[E0075]|[Sum Queries]|
+|[E0076]|[Paying up]|
 
 ## Medium
 
@@ -669,6 +670,9 @@ The questions are divided into 6 categories:
 
 [E0075]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0075.cpp
 [Sum Queries]: https://www.codechef.com/problems/RRSUM
+
+[E0076]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0076.cpp
+[Paying up]: https://www.codechef.com/problems/A1
 
 [//]: # (Medium)
 
