@@ -179,6 +179,7 @@ The questions are divided into 6 categories:
 |[E0074]|[Longest Common Pattern]|
 |[E0075]|[Sum Queries]|
 |[E0076]|[Paying up]|
+|[E0077]|[The Army]|
 
 ## Medium
 
@@ -673,6 +674,9 @@ The questions are divided into 6 categories:
 
 [E0076]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0076.cpp
 [Paying up]: https://www.codechef.com/problems/A1
+
+[E0077]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0077.cpp
+[The Army]: https://www.codechef.com/problems/ANUARM
 
 [//]: # (Medium)
 
