@@ -180,6 +180,7 @@ The questions are divided into 6 categories:
 |[E0075]|[Sum Queries]|
 |[E0076]|[Paying up]|
 |[E0077]|[The Army]|
+|[E0078]|[Broken Telephone]|
 
 ## Medium
 
@@ -677,6 +678,9 @@ The questions are divided into 6 categories:
 
 [E0077]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0077.cpp
 [The Army]: https://www.codechef.com/problems/ANUARM
+
+[E0078]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0078.cpp
+[Broken Telephone]: https://www.codechef.com/problems/BROKPHON
 
 [//]: # (Medium)
 
