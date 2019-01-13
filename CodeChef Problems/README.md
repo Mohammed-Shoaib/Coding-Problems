@@ -181,6 +181,7 @@ The questions are divided into 6 categories:
 |[E0076]|[Paying up]|
 |[E0077]|[The Army]|
 |[E0078]|[Broken Telephone]|
+|[E0079]|[Little Elephant and Divisors]|
 
 ## Medium
 
@@ -681,6 +682,9 @@ The questions are divided into 6 categories:
 
 [E0078]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0078.cpp
 [Broken Telephone]: https://www.codechef.com/problems/BROKPHON
+
+[E0079]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0079.cpp
+[Little Elephant and Divisors]: https://www.codechef.com/problems/LEDIV
 
 [//]: # (Medium)
 
