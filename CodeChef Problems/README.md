@@ -182,6 +182,7 @@ The questions are divided into 6 categories:
 |[E0077]|[The Army]|
 |[E0078]|[Broken Telephone]|
 |[E0079]|[Little Elephant and Divisors]|
+|[E0080]|[Sherlock and the Grid]|
 
 ## Medium
 
@@ -685,6 +686,9 @@ The questions are divided into 6 categories:
 
 [E0079]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0079.cpp
 [Little Elephant and Divisors]: https://www.codechef.com/problems/LEDIV
+
+[E0080]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0080.cpp
+[Sherlock and the Grid]: https://www.codechef.com/problems/GRID
 
 [//]: # (Medium)
 
