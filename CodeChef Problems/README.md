@@ -184,6 +184,7 @@ The questions are divided into 6 categories:
 |[E0079]|[Little Elephant and Divisors]|
 |[E0080]|[Sherlock and the Grid]|
 |[E0081]|[Distinct Characters Subsequence]|
+|[E0082]|[Little Chef and Numbers]|
 
 ## Medium
 
@@ -693,6 +694,9 @@ The questions are divided into 6 categories:
 
 [E0081]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0081.cpp
 [Distinct Characters Subsequence]: https://www.codechef.com/problems/DISCHAR
+
+[E0082]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0082.cpp
+[Little Chef and Numbers]: https://www.codechef.com/problems/PROSUM
 
 [//]: # (Medium)
 
