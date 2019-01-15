@@ -183,6 +183,7 @@ The questions are divided into 6 categories:
 |[E0078]|[Broken Telephone]|
 |[E0079]|[Little Elephant and Divisors]|
 |[E0080]|[Sherlock and the Grid]|
+|[E0081]|[Distinct Characters Subsequence]|
 
 ## Medium
 
@@ -689,6 +690,9 @@ The questions are divided into 6 categories:
 
 [E0080]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0080.cpp
 [Sherlock and the Grid]: https://www.codechef.com/problems/GRID
+
+[E0081]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/CodeChef%20Problems/Easy/E0081.cpp
+[Distinct Characters Subsequence]: https://www.codechef.com/problems/DISCHAR
 
 [//]: # (Medium)
 
