@@ -60,6 +60,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0048]|[HackerRank in a String!]|
 |[E0049]|[Funny String]|
 |[E0050]|[Alternating Characters]|
+|[E0051]|[Beautiful Binary String]|
 
 ## Medium
 
@@ -233,6 +234,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0050]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0050.cpp
 [Alternating Characters]: https://www.hackerrank.com/challenges/alternating-characters/problem
+
+[E0051]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0051.cpp
+[Beautiful Binary String]: https://www.hackerrank.com/challenges/beautiful-binary-string/problem
 
 [//]: # (Medium)
 
