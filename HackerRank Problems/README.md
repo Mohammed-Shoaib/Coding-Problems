@@ -61,6 +61,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0049]|[Funny String]|
 |[E0050]|[Alternating Characters]|
 |[E0051]|[Beautiful Binary String]|
+|[E0052]|[The Love-Letter Mystery]|
 
 ## Medium
 
@@ -237,6 +238,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0051]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0051.cpp
 [Beautiful Binary String]: https://www.hackerrank.com/challenges/beautiful-binary-string/problem
+
+[E0052]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0052.cpp
+[The Love-Letter Mystery]: https://www.hackerrank.com/challenges/the-love-letter-mystery/problem
 
 [//]: # (Medium)
 
