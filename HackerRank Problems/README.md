@@ -63,6 +63,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0051]|[Beautiful Binary String]|
 |[E0052]|[The Love-Letter Mystery]|
 |[E0053]|[Anagram]|
+|[E0054]|[Making Anagrams]|
 
 ## Medium
 
@@ -245,6 +246,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0053]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0053.cpp
 [Anagram]: https://www.hackerrank.com/challenges/anagram/problem
+
+[E0054]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0054.cpp
+[Making Anagrams]: https://www.hackerrank.com/challenges/making-anagrams/problem
 
 [//]: # (Medium)
 
