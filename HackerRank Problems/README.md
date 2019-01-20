@@ -64,6 +64,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0052]|[The Love-Letter Mystery]|
 |[E0053]|[Anagram]|
 |[E0054]|[Making Anagrams]|
+|[E0055]|[Caesar Cipher]|
 
 ## Medium
 
@@ -249,6 +250,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0054]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0054.cpp
 [Making Anagrams]: https://www.hackerrank.com/challenges/making-anagrams/problem
+
+[E0055]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0055.cpp
+[Caesar Cipher]: https://www.hackerrank.com/challenges/caesar-cipher-1/problem
 
 [//]: # (Medium)
 

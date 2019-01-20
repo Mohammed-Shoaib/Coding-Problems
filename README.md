@@ -10,7 +10,7 @@ Solutions to some of the coding problems from popular websites. Currently, there
 
 |Type|Solved|
 |:-----:|:-----:|
-|Easy|54|
+|Easy|55|
 |Medium|10|
 |Hard|1|
 
