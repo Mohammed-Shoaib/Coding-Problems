@@ -66,6 +66,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0054]|[Making Anagrams]|
 |[E0055]|[Caesar Cipher]|
 |[E0056]|[Time Conversion]|
+|[E0057]|[Kangaroo]|
 
 ## Medium
 
@@ -257,6 +258,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0056]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0056.cpp
 [Time Conversion]: https://www.hackerrank.com/challenges/time-conversion/problem
+
+[E0057]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0057.cpp
+[Kangaroo]: https://www.hackerrank.com/challenges/kangaroo/problem
 
 [//]: # (Medium)
 
