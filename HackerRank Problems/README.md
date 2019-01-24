@@ -67,6 +67,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0055]|[Caesar Cipher]|
 |[E0056]|[Time Conversion]|
 |[E0057]|[Kangaroo]|
+|[E0058]|[Viral Advertising]|
 
 ## Medium
 
@@ -261,6 +262,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0057]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0057.cpp
 [Kangaroo]: https://www.hackerrank.com/challenges/kangaroo/problem
+
+[E0058]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0058.cpp
+[Viral Advertising]: https://www.hackerrank.com/challenges/strange-advertising/problem
 
 [//]: # (Medium)
 
