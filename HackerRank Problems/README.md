@@ -68,6 +68,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0056]|[Time Conversion]|
 |[E0057]|[Kangaroo]|
 |[E0058]|[Viral Advertising]|
+|[E0059]|[Beautiful Triplets]|
 
 ## Medium
 
@@ -265,6 +266,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0058]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0058.cpp
 [Viral Advertising]: https://www.hackerrank.com/challenges/strange-advertising/problem
+
+[E0059]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0059.cpp
+[Beautiful Triplets]: https://www.hackerrank.com/challenges/beautiful-triplets/problem
 
 [//]: # (Medium)
 
