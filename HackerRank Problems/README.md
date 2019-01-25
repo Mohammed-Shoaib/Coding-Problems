@@ -69,6 +69,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0057]|[Kangaroo]|
 |[E0058]|[Viral Advertising]|
 |[E0059]|[Beautiful Triplets]|
+|[E0060]|[String Construction]|
 
 ## Medium
 
@@ -269,6 +270,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0059]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0059.cpp
 [Beautiful Triplets]: https://www.hackerrank.com/challenges/beautiful-triplets/problem
+
+[E0060]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0060.cpp
+[String Construction]: https://www.hackerrank.com/challenges/string-construction/problem
 
 [//]: # (Medium)
 
