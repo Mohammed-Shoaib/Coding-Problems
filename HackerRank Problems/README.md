@@ -70,6 +70,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0058]|[Viral Advertising]|
 |[E0059]|[Beautiful Triplets]|
 |[E0060]|[String Construction]|
+|[E0061]|[Picking Numbers]|
 
 ## Medium
 
@@ -273,6 +274,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0060]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0060.cpp
 [String Construction]: https://www.hackerrank.com/challenges/string-construction/problem
+
+[E0061]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0061.cpp
+[Picking Numbers]: https://www.hackerrank.com/challenges/picking-numbers/problem
 
 [//]: # (Medium)
 
