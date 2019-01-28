@@ -71,6 +71,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0059]|[Beautiful Triplets]|
 |[E0060]|[String Construction]|
 |[E0061]|[Picking Numbers]|
+|[E0062]|[Gemstones]|
 
 ## Medium
 
@@ -277,6 +278,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0061]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0061.cpp
 [Picking Numbers]: https://www.hackerrank.com/challenges/picking-numbers/problem
+
+[E0062]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0062.cpp
+[Gemstones]: https://www.hackerrank.com/challenges/gem-stones/problem
 
 [//]: # (Medium)
 
