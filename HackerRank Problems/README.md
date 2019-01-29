@@ -72,6 +72,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0060]|[String Construction]|
 |[E0061]|[Picking Numbers]|
 |[E0062]|[Gemstones]|
+|[E0063]|[Closest Numbers]|
 
 ## Medium
 
@@ -281,6 +282,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0062]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0062.cpp
 [Gemstones]: https://www.hackerrank.com/challenges/gem-stones/problem
+
+[E0063]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0063.cpp
+[Closest Numbers]: https://www.hackerrank.com/challenges/closest-numbers/problem
 
 [//]: # (Medium)
 
