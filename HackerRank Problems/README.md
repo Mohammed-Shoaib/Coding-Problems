@@ -73,6 +73,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0061]|[Picking Numbers]|
 |[E0062]|[Gemstones]|
 |[E0063]|[Closest Numbers]|
+|[E0064]|[Find the Median]|
 
 ## Medium
 
@@ -285,6 +286,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0063]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0063.cpp
 [Closest Numbers]: https://www.hackerrank.com/challenges/closest-numbers/problem
+
+[E0064]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0064.cpp
+[Find the Median]: https://www.hackerrank.com/challenges/find-the-median/problem
 
 [//]: # (Medium)
 
