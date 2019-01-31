@@ -74,6 +74,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0062]|[Gemstones]|
 |[E0063]|[Closest Numbers]|
 |[E0064]|[Find the Median]|
+|[E0065]|[Two Strings]|
 
 ## Medium
 
@@ -289,6 +290,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0064]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0064.cpp
 [Find the Median]: https://www.hackerrank.com/challenges/find-the-median/problem
+
+[E0065]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0065.cpp
+[Two Strings]: https://www.hackerrank.com/challenges/two-strings/problem
 
 [//]: # (Medium)
 
