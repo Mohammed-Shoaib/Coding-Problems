@@ -76,6 +76,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0064]|[Find the Median]|
 |[E0065]|[Two Strings]|
 |[E0066]|[Weighted Uniform Strings]|
+|[E0067]|[Ice Cream Parlor]|
 
 ## Medium
 
@@ -297,6 +298,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0066]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0066.cpp
 [Weighted Uniform Strings]: https://www.hackerrank.com/challenges/weighted-uniform-string/problem
+
+[E0067]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0067.cpp
+[Ice Cream Parlor]: https://www.hackerrank.com/challenges/icecream-parlor/problem
 
 [//]: # (Medium)
 
