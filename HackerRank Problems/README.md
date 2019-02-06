@@ -81,6 +81,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0069]|[Day of the Programmer]|
 |[E0070]|[Halloween Sale]|
 |[E0071]|[Chocolate Feast]|
+|[E0072]|[Separate the Numbers]|
 
 ## Medium
 
@@ -317,6 +318,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0071]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0071.cpp
 [Chocolate Feast]: https://www.hackerrank.com/challenges/chocolate-feast/problem
+
+[E0072]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0072.cpp
+[Separate the Numbers]: https://www.hackerrank.com/challenges/separate-the-numbers/problem
 
 [//]: # (Medium)
 
