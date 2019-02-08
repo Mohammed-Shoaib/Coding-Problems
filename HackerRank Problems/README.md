@@ -82,6 +82,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0070]|[Halloween Sale]|
 |[E0071]|[Chocolate Feast]|
 |[E0072]|[Separate the Numbers]|
+|[E0073]|[Palindrome Index]|
 
 ## Medium
 
@@ -321,6 +322,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0072]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0072.cpp
 [Separate the Numbers]: https://www.hackerrank.com/challenges/separate-the-numbers/problem
+
+[E0073]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0073.cpp
+[Palindrome Index]: https://www.hackerrank.com/challenges/palindrome-index/problem
 
 [//]: # (Medium)
 
