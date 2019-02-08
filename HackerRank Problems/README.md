@@ -83,6 +83,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0071]|[Chocolate Feast]|
 |[E0072]|[Separate the Numbers]|
 |[E0073]|[Palindrome Index]|
+|[E0074]|[Minimum Absolute Difference in an Array]|
 
 ## Medium
 
@@ -325,6 +326,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0073]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0073.cpp
 [Palindrome Index]: https://www.hackerrank.com/challenges/palindrome-index/problem
+
+[E0074]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0074.cpp
+[Minimum Absolute Difference in an Array]: https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem
 
 [//]: # (Medium)
 
