@@ -84,6 +84,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0072]|[Separate the Numbers]|
 |[E0073]|[Palindrome Index]|
 |[E0074]|[Minimum Absolute Difference in an Array]|
+|[E0075]|[Marc's Cakewalk]|
 
 ## Medium
 
@@ -329,6 +330,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0074]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0074.cpp
 [Minimum Absolute Difference in an Array]: https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem
+
+[E0075]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0075.cpp
+[Marc's Cakewalk]: https://www.hackerrank.com/challenges/marcs-cakewalk/problem
 
 [//]: # (Medium)
 
