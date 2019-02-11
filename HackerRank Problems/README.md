@@ -86,6 +86,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0074]|[Minimum Absolute Difference in an Array]|
 |[E0075]|[Marc's Cakewalk]|
 |[E0076]|[Luck Balance]|
+|[E0077]|[Maximum Perimeter Triangle]|
 
 ## Medium
 
@@ -337,6 +338,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0076]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0076.cpp
 [Luck Balance]: https://www.hackerrank.com/challenges/luck-balance/problem
+
+[E0077]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0077.cpp
+[Maximum Perimeter Triangle]: https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem
 
 [//]: # (Medium)
 
