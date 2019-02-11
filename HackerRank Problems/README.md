@@ -85,6 +85,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0073]|[Palindrome Index]|
 |[E0074]|[Minimum Absolute Difference in an Array]|
 |[E0075]|[Marc's Cakewalk]|
+|[E0076]|[Luck Balance]|
 
 ## Medium
 
@@ -333,6 +334,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0075]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0075.cpp
 [Marc's Cakewalk]: https://www.hackerrank.com/challenges/marcs-cakewalk/problem
+
+[E0076]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0076.cpp
+[Luck Balance]: https://www.hackerrank.com/challenges/luck-balance/problem
 
 [//]: # (Medium)
 
