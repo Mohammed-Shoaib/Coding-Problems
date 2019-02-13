@@ -87,6 +87,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0075]|[Marc's Cakewalk]|
 |[E0076]|[Luck Balance]|
 |[E0077]|[Maximum Perimeter Triangle]|
+|[E0078]|[Sherlock and The Beast]|
 
 ## Medium
 
@@ -341,6 +342,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0077]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0077.cpp
 [Maximum Perimeter Triangle]: https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem
+
+[E0078]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0078.cpp
+[Sherlock and The Beast]: https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem
 
 [//]: # (Medium)
 
