@@ -88,6 +88,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0076]|[Luck Balance]|
 |[E0077]|[Maximum Perimeter Triangle]|
 |[E0078]|[Sherlock and The Beast]|
+|[E0079]|[Priyanka and Toys]|
 
 ## Medium
 
@@ -345,6 +346,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0078]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0078.cpp
 [Sherlock and The Beast]: https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem
+
+[E0079]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0079.cpp
+[Priyanka and Toys]: https://www.hackerrank.com/challenges/priyanka-and-toys/problem
 
 [//]: # (Medium)
 
