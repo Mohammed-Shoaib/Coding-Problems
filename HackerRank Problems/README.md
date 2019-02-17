@@ -89,6 +89,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0077]|[Maximum Perimeter Triangle]|
 |[E0078]|[Sherlock and The Beast]|
 |[E0079]|[Priyanka and Toys]|
+|[E0080]|[Mark and Toys]|
 
 ## Medium
 
@@ -349,6 +350,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0079]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0079.cpp
 [Priyanka and Toys]: https://www.hackerrank.com/challenges/priyanka-and-toys/problem
+
+[E0080]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0080.cpp
+[Mark and Toys]: https://www.hackerrank.com/challenges/mark-and-toys/problem
 
 [//]: # (Medium)
 
