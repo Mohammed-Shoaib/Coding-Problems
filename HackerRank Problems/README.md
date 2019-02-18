@@ -90,6 +90,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0078]|[Sherlock and The Beast]|
 |[E0079]|[Priyanka and Toys]|
 |[E0080]|[Mark and Toys]|
+|[E0081]|[Permuting Two Arrays]|
 
 ## Medium
 
@@ -353,6 +354,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0080]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0080.cpp
 [Mark and Toys]: https://www.hackerrank.com/challenges/mark-and-toys/problem
+
+[E0081]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0081.cpp
+[Permuting Two Arrays]: https://www.hackerrank.com/challenges/two-arrays/problem
 
 [//]: # (Medium)
 
