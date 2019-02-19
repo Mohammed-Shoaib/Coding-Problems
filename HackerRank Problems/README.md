@@ -92,6 +92,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0080]|[Mark and Toys]|
 |[E0081]|[Permuting Two Arrays]|
 |[E0082]|[Lonely Integer]|
+|[E0083]|[Maximizing XOR]|
 
 ## Medium
 
@@ -361,6 +362,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0082]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0082.cpp
 [Lonely Integer]: https://www.hackerrank.com/challenges/lonely-integer/problem
+
+[E0083]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0083.cpp
+[Maximizing XOR]: https://www.hackerrank.com/challenges/maximizing-xor/problem
 
 [//]: # (Medium)
 
