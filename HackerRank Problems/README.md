@@ -91,6 +91,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0079]|[Priyanka and Toys]|
 |[E0080]|[Mark and Toys]|
 |[E0081]|[Permuting Two Arrays]|
+|[E0082]|[Lonely Integer]|
 
 ## Medium
 
@@ -357,6 +358,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0081]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0081.cpp
 [Permuting Two Arrays]: https://www.hackerrank.com/challenges/two-arrays/problem
+
+[E0082]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0082.cpp
+[Lonely Integer]: https://www.hackerrank.com/challenges/lonely-integer/problem
 
 [//]: # (Medium)
 
