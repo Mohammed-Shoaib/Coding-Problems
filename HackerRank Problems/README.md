@@ -95,6 +95,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0083]|[Maximizing XOR]|
 |[E0084]|[Game of Stones]|
 |[E0085]|[Tower Breakers]|
+|[E0086]|[Flipping bits]|
 
 ## Medium
 
@@ -373,6 +374,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0085]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0085.cpp
 [Tower Breakers]: https://www.hackerrank.com/challenges/tower-breakers-1/problem
+
+[E0086]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0086.cpp
+[Flipping bits]: https://www.hackerrank.com/challenges/flipping-bits/problem
 
 [//]: # (Medium)
 
