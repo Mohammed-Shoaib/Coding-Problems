@@ -96,6 +96,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0084]|[Game of Stones]|
 |[E0085]|[Tower Breakers]|
 |[E0086]|[Flipping bits]|
+|[E0087]|[Grid Challenge]|
 
 ## Medium
 
@@ -377,6 +378,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0086]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0086.cpp
 [Flipping bits]: https://www.hackerrank.com/challenges/flipping-bits/problem
+
+[E0087]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0087.cpp
+[Grid Challenge]: https://www.hackerrank.com/challenges/grid-challenge/problem
 
 [//]: # (Medium)
 
