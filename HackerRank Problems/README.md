@@ -97,6 +97,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0085]|[Tower Breakers]|
 |[E0086]|[Flipping bits]|
 |[E0087]|[Grid Challenge]|
+|[E0088]|[ACM ICPC Team]|
 
 ## Medium
 
@@ -381,6 +382,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0087]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0087.cpp
 [Grid Challenge]: https://www.hackerrank.com/challenges/grid-challenge/problem
+
+[E0088]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0088.cpp
+[ACM ICPC Team]: https://www.hackerrank.com/challenges/acm-icpc-team/problem
 
 [//]: # (Medium)
 
