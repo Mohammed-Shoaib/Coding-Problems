@@ -99,6 +99,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0087]|[Grid Challenge]|
 |[E0088]|[ACM ICPC Team]|
 |[E0089]|[Game of Thrones - I]|
+|[E0090]|[Largest Permutation]|
 
 ## Medium
 
@@ -389,6 +390,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0089]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0089.cpp
 [Game of Thrones - I]: https://www.hackerrank.com/challenges/game-of-thrones/problem
+
+[E0090]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0090.cpp
+[Largest Permutation]: https://www.hackerrank.com/challenges/largest-permutation/problem
 
 [//]: # (Medium)
 
