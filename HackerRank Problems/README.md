@@ -100,6 +100,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0088]|[ACM ICPC Team]|
 |[E0089]|[Game of Thrones - I]|
 |[E0090]|[Largest Permutation]|
+|[E0091]|[Intro to Tutorial Challenges]|
 
 ## Medium
 
@@ -393,6 +394,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0090]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0090.cpp
 [Largest Permutation]: https://www.hackerrank.com/challenges/largest-permutation/problem
+
+[E0091]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0091.cpp
+[Intro to Tutorial Challenges]: https://www.hackerrank.com/challenges/tutorial-intro/problem
 
 [//]: # (Medium)
 
