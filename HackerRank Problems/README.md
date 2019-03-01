@@ -101,6 +101,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0089]|[Game of Thrones - I]|
 |[E0090]|[Largest Permutation]|
 |[E0091]|[Intro to Tutorial Challenges]|
+|[E0092]|[Insertion Sort - Part 1]|
 
 ## Medium
 
@@ -397,6 +398,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0091]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0091.cpp
 [Intro to Tutorial Challenges]: https://www.hackerrank.com/challenges/tutorial-intro/problem
+
+[E0092]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0092.cpp
+[Insertion Sort - Part 1]: https://www.hackerrank.com/challenges/insertionsort1/problem
 
 [//]: # (Medium)
 
