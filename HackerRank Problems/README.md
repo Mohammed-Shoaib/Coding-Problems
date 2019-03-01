@@ -102,6 +102,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0090]|[Largest Permutation]|
 |[E0091]|[Intro to Tutorial Challenges]|
 |[E0092]|[Insertion Sort - Part 1]|
+|[E0093]|[Insertion Sort - Part 2]|
 
 ## Medium
 
@@ -401,6 +402,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0092]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0092.cpp
 [Insertion Sort - Part 1]: https://www.hackerrank.com/challenges/insertionsort1/problem
+
+[E0093]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0093.cpp
+[Insertion Sort - Part 2]: https://www.hackerrank.com/challenges/insertionsort2/problem
 
 [//]: # (Medium)
 
