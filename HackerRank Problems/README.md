@@ -103,6 +103,7 @@ The questions are divided into 3 levels of difficulty:
 |[E0091]|[Intro to Tutorial Challenges]|
 |[E0092]|[Insertion Sort - Part 1]|
 |[E0093]|[Insertion Sort - Part 2]|
+|[E0094]|[Correctness and the Loop Invariant]|
 
 ## Medium
 
@@ -405,6 +406,9 @@ The questions are divided into 3 levels of difficulty:
 
 [E0093]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0093.cpp
 [Insertion Sort - Part 2]: https://www.hackerrank.com/challenges/insertionsort2/problem
+
+[E0094]: https://github.com/Mohammed-Shoaib/Coding-Problems/blob/master/HackerRank%20Problems/Easy/E0094.cpp
+[Correctness and the Loop Invariant]: https://www.hackerrank.com/challenges/correctness-invariant/problem
 
 [//]: # (Medium)
 
