@@ -11,10 +11,12 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | [A. Predictive Text Input] | [predict.cpp] | [predict.in] | [predict.out] |
 
 
+
 ## 2016
 
 | Problem Statement | Solution | Input File | Output File |
 |-------------------|:--------:|:----------:|:-----------:|
+| [A. Ntonic Sequence] | [sequence.cpp] | [sequence.in] | [sequence.out] |
 
 
 
@@ -42,6 +44,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 
 
 [//]: # (2016)
+
+[A. Ntonic Sequence]: 2016/sequence/Ntonic%20Sequence.pdf
+[sequence.cpp]: 2016/sequence/sequence.cpp
+[sequence.in]: 2016/sequence/sequence.in
+[sequence.out]: 2016/sequence/sequence.out
 
 
 
