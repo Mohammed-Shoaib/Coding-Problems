@@ -24,6 +24,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 
 | Problem Statement | Solution | Input File | Output File |
 |-------------------|:--------:|:----------:|:-----------:|
+| [A. Squares or Circles] | [squares.cpp] | [squares.in] | [squares.out] |
 
 
 
@@ -53,6 +54,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 
 
 [//]: # (2017)
+
+[A. Squares or Circles]: 2017/squares/Squares%20or%20Circles.pdf
+[squares.cpp]: 2017/squares/squares.cpp
+[squares.in]: 2017/squares/squares.in
+[squares.out]: 2017/squares/squares.out
 
 
 
