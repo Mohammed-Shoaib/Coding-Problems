@@ -32,6 +32,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 
 | Problem Statement | Solution | Input File | Output File |
 |-------------------|:--------:|:----------:|:-----------:|
+| [A. Rocket Fuel] | [rocket.cpp] | [rocket.in] | [rocket.out] |
 
 
 
@@ -63,3 +64,8 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 
 
 [//]: # (2018)
+
+[A. Rocket Fuel]: 2018/rocket/Rocket%20Fuel.pdf
+[rocket.cpp]: 2018/rocket/rocket.cpp
+[rocket.in]: 2018/rocket/rocket.in
+[rocket.out]: 2018/rocket/rocket.out
