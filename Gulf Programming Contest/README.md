@@ -33,6 +33,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | Problem Statement | Solution | Input File | Output File |
 |-------------------|:--------:|:----------:|:-----------:|
 | [A. Rocket Fuel] | [rocket.cpp] | [rocket.in] | [rocket.out] |
+| [B. Socks of The Dark] | [socks.cpp] | [socks.in] | [socks.out] |
 
 
 
@@ -69,3 +70,8 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [rocket.cpp]: 2018/rocket/rocket.cpp
 [rocket.in]: 2018/rocket/rocket.in
 [rocket.out]: 2018/rocket/rocket.out
+
+[B. Socks of The Dark]: 2018/socks/Socks%20of%20The%20Dark.pdf
+[socks.cpp]: 2018/socks/socks.cpp
+[socks.in]: 2018/socks/socks.in
+[socks.out]: 2018/socks/socks.out
