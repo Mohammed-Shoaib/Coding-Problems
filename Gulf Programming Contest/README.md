@@ -9,6 +9,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | Problem Statement | Solution | Input File | Output File |
 |-------------------|:--------:|:----------:|:-----------:|
 | [A. Predictive Text Input] | [predict.cpp] | [predict.in] | [predict.out] |
+| [B. The League] | [league.cpp] | [league.in] | [league.out] |
 
 
 
@@ -43,6 +44,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [predict.cpp]: 2015/predict/predict.cpp
 [predict.in]: 2015/predict/predict.in
 [predict.out]: 2015/predict/predict.out
+
+[B. The League]: 2015/league/The%20League.pdf
+[league.cpp]: 2015/league/league.cpp
+[league.in]: 2015/league/league.in
+[league.out]: 2015/league/league.out
 
 
 
