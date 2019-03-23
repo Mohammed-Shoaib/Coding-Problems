@@ -10,6 +10,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 |-------------------|:--------:|:----------:|:-----------:|
 | [A. Predictive Text Input] | [predict.cpp] | [predict.in] | [predict.out] |
 | [B. The League] | [league.cpp] | [league.in] | [league.out] |
+| [C. Exam Graph] | [graph.cpp] | [graph.in] | [graph.out] |
 
 
 
@@ -49,6 +50,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [league.cpp]: 2015/league/league.cpp
 [league.in]: 2015/league/league.in
 [league.out]: 2015/league/league.out
+
+[C. Exam Graph]: 2015/graph/Exam%20Graph.pdf
+[graph.cpp]: 2015/graph/graph.cpp
+[graph.in]: 2015/graph/graph.in
+[graph.out]: 2015/graph/graph.out
 
 
 
