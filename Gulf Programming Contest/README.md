@@ -11,6 +11,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | [A. Predictive Text Input] | [predict.cpp] | [predict.in] | [predict.out] |
 | [B. The League] | [league.cpp] | [league.in] | [league.out] |
 | [C. Exam Graph] | [graph.cpp] | [graph.in] | [graph.out] |
+| [D. Pisano Periods] | [pisano.cpp] | [pisano.in] | [pisano.out] |
 
 
 
@@ -55,6 +56,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [graph.cpp]: 2015/graph/graph.cpp
 [graph.in]: 2015/graph/graph.in
 [graph.out]: 2015/graph/graph.out
+
+[D. Pisano Periods]: 2015/pisano/Pisano%20Periods.pdf
+[pisano.cpp]: 2015/pisano/pisano.cpp
+[pisano.in]: 2015/pisano/pisano.in
+[pisano.out]: 2015/pisano/pisano.out
 
 
 
