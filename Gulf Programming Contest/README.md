@@ -12,6 +12,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | [B. The League] | [league.cpp] | [league.in] | [league.out] |
 | [C. Exam Graph] | [graph.cpp] | [graph.in] | [graph.out] |
 | [D. Pisano Periods] | [pisano.cpp] | [pisano.in] | [pisano.out] |
+| [J. Dance (a.k.a The Circles of Evil)] | [dance.cpp] | [dance.in] | [dance.out] |
 
 
 
@@ -61,6 +62,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [pisano.cpp]: 2015/pisano/pisano.cpp
 [pisano.in]: 2015/pisano/pisano.in
 [pisano.out]: 2015/pisano/pisano.out
+
+[J. Dance (a.k.a The Circles of Evil)]: 2015/dance/Dance%20(a.k.a%20The%20Circles%20of%20Evil).pdf
+[dance.cpp]: 2015/dance/dance.cpp
+[dance.in]: 2015/dance/dance.in
+[dance.out]: 2015/dance/dance.out
 
 
 
