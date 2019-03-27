@@ -22,6 +22,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | Problem Statement | Solution | Input File | Output File |
 |-------------------|:--------:|:----------:|:-----------:|
 | [A. Ntonic Sequence] | [sequence.cpp] | [sequence.in] | [sequence.out] |
+| [B. If It’s Meant To Be, You Will Guess It] | [guess.cpp] | [guess.in] | [guess.out] |
 
 
 
@@ -82,6 +83,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [sequence.cpp]: 2016/sequence/sequence.cpp
 [sequence.in]: 2016/sequence/sequence.in
 [sequence.out]: 2016/sequence/sequence.out
+
+[B. If It’s Meant To Be, You Will Guess It]: 2016/guess/If%20It’s%20Meant%20To%20Be,%20You%20Will%20Guess%20It.pdf
+[guess.cpp]: 2016/guess/guess.cpp
+[guess.in]: 2016/guess/guess.in
+[guess.out]: 2016/guess/guess.out
 
 
 
