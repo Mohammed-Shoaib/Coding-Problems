@@ -23,6 +23,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 |-------------------|:--------:|:----------:|:-----------:|
 | [A. Ntonic Sequence] | [sequence.cpp] | [sequence.in] | [sequence.out] |
 | [B. If It’s Meant To Be, You Will Guess It] | [guess.cpp] | [guess.in] | [guess.out] |
+| [D. The Big Sorter] | [sorter.cpp] | [sorter.in] | [sorter.out] |
 
 
 
@@ -88,6 +89,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [guess.cpp]: 2016/guess/guess.cpp
 [guess.in]: 2016/guess/guess.in
 [guess.out]: 2016/guess/guess.out
+
+[D. The Big Sorter]: 2016/sorter/The%20Big%20Sorter.pdf
+[sorter.cpp]: 2016/sorter/sorter.cpp
+[sorter.in]: 2016/sorter/sorter.in
+[sorter.out]: 2016/sorter/sorter.out
 
 
 
