@@ -24,6 +24,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | [A. Ntonic Sequence] | [sequence.cpp] | [sequence.in] | [sequence.out] |
 | [B. If It’s Meant To Be, You Will Guess It] | [guess.cpp] | [guess.in] | [guess.out] |
 | [D. The Big Sorter] | [sorter.cpp] | [sorter.in] | [sorter.out] |
+| [I. Largest Number] | [largest.cpp] | [largest.in] | [largest.out] |
 
 
 
@@ -94,6 +95,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [sorter.cpp]: 2016/sorter/sorter.cpp
 [sorter.in]: 2016/sorter/sorter.in
 [sorter.out]: 2016/sorter/sorter.out
+
+[I. Largest Number]: 2016/largest/Largest%20Number.pdf
+[largest.cpp]: 2016/largest/largest.cpp
+[largest.in]: 2016/largest/largest.in
+[largest.out]: 2016/largest/largest.out
 
 
 
