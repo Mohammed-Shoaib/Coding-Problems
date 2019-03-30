@@ -25,6 +25,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | [B. If It’s Meant To Be, You Will Guess It] | [guess.cpp] | [guess.in] | [guess.out] |
 | [D. The Big Sorter] | [sorter.cpp] | [sorter.in] | [sorter.out] |
 | [I. Largest Number] | [largest.cpp] | [largest.in] | [largest.out] |
+| [J. Pedestrian Bridges] | [bridges.cpp] | [bridges.in] | [bridges.out] |
 
 
 
@@ -100,6 +101,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [largest.cpp]: 2016/largest/largest.cpp
 [largest.in]: 2016/largest/largest.in
 [largest.out]: 2016/largest/largest.out
+
+[J. Pedestrian Bridges]: 2016/bridges/Pedestrian%20Bridges.pdf
+[bridges.cpp]: 2016/bridges/bridges.cpp
+[bridges.in]: 2016/bridges/bridges.in
+[bridges.out]: 2016/bridges/bridges.out
 
 
 
