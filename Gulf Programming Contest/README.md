@@ -34,6 +34,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | Problem Statement | Solution | Input File | Output File |
 |-------------------|:--------:|:----------:|:-----------:|
 | [A. Squares or Circles] | [squares.cpp] | [squares.in] | [squares.out] |
+| [D. The Easy League] | [league.cpp] | [league.in] | [league.out] |
 
 
 
@@ -115,6 +116,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [squares.cpp]: 2017/squares/squares.cpp
 [squares.in]: 2017/squares/squares.in
 [squares.out]: 2017/squares/squares.out
+
+[D. The Easy League]: 2017/league/The%20Easy%20League.pdf
+[league.cpp]: 2017/league/league.cpp
+[league.in]: 2017/league/league.in
+[league.out]: 2017/league/league.out
 
 
 
