@@ -35,6 +35,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 |-------------------|:--------:|:----------:|:-----------:|
 | [A. Squares or Circles] | [squares.cpp] | [squares.in] | [squares.out] |
 | [D. The Easy League] | [league.cpp] | [league.in] | [league.out] |
+| [F. Sales Craze] | [sales.cpp] | [sales.in] | [sales.out] |
 
 
 
@@ -121,6 +122,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [league.cpp]: 2017/league/league.cpp
 [league.in]: 2017/league/league.in
 [league.out]: 2017/league/league.out
+
+[F. Sales Craze]: 2017/sales/Sales%20Craze.pdf
+[sales.cpp]: 2017/sales/sales.cpp
+[sales.in]: 2017/sales/sales.in
+[sales.out]: 2017/sales/sales.out
 
 
 
