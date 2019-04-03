@@ -36,6 +36,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | [A. Squares or Circles] | [squares.cpp] | [squares.in] | [squares.out] |
 | [D. The Easy League] | [league.cpp] | [league.in] | [league.out] |
 | [F. Sales Craze] | [sales.cpp] | [sales.in] | [sales.out] |
+| [H. Armstrong numbers] | [armstrong.cpp] | [armstrong.in] | [armstrong.out] |
 
 
 
@@ -127,6 +128,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [sales.cpp]: 2017/sales/sales.cpp
 [sales.in]: 2017/sales/sales.in
 [sales.out]: 2017/sales/sales.out
+
+[H. Armstrong numbers]: 2017/armstrong/Armstrong%20numbers.pdf
+[armstrong.cpp]: 2017/armstrong/armstrong.cpp
+[armstrong.in]: 2017/armstrong/armstrong.in
+[armstrong.out]: 2017/armstrong/armstrong.out
 
 
 
