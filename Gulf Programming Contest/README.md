@@ -37,6 +37,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | [D. The Easy League] | [league.cpp] | [league.in] | [league.out] |
 | [F. Sales Craze] | [sales.cpp] | [sales.in] | [sales.out] |
 | [H. Armstrong numbers] | [armstrong.cpp] | [armstrong.in] | [armstrong.out] |
+| [I. Amicable Numbers] | [amicable.cpp] | [amicable.in] | [amicable.out] |
 
 
 
@@ -133,6 +134,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [armstrong.cpp]: 2017/armstrong/armstrong.cpp
 [armstrong.in]: 2017/armstrong/armstrong.in
 [armstrong.out]: 2017/armstrong/armstrong.out
+
+[I. Amicable Numbers]: 2017/amicable/Amicable%20Numbers.pdf
+[amicable.cpp]: 2017/amicable/amicable.cpp
+[amicable.in]: 2017/amicable/amicable.in
+[amicable.out]: 2017/amicable/amicable.out
 
 
 
