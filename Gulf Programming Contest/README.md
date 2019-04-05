@@ -38,6 +38,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | [F. Sales Craze] | [sales.cpp] | [sales.in] | [sales.out] |
 | [H. Armstrong numbers] | [armstrong.cpp] | [armstrong.in] | [armstrong.out] |
 | [I. Amicable Numbers] | [amicable.cpp] | [amicable.in] | [amicable.out] |
+| [J. Number Pyramid] | [pyramid.cpp] | [pyramid.in] | [pyramid.out] |
 
 
 
@@ -139,6 +140,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [amicable.cpp]: 2017/amicable/amicable.cpp
 [amicable.in]: 2017/amicable/amicable.in
 [amicable.out]: 2017/amicable/amicable.out
+
+[J. Number Pyramid]: 2017/pyramid/Number%20Pyramid.pdf
+[pyramid.cpp]: 2017/pyramid/pyramid.cpp
+[pyramid.in]: 2017/pyramid/pyramid.in
+[pyramid.out]: 2017/pyramid/pyramid.out
 
 
 
