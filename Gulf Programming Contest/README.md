@@ -34,11 +34,12 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | Problem Statement | Solution | Input File | Output File |
 |-------------------|:--------:|:----------:|:-----------:|
 | [A. Squares or Circles] | [squares.cpp] | [squares.in] | [squares.out] |
-| [D. The Easy League] | [league.cpp] | [league.in] | [league.out] |
+| [D. The Easy League] | [league.cpp](2017/league/league.cpp) | [league.in](2017/league/league.in) | [league.out](2017/league/league.out) |
 | [F. Sales Craze] | [sales.cpp] | [sales.in] | [sales.out] |
 | [H. Armstrong numbers] | [armstrong.cpp] | [armstrong.in] | [armstrong.out] |
 | [I. Amicable Numbers] | [amicable.cpp] | [amicable.in] | [amicable.out] |
 | [J. Number Pyramid] | [pyramid.cpp] | [pyramid.in] | [pyramid.out] |
+| [L. The Digits] | [digits.cpp] | [digits.in] | [digits.out] |
 
 
 
@@ -122,9 +123,6 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [squares.out]: 2017/squares/squares.out
 
 [D. The Easy League]: 2017/league/The%20Easy%20League.pdf
-[league.cpp]: 2017/league/league.cpp
-[league.in]: 2017/league/league.in
-[league.out]: 2017/league/league.out
 
 [F. Sales Craze]: 2017/sales/Sales%20Craze.pdf
 [sales.cpp]: 2017/sales/sales.cpp
@@ -145,6 +143,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [pyramid.cpp]: 2017/pyramid/pyramid.cpp
 [pyramid.in]: 2017/pyramid/pyramid.in
 [pyramid.out]: 2017/pyramid/pyramid.out
+
+[L. The Digits]: 2017/digits/The%20Digits.pdf
+[digits.cpp]: 2017/digits/digits.cpp
+[digits.in]: 2017/digits/digits.in
+[digits.out]: 2017/digits/digits.out
 
 
 
