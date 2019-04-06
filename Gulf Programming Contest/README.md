@@ -49,6 +49,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 |-------------------|:--------:|:----------:|:-----------:|
 | [A. Rocket Fuel] | [rocket.cpp] | [rocket.in] | [rocket.out] |
 | [B. Socks of The Dark] | [socks.cpp] | [socks.in] | [socks.out] |
+| [F. Inherited Land] | [land.cpp] | [land.in] | [land.out] |
 
 
 
@@ -162,3 +163,8 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [socks.cpp]: 2018/socks/socks.cpp
 [socks.in]: 2018/socks/socks.in
 [socks.out]: 2018/socks/socks.out
+
+[F. Inherited Land]: 2018/land/Inherited%20Land.pdf
+[land.cpp]: 2018/land/land.cpp
+[land.in]: 2018/land/land.in
+[land.out]: 2018/land/land.out
