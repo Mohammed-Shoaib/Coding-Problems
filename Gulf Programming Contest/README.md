@@ -50,6 +50,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | [A. Rocket Fuel] | [rocket.cpp] | [rocket.in] | [rocket.out] |
 | [B. Socks of The Dark] | [socks.cpp] | [socks.in] | [socks.out] |
 | [F. Inherited Land] | [land.cpp] | [land.in] | [land.out] |
+| [I. Fermat’s Triangular Numbers] | [tri.cpp] | [tri.in] | [tri.out] |
 
 
 
@@ -168,3 +169,8 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [land.cpp]: 2018/land/land.cpp
 [land.in]: 2018/land/land.in
 [land.out]: 2018/land/land.out
+
+[I. Fermat’s Triangular Numbers]: 2018/tri/Fermat’s%20Triangular%20Numbers.pdf
+[tri.cpp]: 2018/tri/tri.cpp
+[tri.in]: 2018/tri/tri.in
+[tri.out]: 2018/tri/tri.out
