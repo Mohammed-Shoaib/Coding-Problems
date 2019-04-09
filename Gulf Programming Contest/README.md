@@ -52,6 +52,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | [F. Inherited Land] | [land.cpp] | [land.in] | [land.out] |
 | [I. Fermat’s Triangular Numbers] | [tri.cpp] | [tri.in] | [tri.out] |
 | [J. Flight Duration] | [flight.cpp] | [flight.in] | [flight.out] |
+| [K. The Gabriel Graph] | [gabriel.cpp] | [gabriel.in] | [gabriel.out] |
 
 
 
@@ -180,3 +181,8 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [flight.cpp]: 2018/flight/flight.cpp
 [flight.in]: 2018/flight/flight.in
 [flight.out]: 2018/flight/flight.out
+
+[K. The Gabriel Graph]: 2018/gabriel/The%20Gabriel%20Graph.pdf
+[gabriel.cpp]: 2018/gabriel/gabriel.cpp
+[gabriel.in]: 2018/gabriel/gabriel.in
+[gabriel.out]: 2018/gabriel/gabriel.out
