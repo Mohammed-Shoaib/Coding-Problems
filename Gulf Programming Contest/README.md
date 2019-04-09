@@ -51,6 +51,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | [B. Socks of The Dark] | [socks.cpp] | [socks.in] | [socks.out] |
 | [F. Inherited Land] | [land.cpp] | [land.in] | [land.out] |
 | [I. Fermat’s Triangular Numbers] | [tri.cpp] | [tri.in] | [tri.out] |
+| [J. Flight Duration] | [flight.cpp] | [flight.in] | [flight.out] |
 
 
 
@@ -174,3 +175,8 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [tri.cpp]: 2018/tri/tri.cpp
 [tri.in]: 2018/tri/tri.in
 [tri.out]: 2018/tri/tri.out
+
+[J. Flight Duration]: 2018/flight/Flight%20Duration.pdf
+[flight.cpp]: 2018/flight/flight.cpp
+[flight.in]: 2018/flight/flight.in
+[flight.out]: 2018/flight/flight.out
