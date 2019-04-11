@@ -56,6 +56,14 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 
 
 
+## 2019
+
+| Problem Statement | Solution | Input File | Output File |
+|-------------------|:--------:|:----------:|:-----------:|
+| [B. n Base Palindrome] | [palindrome.cpp] | [palindrome.in] | [palindrome.out] |
+
+
+
 [//]: # (2015)
 
 [A. Predictive Text Input]: 2015/predict/Predictive%20Text%20Input.pdf
@@ -186,3 +194,12 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [gabriel.cpp]: 2018/gabriel/gabriel.cpp
 [gabriel.in]: 2018/gabriel/gabriel.in
 [gabriel.out]: 2018/gabriel/gabriel.out
+
+
+
+[//]: # (2019)
+
+[B. n Base Palindrome]: 2019/palindrome/n%20Base%20Palindrome.pdf
+[palindrome.cpp]: 2019/palindrome/palindrome.cpp
+[palindrome.in]: 2019/palindrome/palindrome.in
+[palindrome.out]: 2019/palindrome/palindrome.out
