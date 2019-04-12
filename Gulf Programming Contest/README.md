@@ -61,6 +61,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | Problem Statement | Solution | Input File | Output File |
 |-------------------|:--------:|:----------:|:-----------:|
 | [B. n Base Palindrome] | [palindrome.cpp] | [palindrome.in] | [palindrome.out] |
+| [C. Miles of The Sky] | [miles.cpp] | [miles.in] | [miles.out] |
 
 
 
@@ -203,3 +204,8 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [palindrome.cpp]: 2019/palindrome/palindrome.cpp
 [palindrome.in]: 2019/palindrome/palindrome.in
 [palindrome.out]: 2019/palindrome/palindrome.out
+
+[C. Miles of The Sky]: 2019/miles/Miles%20of%20The%20Sky.pdf
+[miles.cpp]: 2019/miles/miles.cpp
+[miles.in]: 2019/miles/miles.in
+[miles.out]: 2019/miles/miles.out
