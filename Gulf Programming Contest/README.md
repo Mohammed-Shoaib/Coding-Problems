@@ -60,6 +60,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 
 | Problem Statement | Solution | Input File | Output File |
 |-------------------|:--------:|:----------:|:-----------:|
+| [A. The Purifier] | [purifier.cpp] | [purifier.in] | [purifier.out] |
 | [B. n Base Palindrome] | [palindrome.cpp] | [palindrome.in] | [palindrome.out] |
 | [C. Miles of The Sky] | [miles.cpp] | [miles.in] | [miles.out] |
 | [D. Take that Photo] | [photo.cpp] | [photo.in] | [photo.out] |
@@ -200,6 +201,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 
 
 [//]: # (2019)
+
+[A. The Purifier]: 2019/purifier/The%20Purifier.pdf
+[purifier.cpp]: 2019/purifier/purifier.cpp
+[purifier.in]: 2019/purifier/purifier.in
+[purifier.out]: 2019/purifier/purifier.out
 
 [B. n Base Palindrome]: 2019/palindrome/n%20Base%20Palindrome.pdf
 [palindrome.cpp]: 2019/palindrome/palindrome.cpp
