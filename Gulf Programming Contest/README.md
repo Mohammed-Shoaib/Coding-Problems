@@ -26,6 +26,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | [D. The Big Sorter] | [sorter.cpp] | [sorter.in] | [sorter.out] |
 | [I. Largest Number] | [largest.cpp] | [largest.in] | [largest.out] |
 | [J. Pedestrian Bridges] | [bridges.cpp] | [bridges.in] | [bridges.out] |
+| [K. Leap] | [leap.cpp] | [leap.in] | [leap.out] |
 
 
 
@@ -127,6 +128,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [bridges.cpp]: 2016/bridges/bridges.cpp
 [bridges.in]: 2016/bridges/bridges.in
 [bridges.out]: 2016/bridges/bridges.out
+
+[K. Leap]: 2016/leap/Leap.pdf
+[leap.cpp]: 2016/leap/leap.cpp
+[leap.in]: 2016/leap/leap.in
+[leap.out]: 2016/leap/leap.out
 
 
 
