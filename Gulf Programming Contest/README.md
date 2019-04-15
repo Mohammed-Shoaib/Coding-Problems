@@ -51,6 +51,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | [A. Rocket Fuel] | [rocket.cpp] | [rocket.in] | [rocket.out] |
 | [B. Socks of The Dark] | [socks.cpp] | [socks.in] | [socks.out] |
 | [F. Inherited Land] | [land.cpp] | [land.in] | [land.out] |
+| [H. Rotating keyboard] | [keyboard.cpp] | [keyboard.in] | [keyboard.out] |
 | [I. Fermat’s Triangular Numbers] | [tri.cpp] | [tri.in] | [tri.out] |
 | [J. Flight Duration] | [flight.cpp] | [flight.in] | [flight.out] |
 | [K. The Gabriel Graph] | [gabriel.cpp] | [gabriel.in] | [gabriel.out] |
@@ -188,6 +189,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [land.cpp]: 2018/land/land.cpp
 [land.in]: 2018/land/land.in
 [land.out]: 2018/land/land.out
+
+[H. Rotating keyboard]: 2018/keyboard/Rotating%20keyboard.pdf
+[keyboard.cpp]: 2018/keyboard/keyboard.cpp
+[keyboard.in]: 2018/keyboard/keyboard.in
+[keyboard.out]: 2018/keyboard/keyboard.out
 
 [I. Fermat’s Triangular Numbers]: 2018/tri/Fermat’s%20Triangular%20Numbers.pdf
 [tri.cpp]: 2018/tri/tri.cpp
