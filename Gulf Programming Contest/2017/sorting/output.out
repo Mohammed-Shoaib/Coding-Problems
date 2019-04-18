@@ -1,0 +1,51 @@
+Table 1
+Instruction 1
+ali 203 4.0 
+mary 105 3.9 
+saly 201 3.5 
+hary 301 3.5 
+Instruction 2
+ali 203 4.0 
+mary 105 3.9 
+saly 201 3.5 
+hary 301 3.5 
+Instruction 3
+hary 301 3.5 
+saly 201 3.5 
+mary 105 3.9 
+ali 203 4.0 
+Table 2
+Instruction 1
+b 1 
+a -5.0 
+Instruction 2
+b 1 
+a -5.0 
+Instruction 3
+a -5.0 
+b 1 
+Table 3
+Instruction 1
+ali 203 4.0 dubai 30 football5 35000 3 april 
+ahim 405 4.0 dubai 30 cricket4 103040 -4 may 
+mary 105 3.9 dhaka 15 hockey 2400 5 march 
+saly 201 3.5 london 21 cricket 130000 2 february 
+hary 301 3.5 dubai 21 football 100000 1 january 
+Instruction 2
+ali 203 4.0 dubai 30 football5 35000 3 april 
+ahim 405 4.0 dubai 30 cricket4 103040 -4 may 
+mary 105 3.9 dhaka 15 hockey 2400 5 march 
+saly 201 3.5 london 21 cricket 130000 2 february 
+hary 301 3.5 dubai 21 football 100000 1 january 
+Instruction 3
+ali 203 4.0 dubai 30 football5 35000 3 april 
+ahim 405 4.0 dubai 30 cricket4 103040 -4 may 
+mary 105 3.9 dhaka 15 hockey 2400 5 march 
+saly 201 3.5 london 21 cricket 130000 2 february 
+hary 301 3.5 dubai 21 football 100000 1 january 
+Instruction 4
+mary 105 3.9 dhaka 15 hockey 2400 5 march 
+hary 301 3.5 dubai 21 football 100000 1 january 
+ahim 405 4.0 dubai 30 cricket4 103040 -4 may 
+ali 203 4.0 dubai 30 football5 35000 3 april 
+saly 201 3.5 london 21 cricket 130000 2 february 

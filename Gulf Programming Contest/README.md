@@ -36,6 +36,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 |-------------------|:--------:|:----------:|:-----------:|
 | [A. Squares or Circles] | [squares.cpp] | [squares.in] | [squares.out] |
 | [B. The Peak Hour] | [peak.cpp] | [peak.in] | [peak.out] |
+| [C. Table Sorting] | [sorting.cpp] | [sorting.in] | [sorting.out] |
 | [D. The Easy League] | [league.cpp](2017/league/league.cpp) | [league.in](2017/league/league.in) | [league.out](2017/league/league.out) |
 | [F. Sales Craze] | [sales.cpp] | [sales.in] | [sales.out] |
 | [H. Armstrong numbers] | [armstrong.cpp] | [armstrong.in] | [armstrong.out] |
@@ -149,6 +150,11 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [peak.cpp]: 2017/peak/peak.cpp
 [peak.in]: 2017/peak/peak.in
 [peak.out]: 2017/peak/peak.out
+
+[C. Table Sorting]: 2017/sorting/Table%20Sorting.pdf
+[sorting.cpp]: 2017/sorting/sorting.cpp
+[sorting.in]: 2017/sorting/sorting.in
+[sorting.out]: 2017/sorting/sorting.out
 
 [D. The Easy League]: 2017/league/The%20Easy%20League.pdf
 
