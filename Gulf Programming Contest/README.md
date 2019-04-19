@@ -68,6 +68,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | [B. n Base Palindrome] | [palindrome.cpp] | [palindrome.in] | [palindrome.out] |
 | [C. Miles of The Sky] | [miles.cpp] | [miles.in] | [miles.out] |
 | [D. Take that Photo] | [photo.cpp] | [photo.in] | [photo.out] |
+| [E. Fair share] | [fair.cpp] | [fair.in] | [fair.out] |
 
 
 
@@ -245,3 +246,8 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [photo.cpp]: 2019/photo/photo.cpp
 [photo.in]: 2019/photo/photo.in
 [photo.out]: 2019/photo/photo.out
+
+[E. Fair share]: 2019/fair/Fair%20share.pdf
+[fair.cpp]: 2019/fair/fair.cpp
+[fair.in]: 2019/fair/fair.in
+[fair.out]: 2019/fair/fair.out
