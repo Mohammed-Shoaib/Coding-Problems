@@ -69,6 +69,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | [C. Miles of The Sky] | [miles.cpp] | [miles.in] | [miles.out] |
 | [D. Take that Photo] | [photo.cpp] | [photo.in] | [photo.out] |
 | [E. Fair share] | [fair.cpp] | [fair.in] | [fair.out] |
+| [F. Fruit burst] | [fruit.cpp] | [fruit.in] | [fruit.out] |
 
 
 
@@ -251,3 +252,8 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [fair.cpp]: 2019/fair/fair.cpp
 [fair.in]: 2019/fair/fair.in
 [fair.out]: 2019/fair/fair.out
+
+[F. Fruit burst]: 2019/fruit/Fruit%20burst.pdf
+[fruit.cpp]: 2019/fruit/fruit.cpp
+[fruit.in]: 2019/fruit/fruit.in
+[fruit.out]: 2019/fruit/fruit.out
