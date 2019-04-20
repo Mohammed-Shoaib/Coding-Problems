@@ -70,6 +70,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | [D. Take that Photo] | [photo.cpp] | [photo.in] | [photo.out] |
 | [E. Fair share] | [fair.cpp] | [fair.in] | [fair.out] |
 | [F. Fruit burst] | [fruit.cpp] | [fruit.in] | [fruit.out] |
+| [H. Dice of Probability] | [dice.cpp] | [dice.in] | [dice.out] |
 
 
 
@@ -257,3 +258,8 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [fruit.cpp]: 2019/fruit/fruit.cpp
 [fruit.in]: 2019/fruit/fruit.in
 [fruit.out]: 2019/fruit/fruit.out
+
+[H. Dice of Probability]: 2019/dice/Dice%20of%20Probability.pdf
+[dice.cpp]: 2019/dice/dice.cpp
+[dice.in]: 2019/dice/dice.in
+[dice.out]: 2019/dice/dice.out
