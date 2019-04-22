@@ -71,6 +71,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | [E. Fair share] | [fair.cpp] | [fair.in] | [fair.out] |
 | [F. Fruit burst] | [fruit.cpp] | [fruit.in] | [fruit.out] |
 | [H. Dice of Probability] | [dice.cpp] | [dice.in] | [dice.out] |
+| [I. The Secret Message] | [secret.cpp] | [secret.in] | [secret.out] |
 
 
 
@@ -263,3 +264,8 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [dice.cpp]: 2019/dice/dice.cpp
 [dice.in]: 2019/dice/dice.in
 [dice.out]: 2019/dice/dice.out
+
+[I. The Secret Message]: 2019/secret/The%20Secret%20Message.pdf
+[secret.cpp]: 2019/secret/secret.cpp
+[secret.in]: 2019/secret/secret.in
+[secret.out]: 2019/secret/secret.out
