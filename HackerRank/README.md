@@ -135,6 +135,7 @@ The questions are divided into 3 levels of difficulty:
 
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
+|[E0001]|[Say "Hello, World!" With C++]|
 
 ### Medium
 
@@ -459,7 +460,7 @@ The questions are divided into 3 levels of difficulty:
 [M0010]: Algorithms/Medium/M0010.cpp
 [Larry's Array]: https://www.hackerrank.com/challenges/larrys-array/problem
 
-[M0011]: Medium/M0011.cpp
+[M0011]: Algorithms/Medium/M0011.cpp
 [Bigger is Greater]: https://www.hackerrank.com/challenges/bigger-is-greater/problem
 
 [//]: # (Hard)
@@ -470,6 +471,9 @@ The questions are divided into 3 levels of difficulty:
 [//]: # (C++)
 
 [//]: # (Easy)
+
+[E0001]: C++/Easy/E0001.cpp
+[Say "Hello, World!" With C++]: https://www.hackerrank.com/challenges/cpp-hello-world/problem
 
 [//]: # (Medium)
 
