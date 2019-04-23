@@ -72,6 +72,7 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 | [F. Fruit burst] | [fruit.cpp] | [fruit.in] | [fruit.out] |
 | [H. Dice of Probability] | [dice.cpp] | [dice.in] | [dice.out] |
 | [I. The Secret Message] | [secret.cpp] | [secret.in] | [secret.out] |
+| [J. The Legend of Diapers] | [diapers.cpp] | [diapers.in] | [diapers.out] |
 
 
 
@@ -269,3 +270,8 @@ Solutions to some of the contest problems on the Gulf Programming Contest [websi
 [secret.cpp]: 2019/secret/secret.cpp
 [secret.in]: 2019/secret/secret.in
 [secret.out]: 2019/secret/secret.out
+
+[J. The Legend of Diapers]: 2019/diapers/The%20Legend%20of%20Diapers.pdf
+[diapers.cpp]: 2019/diapers/diapers.cpp
+[diapers.in]: 2019/diapers/diapers.in
+[diapers.out]: 2019/diapers/diapers.out
