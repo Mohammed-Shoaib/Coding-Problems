@@ -7,6 +7,7 @@
 |[E0001]|[Say "Hello, World!" With C++]|
 |[E0002]|[Input and Output]|
 |[E0003]|[Basic Data Types]|
+|[E0004]|[Conditional Statements]|
 
 ### Medium
 
@@ -26,6 +27,9 @@
 
 [E0003]: Easy/E0003.cpp
 [Basic Data Types]: https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem
+
+[E0004]: Easy/E0004.cpp
+[Conditional Statements]: https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem
 
 [//]: # (Medium)
 
