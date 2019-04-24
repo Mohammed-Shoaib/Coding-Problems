@@ -6,6 +6,7 @@
 |:--------------:|-----------------|
 |[E0001]|[Say "Hello, World!" With C++]|
 |[E0002]|[Input and Output]|
+|[E0003]|[Basic Data Types]|
 
 ### Medium
 
@@ -22,6 +23,9 @@
 
 [E0002]: Easy/E0002.cpp
 [Input and Output]: https://www.hackerrank.com/challenges/cpp-input-and-output/problem
+
+[E0003]: Easy/E0003.cpp
+[Basic Data Types]: https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem
 
 [//]: # (Medium)
 
