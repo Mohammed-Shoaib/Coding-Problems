@@ -11,6 +11,7 @@
 
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
+|[M0001]|[Inherited Code]|
 
 [//]: # (C++)
 
@@ -23,5 +24,8 @@
 [Input and Output]: https://www.hackerrank.com/challenges/cpp-input-and-output/problem
 
 [//]: # (Medium)
+
+[M0001]: Medium/M0001.cpp
+[Inherited Code]: https://www.hackerrank.com/challenges/inherited-code/problem
 
 [//]: # (EOF)
