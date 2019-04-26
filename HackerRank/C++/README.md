@@ -10,6 +10,7 @@
 |[E0004]|[Conditional Statements]|
 |[E0005]|[For Loop]|
 |[E0006]|[Functions]|
+|[E0007]|[Pointer]|
 
 ### Medium
 
@@ -38,6 +39,9 @@
 
 [E0006]: Easy/E0006.cpp
 [Functions]: https://www.hackerrank.com/challenges/c-tutorial-functions/problem
+
+[E0007]: Easy/E0007.cpp
+[Pointer]: https://www.hackerrank.com/challenges/c-tutorial-pointer/problem
 
 [//]: # (Medium)
 
