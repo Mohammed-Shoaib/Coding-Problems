@@ -9,6 +9,7 @@
 |[E0003]|[Basic Data Types]|
 |[E0004]|[Conditional Statements]|
 |[E0005]|[For Loop]|
+|[E0006]|[Functions]|
 
 ### Medium
 
@@ -34,6 +35,9 @@
 
 [E0005]: Easy/E0005.cpp
 [For Loop]: https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem
+
+[E0006]: Easy/E0006.cpp
+[Functions]: https://www.hackerrank.com/challenges/c-tutorial-functions/problem
 
 [//]: # (Medium)
 
