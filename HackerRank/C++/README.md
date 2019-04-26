@@ -8,6 +8,7 @@
 |[E0002]|[Input and Output]|
 |[E0003]|[Basic Data Types]|
 |[E0004]|[Conditional Statements]|
+|[E0005]|[For Loop]|
 
 ### Medium
 
@@ -30,6 +31,9 @@
 
 [E0004]: Easy/E0004.cpp
 [Conditional Statements]: https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem
+
+[E0005]: Easy/E0005.cpp
+[For Loop]: https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem
 
 [//]: # (Medium)
 
