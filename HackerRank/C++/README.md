@@ -12,6 +12,7 @@
 |[E0006]|[Functions]|
 |[E0007]|[Pointer]|
 |[E0008]|[Arrays Introduction]|
+|[E0009]|[Variable Sized Arrays]|
 
 ### Medium
 
@@ -46,6 +47,9 @@
 
 [E0008]: Easy/E0008.cpp
 [Arrays Introduction]: https://www.hackerrank.com/challenges/arrays-introduction/problem
+
+[E0009]: Easy/E0009.cpp
+[Variable Sized Arrays]: https://www.hackerrank.com/challenges/variable-sized-arrays/problem
 
 [//]: # (Medium)
 
