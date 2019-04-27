@@ -14,6 +14,7 @@
 |[E0008]|[Arrays Introduction]|
 |[E0009]|[Variable Sized Arrays]|
 |[E0010]|[StringStream]|
+|[E0011]|[Strings]|
 
 ### Medium
 
@@ -54,6 +55,9 @@
 
 [E0010]: Easy/E0010.cpp
 [StringStream]: https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem
+
+[E0011]: Easy/E0011.cpp
+[Strings]: https://www.hackerrank.com/challenges/c-tutorial-strings/problem
 
 [//]: # (Medium)
 
