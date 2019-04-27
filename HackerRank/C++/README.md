@@ -11,6 +11,7 @@
 |[E0005]|[For Loop]|
 |[E0006]|[Functions]|
 |[E0007]|[Pointer]|
+|[E0008]|[Arrays Introduction]|
 
 ### Medium
 
@@ -42,6 +43,9 @@
 
 [E0007]: Easy/E0007.cpp
 [Pointer]: https://www.hackerrank.com/challenges/c-tutorial-pointer/problem
+
+[E0008]: Easy/E0008.cpp
+[Arrays Introduction]: https://www.hackerrank.com/challenges/arrays-introduction/problem
 
 [//]: # (Medium)
 
