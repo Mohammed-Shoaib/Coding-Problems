@@ -15,6 +15,7 @@
 |[E0009]|[Variable Sized Arrays]|
 |[E0010]|[StringStream]|
 |[E0011]|[Strings]|
+|[E0012]|[Structs]|
 
 ### Medium
 
@@ -26,7 +27,7 @@
 
 [//]: # (Easy)
 
-[E0001]: C++/Easy/E0001.cpp
+[E0001]: Easy/E0001.cpp
 [Say "Hello, World!" With C++]: https://www.hackerrank.com/challenges/cpp-hello-world/problem
 
 [E0002]: Easy/E0002.cpp
@@ -58,6 +59,9 @@
 
 [E0011]: Easy/E0011.cpp
 [Strings]: https://www.hackerrank.com/challenges/c-tutorial-strings/problem
+
+[E0012]: Easy/E0012.cpp
+[Structs]: https://www.hackerrank.com/challenges/c-tutorial-struct/problem
 
 [//]: # (Medium)
 
