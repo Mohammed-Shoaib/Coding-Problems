@@ -16,6 +16,7 @@
 |[E0010]|[StringStream]|
 |[E0011]|[Strings]|
 |[E0012]|[Structs]|
+|[E0013]|[Class]|
 
 ### Medium
 
@@ -62,6 +63,9 @@
 
 [E0012]: Easy/E0012.cpp
 [Structs]: https://www.hackerrank.com/challenges/c-tutorial-struct/problem
+
+[E0013]: Easy/E0013.cpp
+[Class]: https://www.hackerrank.com/challenges/c-tutorial-class/problem
 
 [//]: # (Medium)
 
