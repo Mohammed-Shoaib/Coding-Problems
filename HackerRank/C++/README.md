@@ -18,6 +18,7 @@
 |[E0012]|[Structs]|
 |[E0013]|[Class]|
 |[E0014]|[Classes and Objects]|
+|[E0015]|[Box It!]|
 
 ### Medium
 
@@ -70,6 +71,9 @@
 
 [E0014]: Easy/E0014.cpp
 [Classes and Objects]: https://www.hackerrank.com/challenges/classes-objects/problem
+
+[E0015]: Easy/E0015.cpp
+[Box It!]: https://www.hackerrank.com/challenges/box-it/problem
 
 [//]: # (Medium)
 
