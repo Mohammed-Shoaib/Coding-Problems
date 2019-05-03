@@ -19,6 +19,7 @@
 |[E0013]|[Class]|
 |[E0014]|[Classes and Objects]|
 |[E0015]|[Box It!]|
+|[E0016]|[Vector-Sort]|
 
 ### Medium
 
@@ -74,6 +75,9 @@
 
 [E0015]: Easy/E0015.cpp
 [Box It!]: https://www.hackerrank.com/challenges/box-it/problem
+
+[E0016]: Easy/E0016.cpp
+[Vector-Sort]: https://www.hackerrank.com/challenges/vector-sort/problem
 
 [//]: # (Medium)
 
