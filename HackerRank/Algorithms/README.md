@@ -114,6 +114,7 @@
 |[M0009]|[Absolute Permutation]|
 |[M0010]|[Larry's Array]|
 |[M0011]|[Bigger is Greater]|
+|[M0012]|[Almost Sorted]|
 
 ### Hard
 
@@ -441,6 +442,9 @@
 
 [M0011]: Algorithms/Medium/M0011.cpp
 [Bigger is Greater]: https://www.hackerrank.com/challenges/bigger-is-greater/problem
+
+[M0012]: Medium/M0012.cpp
+[Almost Sorted]: https://www.hackerrank.com/challenges/almost-sorted/problem
 
 [//]: # (Hard)
 
