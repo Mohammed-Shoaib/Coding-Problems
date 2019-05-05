@@ -115,6 +115,7 @@
 |[M0010]|[Larry's Array]|
 |[M0011]|[Bigger is Greater]|
 |[M0012]|[Almost Sorted]|
+|[M0013]|[Organizing Containers of Balls]|
 
 ### Hard
 
@@ -445,6 +446,9 @@
 
 [M0012]: Medium/M0012.cpp
 [Almost Sorted]: https://www.hackerrank.com/challenges/almost-sorted/problem
+
+[M0013]: Medium/M0013.cpp
+[Organizing Containers of Balls]: https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem
 
 [//]: # (Hard)
 
