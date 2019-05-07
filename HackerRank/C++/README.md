@@ -21,6 +21,7 @@
 |[E0015]|[Box It!]|
 |[E0016]|[Vector-Sort]|
 |[E0017]|[Vector-Erase]|
+|[E0018]|[Lower Bound-STL]|
 
 ### Medium
 
@@ -82,6 +83,9 @@
 
 [E0017]: Easy/E0017.cpp
 [Vector-Erase]: https://www.hackerrank.com/challenges/vector-erase/problem
+
+[E0018]: Easy/E0018.cpp
+[Lower Bound-STL]: https://www.hackerrank.com/challenges/cpp-lower-bound/problem
 
 [//]: # (Medium)
 
