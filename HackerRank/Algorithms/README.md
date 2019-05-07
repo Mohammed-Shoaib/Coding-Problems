@@ -116,6 +116,7 @@
 |[M0011]|[Bigger is Greater]|
 |[M0012]|[Almost Sorted]|
 |[M0013]|[Organizing Containers of Balls]|
+|[M0014]|[The Bomberman Game]|
 
 ### Hard
 
@@ -449,6 +450,9 @@
 
 [M0013]: Medium/M0013.cpp
 [Organizing Containers of Balls]: https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem
+
+[M0014]: Medium/M0014.cpp
+[The Bomberman Game]: https://www.hackerrank.com/challenges/bomber-man/problem
 
 [//]: # (Hard)
 
