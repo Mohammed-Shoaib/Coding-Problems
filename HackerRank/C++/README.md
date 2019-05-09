@@ -22,6 +22,7 @@
 |[E0016]|[Vector-Sort]|
 |[E0017]|[Vector-Erase]|
 |[E0018]|[Lower Bound-STL]|
+|[E0019]|[Sets-STL]|
 
 ### Medium
 
@@ -86,6 +87,9 @@
 
 [E0018]: Easy/E0018.cpp
 [Lower Bound-STL]: https://www.hackerrank.com/challenges/cpp-lower-bound/problem
+
+[E0019]: Easy/E0019.cpp
+[Sets-STL]: https://www.hackerrank.com/challenges/cpp-sets/problem
 
 [//]: # (Medium)
 
