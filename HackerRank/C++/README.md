@@ -23,6 +23,7 @@
 |[E0017]|[Vector-Erase]|
 |[E0018]|[Lower Bound-STL]|
 |[E0019]|[Sets-STL]|
+|[E0020]|[Maps-STL]|
 
 ### Medium
 
@@ -90,6 +91,9 @@
 
 [E0019]: Easy/E0019.cpp
 [Sets-STL]: https://www.hackerrank.com/challenges/cpp-sets/problem
+
+[E0020]: Easy/E0020.cpp
+[Maps-STL]: https://www.hackerrank.com/challenges/cpp-maps/problem
 
 [//]: # (Medium)
 
