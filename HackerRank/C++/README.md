@@ -24,6 +24,7 @@
 |[E0018]|[Lower Bound-STL]|
 |[E0019]|[Sets-STL]|
 |[E0020]|[Maps-STL]|
+|[E0021]|[Inheritance Introduction]|
 
 ### Medium
 
@@ -94,6 +95,9 @@
 
 [E0020]: Easy/E0020.cpp
 [Maps-STL]: https://www.hackerrank.com/challenges/cpp-maps/problem
+
+[E0021]: Easy/E0021.cpp
+[Inheritance Introduction]: https://www.hackerrank.com/challenges/inheritance-introduction/problem
 
 [//]: # (Medium)
 
