@@ -25,6 +25,7 @@
 |[E0019]|[Sets-STL]|
 |[E0020]|[Maps-STL]|
 |[E0021]|[Inheritance Introduction]|
+|[E0022]|[Rectangle Area]|
 
 ### Medium
 
@@ -98,6 +99,9 @@
 
 [E0021]: Easy/E0021.cpp
 [Inheritance Introduction]: https://www.hackerrank.com/challenges/inheritance-introduction/problem
+
+[E0022]: Easy/E0022.cpp
+[Rectangle Area]: https://www.hackerrank.com/challenges/rectangle-area/problem
 
 [//]: # (Medium)
 
