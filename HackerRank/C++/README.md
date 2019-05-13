@@ -26,6 +26,7 @@
 |[E0020]|[Maps-STL]|
 |[E0021]|[Inheritance Introduction]|
 |[E0022]|[Rectangle Area]|
+|[E0023]|[Multi Level Inheritance]|
 
 ### Medium
 
@@ -102,6 +103,9 @@
 
 [E0022]: Easy/E0022.cpp
 [Rectangle Area]: https://www.hackerrank.com/challenges/rectangle-area/problem
+
+[E0023]: Easy/E0023.cpp
+[Multi Level Inheritance]: https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem
 
 [//]: # (Medium)
 
