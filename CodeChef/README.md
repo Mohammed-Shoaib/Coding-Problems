@@ -99,6 +99,7 @@ The questions are divided into 6 categories:
 |[B0084]|[Decrement OR Increment]|
 |[B0085]|[Chef and Cook-Off]|
 |[B0086]|[Snake Procession]|
+|[B0087]|[Chef and his Students]|
 
 ### Easy
 
@@ -453,6 +454,9 @@ The questions are divided into 6 categories:
 
 [B0086]: Beginner/B0086.cpp
 [Snake Procession]: https://www.codechef.com/problems/SNAKPROC
+
+[B0087]: Beginner/B0087.cpp
+[Chef and his Students]: https://www.codechef.com/problems/CHEFSTUD
 
 [//]: # (Easy)
 
