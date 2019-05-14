@@ -100,6 +100,7 @@ The questions are divided into 6 categories:
 |[B0085]|[Chef and Cook-Off]|
 |[B0086]|[Snake Procession]|
 |[B0087]|[Chef and his Students]|
+|[B0088]|[Similar Dishes]|
 
 ### Easy
 
@@ -457,6 +458,9 @@ The questions are divided into 6 categories:
 
 [B0087]: Beginner/B0087.cpp
 [Chef and his Students]: https://www.codechef.com/problems/CHEFSTUD
+
+[B0088]: Beginner/B0088.cpp
+[Similar Dishes]: https://www.codechef.com/problems/SIMDISH
 
 [//]: # (Easy)
 
