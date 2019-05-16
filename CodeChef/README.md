@@ -101,6 +101,7 @@ The questions are divided into 6 categories:
 |[B0086]|[Snake Procession]|
 |[B0087]|[Chef and his Students]|
 |[B0088]|[Similar Dishes]|
+|[B0089]|[Temple Land]|
 
 ### Easy
 
@@ -461,6 +462,9 @@ The questions are divided into 6 categories:
 
 [B0088]: Beginner/B0088.cpp
 [Similar Dishes]: https://www.codechef.com/problems/SIMDISH
+
+[B0089]: Beginner/B0089.cpp
+[Temple Land]: https://www.codechef.com/problems/TEMPLELA
 
 [//]: # (Easy)
 
