@@ -103,6 +103,7 @@ The questions are divided into 6 categories:
 |[B0088]|[Similar Dishes]|
 |[B0089]|[Temple Land]|
 |[B0090]|[Strange operations]|
+|[B0091]|[Chef and Chocolate]|
 
 ### Easy
 
@@ -469,6 +470,9 @@ The questions are divided into 6 categories:
 
 [B0090]: Beginner/B0090.cpp
 [Strange operations]: https://www.codechef.com/problems/UTMOPR
+
+[B0091]: Beginner/B0091.cpp
+[Chef and Chocolate]: https://www.codechef.com/problems/CHCHCL
 
 [//]: # (Easy)
 
