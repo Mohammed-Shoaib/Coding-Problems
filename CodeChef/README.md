@@ -102,6 +102,7 @@ The questions are divided into 6 categories:
 |[B0087]|[Chef and his Students]|
 |[B0088]|[Similar Dishes]|
 |[B0089]|[Temple Land]|
+|[B0090]|[Strange operations]|
 
 ### Easy
 
@@ -465,6 +466,9 @@ The questions are divided into 6 categories:
 
 [B0089]: Beginner/B0089.cpp
 [Temple Land]: https://www.codechef.com/problems/TEMPLELA
+
+[B0090]: Beginner/B0090.cpp
+[Strange operations]: https://www.codechef.com/problems/UTMOPR
 
 [//]: # (Easy)
 
