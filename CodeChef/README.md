@@ -104,6 +104,7 @@ The questions are divided into 6 categories:
 |[B0089]|[Temple Land]|
 |[B0090]|[Strange operations]|
 |[B0091]|[Chef and Chocolate]|
+|[B0092]|[Truth and Dare]|
 
 ### Easy
 
@@ -473,6 +474,9 @@ The questions are divided into 6 categories:
 
 [B0091]: Beginner/B0091.cpp
 [Chef and Chocolate]: https://www.codechef.com/problems/CHCHCL
+
+[B0092]: Beginner/B0092.cpp
+[Truth and Dare]: https://www.codechef.com/problems/TRUEDARE
 
 [//]: # (Easy)
 
