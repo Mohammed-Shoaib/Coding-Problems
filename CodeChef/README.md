@@ -192,6 +192,7 @@ The questions are divided into 6 categories:
 |[E0080]|[Sherlock and the Grid]|
 |[E0081]|[Distinct Characters Subsequence]|
 |[E0082]|[Little Chef and Numbers]|
+|[E0083]|[Three Different Numbers]|
 
 ### Medium
 
@@ -725,6 +726,9 @@ The questions are divided into 6 categories:
 
 [E0082]: Easy/E0082.cpp
 [Little Chef and Numbers]: https://www.codechef.com/problems/PROSUM
+
+[E0083]: Easy/E0083.cpp
+[Three Different Numbers]: https://www.codechef.com/problems/THREEDIF
 
 [//]: # (Medium)
 
