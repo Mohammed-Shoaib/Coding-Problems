@@ -193,6 +193,7 @@ The questions are divided into 6 categories:
 |[E0081]|[Distinct Characters Subsequence]|
 |[E0082]|[Little Chef and Numbers]|
 |[E0083]|[Three Different Numbers]|
+|[E0084]|[Chef and Frogs]|
 
 ### Medium
 
@@ -729,6 +730,9 @@ The questions are divided into 6 categories:
 
 [E0083]: Easy/E0083.cpp
 [Three Different Numbers]: https://www.codechef.com/problems/THREEDIF
+
+[E0084]: Easy/E0084.cpp
+[Chef and Frogs]: https://www.codechef.com/problems/FROGV
 
 [//]: # (Medium)
 
