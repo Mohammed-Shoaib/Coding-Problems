@@ -105,6 +105,7 @@ The questions are divided into 6 categories:
 |[B0090]|[Strange operations]|
 |[B0091]|[Chef and Chocolate]|
 |[B0092]|[Truth and Dare]|
+|[B0093]|[Event]|
 
 ### Easy
 
@@ -479,6 +480,9 @@ The questions are divided into 6 categories:
 
 [B0092]: Beginner/B0092.cpp
 [Truth and Dare]: https://www.codechef.com/problems/TRUEDARE
+
+[B0093]: Beginner/B0093.cpp
+[Event]: https://www.codechef.com/problems/EVENT
 
 [//]: # (Easy)
 
