@@ -195,6 +195,7 @@ The questions are divided into 6 categories:
 |[E0082]|[Little Chef and Numbers]|
 |[E0083]|[Three Different Numbers]|
 |[E0084]|[Chef and Frogs]|
+|[E0085]|[Shortest Path in Binary Trees]|
 
 ### Medium
 
@@ -737,6 +738,9 @@ The questions are divided into 6 categories:
 
 [E0084]: Easy/E0084.cpp
 [Chef and Frogs]: https://www.codechef.com/problems/FROGV
+
+[E0085]: Easy/E0085.cpp
+[Shortest Path in Binary Trees]: https://www.codechef.com/problems/BINTREE
 
 [//]: # (Medium)
 
