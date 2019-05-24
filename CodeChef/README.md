@@ -106,6 +106,7 @@ The questions are divided into 6 categories:
 |[B0091]|[Chef and Chocolate]|
 |[B0092]|[Truth and Dare]|
 |[B0093]|[Event]|
+|[B0094]|[Is it a VOWEL or CONSONANT]|
 
 ### Easy
 
@@ -484,6 +485,9 @@ The questions are divided into 6 categories:
 
 [B0093]: Beginner/B0093.cpp
 [Event]: https://www.codechef.com/problems/EVENT
+
+[B0094]: Beginner/B0094.cpp
+[Is it a VOWEL or CONSONANT]: https://www.codechef.com/problems/VOWELTB
 
 [//]: # (Easy)
 
