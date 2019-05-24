@@ -107,6 +107,7 @@ The questions are divided into 6 categories:
 |[B0092]|[Truth and Dare]|
 |[B0093]|[Event]|
 |[B0094]|[Is it a VOWEL or CONSONANT]|
+|[B0095]|[Area OR Perimeter]|
 
 ### Easy
 
@@ -488,6 +489,9 @@ The questions are divided into 6 categories:
 
 [B0094]: Beginner/B0094.cpp
 [Is it a VOWEL or CONSONANT]: https://www.codechef.com/problems/VOWELTB
+
+[B0095]: Beginner/B0095.cpp
+[Area OR Perimeter]: https://www.codechef.com/problems/AREAPERI
 
 [//]: # (Easy)
 
