@@ -117,7 +117,7 @@
 |[M0012]|[Almost Sorted]|
 |[M0013]|[Organizing Containers of Balls]|
 |[M0014]|[The Bomberman Game]|
-|[M0016]|[Queen's Attack II]|
+|[M0015]|[Queen's Attack II]|
 
 ### Hard
 
@@ -455,7 +455,7 @@
 [M0014]: Medium/M0014.cpp
 [The Bomberman Game]: https://www.hackerrank.com/challenges/bomber-man/problem
 
-[M0016]: Medium/M0016.cpp
+[M0015]: Medium/M0015.cpp
 [Queen's Attack II]: https://www.hackerrank.com/challenges/queens-attack-2/problem
 
 [//]: # (Hard)
