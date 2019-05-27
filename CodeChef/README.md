@@ -109,6 +109,7 @@ The questions are divided into 6 categories:
 |[B0094]|[Is it a VOWEL or CONSONANT]|
 |[B0095]|[Area OR Perimeter]|
 |[B0096]|[HOW MANY DIGITS DO I HAVE]|
+|[B0097]|[From heaven to earth]|
 
 ### Easy
 
@@ -496,6 +497,9 @@ The questions are divided into 6 categories:
 
 [B0096]: Beginner/B0096.cpp
 [HOW MANY DIGITS DO I HAVE]: https://www.codechef.com/problems/HOWMANY
+
+[B0097]: Beginner/B0097.cpp
+[From heaven to earth]: https://www.codechef.com/problems/ELEVSTRS
 
 [//]: # (Easy)
 
