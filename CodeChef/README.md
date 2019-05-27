@@ -111,6 +111,7 @@ The questions are divided into 6 categories:
 |[B0096]|[HOW MANY DIGITS DO I HAVE]|
 |[B0097]|[From heaven to earth]|
 |[B0098]|[Train Partner]|
+|[B0099]|[One more weird game]|
 
 ### Easy
 
@@ -504,6 +505,9 @@ The questions are divided into 6 categories:
 
 [B0098]: Beginner/B0098.cpp
 [Train Partner]: https://www.codechef.com/problems/ANKTRAIN
+
+[B0099]: Beginner/B0099.cpp
+[One more weird game]: https://www.codechef.com/problems/OMWG
 
 [//]: # (Easy)
 
