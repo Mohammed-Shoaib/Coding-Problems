@@ -108,6 +108,7 @@ The questions are divided into 6 categories:
 |[B0093]|[Event]|
 |[B0094]|[Is it a VOWEL or CONSONANT]|
 |[B0095]|[Area OR Perimeter]|
+|[B0096]|[HOW MANY DIGITS DO I HAVE]|
 
 ### Easy
 
@@ -492,6 +493,9 @@ The questions are divided into 6 categories:
 
 [B0095]: Beginner/B0095.cpp
 [Area OR Perimeter]: https://www.codechef.com/problems/AREAPERI
+
+[B0096]: Beginner/B0096.cpp
+[HOW MANY DIGITS DO I HAVE]: https://www.codechef.com/problems/HOWMANY
 
 [//]: # (Easy)
 
