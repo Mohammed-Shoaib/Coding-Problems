@@ -110,6 +110,7 @@ The questions are divided into 6 categories:
 |[B0095]|[Area OR Perimeter]|
 |[B0096]|[HOW MANY DIGITS DO I HAVE]|
 |[B0097]|[From heaven to earth]|
+|[B0098]|[Train Partner]|
 
 ### Easy
 
@@ -500,6 +501,9 @@ The questions are divided into 6 categories:
 
 [B0097]: Beginner/B0097.cpp
 [From heaven to earth]: https://www.codechef.com/problems/ELEVSTRS
+
+[B0098]: Beginner/B0098.cpp
+[Train Partner]: https://www.codechef.com/problems/ANKTRAIN
 
 [//]: # (Easy)
 
