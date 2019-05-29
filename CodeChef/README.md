@@ -112,6 +112,7 @@ The questions are divided into 6 categories:
 |[B0097]|[From heaven to earth]|
 |[B0098]|[Train Partner]|
 |[B0099]|[One more weird game]|
+|[B0100]|[Find the Maximum Value]|
 
 ### Easy
 
@@ -508,6 +509,9 @@ The questions are divided into 6 categories:
 
 [B0099]: Beginner/B0099.cpp
 [One more weird game]: https://www.codechef.com/problems/OMWG
+
+[B0100]: Beginner/B0100.cpp
+[Find the Maximum Value]: https://www.codechef.com/problems/LOSTMAX
 
 [//]: # (Easy)
 
