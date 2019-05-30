@@ -118,6 +118,7 @@
 |[M0013]|[Organizing Containers of Balls]|
 |[M0014]|[The Bomberman Game]|
 |[M0015]|[Queen's Attack II]|
+|[M0016]|[Forming a Magic Square]|
 
 ### Hard
 
@@ -457,6 +458,9 @@
 
 [M0015]: Medium/M0015.cpp
 [Queen's Attack II]: https://www.hackerrank.com/challenges/queens-attack-2/problem
+
+[M0016]: Medium/M0016.cpp
+[Forming a Magic Square]: https://www.hackerrank.com/challenges/magic-square-forming/problem
 
 [//]: # (Hard)
 
