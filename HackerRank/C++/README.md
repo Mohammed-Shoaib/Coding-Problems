@@ -27,6 +27,7 @@
 |[E0021]|[Inheritance Introduction]|
 |[E0022]|[Rectangle Area]|
 |[E0023]|[Multi Level Inheritance]|
+|[E0024]|[Preprocessor Solution]|
 
 ### Medium
 
@@ -106,6 +107,9 @@
 
 [E0023]: Easy/E0023.cpp
 [Multi Level Inheritance]: https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem
+
+[E0024]: Easy/E0024.cpp
+[Preprocessor Solution]: https://www.hackerrank.com/challenges/preprocessor-solution/problem
 
 [//]: # (Medium)
 
