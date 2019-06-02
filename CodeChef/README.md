@@ -205,6 +205,7 @@ The questions are divided into 6 categories:
 |[E0085]|[Shortest Path in Binary Trees]|
 |[E0086]|[Johnny and the Beanstalk]|
 |[E0087]|[Fire Escape Routes]|
+|[E0088]|[The Morning Commute]|
 
 ### Medium
 
@@ -777,6 +778,9 @@ The questions are divided into 6 categories:
 
 [E0087]: Easy/E0087.cpp
 [Fire Escape Routes]: https://www.codechef.com/problems/FIRESC
+
+[E0088]: Easy/E0088.cpp
+[The Morning Commute]: https://www.codechef.com/problems/COMMUTE
 
 [//]: # (Medium)
 
