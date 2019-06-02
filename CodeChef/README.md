@@ -204,6 +204,7 @@ The questions are divided into 6 categories:
 |[E0084]|[Chef and Frogs]|
 |[E0085]|[Shortest Path in Binary Trees]|
 |[E0086]|[Johnny and the Beanstalk]|
+|[E0087]|[Fire Escape Routes]|
 
 ### Medium
 
@@ -773,6 +774,9 @@ The questions are divided into 6 categories:
 
 [E0086]: Easy/E0086.cpp
 [Johnny and the Beanstalk]: https://www.codechef.com/problems/MARCHA2
+
+[E0087]: Easy/E0087.cpp
+[Fire Escape Routes]: https://www.codechef.com/problems/FIRESC
 
 [//]: # (Medium)
 
