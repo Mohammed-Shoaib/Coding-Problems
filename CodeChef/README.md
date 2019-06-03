@@ -206,6 +206,7 @@ The questions are divided into 6 categories:
 |[E0086]|[Johnny and the Beanstalk]|
 |[E0087]|[Fire Escape Routes]|
 |[E0088]|[The Morning Commute]|
+|[E0089]|[Processing a string]|
 
 ### Medium
 
@@ -781,6 +782,9 @@ The questions are divided into 6 categories:
 
 [E0088]: Easy/E0088.cpp
 [The Morning Commute]: https://www.codechef.com/problems/COMMUTE
+
+[E0089]: Easy/E0089.cpp
+[Processing a string]: https://www.codechef.com/problems/KOL15A
 
 [//]: # (Medium)
 
