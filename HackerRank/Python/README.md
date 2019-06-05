@@ -12,6 +12,7 @@
 
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
+|[M0001]|[Write a function]|
 
 ### Hard
 
@@ -30,6 +31,9 @@
 [Arithmetic Operators]: https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
 
 [//]: # (Medium)
+
+[M0001]: Medium/M0001.py
+[Write a function]: https://www.hackerrank.com/challenges/write-a-function/problem
 
 [//]: # (Hard)
 
