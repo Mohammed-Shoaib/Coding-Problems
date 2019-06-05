@@ -126,8 +126,6 @@
 |:--------------:|-----------------|
 |[H0001]|[Matrix Layer Rotation]|
 
-[//]: # (Algorithms)
-
 [//]: # (Easy)
 
 [E0001]: Algorithms/Easy/E0001.cpp
