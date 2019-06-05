@@ -12,6 +12,7 @@
 
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
+|[M0001]|[Sparse Arrays]|
 
 ### Hard
 
@@ -30,6 +31,9 @@
 [Dynamic Array]: https://www.hackerrank.com/challenges/dynamic-array/problem
 
 [//]: # (Medium)
+
+[M0001]: Medium/M0001.cpp
+[Sparse Arrays]: https://www.hackerrank.com/challenges/sparse-arrays/problem
 
 [//]: # (Hard)
 
