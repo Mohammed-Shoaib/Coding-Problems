@@ -4,6 +4,7 @@
 
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
+|[E0001]|[Arrays - DS]|
 
 ### Medium
 
@@ -16,6 +17,9 @@
 |:--------------:|-----------------|
 
 [//]: # (Easy)
+
+[E0001]: Easy/E0001.cpp
+[Arrays - DS]: https://www.hackerrank.com/challenges/arrays-ds/problem
 
 [//]: # (Medium)
 
