@@ -18,6 +18,7 @@
 
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
+|[H0001]|[Maximize It!]|
 
 [//]: # (Easy)
 
@@ -36,5 +37,8 @@
 [Write a function]: https://www.hackerrank.com/challenges/write-a-function/problem
 
 [//]: # (Hard)
+
+[H0001]: Hard/H0001.py
+[Maximize It!]: https://www.hackerrank.com/challenges/maximize-it/problem
 
 [//]: # (EOF)
