@@ -18,6 +18,7 @@
 
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
+|[H0001]|[Array Manipulation]|
 
 [//]: # (Easy)
 
@@ -36,5 +37,8 @@
 [Sparse Arrays]: https://www.hackerrank.com/challenges/sparse-arrays/problem
 
 [//]: # (Hard)
+
+[H0001]: Hard/H0001.cpp
+[Array Manipulation]: https://www.hackerrank.com/challenges/crush/problem
 
 [//]: # (EOF)
