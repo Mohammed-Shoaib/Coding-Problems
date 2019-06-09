@@ -9,6 +9,7 @@
 |[E0003]|[Arithmetic Operators]|
 |[E0004]|[Python: Division]|
 |[E0005]|[Loops]|
+|[E0006]|[Print Function]|
 
 ### Medium
 
@@ -38,6 +39,9 @@
 
 [E0005]: Easy/E0005.py
 [Loops]: https://www.hackerrank.com/challenges/python-loops/problem
+
+[E0006]: Easy/E0006.py
+[Print Function]: https://www.hackerrank.com/challenges/python-print/problem
 
 [//]: # (Medium)
 
