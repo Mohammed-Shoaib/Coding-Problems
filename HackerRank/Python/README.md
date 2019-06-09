@@ -8,6 +8,7 @@
 |[E0002]|[Python If-Else]|
 |[E0003]|[Arithmetic Operators]|
 |[E0004]|[Python: Division]|
+|[E0005]|[Loops]|
 
 ### Medium
 
@@ -34,6 +35,9 @@
 
 [E0004]: Easy/E0004.py
 [Python: Division]: https://www.hackerrank.com/challenges/python-division/problem
+
+[E0005]: Easy/E0005.py
+[Loops]: https://www.hackerrank.com/challenges/python-loops/problem
 
 [//]: # (Medium)
 
