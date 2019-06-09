@@ -7,6 +7,7 @@
 |[E0001]|[Say "Hello, World!" With Python]|
 |[E0002]|[Python If-Else]|
 |[E0003]|[Arithmetic Operators]|
+|[E0004]|[Python: Division]|
 
 ### Medium
 
@@ -30,6 +31,9 @@
 
 [E0003]: Easy/E0003.py
 [Arithmetic Operators]: https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
+
+[E0004]: Easy/E0004.py
+[Python: Division]: https://www.hackerrank.com/challenges/python-division/problem
 
 [//]: # (Medium)
 
