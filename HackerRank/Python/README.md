@@ -12,6 +12,7 @@
 |[E0006]|[Print Function]|
 |[E0007]|[List Comprehensions]|
 |[E0008]|[Nested Lists]|
+|[E0009]|[Finding the percentage]|
 
 ### Medium
 
@@ -50,6 +51,9 @@
 
 [E0008]: Easy/E0008.py
 [Nested Lists]: https://www.hackerrank.com/challenges/nested-list/problem
+
+[E0009]: Easy/E0009.py
+[Finding the percentage]: https://www.hackerrank.com/challenges/finding-the-percentage/problem
 
 [//]: # (Medium)
 
