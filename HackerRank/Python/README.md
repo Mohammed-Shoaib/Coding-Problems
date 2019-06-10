@@ -10,6 +10,7 @@
 |[E0004]|[Python: Division]|
 |[E0005]|[Loops]|
 |[E0006]|[Print Function]|
+|[E0007]|[List Comprehensions]|
 
 ### Medium
 
@@ -42,6 +43,9 @@
 
 [E0006]: Easy/E0006.py
 [Print Function]: https://www.hackerrank.com/challenges/python-print/problem
+
+[E0007]: Easy/E0007.py
+[List Comprehensions]: https://www.hackerrank.com/challenges/list-comprehensions/problem
 
 [//]: # (Medium)
 
