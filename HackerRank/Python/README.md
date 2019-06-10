@@ -11,6 +11,7 @@
 |[E0005]|[Loops]|
 |[E0006]|[Print Function]|
 |[E0007]|[List Comprehensions]|
+|[E0008]|[Nested Lists]|
 
 ### Medium
 
@@ -46,6 +47,9 @@
 
 [E0007]: Easy/E0007.py
 [List Comprehensions]: https://www.hackerrank.com/challenges/list-comprehensions/problem
+
+[E0008]: Easy/E0008.py
+[Nested Lists]: https://www.hackerrank.com/challenges/nested-list/problem
 
 [//]: # (Medium)
 
