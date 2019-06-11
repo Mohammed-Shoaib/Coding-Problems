@@ -14,6 +14,7 @@
 |[E0008]|[Nested Lists]|
 |[E0009]|[Finding the percentage]|
 |[E0010]|[Lists]|
+|[E0011]|[Tuples]|
 
 ### Medium
 
@@ -58,6 +59,9 @@
 
 [E0010]: Easy/E0010.py
 [Lists]: https://www.hackerrank.com/challenges/python-lists/problem
+
+[E0011]: Easy/E0011.py
+[Tuples]: https://www.hackerrank.com/challenges/python-tuples/problem
 
 [//]: # (Medium)
 
