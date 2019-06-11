@@ -13,6 +13,7 @@
 |[E0007]|[List Comprehensions]|
 |[E0008]|[Nested Lists]|
 |[E0009]|[Finding the percentage]|
+|[E0010]|[Lists]|
 
 ### Medium
 
@@ -54,6 +55,9 @@
 
 [E0009]: Easy/E0009.py
 [Finding the percentage]: https://www.hackerrank.com/challenges/finding-the-percentage/problem
+
+[E0010]: Easy/E0010.py
+[Lists]: https://www.hackerrank.com/challenges/python-lists/problem
 
 [//]: # (Medium)
 
