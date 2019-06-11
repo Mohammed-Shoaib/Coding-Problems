@@ -15,6 +15,7 @@
 |[E0009]|[Finding the percentage]|
 |[E0010]|[Lists]|
 |[E0011]|[Tuples]|
+|[E0012]|[sWAP cASE]|
 
 ### Medium
 
@@ -62,6 +63,9 @@
 
 [E0011]: Easy/E0011.py
 [Tuples]: https://www.hackerrank.com/challenges/python-tuples/problem
+
+[E0012]: Easy/E0012.py
+[sWAP cASE]: https://www.hackerrank.com/challenges/swap-case/problem
 
 [//]: # (Medium)
 
