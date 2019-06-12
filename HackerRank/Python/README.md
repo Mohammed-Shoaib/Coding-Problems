@@ -17,6 +17,7 @@
 |[E0011]|[Tuples]|
 |[E0012]|[sWAP cASE]|
 |[E0013]|[String Split and Join]|
+|[E0014]|[What's Your Name?]|
 
 ### Medium
 
@@ -70,6 +71,9 @@
 
 [E0013]: Easy/E0013.py
 [String Split and Join]: https://www.hackerrank.com/challenges/python-string-split-and-join/problem
+
+[E0014]: Easy/E0014.py
+[What's Your Name?]: https://www.hackerrank.com/challenges/whats-your-name/problem
 
 [//]: # (Medium)
 
