@@ -18,6 +18,7 @@
 |[E0012]|[sWAP cASE]|
 |[E0013]|[String Split and Join]|
 |[E0014]|[What's Your Name?]|
+|[E0015]|[Mutations]|
 
 ### Medium
 
@@ -74,6 +75,9 @@
 
 [E0014]: Easy/E0014.py
 [What's Your Name?]: https://www.hackerrank.com/challenges/whats-your-name/problem
+
+[E0015]: Easy/E0015.py
+[Mutations]: https://www.hackerrank.com/challenges/python-mutations/problem
 
 [//]: # (Medium)
 
