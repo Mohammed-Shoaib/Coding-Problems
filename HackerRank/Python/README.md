@@ -16,6 +16,7 @@
 |[E0010]|[Lists]|
 |[E0011]|[Tuples]|
 |[E0012]|[sWAP cASE]|
+|[E0013]|[String Split and Join]|
 
 ### Medium
 
@@ -66,6 +67,9 @@
 
 [E0012]: Easy/E0012.py
 [sWAP cASE]: https://www.hackerrank.com/challenges/swap-case/problem
+
+[E0013]: Easy/E0013.py
+[String Split and Join]: https://www.hackerrank.com/challenges/python-string-split-and-join/problem
 
 [//]: # (Medium)
 
