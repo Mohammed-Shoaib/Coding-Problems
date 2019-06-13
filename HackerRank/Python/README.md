@@ -20,6 +20,7 @@
 |[E0014]|[What's Your Name?]|
 |[E0015]|[Mutations]|
 |[E0016]|[Find a string]|
+|[E0017]|[String Validators]|
 
 ### Medium
 
@@ -82,6 +83,9 @@
 
 [E0016]: Easy/E0016.py
 [Find a string]: https://www.hackerrank.com/challenges/find-a-string/problem
+
+[E0017]: Easy/E0017.py
+[String Validators]: https://www.hackerrank.com/challenges/string-validators/problem
 
 [//]: # (Medium)
 
