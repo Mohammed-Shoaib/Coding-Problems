@@ -19,6 +19,7 @@
 |[E0013]|[String Split and Join]|
 |[E0014]|[What's Your Name?]|
 |[E0015]|[Mutations]|
+|[E0016]|[Find a string]|
 
 ### Medium
 
@@ -78,6 +79,9 @@
 
 [E0015]: Easy/E0015.py
 [Mutations]: https://www.hackerrank.com/challenges/python-mutations/problem
+
+[E0016]: Easy/E0016.py
+[Find a string]: https://www.hackerrank.com/challenges/find-a-string/problem
 
 [//]: # (Medium)
 
