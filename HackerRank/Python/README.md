@@ -21,6 +21,7 @@
 |[E0015]|[Mutations]|
 |[E0016]|[Find a string]|
 |[E0017]|[String Validators]|
+|[E0018]|[Text Alignment]|
 
 ### Medium
 
@@ -86,6 +87,9 @@
 
 [E0017]: Easy/E0017.py
 [String Validators]: https://www.hackerrank.com/challenges/string-validators/problem
+
+[E0018]: Easy/E0018.py
+[Text Alignment]: https://www.hackerrank.com/challenges/text-alignment/problem
 
 [//]: # (Medium)
 
