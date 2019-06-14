@@ -28,6 +28,7 @@
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
 |[M0001]|[Write a function]|
+|[M0002]|[The Minion Game]|
 
 ### Hard
 
@@ -95,6 +96,9 @@
 
 [M0001]: Medium/M0001.py
 [Write a function]: https://www.hackerrank.com/challenges/write-a-function/problem
+
+[M0002]: Medium/M0002.py
+[The Minion Game]: https://www.hackerrank.com/challenges/the-minion-game/problem
 
 [//]: # (Hard)
 
