@@ -13,6 +13,7 @@
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
 |[M0001]|[Sparse Arrays]|
+|[M0002]|[Cycle Detection]|
 
 ### Hard
 
@@ -35,6 +36,9 @@
 
 [M0001]: Medium/M0001.cpp
 [Sparse Arrays]: https://www.hackerrank.com/challenges/sparse-arrays/problem
+
+[M0002]: Medium/M0002.cpp
+[Cycle Detection]: https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem
 
 [//]: # (Hard)
 
