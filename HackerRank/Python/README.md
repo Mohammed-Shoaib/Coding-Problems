@@ -29,6 +29,7 @@
 |:--------------:|-----------------|
 |[M0001]|[Write a function]|
 |[M0002]|[The Minion Game]|
+|[M0003]|[Time Delta]|
 
 ### Hard
 
@@ -99,6 +100,9 @@
 
 [M0002]: Medium/M0002.py
 [The Minion Game]: https://www.hackerrank.com/challenges/the-minion-game/problem
+
+[M0003]: Medium/M0003.py
+[Time Delta]: https://www.hackerrank.com/challenges/python-time-delta/problem
 
 [//]: # (Hard)
 
