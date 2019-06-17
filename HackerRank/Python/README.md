@@ -22,6 +22,7 @@
 |[E0016]|[Find a string]|
 |[E0017]|[String Validators]|
 |[E0018]|[Text Alignment]|
+|[E0019]|[Text Wrap]|
 
 ### Medium
 
@@ -92,6 +93,9 @@
 
 [E0018]: Easy/E0018.py
 [Text Alignment]: https://www.hackerrank.com/challenges/text-alignment/problem
+
+[E0019]: Easy/E0019.py
+[Text Wrap]: https://www.hackerrank.com/challenges/text-wrap/problem
 
 [//]: # (Medium)
 
