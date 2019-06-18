@@ -23,6 +23,7 @@
 |[E0017]|[String Validators]|
 |[E0018]|[Text Alignment]|
 |[E0019]|[Text Wrap]|
+|[E0020]|[Designer Door Mat]|
 
 ### Medium
 
@@ -96,6 +97,9 @@
 
 [E0019]: Easy/E0019.py
 [Text Wrap]: https://www.hackerrank.com/challenges/text-wrap/problem
+
+[E0020]: Easy/E0020.py
+[Designer Door Mat]: https://www.hackerrank.com/challenges/designer-door-mat/problem
 
 [//]: # (Medium)
 
