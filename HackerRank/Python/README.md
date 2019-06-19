@@ -24,6 +24,7 @@
 |[E0018]|[Text Alignment]|
 |[E0019]|[Text Wrap]|
 |[E0020]|[Designer Door Mat]|
+|[E0021]|[String Formatting]|
 
 ### Medium
 
@@ -100,6 +101,9 @@
 
 [E0020]: Easy/E0020.py
 [Designer Door Mat]: https://www.hackerrank.com/challenges/designer-door-mat/problem
+
+[E0021]: Easy/E0021.py
+[String Formatting]: https://www.hackerrank.com/challenges/python-string-formatting/problem
 
 [//]: # (Medium)
 
