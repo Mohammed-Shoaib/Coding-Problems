@@ -33,6 +33,7 @@
 |[M0001]|[Write a function]|
 |[M0002]|[The Minion Game]|
 |[M0003]|[Time Delta]|
+|[M0004]|[Iterables and Iterators]|
 
 ### Hard
 
@@ -115,6 +116,9 @@
 
 [M0003]: Medium/M0003.py
 [Time Delta]: https://www.hackerrank.com/challenges/python-time-delta/problem
+
+[M0004]: Medium/M0004.py
+[Iterables and Iterators]: https://www.hackerrank.com/challenges/iterables-and-iterators/problem
 
 [//]: # (Hard)
 
