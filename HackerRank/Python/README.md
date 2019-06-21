@@ -34,6 +34,7 @@
 |[M0002]|[The Minion Game]|
 |[M0003]|[Time Delta]|
 |[M0004]|[Iterables and Iterators]|
+|[M0005]|[Compress the String!]|
 
 ### Hard
 
@@ -119,6 +120,9 @@
 
 [M0004]: Medium/M0004.py
 [Iterables and Iterators]: https://www.hackerrank.com/challenges/iterables-and-iterators/problem
+
+[M0005]: Medium/M0005.py
+[Compress the String!]: https://www.hackerrank.com/challenges/compress-the-string/problem
 
 [//]: # (Hard)
 
