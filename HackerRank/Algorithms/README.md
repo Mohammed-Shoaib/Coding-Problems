@@ -119,6 +119,7 @@
 |[M0014]|[The Bomberman Game]|
 |[M0015]|[Queen's Attack II]|
 |[M0016]|[Forming a Magic Square]|
+|[M0017]|[Ema's Supercomputer]|
 
 ### Hard
 
@@ -459,6 +460,9 @@
 
 [M0016]: Medium/M0016.cpp
 [Forming a Magic Square]: https://www.hackerrank.com/challenges/magic-square-forming/problem
+
+[M0017]: Medium/M0017.cpp
+[Ema's Supercomputer]: https://www.hackerrank.com/challenges/two-pluses/problem
 
 [//]: # (Hard)
 
