@@ -120,6 +120,7 @@
 |[M0015]|[Queen's Attack II]|
 |[M0016]|[Forming a Magic Square]|
 |[M0017]|[Ema's Supercomputer]|
+|[M0018]|[Fraudulent Activity Notifications]|
 
 ### Hard
 
@@ -463,6 +464,9 @@
 
 [M0017]: Medium/M0017.cpp
 [Ema's Supercomputer]: https://www.hackerrank.com/challenges/two-pluses/problem
+
+[M0018]: Medium/M0018.cpp
+[Fraudulent Activity Notifications]: https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem
 
 [//]: # (Hard)
 
