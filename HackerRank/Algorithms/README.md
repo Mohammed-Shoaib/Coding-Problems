@@ -121,6 +121,7 @@
 |[M0016]|[Forming a Magic Square]|
 |[M0017]|[Ema's Supercomputer]|
 |[M0018]|[Fraudulent Activity Notifications]|
+|[M0019]|[Lily's Homework]|
 
 ### Hard
 
@@ -467,6 +468,9 @@
 
 [M0018]: Medium/M0018.cpp
 [Fraudulent Activity Notifications]: https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem
+
+[M0019]: Medium/M0019.cpp
+[Lily's Homework]: https://www.hackerrank.com/challenges/lilys-homework/problem
 
 [//]: # (Hard)
 
