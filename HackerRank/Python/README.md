@@ -35,6 +35,7 @@
 |[M0003]|[Time Delta]|
 |[M0004]|[Iterables and Iterators]|
 |[M0005]|[Compress the String!]|
+|[M0006]|[Merge the Tools!]|
 
 ### Hard
 
@@ -123,6 +124,9 @@
 
 [M0005]: Medium/M0005.py
 [Compress the String!]: https://www.hackerrank.com/challenges/compress-the-string/problem
+
+[M0006]: Medium/M0006.py
+[Merge the Tools!]: https://www.hackerrank.com/challenges/merge-the-tools/problem
 
 [//]: # (Hard)
 
