@@ -36,6 +36,7 @@
 |[M0004]|[Iterables and Iterators]|
 |[M0005]|[Compress the String!]|
 |[M0006]|[Merge the Tools!]|
+|[M0007]|[No Idea!]|
 
 ### Hard
 
@@ -127,6 +128,9 @@
 
 [M0006]: Medium/M0006.py
 [Merge the Tools!]: https://www.hackerrank.com/challenges/merge-the-tools/problem
+
+[M0007]: Medium/M0007.py
+[No Idea!]: https://www.hackerrank.com/challenges/no-idea/problem
 
 [//]: # (Hard)
 
