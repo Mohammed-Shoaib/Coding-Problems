@@ -37,6 +37,7 @@
 |[M0005]|[Compress the String!]|
 |[M0006]|[Merge the Tools!]|
 |[M0007]|[No Idea!]|
+|[M0008]|[Find Angle MBC]|
 
 ### Hard
 
@@ -131,6 +132,9 @@
 
 [M0007]: Medium/M0007.py
 [No Idea!]: https://www.hackerrank.com/challenges/no-idea/problem
+
+[M0008]: Medium/M0008.py
+[Find Angle MBC]: https://www.hackerrank.com/challenges/find-angle/problem
 
 [//]: # (Hard)
 
