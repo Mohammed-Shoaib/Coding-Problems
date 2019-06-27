@@ -38,6 +38,7 @@
 |[M0006]|[Merge the Tools!]|
 |[M0007]|[No Idea!]|
 |[M0008]|[Find Angle MBC]|
+|[M0009]|[Triangle Quest]|
 
 ### Hard
 
@@ -135,6 +136,9 @@
 
 [M0008]: Medium/M0008.py
 [Find Angle MBC]: https://www.hackerrank.com/challenges/find-angle/problem
+
+[M0009]: Medium/M0009.py
+[Triangle Quest]: https://www.hackerrank.com/challenges/python-quest-1/problem
 
 [//]: # (Hard)
 
