@@ -39,6 +39,7 @@
 |[M0007]|[No Idea!]|
 |[M0008]|[Find Angle MBC]|
 |[M0009]|[Triangle Quest]|
+|[M0010]|[Triangle Quest 2]|
 
 ### Hard
 
@@ -139,6 +140,9 @@
 
 [M0009]: Medium/M0009.py
 [Triangle Quest]: https://www.hackerrank.com/challenges/python-quest-1/problem
+
+[M0010]: Medium/M0010.py
+[Triangle Quest 2]: https://www.hackerrank.com/challenges/triangle-quest-2/problem
 
 [//]: # (Hard)
 
