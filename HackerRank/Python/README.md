@@ -41,6 +41,7 @@
 |[M0009]|[Triangle Quest]|
 |[M0010]|[Triangle Quest 2]|
 |[M0011]|[Word Order]|
+|[M0012]|[Company Logo]|
 
 ### Hard
 
@@ -147,6 +148,9 @@
 
 [M0011]: Medium/M0011.py
 [Word Order]: https://www.hackerrank.com/challenges/word-order/problem
+
+[M0012]: Medium/M0012.py
+[Company Logo]: https://www.hackerrank.com/challenges/most-commons/problem
 
 [//]: # (Hard)
 
