@@ -40,6 +40,7 @@
 |[M0008]|[Find Angle MBC]|
 |[M0009]|[Triangle Quest]|
 |[M0010]|[Triangle Quest 2]|
+|[M0011]|[Word Order]|
 
 ### Hard
 
@@ -143,6 +144,9 @@
 
 [M0010]: Medium/M0010.py
 [Triangle Quest 2]: https://www.hackerrank.com/challenges/triangle-quest-2/problem
+
+[M0011]: Medium/M0011.py
+[Word Order]: https://www.hackerrank.com/challenges/word-order/problem
 
 [//]: # (Hard)
 
