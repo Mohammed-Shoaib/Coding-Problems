@@ -42,6 +42,7 @@
 |[M0010]|[Triangle Quest 2]|
 |[M0011]|[Word Order]|
 |[M0012]|[Company Logo]|
+|[M0013]|[Piling Up!]|
 
 ### Hard
 
@@ -151,6 +152,9 @@
 
 [M0012]: Medium/M0012.py
 [Company Logo]: https://www.hackerrank.com/challenges/most-commons/problem
+
+[M0013]: Medium/M0013.py
+[Piling Up!]: https://www.hackerrank.com/challenges/piling-up/problem
 
 [//]: # (Hard)
 
