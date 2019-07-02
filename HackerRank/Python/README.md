@@ -43,6 +43,7 @@
 |[M0011]|[Word Order]|
 |[M0012]|[Company Logo]|
 |[M0013]|[Piling Up!]|
+|[M0014]|[Classes: Dealing with Complex Numbers]|
 
 ### Hard
 
@@ -155,6 +156,9 @@
 
 [M0013]: Medium/M0013.py
 [Piling Up!]: https://www.hackerrank.com/challenges/piling-up/problem
+
+[M0014]: Medium/M0014.py
+[Classes: Dealing with Complex Numbers]: https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem
 
 [//]: # (Hard)
 
