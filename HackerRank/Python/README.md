@@ -45,6 +45,7 @@
 |[M0013]|[Piling Up!]|
 |[M0014]|[Classes: Dealing with Complex Numbers]|
 |[M0015]|[Athlete Sort]|
+|[M0016]|[ginortS]|
 
 ### Hard
 
@@ -163,6 +164,9 @@
 
 [M0015]: Medium/M0015.py
 [Athlete Sort]: https://www.hackerrank.com/challenges/python-sort-sort/problem
+
+[M0016]: Medium/M0016.py
+[ginortS]: https://www.hackerrank.com/challenges/ginorts/problem
 
 [//]: # (Hard)
 
