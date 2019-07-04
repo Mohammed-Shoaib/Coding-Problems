@@ -44,6 +44,7 @@
 |[M0012]|[Company Logo]|
 |[M0013]|[Piling Up!]|
 |[M0014]|[Classes: Dealing with Complex Numbers]|
+|[M0015]|[Athlete Sort]|
 
 ### Hard
 
@@ -159,6 +160,9 @@
 
 [M0014]: Medium/M0014.py
 [Classes: Dealing with Complex Numbers]: https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem
+
+[M0015]: Medium/M0015.py
+[Athlete Sort]: https://www.hackerrank.com/challenges/python-sort-sort/problem
 
 [//]: # (Hard)
 
