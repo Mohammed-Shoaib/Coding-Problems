@@ -46,6 +46,7 @@
 |[M0014]|[Classes: Dealing with Complex Numbers]|
 |[M0015]|[Athlete Sort]|
 |[M0016]|[ginortS]|
+|[M0017]|[Reduce Function]|
 
 ### Hard
 
@@ -167,6 +168,9 @@
 
 [M0016]: Medium/M0016.py
 [ginortS]: https://www.hackerrank.com/challenges/ginorts/problem
+
+[M0017]: Medium/M0017.py
+[Reduce Function]: https://www.hackerrank.com/challenges/reduce-function/problem
 
 [//]: # (Hard)
 
