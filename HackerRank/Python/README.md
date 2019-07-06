@@ -25,6 +25,7 @@
 |[E0019]|[Text Wrap]|
 |[E0020]|[Designer Door Mat]|
 |[E0021]|[String Formatting]|
+|[E0022]|[Alphabet Rangoli]|
 
 ### Medium
 
@@ -118,6 +119,9 @@
 
 [E0021]: Easy/E0021.py
 [String Formatting]: https://www.hackerrank.com/challenges/python-string-formatting/problem
+
+[E0022]: Easy/E0022.py
+[Alphabet Rangoli]: https://www.hackerrank.com/challenges/alphabet-rangoli/problem
 
 [//]: # (Medium)
 
