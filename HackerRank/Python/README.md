@@ -26,6 +26,7 @@
 |[E0020]|[Designer Door Mat]|
 |[E0021]|[String Formatting]|
 |[E0022]|[Alphabet Rangoli]|
+|[E0023]|[Capitalize!]|
 
 ### Medium
 
@@ -122,6 +123,9 @@
 
 [E0022]: Easy/E0022.py
 [Alphabet Rangoli]: https://www.hackerrank.com/challenges/alphabet-rangoli/problem
+
+[E0023]: Easy/E0023.py
+[Capitalize!]: https://www.hackerrank.com/challenges/capitalize/problem
 
 [//]: # (Medium)
 
