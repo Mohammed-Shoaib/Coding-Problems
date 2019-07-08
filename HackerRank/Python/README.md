@@ -27,6 +27,7 @@
 |[E0021]|[String Formatting]|
 |[E0022]|[Alphabet Rangoli]|
 |[E0023]|[Capitalize!]|
+|[E0024]|[itertools.product()]|
 
 ### Medium
 
@@ -126,6 +127,9 @@
 
 [E0023]: Easy/E0023.py
 [Capitalize!]: https://www.hackerrank.com/challenges/capitalize/problem
+
+[E0024]: Easy/E0024.py
+[itertools.product()]: https://www.hackerrank.com/challenges/itertools-product/problem
 
 [//]: # (Medium)
 
