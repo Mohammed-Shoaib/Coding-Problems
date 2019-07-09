@@ -28,6 +28,7 @@
 |[E0022]|[Alphabet Rangoli]|
 |[E0023]|[Capitalize!]|
 |[E0024]|[itertools.product()]|
+|[E0025]|[collections.Counter()]|
 
 ### Medium
 
@@ -130,6 +131,9 @@
 
 [E0024]: Easy/E0024.py
 [itertools.product()]: https://www.hackerrank.com/challenges/itertools-product/problem
+
+[E0025]: Easy/E0025.py
+[collections.Counter()]: https://www.hackerrank.com/challenges/collections-counter/problem
 
 [//]: # (Medium)
 
