@@ -30,6 +30,7 @@
 |[E0024]|[itertools.product()]|
 |[E0025]|[collections.Counter()]|
 |[E0026]|[itertools.permutations()]|
+|[E0027]|[Polar Coordinates]|
 
 ### Medium
 
@@ -138,6 +139,9 @@
 
 [E0026]: Easy/E0026.py
 [itertools.permutations()]: https://www.hackerrank.com/challenges/itertools-permutations/problem
+
+[E0027]: Easy/E0027.py
+[Polar Coordinates]: https://www.hackerrank.com/challenges/polar-coordinates/problem
 
 [//]: # (Medium)
 
