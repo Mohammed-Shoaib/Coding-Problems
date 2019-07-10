@@ -29,6 +29,7 @@
 |[E0023]|[Capitalize!]|
 |[E0024]|[itertools.product()]|
 |[E0025]|[collections.Counter()]|
+|[E0026]|[itertools.permutations()]|
 
 ### Medium
 
@@ -134,6 +135,9 @@
 
 [E0025]: Easy/E0025.py
 [collections.Counter()]: https://www.hackerrank.com/challenges/collections-counter/problem
+
+[E0026]: Easy/E0026.py
+[itertools.permutations()]: https://www.hackerrank.com/challenges/itertools-permutations/problem
 
 [//]: # (Medium)
 
