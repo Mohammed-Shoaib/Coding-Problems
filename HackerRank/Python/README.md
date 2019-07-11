@@ -32,6 +32,7 @@
 |[E0026]|[itertools.permutations()]|
 |[E0027]|[Polar Coordinates]|
 |[E0028]|[Introduction to Sets]|
+|[E0029]|[DefaultDict Tutorial]|
 
 ### Medium
 
@@ -146,6 +147,9 @@
 
 [E0028]: Easy/E0028.py
 [Introduction to Sets]: https://www.hackerrank.com/challenges/py-introduction-to-sets/problem
+
+[E0029]: Easy/E0029.py
+[DefaultDict Tutorial]: https://www.hackerrank.com/challenges/defaultdict-tutorial/problem
 
 [//]: # (Medium)
 
