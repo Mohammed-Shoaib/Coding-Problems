@@ -31,6 +31,7 @@
 |[E0025]|[collections.Counter()]|
 |[E0026]|[itertools.permutations()]|
 |[E0027]|[Polar Coordinates]|
+|[E0028]|[Introduction to Sets]|
 
 ### Medium
 
@@ -142,6 +143,9 @@
 
 [E0027]: Easy/E0027.py
 [Polar Coordinates]: https://www.hackerrank.com/challenges/polar-coordinates/problem
+
+[E0028]: Easy/E0028.py
+[Introduction to Sets]: https://www.hackerrank.com/challenges/py-introduction-to-sets/problem
 
 [//]: # (Medium)
 
