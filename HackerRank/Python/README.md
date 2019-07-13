@@ -33,6 +33,7 @@
 |[E0027]|[Polar Coordinates]|
 |[E0028]|[Introduction to Sets]|
 |[E0029]|[DefaultDict Tutorial]|
+|[E0030]|[Calendar Module]|
 
 ### Medium
 
@@ -150,6 +151,9 @@
 
 [E0029]: Easy/E0029.py
 [DefaultDict Tutorial]: https://www.hackerrank.com/challenges/defaultdict-tutorial/problem
+
+[E0030]: Easy/E0030.py
+[Calendar Module]: https://www.hackerrank.com/challenges/calendar-module/problem
 
 [//]: # (Medium)
 
