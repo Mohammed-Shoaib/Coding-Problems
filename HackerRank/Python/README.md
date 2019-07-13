@@ -34,6 +34,7 @@
 |[E0028]|[Introduction to Sets]|
 |[E0029]|[DefaultDict Tutorial]|
 |[E0030]|[Calendar Module]|
+|[E0031]|[Exceptions]|
 
 ### Medium
 
@@ -154,6 +155,9 @@
 
 [E0030]: Easy/E0030.py
 [Calendar Module]: https://www.hackerrank.com/challenges/calendar-module/problem
+
+[E0031]: Easy/E0031.py
+[Exceptions]: https://www.hackerrank.com/challenges/exceptions/problem
 
 [//]: # (Medium)
 
