@@ -57,6 +57,7 @@
 |[M0015]|[Athlete Sort]|
 |[M0016]|[ginortS]|
 |[M0017]|[Reduce Function]|
+|[M0018]|[Validating Email Addresses With a Filter]|
 
 ### Hard
 
@@ -211,6 +212,9 @@
 
 [M0017]: Medium/M0017.py
 [Reduce Function]: https://www.hackerrank.com/challenges/reduce-function/problem
+
+[M0018]: Medium/M0018.py
+[Validating Email Addresses With a Filter]: https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem
 
 [//]: # (Hard)
 
