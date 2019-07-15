@@ -37,6 +37,7 @@
 |[E0031]|[Exceptions]|
 |[E0032]|[Collections.namedtuple()]|
 |[E0033]|[Collections.OrderedDict()]|
+|[E0034]|[Symmetric Difference]|
 
 ### Medium
 
@@ -167,6 +168,9 @@
 
 [E0033]: Easy/E0033.py
 [Collections.OrderedDict()]: https://www.hackerrank.com/challenges/py-collections-ordereddict/problem
+
+[E0034]: Easy/E0034.py
+[Symmetric Difference]: https://www.hackerrank.com/challenges/symmetric-difference/problem
 
 [//]: # (Medium)
 
