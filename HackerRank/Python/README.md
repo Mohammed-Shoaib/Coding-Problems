@@ -36,6 +36,7 @@
 |[E0030]|[Calendar Module]|
 |[E0031]|[Exceptions]|
 |[E0032]|[Collections.namedtuple()]|
+|[E0033]|[Collections.OrderedDict()]|
 
 ### Medium
 
@@ -163,6 +164,9 @@
 
 [E0032]: Easy/E0032.py
 [Collections.namedtuple()]: https://www.hackerrank.com/challenges/py-collections-namedtuple/problem
+
+[E0033]: Easy/E0033.py
+[Collections.OrderedDict()]: https://www.hackerrank.com/challenges/py-collections-ordereddict/problem
 
 [//]: # (Medium)
 
