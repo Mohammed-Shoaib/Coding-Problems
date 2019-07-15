@@ -35,6 +35,7 @@
 |[E0029]|[DefaultDict Tutorial]|
 |[E0030]|[Calendar Module]|
 |[E0031]|[Exceptions]|
+|[E0032]|[Collections.namedtuple()]|
 
 ### Medium
 
@@ -159,6 +160,9 @@
 
 [E0031]: Easy/E0031.py
 [Exceptions]: https://www.hackerrank.com/challenges/exceptions/problem
+
+[E0032]: Easy/E0032.py
+[Collections.namedtuple()]: https://www.hackerrank.com/challenges/py-collections-namedtuple/problem
 
 [//]: # (Medium)
 
