@@ -39,6 +39,7 @@
 |[E0033]|[Collections.OrderedDict()]|
 |[E0034]|[Symmetric Difference]|
 |[E0035]|[itertools.combinations()]|
+|[E0036]|[itertools.combinations_with_replacement()]|
 
 ### Medium
 
@@ -175,6 +176,9 @@
 
 [E0035]: Easy/E0035.py
 [itertools.combinations()]: https://www.hackerrank.com/challenges/itertools-combinations/problem
+
+[E0036]: Easy/E0036.py
+[itertools.combinations_with_replacement()]: https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem
 
 [//]: # (Medium)
 
