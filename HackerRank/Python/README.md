@@ -38,6 +38,7 @@
 |[E0032]|[Collections.namedtuple()]|
 |[E0033]|[Collections.OrderedDict()]|
 |[E0034]|[Symmetric Difference]|
+|[E0035]|[itertools.combinations()]|
 
 ### Medium
 
@@ -171,6 +172,9 @@
 
 [E0034]: Easy/E0034.py
 [Symmetric Difference]: https://www.hackerrank.com/challenges/symmetric-difference/problem
+
+[E0035]: Easy/E0035.py
+[itertools.combinations()]: https://www.hackerrank.com/challenges/itertools-combinations/problem
 
 [//]: # (Medium)
 
