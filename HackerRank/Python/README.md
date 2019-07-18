@@ -42,6 +42,7 @@
 |[E0036]|[itertools.combinations_with_replacement()]|
 |[E0037]|[Incorrect Regex]|
 |[E0038]|[Set .add()]|
+|[E0039]|[Set .discard(), .remove() & .pop()]|
 
 ### Medium
 
@@ -187,6 +188,9 @@
 
 [E0038]: Easy/E0038.py
 [Set .add()]: https://www.hackerrank.com/challenges/py-set-add/problem
+
+[E0039]: Easy/E0039.py
+[Set .discard(), .remove() & .pop()]: https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem
 
 [//]: # (Medium)
 
