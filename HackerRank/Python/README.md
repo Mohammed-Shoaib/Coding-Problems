@@ -40,6 +40,7 @@
 |[E0034]|[Symmetric Difference]|
 |[E0035]|[itertools.combinations()]|
 |[E0036]|[itertools.combinations_with_replacement()]|
+|[E0037]|[Incorrect Regex]|
 
 ### Medium
 
@@ -179,6 +180,9 @@
 
 [E0036]: Easy/E0036.py
 [itertools.combinations_with_replacement()]: https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem
+
+[E0037]: Easy/E0037.py
+[Incorrect Regex]: https://www.hackerrank.com/challenges/incorrect-regex/problem
 
 [//]: # (Medium)
 
