@@ -41,6 +41,7 @@
 |[E0035]|[itertools.combinations()]|
 |[E0036]|[itertools.combinations_with_replacement()]|
 |[E0037]|[Incorrect Regex]|
+|[E0038]|[Set .add()]|
 
 ### Medium
 
@@ -183,6 +184,9 @@
 
 [E0037]: Easy/E0037.py
 [Incorrect Regex]: https://www.hackerrank.com/challenges/incorrect-regex/problem
+
+[E0038]: Easy/E0038.py
+[Set .add()]: https://www.hackerrank.com/challenges/py-set-add/problem
 
 [//]: # (Medium)
 
