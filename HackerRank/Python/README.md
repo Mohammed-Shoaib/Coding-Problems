@@ -43,6 +43,7 @@
 |[E0037]|[Incorrect Regex]|
 |[E0038]|[Set .add()]|
 |[E0039]|[Set .discard(), .remove() & .pop()]|
+|[E0040]|[Set .difference() Operation]|
 
 ### Medium
 
@@ -191,6 +192,9 @@
 
 [E0039]: Easy/E0039.py
 [Set .discard(), .remove() & .pop()]: https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem
+
+[E0040]: Easy/E0040.py
+[Set .difference() Operation]: https://www.hackerrank.com/challenges/py-set-difference-operation/problem
 
 [//]: # (Medium)
 
