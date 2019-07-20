@@ -44,6 +44,7 @@
 |[E0038]|[Set .add()]|
 |[E0039]|[Set .discard(), .remove() & .pop()]|
 |[E0040]|[Set .difference() Operation]|
+|[E0041]|[Set .symmetric_difference() Operation]|
 
 ### Medium
 
@@ -195,6 +196,9 @@
 
 [E0040]: Easy/E0040.py
 [Set .difference() Operation]: https://www.hackerrank.com/challenges/py-set-difference-operation/problem
+
+[E0041]: Easy/E0041.py
+[Set .symmetric_difference() Operation]: https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem
 
 [//]: # (Medium)
 
