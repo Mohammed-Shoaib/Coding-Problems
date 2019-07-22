@@ -46,6 +46,7 @@
 |[E0040]|[Set .difference() Operation]|
 |[E0041]|[Set .symmetric_difference() Operation]|
 |[E0042]|[Set .union() Operation]|
+|[E0043]|[Set .intersection() Operation]|
 
 ### Medium
 
@@ -203,6 +204,9 @@
 
 [E0042]: Easy/E0042.py
 [Set .union() Operation]: https://www.hackerrank.com/challenges/py-set-union/problem
+
+[E0043]: Easy/E0043.py
+[Set .intersection() Operation]: https://www.hackerrank.com/challenges/py-set-intersection-operation/problem
 
 [//]: # (Medium)
 
