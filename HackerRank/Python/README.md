@@ -49,6 +49,7 @@
 |[E0043]|[Set .intersection() Operation]|
 |[E0044]|[Set Mutations]|
 |[E0045]|[The Captain's Room]|
+|[E0046]|[Check Strict Superset]|
 
 ### Medium
 
@@ -215,6 +216,9 @@
 
 [E0045]: Easy/E0045.py
 [The Captain's Room]: https://www.hackerrank.com/challenges/py-the-captains-room/problem
+
+[E0046]: Easy/E0046.py
+[Check Strict Superset]: https://www.hackerrank.com/challenges/py-check-strict-superset/problem
 
 [//]: # (Medium)
 
