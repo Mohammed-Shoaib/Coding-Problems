@@ -48,6 +48,7 @@
 |[E0042]|[Set .union() Operation]|
 |[E0043]|[Set .intersection() Operation]|
 |[E0044]|[Set Mutations]|
+|[E0045]|[The Captain's Room]|
 
 ### Medium
 
@@ -211,6 +212,9 @@
 
 [E0044]: Easy/E0044.py
 [Set Mutations]: https://www.hackerrank.com/challenges/py-set-mutations/problem
+
+[E0045]: Easy/E0045.py
+[The Captain's Room]: https://www.hackerrank.com/challenges/py-the-captains-room/problem
 
 [//]: # (Medium)
 
