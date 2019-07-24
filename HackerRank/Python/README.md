@@ -51,6 +51,7 @@
 |[E0045]|[The Captain's Room]|
 |[E0046]|[Check Strict Superset]|
 |[E0047]|[Collections.deque()]|
+|[E0048]|[Mod Divmod]|
 
 ### Medium
 
@@ -223,6 +224,9 @@
 
 [E0047]: Easy/E0047.py
 [Collections.deque()]: https://www.hackerrank.com/challenges/py-collections-deque/problem
+
+[E0048]: Easy/E0048.py
+[Mod Divmod]: https://www.hackerrank.com/challenges/python-mod-divmod/problem
 
 [//]: # (Medium)
 
