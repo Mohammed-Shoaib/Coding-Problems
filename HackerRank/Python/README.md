@@ -50,6 +50,7 @@
 |[E0044]|[Set Mutations]|
 |[E0045]|[The Captain's Room]|
 |[E0046]|[Check Strict Superset]|
+|[E0047]|[Collections.deque()]|
 
 ### Medium
 
@@ -219,6 +220,9 @@
 
 [E0046]: Easy/E0046.py
 [Check Strict Superset]: https://www.hackerrank.com/challenges/py-check-strict-superset/problem
+
+[E0047]: Easy/E0047.py
+[Collections.deque()]: https://www.hackerrank.com/challenges/py-collections-deque/problem
 
 [//]: # (Medium)
 
