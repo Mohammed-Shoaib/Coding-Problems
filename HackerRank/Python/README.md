@@ -52,6 +52,7 @@
 |[E0046]|[Check Strict Superset]|
 |[E0047]|[Collections.deque()]|
 |[E0048]|[Mod Divmod]|
+|[E0049]|[Power - Mod Power]|
 
 ### Medium
 
@@ -227,6 +228,9 @@
 
 [E0048]: Easy/E0048.py
 [Mod Divmod]: https://www.hackerrank.com/challenges/python-mod-divmod/problem
+
+[E0049]: Easy/E0049.py
+[Power - Mod Power]: https://www.hackerrank.com/challenges/python-power-mod-power/problem
 
 [//]: # (Medium)
 
