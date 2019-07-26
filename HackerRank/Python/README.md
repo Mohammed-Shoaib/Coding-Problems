@@ -53,6 +53,7 @@
 |[E0047]|[Collections.deque()]|
 |[E0048]|[Mod Divmod]|
 |[E0049]|[Power - Mod Power]|
+|[E0050]|[Integers Come In All Sizes]|
 
 ### Medium
 
@@ -231,6 +232,9 @@
 
 [E0049]: Easy/E0049.py
 [Power - Mod Power]: https://www.hackerrank.com/challenges/python-power-mod-power/problem
+
+[E0050]: Easy/E0050.py
+[Integers Come In All Sizes]: https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem
 
 [//]: # (Medium)
 
