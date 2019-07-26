@@ -54,6 +54,7 @@
 |[E0048]|[Mod Divmod]|
 |[E0049]|[Power - Mod Power]|
 |[E0050]|[Integers Come In All Sizes]|
+|[E0051]|[Zipped!]|
 
 ### Medium
 
@@ -235,6 +236,9 @@
 
 [E0050]: Easy/E0050.py
 [Integers Come In All Sizes]: https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem
+
+[E0051]: Easy/E0051.py
+[Zipped!]: https://www.hackerrank.com/challenges/zipped/problem
 
 [//]: # (Medium)
 
