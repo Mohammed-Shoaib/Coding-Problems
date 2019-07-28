@@ -55,6 +55,7 @@
 |[E0049]|[Power - Mod Power]|
 |[E0050]|[Integers Come In All Sizes]|
 |[E0051]|[Zipped!]|
+|[E0052]|[Python Evaluation]|
 
 ### Medium
 
@@ -239,6 +240,9 @@
 
 [E0051]: Easy/E0051.py
 [Zipped!]: https://www.hackerrank.com/challenges/zipped/problem
+
+[E0052]: Easy/E0052.py
+[Python Evaluation]: https://www.hackerrank.com/challenges/python-eval/problem
 
 [//]: # (Medium)
 
