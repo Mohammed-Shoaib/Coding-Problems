@@ -56,6 +56,7 @@
 |[E0050]|[Integers Come In All Sizes]|
 |[E0051]|[Zipped!]|
 |[E0052]|[Python Evaluation]|
+|[E0053]|[Any or All]|
 
 ### Medium
 
@@ -243,6 +244,9 @@
 
 [E0052]: Easy/E0052.py
 [Python Evaluation]: https://www.hackerrank.com/challenges/python-eval/problem
+
+[E0053]: Easy/E0053.py
+[Any or All]: https://www.hackerrank.com/challenges/any-or-all/problem
 
 [//]: # (Medium)
 
