@@ -58,6 +58,7 @@
 |[E0052]|[Python Evaluation]|
 |[E0053]|[Any or All]|
 |[E0054]|[Detect Floating Point Number]|
+|[E0055]|[Arrays]|
 
 ### Medium
 
@@ -251,6 +252,9 @@
 
 [E0054]: Easy/E0054.py
 [Detect Floating Point Number]: https://www.hackerrank.com/challenges/introduction-to-regex/problem
+
+[E0055]: Easy/E0055.py
+[Arrays]: https://www.hackerrank.com/challenges/np-arrays/problem
 
 [//]: # (Medium)
 
