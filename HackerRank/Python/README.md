@@ -57,6 +57,7 @@
 |[E0051]|[Zipped!]|
 |[E0052]|[Python Evaluation]|
 |[E0053]|[Any or All]|
+|[E0054]|[Detect Floating Point Number]|
 
 ### Medium
 
@@ -247,6 +248,9 @@
 
 [E0053]: Easy/E0053.py
 [Any or All]: https://www.hackerrank.com/challenges/any-or-all/problem
+
+[E0054]: Easy/E0054.py
+[Detect Floating Point Number]: https://www.hackerrank.com/challenges/introduction-to-regex/problem
 
 [//]: # (Medium)
 
