@@ -61,6 +61,7 @@
 |[E0055]|[Arrays]|
 |[E0056]|[Map and Lambda Function]|
 |[E0057]|[Class 2 - Find the Torsional Angle]|
+|[E0058]|[XML 1 - Find the Score]|
 
 ### Medium
 
@@ -263,6 +264,9 @@
 
 [E0057]: Easy/E0057.py
 [Class 2 - Find the Torsional Angle]: https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem
+
+[E0058]: Easy/E0058.py
+[XML 1 - Find the Score]: https://www.hackerrank.com/challenges/xml-1-find-the-score/problem
 
 [//]: # (Medium)
 
