@@ -59,6 +59,7 @@
 |[E0053]|[Any or All]|
 |[E0054]|[Detect Floating Point Number]|
 |[E0055]|[Arrays]|
+|[E0056]|[Map and Lambda Function]|
 
 ### Medium
 
@@ -255,6 +256,9 @@
 
 [E0055]: Easy/E0055.py
 [Arrays]: https://www.hackerrank.com/challenges/np-arrays/problem
+
+[E0056]: Easy/E0056.py
+[Map and Lambda Function]: https://www.hackerrank.com/challenges/map-and-lambda-expression/problem
 
 [//]: # (Medium)
 
