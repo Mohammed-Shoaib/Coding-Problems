@@ -60,6 +60,7 @@
 |[E0054]|[Detect Floating Point Number]|
 |[E0055]|[Arrays]|
 |[E0056]|[Map and Lambda Function]|
+|[E0057]|[Class 2 - Find the Torsional Angle]|
 
 ### Medium
 
@@ -259,6 +260,9 @@
 
 [E0056]: Easy/E0056.py
 [Map and Lambda Function]: https://www.hackerrank.com/challenges/map-and-lambda-expression/problem
+
+[E0057]: Easy/E0057.py
+[Class 2 - Find the Torsional Angle]: https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem
 
 [//]: # (Medium)
 
