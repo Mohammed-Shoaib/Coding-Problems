@@ -62,6 +62,7 @@
 |[E0056]|[Map and Lambda Function]|
 |[E0057]|[Class 2 - Find the Torsional Angle]|
 |[E0058]|[XML 1 - Find the Score]|
+|[E0059]|[XML2 - Find the Maximum Depth]|
 
 ### Medium
 
@@ -267,6 +268,9 @@
 
 [E0058]: Easy/E0058.py
 [XML 1 - Find the Score]: https://www.hackerrank.com/challenges/xml-1-find-the-score/problem
+
+[E0059]: Easy/E0059.py
+[XML2 - Find the Maximum Depth]: https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem
 
 [//]: # (Medium)
 
