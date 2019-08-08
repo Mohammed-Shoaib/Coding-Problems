@@ -63,6 +63,7 @@
 |[E0057]|[Class 2 - Find the Torsional Angle]|
 |[E0058]|[XML 1 - Find the Score]|
 |[E0059]|[XML2 - Find the Maximum Depth]|
+|[E0060]|[Standardize Mobile Number Using Decorators]|
 
 ### Medium
 
@@ -271,6 +272,9 @@
 
 [E0059]: Easy/E0059.py
 [XML2 - Find the Maximum Depth]: https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem
+
+[E0060]: Easy/E0060.py
+[Standardize Mobile Number Using Decorators]: https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem
 
 [//]: # (Medium)
 
