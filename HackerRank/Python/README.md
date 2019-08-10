@@ -65,6 +65,7 @@
 |[E0059]|[XML2 - Find the Maximum Depth]|
 |[E0060]|[Standardize Mobile Number Using Decorators]|
 |[E0061]|[Decorators 2 - Name Directory]|
+|[E0062]|[Re.split()]|
 
 ### Medium
 
@@ -279,6 +280,9 @@
 
 [E0061]: Easy/E0061.py
 [Decorators 2 - Name Directory]: https://www.hackerrank.com/challenges/decorators-2-name-directory/problem
+
+[E0062]: Easy/E0062.py
+[Re.split()]: https://www.hackerrank.com/challenges/re-split/problem
 
 [//]: # (Medium)
 
