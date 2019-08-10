@@ -64,6 +64,7 @@
 |[E0058]|[XML 1 - Find the Score]|
 |[E0059]|[XML2 - Find the Maximum Depth]|
 |[E0060]|[Standardize Mobile Number Using Decorators]|
+|[E0061]|[Decorators 2 - Name Directory]|
 
 ### Medium
 
@@ -275,6 +276,9 @@
 
 [E0060]: Easy/E0060.py
 [Standardize Mobile Number Using Decorators]: https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem
+
+[E0061]: Easy/E0061.py
+[Decorators 2 - Name Directory]: https://www.hackerrank.com/challenges/decorators-2-name-directory/problem
 
 [//]: # (Medium)
 
