@@ -66,6 +66,7 @@
 |[E0060]|[Standardize Mobile Number Using Decorators]|
 |[E0061]|[Decorators 2 - Name Directory]|
 |[E0062]|[Re.split()]|
+|[E0063]|[Group(), Groups() & Groupdict()]|
 
 ### Medium
 
@@ -283,6 +284,9 @@
 
 [E0062]: Easy/E0062.py
 [Re.split()]: https://www.hackerrank.com/challenges/re-split/problem
+
+[E0063]: Easy/E0063.py
+[Group(), Groups() & Groupdict()]: https://www.hackerrank.com/challenges/re-group-groups/problem
 
 [//]: # (Medium)
 
