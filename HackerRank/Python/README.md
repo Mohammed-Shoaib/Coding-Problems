@@ -67,6 +67,7 @@
 |[E0061]|[Decorators 2 - Name Directory]|
 |[E0062]|[Re.split()]|
 |[E0063]|[Group(), Groups() & Groupdict()]|
+|[E0064]|[Re.findall() & Re.finditer()]|
 
 ### Medium
 
@@ -287,6 +288,9 @@
 
 [E0063]: Easy/E0063.py
 [Group(), Groups() & Groupdict()]: https://www.hackerrank.com/challenges/re-group-groups/problem
+
+[E0064]: Easy/E0064.py
+[Re.findall() & Re.finditer()]: https://www.hackerrank.com/challenges/re-findall-re-finditer/problem
 
 [//]: # (Medium)
 
