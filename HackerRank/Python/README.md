@@ -68,6 +68,7 @@
 |[E0062]|[Re.split()]|
 |[E0063]|[Group(), Groups() & Groupdict()]|
 |[E0064]|[Re.findall() & Re.finditer()]|
+|[E0065]|[Re.start() & Re.end()]|
 
 ### Medium
 
@@ -291,6 +292,9 @@
 
 [E0064]: Easy/E0064.py
 [Re.findall() & Re.finditer()]: https://www.hackerrank.com/challenges/re-findall-re-finditer/problem
+
+[E0065]: Easy/E0065.py
+[Re.start() & Re.end()]: https://www.hackerrank.com/challenges/re-start-re-end/problem
 
 [//]: # (Medium)
 
