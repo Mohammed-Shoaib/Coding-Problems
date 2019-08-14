@@ -69,6 +69,7 @@
 |[E0063]|[Group(), Groups() & Groupdict()]|
 |[E0064]|[Re.findall() & Re.finditer()]|
 |[E0065]|[Re.start() & Re.end()]|
+|[E0066]|[Validating Roman Numerals]|
 
 ### Medium
 
@@ -295,6 +296,9 @@
 
 [E0065]: Easy/E0065.py
 [Re.start() & Re.end()]: https://www.hackerrank.com/challenges/re-start-re-end/problem
+
+[E0066]: Easy/E0066.py
+[Validating Roman Numerals]: https://www.hackerrank.com/challenges/validate-a-roman-number/problem
 
 [//]: # (Medium)
 
