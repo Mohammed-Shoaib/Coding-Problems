@@ -71,6 +71,7 @@
 |[E0065]|[Re.start() & Re.end()]|
 |[E0066]|[Validating Roman Numerals]|
 |[E0067]|[Validating phone numbers]|
+|[E0068]|[Validating and Parsing Email Addresses]|
 
 ### Medium
 
@@ -303,6 +304,9 @@
 
 [E0067]: Easy/E0067.py
 [Validating phone numbers]: https://www.hackerrank.com/challenges/validating-the-phone-number/problem
+
+[E0068]: Easy/E0068.py
+[Validating and Parsing Email Addresses]: https://www.hackerrank.com/challenges/validating-named-email-addresses/problem
 
 [//]: # (Medium)
 
