@@ -70,6 +70,7 @@
 |[E0064]|[Re.findall() & Re.finditer()]|
 |[E0065]|[Re.start() & Re.end()]|
 |[E0066]|[Validating Roman Numerals]|
+|[E0067]|[Validating phone numbers]|
 
 ### Medium
 
@@ -299,6 +300,9 @@
 
 [E0066]: Easy/E0066.py
 [Validating Roman Numerals]: https://www.hackerrank.com/challenges/validate-a-roman-number/problem
+
+[E0067]: Easy/E0067.py
+[Validating phone numbers]: https://www.hackerrank.com/challenges/validating-the-phone-number/problem
 
 [//]: # (Medium)
 
