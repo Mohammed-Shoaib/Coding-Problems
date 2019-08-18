@@ -72,6 +72,7 @@
 |[E0066]|[Validating Roman Numerals]|
 |[E0067]|[Validating phone numbers]|
 |[E0068]|[Validating and Parsing Email Addresses]|
+|[E0069]|[Hex Color Code]|
 
 ### Medium
 
@@ -307,6 +308,9 @@
 
 [E0068]: Easy/E0068.py
 [Validating and Parsing Email Addresses]: https://www.hackerrank.com/challenges/validating-named-email-addresses/problem
+
+[E0069]: Easy/E0069.py
+[Hex Color Code]: https://www.hackerrank.com/challenges/hex-color-code/problem
 
 [//]: # (Medium)
 
