@@ -73,6 +73,7 @@
 |[E0067]|[Validating phone numbers]|
 |[E0068]|[Validating and Parsing Email Addresses]|
 |[E0069]|[Hex Color Code]|
+|[E0070]|[Validating UID]|
 
 ### Medium
 
@@ -311,6 +312,9 @@
 
 [E0069]: Easy/E0069.py
 [Hex Color Code]: https://www.hackerrank.com/challenges/hex-color-code/problem
+
+[E0070]: Easy/E0070.py
+[Validating UID]: https://www.hackerrank.com/challenges/validating-uid/problem
 
 [//]: # (Medium)
 
