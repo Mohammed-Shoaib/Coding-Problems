@@ -75,6 +75,7 @@
 |[E0069]|[Hex Color Code]|
 |[E0070]|[Validating UID]|
 |[E0071]|[Shape and Reshape]|
+|[E0072]|[Zeros and Ones]|
 
 ### Medium
 
@@ -319,6 +320,9 @@
 
 [E0071]: Easy/E0071.py
 [Shape and Reshape]: https://www.hackerrank.com/challenges/np-shape-reshape/problem
+
+[E0072]: Easy/E0072.py
+[Zeros and Ones]: https://www.hackerrank.com/challenges/np-zeros-and-ones/problem
 
 [//]: # (Medium)
 
