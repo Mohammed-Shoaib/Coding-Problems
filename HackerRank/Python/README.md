@@ -74,6 +74,7 @@
 |[E0068]|[Validating and Parsing Email Addresses]|
 |[E0069]|[Hex Color Code]|
 |[E0070]|[Validating UID]|
+|[E0071]|[Shape and Reshape]|
 
 ### Medium
 
@@ -315,6 +316,9 @@
 
 [E0070]: Easy/E0070.py
 [Validating UID]: https://www.hackerrank.com/challenges/validating-uid/problem
+
+[E0071]: Easy/E0071.py
+[Shape and Reshape]: https://www.hackerrank.com/challenges/np-shape-reshape/problem
 
 [//]: # (Medium)
 
