@@ -77,6 +77,7 @@
 |[E0071]|[Shape and Reshape]|
 |[E0072]|[Zeros and Ones]|
 |[E0073]|[Transpose and Flatten]|
+|[E0074]|[Concatenate]|
 
 ### Medium
 
@@ -327,6 +328,9 @@
 
 [E0073]: Easy/E0073.py
 [Transpose and Flatten]: https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem
+
+[E0074]: Easy/E0074.py
+[Concatenate]: https://www.hackerrank.com/challenges/np-concatenate/problem
 
 [//]: # (Medium)
 
