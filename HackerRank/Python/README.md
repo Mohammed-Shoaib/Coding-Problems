@@ -76,6 +76,7 @@
 |[E0070]|[Validating UID]|
 |[E0071]|[Shape and Reshape]|
 |[E0072]|[Zeros and Ones]|
+|[E0073]|[Transpose and Flatten]|
 
 ### Medium
 
@@ -323,6 +324,9 @@
 
 [E0072]: Easy/E0072.py
 [Zeros and Ones]: https://www.hackerrank.com/challenges/np-zeros-and-ones/problem
+
+[E0073]: Easy/E0073.py
+[Transpose and Flatten]: https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem
 
 [//]: # (Medium)
 
