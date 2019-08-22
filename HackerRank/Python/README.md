@@ -101,6 +101,7 @@
 |[M0016]|[ginortS]|
 |[M0017]|[Reduce Function]|
 |[M0018]|[Validating Email Addresses With a Filter]|
+|[M0019]|[Regex Substitution]|
 
 ### Hard
 
@@ -387,6 +388,9 @@
 
 [M0018]: Medium/M0018.py
 [Validating Email Addresses With a Filter]: https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem
+
+[M0019]: Medium/M0019.py
+[Regex Substitution]: https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem
 
 [//]: # (Hard)
 
