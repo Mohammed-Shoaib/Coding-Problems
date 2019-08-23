@@ -108,6 +108,7 @@
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
 |[H0001]|[Maximize It!]|
+|[H0002]|[Validating Postal Codes]|
 
 [//]: # (Easy)
 
@@ -396,5 +397,8 @@
 
 [H0001]: Hard/H0001.py
 [Maximize It!]: https://www.hackerrank.com/challenges/maximize-it/problem
+
+[H0002]: Hard/H0002.py
+[Validating Postal Codes]: https://www.hackerrank.com/challenges/validating-postalcode/problem
 
 [//]: # (EOF)
