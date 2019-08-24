@@ -102,6 +102,7 @@
 |[M0017]|[Reduce Function]|
 |[M0018]|[Validating Email Addresses With a Filter]|
 |[M0019]|[Regex Substitution]|
+|[M0020]|[Validating Credit Card Numbers]|
 
 ### Hard
 
@@ -392,6 +393,9 @@
 
 [M0019]: Medium/M0019.py
 [Regex Substitution]: https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem
+
+[M0020]: Medium/M0020.py
+[Validating Credit Card Numbers]: https://www.hackerrank.com/challenges/validating-credit-card-number/problem
 
 [//]: # (Hard)
 
