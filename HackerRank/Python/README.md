@@ -103,6 +103,7 @@
 |[M0018]|[Validating Email Addresses With a Filter]|
 |[M0019]|[Regex Substitution]|
 |[M0020]|[Validating Credit Card Numbers]|
+|[M0021]|[Words Score]|
 
 ### Hard
 
@@ -396,6 +397,9 @@
 
 [M0020]: Medium/M0020.py
 [Validating Credit Card Numbers]: https://www.hackerrank.com/challenges/validating-credit-card-number/problem
+
+[M0021]: Medium/M0021.py
+[Words Score]: https://www.hackerrank.com/challenges/words-score/problem
 
 [//]: # (Hard)
 
