@@ -78,6 +78,7 @@
 |[E0072]|[Zeros and Ones]|
 |[E0073]|[Transpose and Flatten]|
 |[E0074]|[Concatenate]|
+|[E0075]|[Eye and Identity]|
 
 ### Medium
 
@@ -335,6 +336,9 @@
 
 [E0074]: Easy/E0074.py
 [Concatenate]: https://www.hackerrank.com/challenges/np-concatenate/problem
+
+[E0075]: Easy/E0075.py
+[Eye and Identity]: https://www.hackerrank.com/challenges/np-eye-and-identity/problem
 
 [//]: # (Medium)
 
