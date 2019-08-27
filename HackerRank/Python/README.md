@@ -79,6 +79,7 @@
 |[E0073]|[Transpose and Flatten]|
 |[E0074]|[Concatenate]|
 |[E0075]|[Eye and Identity]|
+|[E0076]|[Array Mathematics]|
 
 ### Medium
 
@@ -339,6 +340,9 @@
 
 [E0075]: Easy/E0075.py
 [Eye and Identity]: https://www.hackerrank.com/challenges/np-eye-and-identity/problem
+
+[E0076]: Easy/E0076.py
+[Array Mathematics]: https://www.hackerrank.com/challenges/np-array-mathematics/problem
 
 [//]: # (Medium)
 
