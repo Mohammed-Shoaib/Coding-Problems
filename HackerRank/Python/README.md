@@ -80,6 +80,7 @@
 |[E0074]|[Concatenate]|
 |[E0075]|[Eye and Identity]|
 |[E0076]|[Array Mathematics]|
+|[E0077]|[Floor, Ceil and Rint]|
 
 ### Medium
 
@@ -343,6 +344,9 @@
 
 [E0076]: Easy/E0076.py
 [Array Mathematics]: https://www.hackerrank.com/challenges/np-array-mathematics/problem
+
+[E0077]: Easy/E0077.py
+[Floor, Ceil and Rint]: https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem
 
 [//]: # (Medium)
 
