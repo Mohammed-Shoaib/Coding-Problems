@@ -82,6 +82,7 @@
 |[E0076]|[Array Mathematics]|
 |[E0077]|[Floor, Ceil and Rint]|
 |[E0078]|[Sum and Prod]|
+|[E0079]|[Min and Max]|
 
 ### Medium
 
@@ -351,6 +352,9 @@
 
 [E0078]: Easy/E0078.py
 [Sum and Prod]: https://www.hackerrank.com/challenges/np-sum-and-prod/problem
+
+[E0079]: Easy/E0079.py
+[Min and Max]: https://www.hackerrank.com/challenges/np-min-and-max/problem
 
 [//]: # (Medium)
 
