@@ -81,6 +81,7 @@
 |[E0075]|[Eye and Identity]|
 |[E0076]|[Array Mathematics]|
 |[E0077]|[Floor, Ceil and Rint]|
+|[E0078]|[Sum and Prod]|
 
 ### Medium
 
@@ -347,6 +348,9 @@
 
 [E0077]: Easy/E0077.py
 [Floor, Ceil and Rint]: https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem
+
+[E0078]: Easy/E0078.py
+[Sum and Prod]: https://www.hackerrank.com/challenges/np-sum-and-prod/problem
 
 [//]: # (Medium)
 
