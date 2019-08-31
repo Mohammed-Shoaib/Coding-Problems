@@ -83,6 +83,7 @@
 |[E0077]|[Floor, Ceil and Rint]|
 |[E0078]|[Sum and Prod]|
 |[E0079]|[Min and Max]|
+|[E0080]|[Mean, Var, and Std]|
 
 ### Medium
 
@@ -355,6 +356,9 @@
 
 [E0079]: Easy/E0079.py
 [Min and Max]: https://www.hackerrank.com/challenges/np-min-and-max/problem
+
+[E0080]: Easy/E0080.py
+[Mean, Var, and Std]: https://www.hackerrank.com/challenges/np-mean-var-and-std/problem
 
 [//]: # (Medium)
 
