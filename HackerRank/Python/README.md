@@ -84,6 +84,7 @@
 |[E0078]|[Sum and Prod]|
 |[E0079]|[Min and Max]|
 |[E0080]|[Mean, Var, and Std]|
+|[E0081]|[Dot and Cross]|
 
 ### Medium
 
@@ -359,6 +360,9 @@
 
 [E0080]: Easy/E0080.py
 [Mean, Var, and Std]: https://www.hackerrank.com/challenges/np-mean-var-and-std/problem
+
+[E0081]: Easy/E0081.py
+[Dot and Cross]: https://www.hackerrank.com/challenges/np-dot-and-cross/problem
 
 [//]: # (Medium)
 
