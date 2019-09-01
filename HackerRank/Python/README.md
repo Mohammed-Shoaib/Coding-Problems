@@ -85,6 +85,7 @@
 |[E0079]|[Min and Max]|
 |[E0080]|[Mean, Var, and Std]|
 |[E0081]|[Dot and Cross]|
+|[E0082]|[Inner and Outer]|
 
 ### Medium
 
@@ -363,6 +364,9 @@
 
 [E0081]: Easy/E0081.py
 [Dot and Cross]: https://www.hackerrank.com/challenges/np-dot-and-cross/problem
+
+[E0082]: Easy/E0082.py
+[Inner and Outer]: https://www.hackerrank.com/challenges/np-inner-and-outer/problem
 
 [//]: # (Medium)
 
