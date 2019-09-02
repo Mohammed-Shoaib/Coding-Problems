@@ -86,6 +86,7 @@
 |[E0080]|[Mean, Var, and Std]|
 |[E0081]|[Dot and Cross]|
 |[E0082]|[Inner and Outer]|
+|[E0083]|[Polynomials]|
 
 ### Medium
 
@@ -367,6 +368,9 @@
 
 [E0082]: Easy/E0082.py
 [Inner and Outer]: https://www.hackerrank.com/challenges/np-inner-and-outer/problem
+
+[E0083]: Easy/E0083.py
+[Polynomials]: https://www.hackerrank.com/challenges/np-polynomials/problem
 
 [//]: # (Medium)
 
