@@ -87,6 +87,7 @@
 |[E0081]|[Dot and Cross]|
 |[E0082]|[Inner and Outer]|
 |[E0083]|[Polynomials]|
+|[E0084]|[Linear Algebra]|
 
 ### Medium
 
@@ -371,6 +372,9 @@
 
 [E0083]: Easy/E0083.py
 [Polynomials]: https://www.hackerrank.com/challenges/np-polynomials/problem
+
+[E0084]: Easy/E0084.py
+[Linear Algebra]: https://www.hackerrank.com/challenges/np-linear-algebra/problem
 
 [//]: # (Medium)
 
