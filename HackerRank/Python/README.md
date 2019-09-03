@@ -89,6 +89,7 @@
 |[E0083]|[Polynomials]|
 |[E0084]|[Linear Algebra]|
 |[E0085]|[Input()]|
+|[E0086]|[HTML Parser - Part 1]|
 
 ### Medium
 
@@ -379,6 +380,9 @@
 
 [E0085]: Easy/E0085.py
 [Input()]: https://www.hackerrank.com/challenges/input/problem
+
+[E0086]: Easy/E0086.py
+[HTML Parser - Part 1]: https://www.hackerrank.com/challenges/html-parser-part-1/problem
 
 [//]: # (Medium)
 
