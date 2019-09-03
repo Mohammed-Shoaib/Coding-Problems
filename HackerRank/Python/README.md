@@ -88,6 +88,7 @@
 |[E0082]|[Inner and Outer]|
 |[E0083]|[Polynomials]|
 |[E0084]|[Linear Algebra]|
+|[E0085]|[Input()]|
 
 ### Medium
 
@@ -375,6 +376,9 @@
 
 [E0084]: Easy/E0084.py
 [Linear Algebra]: https://www.hackerrank.com/challenges/np-linear-algebra/problem
+
+[E0085]: Easy/E0085.py
+[Input()]: https://www.hackerrank.com/challenges/input/problem
 
 [//]: # (Medium)
 
