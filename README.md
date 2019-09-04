@@ -7,13 +7,13 @@ Solutions to some of the coding problems from popular websites. Currently, there
 
 ## Stats
 
-Number of problems solved: 482
+Number of problems solved: 483
 
 ### HackerRank
 
 |Type|Solved|
 |:---:|:---:|
-|Easy|207|
+|Easy|208|
 |Medium|43|
 |Hard|4|
 

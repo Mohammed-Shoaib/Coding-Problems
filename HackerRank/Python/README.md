@@ -90,6 +90,7 @@
 |[E0084]|[Linear Algebra]|
 |[E0085]|[Input()]|
 |[E0086]|[HTML Parser - Part 1]|
+|[E0087]|[HTML Parser - Part 2]|
 
 ### Medium
 
@@ -383,6 +384,9 @@
 
 [E0086]: Easy/E0086.py
 [HTML Parser - Part 1]: https://www.hackerrank.com/challenges/html-parser-part-1/problem
+
+[E0087]: Easy/E0087.py
+[HTML Parser - Part 2]: https://www.hackerrank.com/challenges/html-parser-part-2/problem
 
 [//]: # (Medium)
 
