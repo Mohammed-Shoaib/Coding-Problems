@@ -91,6 +91,7 @@
 |[E0085]|[Input()]|
 |[E0086]|[HTML Parser - Part 1]|
 |[E0087]|[HTML Parser - Part 2]|
+|[E0088]|[Detect HTML Tags, Attributes and Attribute Values]|
 
 ### Medium
 
@@ -387,6 +388,9 @@
 
 [E0087]: Easy/E0087.py
 [HTML Parser - Part 2]: https://www.hackerrank.com/challenges/html-parser-part-2/problem
+
+[E0088]: Easy/E0088.py
+[Detect HTML Tags, Attributes and Attribute Values]: https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem
 
 [//]: # (Medium)
 
