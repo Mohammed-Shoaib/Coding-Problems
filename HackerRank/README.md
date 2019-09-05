@@ -14,3 +14,4 @@ Solutions to different categories can be found below:
 * [Data Structures](Data%20Structures)
 * [C++](C++)
 * [Python](Python)
+* [Regex](Regex)
