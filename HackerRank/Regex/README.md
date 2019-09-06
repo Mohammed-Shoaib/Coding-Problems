@@ -5,6 +5,7 @@
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
 |[E0001]|[Matching Specific String]|
+|[E0002]|[Matching Anything But a Newline]|
 
 ### Medium
 
@@ -21,6 +22,9 @@
 
 [E0001]: Easy/E0001.py
 [Matching Specific String]: https://www.hackerrank.com/challenges/matching-specific-string/problem
+
+[E0002]: Easy/E0002.py
+[Matching Anything But a Newline]: https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem
 
 [//]: # (Medium)
 
