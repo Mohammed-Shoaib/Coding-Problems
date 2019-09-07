@@ -7,6 +7,7 @@
 |[E0001]|[Matching Specific String]|
 |[E0002]|[Matching Anything But a Newline]|
 |[E0003]|[Matching Digits & Non-Digit Characters]|
+|[E0004]|[Matching Whitespace & Non-Whitespace Character]|
 
 ### Medium
 
@@ -29,6 +30,9 @@
 
 [E0003]: Easy/E0003.py
 [Matching Digits & Non-Digit Characters]: https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem
+
+[E0004]: Easy/E0004.py
+[Matching Whitespace & Non-Whitespace Character]: https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem
 
 [//]: # (Medium)
 
