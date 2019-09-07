@@ -9,6 +9,7 @@
 |[E0003]|[Matching Digits & Non-Digit Characters]|
 |[E0004]|[Matching Whitespace & Non-Whitespace Character]|
 |[E0005]|[Matching Word & Non-Word Character]|
+|[E0006]|[Matching Start & End]|
 
 ### Medium
 
@@ -37,6 +38,9 @@
 
 [E0005]: Easy/E0005.py
 [Matching Word & Non-Word Character]: https://www.hackerrank.com/challenges/matching-word-non-word/problem
+
+[E0006]: Easy/E0006.py
+[Matching Start & End]: https://www.hackerrank.com/challenges/matching-start-end/problem
 
 [//]: # (Medium)
 
