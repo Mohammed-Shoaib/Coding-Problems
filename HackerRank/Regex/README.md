@@ -8,6 +8,7 @@
 |[E0002]|[Matching Anything But a Newline]|
 |[E0003]|[Matching Digits & Non-Digit Characters]|
 |[E0004]|[Matching Whitespace & Non-Whitespace Character]|
+|[E0005]|[Matching Word & Non-Word Character]|
 
 ### Medium
 
@@ -33,6 +34,9 @@
 
 [E0004]: Easy/E0004.py
 [Matching Whitespace & Non-Whitespace Character]: https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem
+
+[E0005]: Easy/E0005.py
+[Matching Word & Non-Word Character]: https://www.hackerrank.com/challenges/matching-word-non-word/problem
 
 [//]: # (Medium)
 
