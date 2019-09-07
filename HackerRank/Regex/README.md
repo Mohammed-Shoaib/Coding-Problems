@@ -10,6 +10,7 @@
 |[E0004]|[Matching Whitespace & Non-Whitespace Character]|
 |[E0005]|[Matching Word & Non-Word Character]|
 |[E0006]|[Matching Start & End]|
+|[E0007]|[Matching Specific Characters]|
 
 ### Medium
 
@@ -41,6 +42,9 @@
 
 [E0006]: Easy/E0006.py
 [Matching Start & End]: https://www.hackerrank.com/challenges/matching-start-end/problem
+
+[E0007]: Easy/E0007.py
+[Matching Specific Characters]: https://www.hackerrank.com/challenges/matching-specific-characters/problem
 
 [//]: # (Medium)
 
