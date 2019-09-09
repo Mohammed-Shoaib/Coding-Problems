@@ -11,6 +11,7 @@
 |[E0005]|[Matching Word & Non-Word Character]|
 |[E0006]|[Matching Start & End]|
 |[E0007]|[Matching Specific Characters]|
+|[E0008]|[Excluding Specific Characters]|
 
 ### Medium
 
@@ -45,6 +46,9 @@
 
 [E0007]: Easy/E0007.py
 [Matching Specific Characters]: https://www.hackerrank.com/challenges/matching-specific-characters/problem
+
+[E0008]: Easy/E0008.py
+[Excluding Specific Characters]: https://www.hackerrank.com/challenges/excluding-specific-characters/problem
 
 [//]: # (Medium)
 
