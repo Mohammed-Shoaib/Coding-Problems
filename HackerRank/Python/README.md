@@ -118,6 +118,7 @@
 |[M0019]|[Regex Substitution]|
 |[M0020]|[Validating Credit Card Numbers]|
 |[M0021]|[Words Score]|
+|[M0022]|[Default Arguments]|
 
 ### Hard
 
@@ -456,6 +457,9 @@
 
 [M0021]: Medium/M0021.py
 [Words Score]: https://www.hackerrank.com/challenges/words-score/problem
+
+[M0022]: Medium/M0022.py
+[Default Arguments]: https://www.hackerrank.com/challenges/default-arguments/problem
 
 [//]: # (Hard)
 
