@@ -126,6 +126,7 @@
 |:--------------:|-----------------|
 |[H0001]|[Maximize It!]|
 |[H0002]|[Validating Postal Codes]|
+|[H0003]|[Matrix Script]|
 
 [//]: # (Easy)
 
@@ -468,5 +469,8 @@
 
 [H0002]: Hard/H0002.py
 [Validating Postal Codes]: https://www.hackerrank.com/challenges/validating-postalcode/problem
+
+[H0003]: Hard/H0003.py
+[Matrix Script]: https://www.hackerrank.com/challenges/matrix-script/problem
 
 [//]: # (EOF)
