@@ -13,6 +13,7 @@
 |[E0007]|[Matching Specific Characters]|
 |[E0008]|[Excluding Specific Characters]|
 |[E0009]|[Matching Character Ranges]|
+|[E0010]|[Matching {x} Repetitions]|
 
 ### Medium
 
@@ -53,6 +54,9 @@
 
 [E0009]: Easy/E0009.py
 [Matching Character Ranges]: https://www.hackerrank.com/challenges/matching-range-of-characters/problem
+
+[E0010]: Easy/E0010.py
+[Matching {x} Repetitions]: https://www.hackerrank.com/challenges/matching-x-repetitions/problem
 
 [//]: # (Medium)
 
