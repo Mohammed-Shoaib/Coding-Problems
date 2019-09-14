@@ -15,6 +15,7 @@
 |[E0009]|[Matching Character Ranges]|
 |[E0010]|[Matching {x} Repetitions]|
 |[E0011]|[Matching {x, y} Repetitions]|
+|[E0012]|[Matching Zero Or More Repetitions]|
 
 ### Medium
 
@@ -61,6 +62,9 @@
 
 [E0011]: Easy/E0011.py
 [Matching {x, y} Repetitions]: https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem
+
+[E0012]: Easy/E0012.py
+[Matching Zero Or More Repetitions]: https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem
 
 [//]: # (Medium)
 
