@@ -22,6 +22,7 @@
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
 |[M0001]|[Detect HTML links]|
+|[M0002]|[Find a Word]|
 
 ### Hard
 
@@ -70,6 +71,9 @@
 
 [M0001]: Medium/M0001.py
 [Detect HTML links]: https://www.hackerrank.com/challenges/detect-html-links/problem
+
+[M0002]: Medium/M0002.py
+[Find a Word]: https://www.hackerrank.com/challenges/find-a-word/problem
 
 [//]: # (Hard)
 
