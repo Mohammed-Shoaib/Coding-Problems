@@ -24,6 +24,7 @@
 |[M0001]|[Detect HTML links]|
 |[M0002]|[Find a Word]|
 |[M0003]|[Detect the Email Addresses]|
+|[M0004]|[Detect the Domain Name]|
 
 ### Hard
 
@@ -78,6 +79,9 @@
 
 [M0003]: Medium/M0003.py
 [Detect the Email Addresses]: https://www.hackerrank.com/challenges/detect-the-email-addresses/problem
+
+[M0004]: Medium/M0004.py
+[Detect the Domain Name]: https://www.hackerrank.com/challenges/detect-the-domain-name/problem
 
 [//]: # (Hard)
 
