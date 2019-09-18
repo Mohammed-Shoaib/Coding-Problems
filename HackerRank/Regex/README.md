@@ -26,6 +26,7 @@
 |[M0003]|[Detect the Email Addresses]|
 |[M0004]|[Detect the Domain Name]|
 |[M0005]|[Building a Smart IDE: Identifying comments]|
+|[M0006]|[Building a Smart IDE: Programming Language Detection]|
 
 ### Hard
 
@@ -86,6 +87,9 @@
 
 [M0005]: Medium/M0005.py
 [Building a Smart IDE: Identifying comments]: https://www.hackerrank.com/challenges/ide-identifying-comments/problem
+
+[M0006]: Medium/M0006.py
+[Building a Smart IDE: Programming Language Detection]: https://www.hackerrank.com/challenges/programming-language-detection/problem
 
 [//]: # (Hard)
 
