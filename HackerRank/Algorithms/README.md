@@ -98,6 +98,7 @@
 |[E0092]|[Insertion Sort - Part 1]|
 |[E0093]|[Insertion Sort - Part 2]|
 |[E0094]|[Correctness and the Loop Invariant]|
+|[E0095]|[Append and Delete]|
 
 ### Medium
 
@@ -412,6 +413,9 @@
 
 [E0094]: Algorithms/Easy/E0094.cpp
 [Correctness and the Loop Invariant]: https://www.hackerrank.com/challenges/correctness-invariant/problem
+
+[E0095]: Easy/E0095.cpp
+[Append and Delete]: https://www.hackerrank.com/challenges/append-and-delete/problem
 
 [//]: # (Medium)
 
