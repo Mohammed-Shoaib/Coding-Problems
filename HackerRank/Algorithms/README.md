@@ -99,6 +99,7 @@
 |[E0093]|[Insertion Sort - Part 2]|
 |[E0094]|[Correctness and the Loop Invariant]|
 |[E0095]|[Append and Delete]|
+|[E0096]|[XOR Strings]|
 
 ### Medium
 
@@ -416,6 +417,9 @@
 
 [E0095]: Easy/E0095.cpp
 [Append and Delete]: https://www.hackerrank.com/challenges/append-and-delete/problem
+
+[E0096]: Easy/E0096.cpp
+[XOR Strings]: https://www.hackerrank.com/challenges/strings-xor/problem
 
 [//]: # (Medium)
 
