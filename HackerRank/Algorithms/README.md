@@ -100,6 +100,7 @@
 |[E0094]|[Correctness and the Loop Invariant]|
 |[E0095]|[Append and Delete]|
 |[E0096]|[XOR Strings]|
+|[E0097]|[Smart Number]|
 
 ### Medium
 
@@ -420,6 +421,9 @@
 
 [E0096]: Easy/E0096.cpp
 [XOR Strings]: https://www.hackerrank.com/challenges/strings-xor/problem
+
+[E0097]: Easy/E0097.cpp
+[Smart Number]: https://www.hackerrank.com/challenges/smart-number/problem
 
 [//]: # (Medium)
 
