@@ -101,6 +101,7 @@
 |[E0095]|[Append and Delete]|
 |[E0096]|[XOR Strings]|
 |[E0097]|[Smart Number]|
+|[E0098]|[Big Sorting]|
 
 ### Medium
 
@@ -424,6 +425,9 @@
 
 [E0097]: Easy/E0097.cpp
 [Smart Number]: https://www.hackerrank.com/challenges/smart-number/problem
+
+[E0098]: Easy/E0098.cpp
+[Big Sorting]: https://www.hackerrank.com/challenges/big-sorting/problem
 
 [//]: # (Medium)
 
