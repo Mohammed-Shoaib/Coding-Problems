@@ -102,6 +102,7 @@
 |[E0096]|[XOR Strings]|
 |[E0097]|[Smart Number]|
 |[E0098]|[Big Sorting]|
+|[E0099]|[Poker Nim]|
 
 ### Medium
 
@@ -428,6 +429,9 @@
 
 [E0098]: Easy/E0098.cpp
 [Big Sorting]: https://www.hackerrank.com/challenges/big-sorting/problem
+
+[E0099]: Easy/E0099.cpp
+[Poker Nim]: https://www.hackerrank.com/challenges/poker-nim-1/problem
 
 [//]: # (Medium)
 
