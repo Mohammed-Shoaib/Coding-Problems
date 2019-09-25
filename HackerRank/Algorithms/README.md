@@ -103,6 +103,7 @@
 |[E0097]|[Smart Number]|
 |[E0098]|[Big Sorting]|
 |[E0099]|[Poker Nim]|
+|[E0100]|[Introduction to Nim Game]|
 
 ### Medium
 
@@ -432,6 +433,9 @@
 
 [E0099]: Easy/E0099.cpp
 [Poker Nim]: https://www.hackerrank.com/challenges/poker-nim-1/problem
+
+[E0100]: Easy/E0100.cpp
+[Introduction to Nim Game]: https://www.hackerrank.com/challenges/nim-game-1/problem
 
 [//]: # (Medium)
 
