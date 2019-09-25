@@ -28,11 +28,6 @@
 |[M0005]|[Building a Smart IDE: Identifying comments]|
 |[M0006]|[Building a Smart IDE: Programming Language Detection]|
 
-### Hard
-
-|Problem Solution|Problem Statement|
-|:--------------:|-----------------|
-
 [//]: # (Easy)
 
 [E0001]: Easy/E0001.py
@@ -90,7 +85,5 @@
 
 [M0006]: Medium/M0006.py
 [Building a Smart IDE: Programming Language Detection]: https://www.hackerrank.com/challenges/programming-language-detection/problem
-
-[//]: # (Hard)
 
 [//]: # (EOF)
