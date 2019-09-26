@@ -104,6 +104,7 @@
 |[E0098]|[Big Sorting]|
 |[E0099]|[Poker Nim]|
 |[E0100]|[Introduction to Nim Game]|
+|[E0101]|[Misère Nim]|
 
 ### Medium
 
@@ -436,6 +437,9 @@
 
 [E0100]: Easy/E0100.cpp
 [Introduction to Nim Game]: https://www.hackerrank.com/challenges/nim-game-1/problem
+
+[E0101]: Easy/E0101.cpp
+[Misère Nim]: https://www.hackerrank.com/challenges/misere-nim-1/problem
 
 [//]: # (Medium)
 
