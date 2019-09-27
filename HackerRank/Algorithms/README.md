@@ -105,6 +105,7 @@
 |[E0099]|[Poker Nim]|
 |[E0100]|[Introduction to Nim Game]|
 |[E0101]|[Misère Nim]|
+|[E0102]|[A Chessboard Game]|
 
 ### Medium
 
@@ -440,6 +441,9 @@
 
 [E0101]: Easy/E0101.cpp
 [Misère Nim]: https://www.hackerrank.com/challenges/misere-nim-1/problem
+
+[E0102]: Easy/E0102.cpp
+[A Chessboard Game]: https://www.hackerrank.com/challenges/a-chessboard-game-1/problem
 
 [//]: # (Medium)
 
