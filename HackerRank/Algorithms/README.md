@@ -106,6 +106,7 @@
 |[E0100]|[Introduction to Nim Game]|
 |[E0101]|[Misère Nim]|
 |[E0102]|[A Chessboard Game]|
+|[E0103]|[Sherlock and Array]|
 
 ### Medium
 
@@ -444,6 +445,9 @@
 
 [E0102]: Easy/E0102.cpp
 [A Chessboard Game]: https://www.hackerrank.com/challenges/a-chessboard-game-1/problem
+
+[E0103]: Easy/E0103.cpp
+[Sherlock and Array]: https://www.hackerrank.com/challenges/sherlock-and-array/problem
 
 [//]: # (Medium)
 
