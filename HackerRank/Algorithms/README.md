@@ -107,6 +107,7 @@
 |[E0101]|[Misère Nim]|
 |[E0102]|[A Chessboard Game]|
 |[E0103]|[Sherlock and Array]|
+|[E0104]|[Beautiful Pairs]|
 
 ### Medium
 
@@ -448,6 +449,9 @@
 
 [E0103]: Easy/E0103.cpp
 [Sherlock and Array]: https://www.hackerrank.com/challenges/sherlock-and-array/problem
+
+[E0104]: Easy/E0104.cpp
+[Beautiful Pairs]: https://www.hackerrank.com/challenges/beautiful-pairs/problem
 
 [//]: # (Medium)
 
