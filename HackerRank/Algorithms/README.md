@@ -108,6 +108,7 @@
 |[E0102]|[A Chessboard Game]|
 |[E0103]|[Sherlock and Array]|
 |[E0104]|[Beautiful Pairs]|
+|[E0105]|[Two Characters]|
 
 ### Medium
 
@@ -452,6 +453,9 @@
 
 [E0104]: Easy/E0104.cpp
 [Beautiful Pairs]: https://www.hackerrank.com/challenges/beautiful-pairs/problem
+
+[E0105]: Easy/E0105.cpp
+[Two Characters]: https://www.hackerrank.com/challenges/two-characters/problem
 
 [//]: # (Medium)
 
