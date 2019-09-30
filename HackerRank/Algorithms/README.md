@@ -109,6 +109,7 @@
 |[E0103]|[Sherlock and Array]|
 |[E0104]|[Beautiful Pairs]|
 |[E0105]|[Two Characters]|
+|[E0106]|[Strange Counter]|
 
 ### Medium
 
@@ -456,6 +457,9 @@
 
 [E0105]: Easy/E0105.cpp
 [Two Characters]: https://www.hackerrank.com/challenges/two-characters/problem
+
+[E0106]: Easy/E0106.cpp
+[Strange Counter]: https://www.hackerrank.com/challenges/strange-code/problem
 
 [//]: # (Medium)
 
