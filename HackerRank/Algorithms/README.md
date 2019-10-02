@@ -110,6 +110,7 @@
 |[E0104]|[Beautiful Pairs]|
 |[E0105]|[Two Characters]|
 |[E0106]|[Strange Counter]|
+|[E0107]|[Sum vs XOR]|
 
 ### Medium
 
@@ -460,6 +461,9 @@
 
 [E0106]: Easy/E0106.cpp
 [Strange Counter]: https://www.hackerrank.com/challenges/strange-code/problem
+
+[E0107]: Easy/E0107.cpp
+[Sum vs XOR]: https://www.hackerrank.com/challenges/sum-vs-xor/problem
 
 [//]: # (Medium)
 
