@@ -111,6 +111,7 @@
 |[E0105]|[Two Characters]|
 |[E0106]|[Strange Counter]|
 |[E0107]|[Sum vs XOR]|
+|[E0108]|[Nimble Game]|
 
 ### Medium
 
@@ -464,6 +465,9 @@
 
 [E0107]: Easy/E0107.cpp
 [Sum vs XOR]: https://www.hackerrank.com/challenges/sum-vs-xor/problem
+
+[E0108]: Easy/E0108.cpp
+[Nimble Game]: https://www.hackerrank.com/challenges/nimble-game-1/problem
 
 [//]: # (Medium)
 
