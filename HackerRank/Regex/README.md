@@ -19,6 +19,7 @@
 |[E0013]|[Matching One Or More Repetitions]|
 |[E0014]|[Matching Ending Items]|
 |[E0015]|[Matching Word Boundaries]|
+|[E0016]|[Capturing & Non-Capturing Groups]|
 
 ### Medium
 
@@ -77,6 +78,9 @@
 
 [E0015]: Easy/E0015.py
 [Matching Word Boundaries]: https://www.hackerrank.com/challenges/matching-word-boundaries/problem
+
+[E0016]: Easy/E0016.py
+[Capturing & Non-Capturing Groups]: https://www.hackerrank.com/challenges/capturing-non-capturing-groups/problem
 
 [//]: # (Medium)
 
