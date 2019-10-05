@@ -20,6 +20,7 @@
 |[E0014]|[Matching Ending Items]|
 |[E0015]|[Matching Word Boundaries]|
 |[E0016]|[Capturing & Non-Capturing Groups]|
+|[E0017]|[Alternative Matching]|
 
 ### Medium
 
@@ -81,6 +82,9 @@
 
 [E0016]: Easy/E0016.py
 [Capturing & Non-Capturing Groups]: https://www.hackerrank.com/challenges/capturing-non-capturing-groups/problem
+
+[E0017]: Easy/E0017.py
+[Alternative Matching]: https://www.hackerrank.com/challenges/alternative-matching/problem
 
 [//]: # (Medium)
 
