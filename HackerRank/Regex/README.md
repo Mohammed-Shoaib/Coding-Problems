@@ -18,6 +18,7 @@
 |[E0012]|[Matching Zero Or More Repetitions]|
 |[E0013]|[Matching One Or More Repetitions]|
 |[E0014]|[Matching Ending Items]|
+|[E0015]|[Matching Word Boundaries]|
 
 ### Medium
 
@@ -73,6 +74,9 @@
 
 [E0014]: Easy/E0014.py
 [Matching Ending Items]: https://www.hackerrank.com/challenges/matching-ending-items/problem
+
+[E0015]: Easy/E0015.py
+[Matching Word Boundaries]: https://www.hackerrank.com/challenges/matching-word-boundaries/problem
 
 [//]: # (Medium)
 
