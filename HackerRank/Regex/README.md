@@ -17,6 +17,7 @@
 |[E0011]|[Matching {x, y} Repetitions]|
 |[E0012]|[Matching Zero Or More Repetitions]|
 |[E0013]|[Matching One Or More Repetitions]|
+|[E0014]|[Matching Ending Items]|
 
 ### Medium
 
@@ -69,6 +70,9 @@
 
 [E0013]: Easy/E0013.py
 [Matching One Or More Repetitions]: https://www.hackerrank.com/challenges/matching-one-or-more-repititions/problem
+
+[E0014]: Easy/E0014.py
+[Matching Ending Items]: https://www.hackerrank.com/challenges/matching-ending-items/problem
 
 [//]: # (Medium)
 
