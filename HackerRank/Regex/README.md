@@ -21,6 +21,7 @@
 |[E0015]|[Matching Word Boundaries]|
 |[E0016]|[Capturing & Non-Capturing Groups]|
 |[E0017]|[Alternative Matching]|
+|[E0018]|[Matching Same Text Again & Again]|
 
 ### Medium
 
@@ -85,6 +86,9 @@
 
 [E0017]: Easy/E0017.py
 [Alternative Matching]: https://www.hackerrank.com/challenges/alternative-matching/problem
+
+[E0018]: Easy/E0018.py
+[Matching Same Text Again & Again]: https://www.hackerrank.com/challenges/matching-same-text-again-again/problem
 
 [//]: # (Medium)
 
