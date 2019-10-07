@@ -22,6 +22,7 @@
 |[E0016]|[Capturing & Non-Capturing Groups]|
 |[E0017]|[Alternative Matching]|
 |[E0018]|[Matching Same Text Again & Again]|
+|[E0019]|[Backreferences To Failed Groups]|
 
 ### Medium
 
@@ -89,6 +90,9 @@
 
 [E0018]: Easy/E0018.py
 [Matching Same Text Again & Again]: https://www.hackerrank.com/challenges/matching-same-text-again-again/problem
+
+[E0019]: Easy/E0019.py
+[Backreferences To Failed Groups]: https://www.hackerrank.com/challenges/backreferences-to-failed-groups/problem
 
 [//]: # (Medium)
 
