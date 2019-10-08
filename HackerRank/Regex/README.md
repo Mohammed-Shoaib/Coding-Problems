@@ -25,6 +25,7 @@
 |[E0019]|[Backreferences To Failed Groups]|
 |[E0020]|[Branch Reset Groups]|
 |[E0021]|[Forward References]|
+|[E0022]|[Positive Lookahead]|
 
 ### Medium
 
@@ -101,6 +102,9 @@
 
 [E0021]: Easy/E0021.pl
 [Forward References]: https://www.hackerrank.com/challenges/forward-references/problem
+
+[E0022]: Easy/E0022.py
+[Positive Lookahead]: https://www.hackerrank.com/challenges/positive-lookahead/problem
 
 [//]: # (Medium)
 
