@@ -26,6 +26,7 @@
 |[E0020]|[Branch Reset Groups]|
 |[E0021]|[Forward References]|
 |[E0022]|[Positive Lookahead]|
+|[E0023]|[Negative Lookahead]|
 
 ### Medium
 
@@ -105,6 +106,9 @@
 
 [E0022]: Easy/E0022.py
 [Positive Lookahead]: https://www.hackerrank.com/challenges/positive-lookahead/problem
+
+[E0023]: Easy/E0023.py
+[Negative Lookahead]: https://www.hackerrank.com/challenges/negative-lookahead/problem
 
 [//]: # (Medium)
 
