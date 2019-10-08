@@ -23,6 +23,7 @@
 |[E0017]|[Alternative Matching]|
 |[E0018]|[Matching Same Text Again & Again]|
 |[E0019]|[Backreferences To Failed Groups]|
+|[E0020]|[Branch Reset Groups]|
 
 ### Medium
 
@@ -93,6 +94,9 @@
 
 [E0019]: Easy/E0019.py
 [Backreferences To Failed Groups]: https://www.hackerrank.com/challenges/backreferences-to-failed-groups/problem
+
+[E0020]: Easy/E0020.pl
+[Branch Reset Groups]: https://www.hackerrank.com/challenges/branch-reset-groups/problem
 
 [//]: # (Medium)
 
