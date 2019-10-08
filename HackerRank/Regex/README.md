@@ -24,6 +24,7 @@
 |[E0018]|[Matching Same Text Again & Again]|
 |[E0019]|[Backreferences To Failed Groups]|
 |[E0020]|[Branch Reset Groups]|
+|[E0021]|[Forward References]|
 
 ### Medium
 
@@ -97,6 +98,9 @@
 
 [E0020]: Easy/E0020.pl
 [Branch Reset Groups]: https://www.hackerrank.com/challenges/branch-reset-groups/problem
+
+[E0021]: Easy/E0021.pl
+[Forward References]: https://www.hackerrank.com/challenges/forward-references/problem
 
 [//]: # (Medium)
 
