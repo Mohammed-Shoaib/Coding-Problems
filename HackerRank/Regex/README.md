@@ -28,6 +28,7 @@
 |[E0022]|[Positive Lookahead]|
 |[E0023]|[Negative Lookahead]|
 |[E0024]|[Positive Lookbehind]|
+|[E0025]|[Negative Lookbehind]|
 
 ### Medium
 
@@ -113,6 +114,9 @@
 
 [E0024]: Easy/E0024.py
 [Positive Lookbehind]: https://www.hackerrank.com/challenges/positive-lookbehind/problem
+
+[E0025]: Easy/E0025.py
+[Negative Lookbehind]: https://www.hackerrank.com/challenges/negative-lookbehind/problem
 
 [//]: # (Medium)
 
