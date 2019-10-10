@@ -29,6 +29,7 @@
 |[E0023]|[Negative Lookahead]|
 |[E0024]|[Positive Lookbehind]|
 |[E0025]|[Negative Lookbehind]|
+|[E0026]|[Detect HTML Tags]|
 
 ### Medium
 
@@ -117,6 +118,9 @@
 
 [E0025]: Easy/E0025.py
 [Negative Lookbehind]: https://www.hackerrank.com/challenges/negative-lookbehind/problem
+
+[E0026]: Easy/E0026.py
+[Detect HTML Tags]: https://www.hackerrank.com/challenges/detect-html-tags/problem
 
 [//]: # (Medium)
 
