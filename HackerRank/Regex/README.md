@@ -30,6 +30,7 @@
 |[E0024]|[Positive Lookbehind]|
 |[E0025]|[Negative Lookbehind]|
 |[E0026]|[Detect HTML Tags]|
+|[E0027]|[Find A Sub-Word]|
 
 ### Medium
 
@@ -121,6 +122,9 @@
 
 [E0026]: Easy/E0026.py
 [Detect HTML Tags]: https://www.hackerrank.com/challenges/detect-html-tags/problem
+
+[E0027]: Easy/E0027.py
+[Find A Sub-Word]: https://www.hackerrank.com/challenges/find-substring/problem
 
 [//]: # (Medium)
 
