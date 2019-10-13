@@ -31,6 +31,7 @@
 |[E0025]|[Negative Lookbehind]|
 |[E0026]|[Detect HTML Tags]|
 |[E0027]|[Find A Sub-Word]|
+|[E0028]|[Alien Username]|
 
 ### Medium
 
@@ -125,6 +126,9 @@
 
 [E0027]: Easy/E0027.py
 [Find A Sub-Word]: https://www.hackerrank.com/challenges/find-substring/problem
+
+[E0028]: Easy/E0028.py
+[Alien Username]: https://www.hackerrank.com/challenges/alien-username/problem
 
 [//]: # (Medium)
 
