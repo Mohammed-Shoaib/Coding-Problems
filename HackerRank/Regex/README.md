@@ -32,6 +32,7 @@
 |[E0026]|[Detect HTML Tags]|
 |[E0027]|[Find A Sub-Word]|
 |[E0028]|[Alien Username]|
+|[E0029]|[IP Address Validation]|
 
 ### Medium
 
@@ -129,6 +130,9 @@
 
 [E0028]: Easy/E0028.py
 [Alien Username]: https://www.hackerrank.com/challenges/alien-username/problem
+
+[E0029]: Easy/E0029.py
+[IP Address Validation]: https://www.hackerrank.com/challenges/ip-address-validation/problem
 
 [//]: # (Medium)
 
