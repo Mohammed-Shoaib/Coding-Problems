@@ -33,6 +33,7 @@
 |[E0027]|[Find A Sub-Word]|
 |[E0028]|[Alien Username]|
 |[E0029]|[IP Address Validation]|
+|[E0030]|[Detecting Valid Latitude and Longitude Pairs]|
 
 ### Medium
 
@@ -133,6 +134,9 @@
 
 [E0029]: Easy/E0029.py
 [IP Address Validation]: https://www.hackerrank.com/challenges/ip-address-validation/problem
+
+[E0030]: Easy/E0030.py
+[Detecting Valid Latitude and Longitude Pairs]: https://www.hackerrank.com/challenges/detecting-valid-latitude-and-longitude/problem
 
 [//]: # (Medium)
 
