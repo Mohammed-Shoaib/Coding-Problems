@@ -34,6 +34,7 @@
 |[E0028]|[Alien Username]|
 |[E0029]|[IP Address Validation]|
 |[E0030]|[Detecting Valid Latitude and Longitude Pairs]|
+|[E0031]|[HackerRank Tweets]|
 
 ### Medium
 
@@ -137,6 +138,9 @@
 
 [E0030]: Easy/E0030.py
 [Detecting Valid Latitude and Longitude Pairs]: https://www.hackerrank.com/challenges/detecting-valid-latitude-and-longitude/problem
+
+[E0031]: Easy/E0031.py
+[HackerRank Tweets]: https://www.hackerrank.com/challenges/hackerrank-tweets/problem
 
 [//]: # (Medium)
 
