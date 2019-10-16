@@ -36,6 +36,7 @@
 |[E0030]|[Detecting Valid Latitude and Longitude Pairs]|
 |[E0031]|[HackerRank Tweets]|
 |[E0032]|[Build a Stack Exchange Scraper]|
+|[E0033]|[Utopian Identification Number]|
 
 ### Medium
 
@@ -145,6 +146,9 @@
 
 [E0032]: Easy/E0032.py
 [Build a Stack Exchange Scraper]: https://www.hackerrank.com/challenges/stack-exchange-scraper/problem
+
+[E0033]: Easy/E0033.py
+[Utopian Identification Number]: https://www.hackerrank.com/challenges/utopian-identification-number/problem
 
 [//]: # (Medium)
 
