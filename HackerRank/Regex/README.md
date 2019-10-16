@@ -35,6 +35,7 @@
 |[E0029]|[IP Address Validation]|
 |[E0030]|[Detecting Valid Latitude and Longitude Pairs]|
 |[E0031]|[HackerRank Tweets]|
+|[E0032]|[Build a Stack Exchange Scraper]|
 
 ### Medium
 
@@ -141,6 +142,9 @@
 
 [E0031]: Easy/E0031.py
 [HackerRank Tweets]: https://www.hackerrank.com/challenges/hackerrank-tweets/problem
+
+[E0032]: Easy/E0032.py
+[Build a Stack Exchange Scraper]: https://www.hackerrank.com/challenges/stack-exchange-scraper/problem
 
 [//]: # (Medium)
 
