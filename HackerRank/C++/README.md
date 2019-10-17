@@ -28,6 +28,7 @@
 |[E0022]|[Rectangle Area]|
 |[E0023]|[Multi Level Inheritance]|
 |[E0024]|[Preprocessor Solution]|
+|[E0025]|[Print Pretty]|
 
 ### Medium
 
@@ -108,6 +109,9 @@
 
 [E0024]: Easy/E0024.cpp
 [Preprocessor Solution]: https://www.hackerrank.com/challenges/preprocessor-solution/problem
+
+[E0025]: Easy/E0025.cpp
+[Print Pretty]: https://www.hackerrank.com/challenges/prettyprint/problem
 
 [//]: # (Medium)
 
