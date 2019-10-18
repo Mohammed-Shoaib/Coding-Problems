@@ -29,6 +29,7 @@
 |[E0023]|[Multi Level Inheritance]|
 |[E0024]|[Preprocessor Solution]|
 |[E0025]|[Print Pretty]|
+|[E0026]|[C++ Class Templates]|
 
 ### Medium
 
@@ -112,6 +113,9 @@
 
 [E0025]: Easy/E0025.cpp
 [Print Pretty]: https://www.hackerrank.com/challenges/prettyprint/problem
+
+[E0026]: Easy/E0026.cpp
+[C++ Class Templates]: https://www.hackerrank.com/challenges/c-class-templates/problem
 
 [//]: # (Medium)
 
