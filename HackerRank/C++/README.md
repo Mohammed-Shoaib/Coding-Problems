@@ -30,6 +30,7 @@
 |[E0024]|[Preprocessor Solution]|
 |[E0025]|[Print Pretty]|
 |[E0026]|[C++ Class Templates]|
+|[E0027]|[Overload Operators]|
 
 ### Medium
 
@@ -116,6 +117,9 @@
 
 [E0026]: Easy/E0026.cpp
 [C++ Class Templates]: https://www.hackerrank.com/challenges/c-class-templates/problem
+
+[E0027]: Easy/E0027.cpp
+[Overload Operators]: https://www.hackerrank.com/challenges/overload-operators/problem
 
 [//]: # (Medium)
 
