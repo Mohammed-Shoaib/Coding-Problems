@@ -38,6 +38,7 @@
 |[E0032]|[Build a Stack Exchange Scraper]|
 |[E0033]|[Utopian Identification Number]|
 |[E0034]|[Valid PAN format]|
+|[E0035]|[Find HackerRank]|
 
 ### Medium
 
@@ -153,6 +154,9 @@
 
 [E0034]: Easy/E0034.py
 [Valid PAN format]: https://www.hackerrank.com/challenges/valid-pan-format/problem
+
+[E0035]: Easy/E0035.py
+[Find HackerRank]: https://www.hackerrank.com/challenges/find-hackerrank/problem
 
 [//]: # (Medium)
 
