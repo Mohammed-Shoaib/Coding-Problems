@@ -39,6 +39,7 @@
 |[E0033]|[Utopian Identification Number]|
 |[E0034]|[Valid PAN format]|
 |[E0035]|[Find HackerRank]|
+|[E0036]|[Saying Hi]|
 
 ### Medium
 
@@ -157,6 +158,9 @@
 
 [E0035]: Easy/E0035.py
 [Find HackerRank]: https://www.hackerrank.com/challenges/find-hackerrank/problem
+
+[E0036]: Easy/E0036.py
+[Saying Hi]: https://www.hackerrank.com/challenges/saying-hi/problem
 
 [//]: # (Medium)
 
