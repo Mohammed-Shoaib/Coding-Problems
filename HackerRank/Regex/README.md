@@ -40,6 +40,7 @@
 |[E0034]|[Valid PAN format]|
 |[E0035]|[Find HackerRank]|
 |[E0036]|[Saying Hi]|
+|[E0037]|[HackerRank Language]|
 
 ### Medium
 
@@ -161,6 +162,9 @@
 
 [E0036]: Easy/E0036.py
 [Saying Hi]: https://www.hackerrank.com/challenges/saying-hi/problem
+
+[E0037]: Easy/E0037.py
+[HackerRank Language]: https://www.hackerrank.com/challenges/hackerrank-language/problem
 
 [//]: # (Medium)
 
