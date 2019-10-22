@@ -41,6 +41,7 @@
 |[E0035]|[Find HackerRank]|
 |[E0036]|[Saying Hi]|
 |[E0037]|[HackerRank Language]|
+|[E0038]|[Split the Phone Numbers]|
 
 ### Medium
 
@@ -165,6 +166,9 @@
 
 [E0037]: Easy/E0037.py
 [HackerRank Language]: https://www.hackerrank.com/challenges/hackerrank-language/problem
+
+[E0038]: Easy/E0038.py
+[Split the Phone Numbers]: https://www.hackerrank.com/challenges/split-number/problem
 
 [//]: # (Medium)
 
