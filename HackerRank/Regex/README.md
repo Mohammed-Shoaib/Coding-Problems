@@ -42,6 +42,7 @@
 |[E0036]|[Saying Hi]|
 |[E0037]|[HackerRank Language]|
 |[E0038]|[Split the Phone Numbers]|
+|[E0039]|[Detect HTML Attributes]|
 
 ### Medium
 
@@ -169,6 +170,9 @@
 
 [E0038]: Easy/E0038.py
 [Split the Phone Numbers]: https://www.hackerrank.com/challenges/split-number/problem
+
+[E0039]: Easy/E0039.py
+[Detect HTML Attributes]: https://www.hackerrank.com/challenges/html-attributes/problem
 
 [//]: # (Medium)
 
