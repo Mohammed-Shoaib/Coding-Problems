@@ -44,6 +44,7 @@
 |[E0038]|[Split the Phone Numbers]|
 |[E0039]|[Detect HTML Attributes]|
 |[E0040]|[The British and American Style of Spelling]|
+|[E0041]|[UK and US: Part 2]|
 
 ### Medium
 
@@ -177,6 +178,9 @@
 
 [E0040]: Easy/E0040.py
 [The British and American Style of Spelling]: https://www.hackerrank.com/challenges/uk-and-us/problem
+
+[E0041]: Easy/E0041.py
+[UK and US: Part 2]: https://www.hackerrank.com/challenges/uk-and-us-2/problem
 
 [//]: # (Medium)
 
