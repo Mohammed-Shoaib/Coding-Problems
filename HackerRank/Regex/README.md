@@ -43,6 +43,7 @@
 |[E0037]|[HackerRank Language]|
 |[E0038]|[Split the Phone Numbers]|
 |[E0039]|[Detect HTML Attributes]|
+|[E0040]|[The British and American Style of Spelling]|
 
 ### Medium
 
@@ -173,6 +174,9 @@
 
 [E0039]: Easy/E0039.py
 [Detect HTML Attributes]: https://www.hackerrank.com/challenges/html-attributes/problem
+
+[E0040]: Easy/E0040.py
+[The British and American Style of Spelling]: https://www.hackerrank.com/challenges/uk-and-us/problem
 
 [//]: # (Medium)
 
