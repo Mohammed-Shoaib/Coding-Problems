@@ -137,6 +137,7 @@
 |[M0018]|[Fraudulent Activity Notifications]|
 |[M0019]|[Lily's Homework]|
 |[M0020]|[Sherlock and the Valid String]|
+|[M0021]|[Sherlock and Anagrams]|
 
 ### Hard
 
@@ -531,6 +532,9 @@
 
 [M0020]: Medium/M0020.cpp
 [Sherlock and the Valid String]: https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem
+
+[M0021]: Medium/M0021.cpp
+[Sherlock and Anagrams]: https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem
 
 [//]: # (Hard)
 
