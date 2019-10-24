@@ -136,6 +136,7 @@
 |[M0017]|[Ema's Supercomputer]|
 |[M0018]|[Fraudulent Activity Notifications]|
 |[M0019]|[Lily's Homework]|
+|[M0020]|[Sherlock and the Valid String]|
 
 ### Hard
 
@@ -527,6 +528,9 @@
 
 [M0019]: Medium/M0019.cpp
 [Lily's Homework]: https://www.hackerrank.com/challenges/lilys-homework/problem
+
+[M0020]: Medium/M0020.cpp
+[Sherlock and the Valid String]: https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem
 
 [//]: # (Hard)
 
