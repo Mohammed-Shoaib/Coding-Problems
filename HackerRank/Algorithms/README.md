@@ -138,6 +138,7 @@
 |[M0019]|[Lily's Homework]|
 |[M0020]|[Sherlock and the Valid String]|
 |[M0021]|[Sherlock and Anagrams]|
+|[M0022]|[Highest Value Palindrome]|
 
 ### Hard
 
@@ -535,6 +536,9 @@
 
 [M0021]: Medium/M0021.cpp
 [Sherlock and Anagrams]: https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem
+
+[M0022]: Medium/M0022.cpp
+[Highest Value Palindrome]: https://www.hackerrank.com/challenges/richie-rich/problem
 
 [//]: # (Hard)
 
