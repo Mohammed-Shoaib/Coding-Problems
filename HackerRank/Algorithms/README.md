@@ -139,6 +139,7 @@
 |[M0020]|[Sherlock and the Valid String]|
 |[M0021]|[Sherlock and Anagrams]|
 |[M0022]|[Highest Value Palindrome]|
+|[M0023]|[Hackerland Radio Transmitters]|
 
 ### Hard
 
@@ -539,6 +540,9 @@
 
 [M0022]: Medium/M0022.cpp
 [Highest Value Palindrome]: https://www.hackerrank.com/challenges/richie-rich/problem
+
+[M0023]: Medium/M0023.cpp
+[Hackerland Radio Transmitters]: https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem
 
 [//]: # (Hard)
 
