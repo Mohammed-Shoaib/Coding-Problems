@@ -140,6 +140,7 @@
 |[M0021]|[Sherlock and Anagrams]|
 |[M0022]|[Highest Value Palindrome]|
 |[M0023]|[Hackerland Radio Transmitters]|
+|[M0024]|[Common Child]|
 
 ### Hard
 
@@ -543,6 +544,9 @@
 
 [M0023]: Medium/M0023.cpp
 [Hackerland Radio Transmitters]: https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem
+
+[M0024]: Medium/M0024.cpp
+[Common Child]: https://www.hackerrank.com/challenges/common-child/problem
 
 [//]: # (Hard)
 
