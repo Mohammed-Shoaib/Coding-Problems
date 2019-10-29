@@ -141,6 +141,7 @@
 |[M0022]|[Highest Value Palindrome]|
 |[M0023]|[Hackerland Radio Transmitters]|
 |[M0024]|[Common Child]|
+|[M0025]|[KnightL on a Chessboard]|
 
 ### Hard
 
@@ -547,6 +548,9 @@
 
 [M0024]: Medium/M0024.cpp
 [Common Child]: https://www.hackerrank.com/challenges/common-child/problem
+
+[M0025]: Medium/M0025.cpp
+[KnightL on a Chessboard]: https://www.hackerrank.com/challenges/knightl-on-chessboard/problem
 
 [//]: # (Hard)
 
