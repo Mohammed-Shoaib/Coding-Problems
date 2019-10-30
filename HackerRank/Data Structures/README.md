@@ -7,6 +7,7 @@
 |[E0001]|[Arrays - DS]|
 |[E0002]|[2D Array - DS]|
 |[E0003]|[Dynamic Array]|
+|[E0004]|[Left Rotation]|
 
 ### Medium
 
@@ -31,6 +32,9 @@
 
 [E0003]: Easy/E0003.cpp
 [Dynamic Array]: https://www.hackerrank.com/challenges/dynamic-array/problem
+
+[E0004]: Easy/E0004.cpp
+[Left Rotation]: https://www.hackerrank.com/challenges/array-left-rotation/problem
 
 [//]: # (Medium)
 
