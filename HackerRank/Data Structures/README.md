@@ -8,6 +8,7 @@
 |[E0002]|[2D Array - DS]|
 |[E0003]|[Dynamic Array]|
 |[E0004]|[Left Rotation]|
+|[E0005]|[Print the Elements of a Linked List]|
 
 ### Medium
 
@@ -35,6 +36,9 @@
 
 [E0004]: Easy/E0004.cpp
 [Left Rotation]: https://www.hackerrank.com/challenges/array-left-rotation/problem
+
+[E0005]: Easy/E0005.cpp
+[Print the Elements of a Linked List]: https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
 
 [//]: # (Medium)
 
