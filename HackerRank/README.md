@@ -2,16 +2,20 @@
 
 Solutions to some of the questions on the HackerRank [website](https://www.hackerrank.com "HackerRank").
 
-[<img align="center" src="https://i.postimg.cc/025yKLwK/6CdxbMF.png">](https://www.hackerrank.com)
+<p align="center"><img src="../assets/hackerrank.png"></p>
 
 The questions are divided into 3 levels of difficulty:
-* Easy
-* Medium
-* Hard
 
-Solutions to different categories can be found below:
-* [Algorithms](Algorithms)
-* [Data Structures](Data%20Structures)
-* [C++](C++)
-* [Python](Python)
-* [Regex](Regex)
+*   Easy
+*   Medium
+*   Hard
+
+| Category | Completed |
+|:--------:|:---------:|
+| [Algorithms](Algorithms/) | 134 |
+| [C++](C++) | 44/44 |
+| [Data Structures](Data%20Structures/) | 10 |
+| [10 Days of Javascript](10%20Days%20of%20Javascript/) | 0/25 |
+| [Linux Shell](Linux%20Shell/) | 0 |
+| [Python](Python/) | 115/115 |
+| [Regex](Regex/) | 47/47 |
