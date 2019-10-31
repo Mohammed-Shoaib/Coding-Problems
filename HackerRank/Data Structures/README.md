@@ -9,6 +9,7 @@
 |[E0003]|[Dynamic Array]|
 |[E0004]|[Left Rotation]|
 |[E0005]|[Print the Elements of a Linked List]|
+|[E0006]|[Insert a Node at the Tail of a Linked List]|
 
 ### Medium
 
@@ -39,6 +40,9 @@
 
 [E0005]: Easy/E0005.cpp
 [Print the Elements of a Linked List]: https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
+
+[E0006]: Easy/E0006.cpp
+[Insert a Node at the Tail of a Linked List]: https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem
 
 [//]: # (Medium)
 
