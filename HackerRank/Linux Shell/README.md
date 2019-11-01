@@ -9,6 +9,7 @@
 |[E0003]|[A Personalized Echo]|
 |[E0004]|[Looping with Numbers]|
 |[E0005]|[The World of Numbers]|
+|[E0006]|[Getting started with conditionals]|
 
 ### Medium
 
@@ -36,6 +37,9 @@
 
 [E0005]: Easy/E0005.sh
 [The World of Numbers]: https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem
+
+[E0006]: Easy/E0006.sh
+[Getting started with conditionals]: https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem
 
 [//]: # (Medium)
 
