@@ -10,6 +10,7 @@
 |[E0004]|[Looping with Numbers]|
 |[E0005]|[The World of Numbers]|
 |[E0006]|[Getting started with conditionals]|
+|[E0007]|[Comparing Numbers]|
 
 ### Medium
 
@@ -40,6 +41,9 @@
 
 [E0006]: Easy/E0006.sh
 [Getting started with conditionals]: https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem
+
+[E0007]: Easy/E0007.sh
+[Comparing Numbers]: https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem
 
 [//]: # (Medium)
 
