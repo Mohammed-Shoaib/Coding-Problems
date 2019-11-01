@@ -8,6 +8,7 @@
 |[E0002]|[Looping and Skipping]|
 |[E0003]|[A Personalized Echo]|
 |[E0004]|[Looping with Numbers]|
+|[E0005]|[The World of Numbers]|
 
 ### Medium
 
@@ -32,6 +33,9 @@
 
 [E0004]: Easy/E0004.sh
 [Looping with Numbers]: https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem
+
+[E0005]: Easy/E0005.sh
+[The World of Numbers]: https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem
 
 [//]: # (Medium)
 
