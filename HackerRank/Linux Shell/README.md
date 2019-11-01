@@ -11,6 +11,7 @@
 |[E0005]|[The World of Numbers]|
 |[E0006]|[Getting started with conditionals]|
 |[E0007]|[Comparing Numbers]|
+|[E0008]|[More on Conditionals]|
 
 ### Medium
 
@@ -44,6 +45,9 @@
 
 [E0007]: Easy/E0007.sh
 [Comparing Numbers]: https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem
+
+[E0008]: Easy/E0008.sh
+[More on Conditionals]: https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem
 
 [//]: # (Medium)
 
