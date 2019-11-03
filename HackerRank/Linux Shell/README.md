@@ -10,6 +10,7 @@
 |[E0004]|[Looping with Numbers]|
 |[E0005]|[The World of Numbers]|
 |[E0006]|[Getting started with conditionals]|
+|[E0011]|[Cut #3]|
 |[E0007]|[Comparing Numbers]|
 |[E0010]|[Cut #2]|
 |[E0008]|[More on Conditionals]|
@@ -56,6 +57,9 @@
 
 [E0010]: Easy/E0010.sh
 [Cut #2]: https://www.hackerrank.com/challenges/text-processing-cut-2/problem
+
+[E0011]: Easy/E0011.sh
+[Cut #3]: https://www.hackerrank.com/challenges/text-processing-cut-3/problem
 
 [//]: # (Medium)
 
