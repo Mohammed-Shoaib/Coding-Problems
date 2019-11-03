@@ -9,6 +9,7 @@
 |[E0003]|[A Personalized Echo]|
 |[E0004]|[Looping with Numbers]|
 |[E0005]|[The World of Numbers]|
+|[E0012]|[Cut #4]|
 |[E0006]|[Getting started with conditionals]|
 |[E0011]|[Cut #3]|
 |[E0007]|[Comparing Numbers]|
@@ -60,6 +61,9 @@
 
 [E0011]: Easy/E0011.sh
 [Cut #3]: https://www.hackerrank.com/challenges/text-processing-cut-3/problem
+
+[E0012]: Easy/E0012.sh
+[Cut #4]: https://www.hackerrank.com/challenges/text-processing-cut-4/problem
 
 [//]: # (Medium)
 
