@@ -12,6 +12,7 @@
 |[E0006]|[Getting started with conditionals]|
 |[E0007]|[Comparing Numbers]|
 |[E0008]|[More on Conditionals]|
+|[E0009]|[Cut #1]|
 
 ### Medium
 
@@ -48,6 +49,9 @@
 
 [E0008]: Easy/E0008.sh
 [More on Conditionals]: https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem
+
+[E0009]: Easy/E0009.sh
+[Cut #1]: https://www.hackerrank.com/challenges/text-processing-cut-1/problem
 
 [//]: # (Medium)
 
