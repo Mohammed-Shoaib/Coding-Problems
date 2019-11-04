@@ -5,6 +5,7 @@
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
 |[E0001]|[Let's Echo]|
+|[E0016]|[Cut #8]|
 |[E0002]|[Looping and Skipping]|
 |[E0015]|[Cut #7]|
 |[E0003]|[A Personalized Echo]|
@@ -76,6 +77,9 @@
 
 [E0015]: Easy/E0015.sh
 [Cut #7]: https://www.hackerrank.com/challenges/text-processing-cut-7/problem
+
+[E0016]: Easy/E0016.sh
+[Cut #8]: https://www.hackerrank.com/challenges/text-processing-cut-8/problem
 
 [//]: # (Medium)
 
