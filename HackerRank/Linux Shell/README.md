@@ -7,6 +7,7 @@
 |[E0001]|[Let's Echo]|
 |[E0002]|[Looping and Skipping]|
 |[E0003]|[A Personalized Echo]|
+|[E0014]|[Cut #6]|
 |[E0004]|[Looping with Numbers]|
 |[E0013]|[Cut #5]|
 |[E0005]|[The World of Numbers]|
@@ -68,6 +69,9 @@
 
 [E0013]: Easy/E0013.sh
 [Cut #5]: https://www.hackerrank.com/challenges/text-processing-cut-5/problem
+
+[E0014]: Easy/E0014.sh
+[Cut #6]: https://www.hackerrank.com/challenges/text-processing-cut-6/problem
 
 [//]: # (Medium)
 
