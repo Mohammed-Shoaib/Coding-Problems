@@ -3,6 +3,7 @@
 ### Easy
 
 |Problem Solution|Problem Statement|
+|[E0018]|[Head of a Text File #1]|
 |:--------------:|-----------------|
 |[E0017]|[Cut #9]|
 |[E0001]|[Let's Echo]|
@@ -84,6 +85,9 @@
 
 [E0017]: Easy/E0017.sh
 [Cut #9]: https://www.hackerrank.com/challenges/text-processing-cut-9/problem
+
+[E0018]: Easy/E0018.sh
+[Head of a Text File #1]: https://www.hackerrank.com/challenges/text-processing-head-1/problem
 
 [//]: # (Medium)
 
