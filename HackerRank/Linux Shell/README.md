@@ -2,6 +2,7 @@
 
 ### Easy
 
+|[E0019]|[Head of a Text File #2]|
 |Problem Solution|Problem Statement|
 |[E0018]|[Head of a Text File #1]|
 |:--------------:|-----------------|
@@ -88,6 +89,9 @@
 
 [E0018]: Easy/E0018.sh
 [Head of a Text File #1]: https://www.hackerrank.com/challenges/text-processing-head-1/problem
+
+[E0019]: Easy/E0019.sh
+[Head of a Text File #2]: https://www.hackerrank.com/challenges/text-processing-head-2/problem
 
 [//]: # (Medium)
 
