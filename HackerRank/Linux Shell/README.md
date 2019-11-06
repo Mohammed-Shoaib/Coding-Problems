@@ -1,6 +1,7 @@
 # Linux Shell
 
 ### Easy
+|[E0020]|[Middle of a Text File]|
 
 |[E0019]|[Head of a Text File #2]|
 |Problem Solution|Problem Statement|
@@ -92,6 +93,9 @@
 
 [E0019]: Easy/E0019.sh
 [Head of a Text File #2]: https://www.hackerrank.com/challenges/text-processing-head-2/problem
+
+[E0020]: Easy/E0020.sh
+[Middle of a Text File]: https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/problem
 
 [//]: # (Medium)
 
