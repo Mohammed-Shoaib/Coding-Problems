@@ -1,6 +1,7 @@
 # Linux Shell
 
 ### Easy
+|[E0024]|['Tr' Command #3]|
 |[E0022]|['Tr' Command #1]|
 |[E0023]|['Tr' Command #2]|
 |[E0020]|[Middle of a Text File]|
@@ -108,6 +109,9 @@
 
 [E0023]: Easy/E0023.sh
 ['Tr' Command #2]: https://www.hackerrank.com/challenges/text-processing-tr-2/problem
+
+[E0024]: Easy/E0024.sh
+['Tr' Command #3]: https://www.hackerrank.com/challenges/text-processing-tr-3/problem
 
 [//]: # (Medium)
 
