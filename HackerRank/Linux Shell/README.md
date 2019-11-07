@@ -2,6 +2,7 @@
 
 ### Easy
 |[E0022]|['Tr' Command #1]|
+|[E0023]|['Tr' Command #2]|
 |[E0020]|[Middle of a Text File]|
 |[E0021]|[Tail of a Text File #1]|
 
@@ -104,6 +105,9 @@
 
 [E0022]: Easy/E0022.sh
 ['Tr' Command #1]: https://www.hackerrank.com/challenges/text-processing-tr-1/problem
+
+[E0023]: Easy/E0023.sh
+['Tr' Command #2]: https://www.hackerrank.com/challenges/text-processing-tr-2/problem
 
 [//]: # (Medium)
 
