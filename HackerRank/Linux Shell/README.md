@@ -1,6 +1,7 @@
 # Linux Shell
 
 ### Easy
+|[E0025]|[Sort Command #1]|
 |[E0024]|['Tr' Command #3]|
 |[E0022]|['Tr' Command #1]|
 |[E0023]|['Tr' Command #2]|
@@ -112,6 +113,9 @@
 
 [E0024]: Easy/E0024.sh
 ['Tr' Command #3]: https://www.hackerrank.com/challenges/text-processing-tr-3/problem
+
+[E0025]: Easy/E0025.sh
+[Sort Command #1]: https://www.hackerrank.com/challenges/text-processing-sort-1/problem
 
 [//]: # (Medium)
 
