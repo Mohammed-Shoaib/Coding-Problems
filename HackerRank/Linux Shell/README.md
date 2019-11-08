@@ -1,6 +1,7 @@
 # Linux Shell
 
 ### Easy
+|[E0029]|[Sort Command #5]|
 |[E0028]|[Sort Command #4]|
 |[E0027]|[Sort Command #3]|
 |[E0026]|[Sort Command #2]|
@@ -128,6 +129,9 @@
 
 [E0028]: Easy/E0028.sh
 [Sort Command #4]: https://www.hackerrank.com/challenges/text-processing-sort-4/problem
+
+[E0029]: Easy/E0029.sh
+[Sort Command #5]: https://www.hackerrank.com/challenges/text-processing-sort-5/problem
 
 [//]: # (Medium)
 
