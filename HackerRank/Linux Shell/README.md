@@ -1,6 +1,7 @@
 # Linux Shell
 
 ### Easy
+|[E0032]|['Uniq' Command #1]|
 |[E0031]|['Sort' command #7]|
 |[E0030]|['Sort' command #6]|
 |[E0029]|[Sort Command #5]|
@@ -140,6 +141,9 @@
 
 [E0031]: Easy/E0031.sh
 ['Sort' command #7]: https://www.hackerrank.com/challenges/text-processing-sort-7/problem
+
+[E0032]: Easy/E0032.sh
+['Uniq' Command #1]: https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/problem
 
 [//]: # (Medium)
 
