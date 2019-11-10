@@ -11,7 +11,7 @@
 |[E0005]|[The World of Numbers]|
 |[E0006]|[Getting started with conditionals]|
 |[E0007]|[Comparing Numbers]|
-|[E0036]|[Read in an Array]|
+|[E0037]|[Slice an Array]|
 |[E0008]|[More on Conditionals]|
 |[E0009]|[Cut #1]|
 |[E0010]|[Cut #2]|
@@ -40,6 +40,7 @@
 |[E0033]|['Uniq' Command #2]|
 |[E0034]|['Uniq' command #3]|
 |[E0035]|['Uniq' command #4]|
+|[E0036]|[Read in an Array]|
 
 ### Medium
 
@@ -160,6 +161,9 @@
 
 [E0036]: Easy/E0036.sh
 [Read in an Array]: https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem
+
+[E0037]: Easy/E0037.sh
+[Slice an Array]: https://www.hackerrank.com/challenges/bash-tutorials-slice-an-array/problem
 
 [//]: # (Medium)
 
