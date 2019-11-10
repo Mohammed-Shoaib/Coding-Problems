@@ -1,44 +1,45 @@
 # Linux Shell
 
 ### Easy
-|[E0035]|['Uniq' command #4]|
-|[E0034]|['Uniq' command #3]|
-|[E0033]|['Uniq' Command #2]|
-|[E0032]|['Uniq' Command #1]|
-|[E0031]|['Sort' command #7]|
-|[E0030]|['Sort' command #6]|
-|[E0029]|[Sort Command #5]|
-|[E0028]|[Sort Command #4]|
-|[E0027]|[Sort Command #3]|
-|[E0026]|[Sort Command #2]|
-|[E0025]|[Sort Command #1]|
-|[E0024]|['Tr' Command #3]|
-|[E0022]|['Tr' Command #1]|
-|[E0023]|['Tr' Command #2]|
-|[E0020]|[Middle of a Text File]|
-|[E0021]|[Tail of a Text File #1]|
 
-|[E0019]|[Head of a Text File #2]|
 |Problem Solution|Problem Statement|
-|[E0018]|[Head of a Text File #1]|
 |:--------------:|-----------------|
-|[E0017]|[Cut #9]|
 |[E0001]|[Let's Echo]|
-|[E0016]|[Cut #8]|
 |[E0002]|[Looping and Skipping]|
-|[E0015]|[Cut #7]|
 |[E0003]|[A Personalized Echo]|
-|[E0014]|[Cut #6]|
 |[E0004]|[Looping with Numbers]|
-|[E0013]|[Cut #5]|
 |[E0005]|[The World of Numbers]|
-|[E0012]|[Cut #4]|
 |[E0006]|[Getting started with conditionals]|
-|[E0011]|[Cut #3]|
 |[E0007]|[Comparing Numbers]|
-|[E0010]|[Cut #2]|
+|[E0036]|[Read in an Array]|
 |[E0008]|[More on Conditionals]|
 |[E0009]|[Cut #1]|
+|[E0010]|[Cut #2]|
+|[E0011]|[Cut #3]|
+|[E0012]|[Cut #4]|
+|[E0013]|[Cut #5]|
+|[E0014]|[Cut #6]|
+|[E0015]|[Cut #7]|
+|[E0016]|[Cut #8]|
+|[E0017]|[Cut #9]|
+|[E0018]|[Head of a Text File #1]|
+|[E0019]|[Head of a Text File #2]|
+|[E0020]|[Middle of a Text File]|
+|[E0021]|[Tail of a Text File #1]|
+|[E0022]|['Tr' Command #1]|
+|[E0023]|['Tr' Command #2]|
+|[E0024]|['Tr' Command #3]|
+|[E0025]|[Sort Command #1]|
+|[E0026]|[Sort Command #2]|
+|[E0027]|[Sort Command #3]|
+|[E0028]|[Sort Command #4]|
+|[E0029]|[Sort Command #5]|
+|[E0030]|['Sort' command #6]|
+|[E0031]|['Sort' command #7]|
+|[E0032]|['Uniq' Command #1]|
+|[E0033]|['Uniq' Command #2]|
+|[E0034]|['Uniq' command #3]|
+|[E0035]|['Uniq' command #4]|
 
 ### Medium
 
@@ -156,6 +157,9 @@
 
 [E0035]: Easy/E0035.sh
 ['Uniq' command #4]: https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem
+
+[E0036]: Easy/E0036.sh
+[Read in an Array]: https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem
 
 [//]: # (Medium)
 
