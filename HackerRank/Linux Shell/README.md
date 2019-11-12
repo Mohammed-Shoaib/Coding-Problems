@@ -15,6 +15,7 @@
 |[E0040]|[Count the number of elements in an Array]|
 |[E0041]|['Grep' - A]|
 |[E0042]|['Grep' - B]|
+|[E0043]|['Sed' command #3]|
 |[E0008]|[More on Conditionals]|
 |[E0009]|[Cut #1]|
 |[E0010]|[Cut #2]|
@@ -184,6 +185,9 @@
 
 [E0042]: Easy/E0042.sh
 ['Grep' - B]: https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/problem
+
+[E0043]: Easy/E0043.sh
+['Sed' command #3]: https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem
 
 [//]: # (Medium)
 
