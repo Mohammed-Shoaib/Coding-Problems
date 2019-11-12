@@ -13,6 +13,7 @@
 |[E0007]|[Comparing Numbers]|
 |[E0039]|[Display an element of an array]|
 |[E0040]|[Count the number of elements in an Array]|
+|[E0041]|['Grep' - A]|
 |[E0008]|[More on Conditionals]|
 |[E0009]|[Cut #1]|
 |[E0010]|[Cut #2]|
@@ -176,6 +177,9 @@
 
 [E0040]: Easy/E0040.sh
 [Count the number of elements in an Array]: https://www.hackerrank.com/challenges/bash-tutorials-count-the-number-of-elements-in-an-array/problem
+
+[E0041]: Easy/E0041.sh
+['Grep' - A]: https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/problem
 
 [//]: # (Medium)
 
