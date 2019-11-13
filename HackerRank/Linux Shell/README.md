@@ -52,6 +52,7 @@
 
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
+|[M0001]|[Paste - 1]|
 
 ### Hard
 
@@ -190,6 +191,9 @@
 ['Sed' command #3]: https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem
 
 [//]: # (Medium)
+
+[M0001]: Medium/M0001.sh
+[Paste - 1]: https://www.hackerrank.com/challenges/paste-1/problem
 
 [//]: # (Hard)
 
