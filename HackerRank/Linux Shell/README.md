@@ -53,6 +53,7 @@
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
 |[M0001]|[Paste - 1]|
+|[M0002]|[Paste - 2]|
 
 ### Hard
 
@@ -194,6 +195,9 @@
 
 [M0001]: Medium/M0001.sh
 [Paste - 1]: https://www.hackerrank.com/challenges/paste-1/problem
+
+[M0002]: Medium/M0002.sh
+[Paste - 2]: https://www.hackerrank.com/challenges/paste-2/problem
 
 [//]: # (Hard)
 
