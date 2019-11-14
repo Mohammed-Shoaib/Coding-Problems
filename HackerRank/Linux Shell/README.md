@@ -59,6 +59,7 @@
 
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
+|[H0001]|['Sed' command #4]|
 
 [//]: # (Easy)
 
@@ -200,5 +201,8 @@
 [Paste - 2]: https://www.hackerrank.com/challenges/paste-2/problem
 
 [//]: # (Hard)
+
+[H0001]: Hard/H0001.sh
+['Sed' command #4]: https://www.hackerrank.com/challenges/sed-command-4/problem
 
 [//]: # (EOF)
