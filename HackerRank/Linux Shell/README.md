@@ -58,6 +58,7 @@
 ### Hard
 
 |Problem Solution|Problem Statement|
+|[H0002]|['Sed' command #5]|
 |:--------------:|-----------------|
 |[H0001]|['Sed' command #4]|
 
@@ -204,5 +205,8 @@
 
 [H0001]: Hard/H0001.sh
 ['Sed' command #4]: https://www.hackerrank.com/challenges/sed-command-4/problem
+
+[H0002]: Hard/H0002.sh
+['Sed' command #5]: https://www.hackerrank.com/challenges/sed-command-5/problem
 
 [//]: # (EOF)
