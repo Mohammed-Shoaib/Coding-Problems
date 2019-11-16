@@ -55,6 +55,7 @@
 |[M0001]|[Paste - 1]|
 |[M0002]|[Paste - 2]|
 |[M0003]|[Paste - 3]|
+|[M0004]|[Paste - 4]|
 
 ### Hard
 
@@ -204,6 +205,9 @@
 
 [M0003]: Medium/M0003.sh
 [Paste - 3]: https://www.hackerrank.com/challenges/paste-3/problem
+
+[M0004]: Medium/M0004.sh
+[Paste - 4]: https://www.hackerrank.com/challenges/paste-4/problem
 
 [//]: # (Hard)
 
