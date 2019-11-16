@@ -56,13 +56,14 @@
 |[M0002]|[Paste - 2]|
 |[M0003]|[Paste - 3]|
 |[M0004]|[Paste - 4]|
+|[M0005]|['Grep' #1]|
 
 ### Hard
 
 |Problem Solution|Problem Statement|
-|[H0002]|['Sed' command #5]|
 |:--------------:|-----------------|
 |[H0001]|['Sed' command #4]|
+|[H0002]|['Sed' command #5]|
 
 [//]: # (Easy)
 
@@ -208,6 +209,9 @@
 
 [M0004]: Medium/M0004.sh
 [Paste - 4]: https://www.hackerrank.com/challenges/paste-4/problem
+
+[M0005]: Medium/M0005.sh
+['Grep' #1]: https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem
 
 [//]: # (Hard)
 
