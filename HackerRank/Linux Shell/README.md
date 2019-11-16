@@ -55,6 +55,7 @@
 |[M0001]|[Paste - 1]|
 |[M0002]|[Paste - 2]|
 |[M0003]|[Paste - 3]|
+|[M0006]|['Grep' #2]|
 |[M0004]|[Paste - 4]|
 |[M0005]|['Grep' #1]|
 
@@ -212,6 +213,9 @@
 
 [M0005]: Medium/M0005.sh
 ['Grep' #1]: https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem
+
+[M0006]: Medium/M0006.sh
+['Grep' #2]: https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/problem
 
 [//]: # (Hard)
 
