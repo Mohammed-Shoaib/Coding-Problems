@@ -8,14 +8,14 @@ Solutions to some of the coding problems from popular websites. Currently, there
 
 ## Stats
 
-Number of problems solved: 614
+Number of problems solved: 615
 
 ### HackerRank
 
 | Type | Solved |
 |:----:|:------:|
 | Easy | 314 |
-| Medium | 65 |
+| Medium | 66 |
 | Hard | 7 |
 
 ### CodeChef

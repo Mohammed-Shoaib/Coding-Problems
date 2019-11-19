@@ -51,6 +51,7 @@
 ### Medium
 
 |Problem Solution|Problem Statement|
+|[M0010]|['Awk' - 1]|
 |:--------------:|-----------------|
 |[M0009]|['Sed' command #2]|
 |[M0001]|[Paste - 1]|
@@ -228,6 +229,9 @@
 
 [M0009]: Medium/M0009.sh
 ['Sed' command #2]: https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/problem
+
+[M0010]: Medium/M0010.sh
+['Awk' - 1]: https://www.hackerrank.com/challenges/awk-1/problem
 
 [//]: # (Hard)
 
