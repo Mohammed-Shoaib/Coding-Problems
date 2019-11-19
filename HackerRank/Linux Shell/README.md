@@ -52,6 +52,7 @@
 
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
+|[M0009]|['Sed' command #2]|
 |[M0001]|[Paste - 1]|
 |[M0008]|['Sed' command #1]|
 |[M0002]|[Paste - 2]|
@@ -224,6 +225,9 @@
 
 [M0008]: Medium/M0008.sh
 ['Sed' command #1]: https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1/problem
+
+[M0009]: Medium/M0009.sh
+['Sed' command #2]: https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/problem
 
 [//]: # (Hard)
 
