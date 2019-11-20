@@ -52,6 +52,7 @@
 
 |Problem Solution|Problem Statement|
 |[M0010]|['Awk' - 1]|
+|[M0011]|['Awk' - 2]|
 |:--------------:|-----------------|
 |[M0009]|['Sed' command #2]|
 |[M0001]|[Paste - 1]|
@@ -232,6 +233,9 @@
 
 [M0010]: Medium/M0010.sh
 ['Awk' - 1]: https://www.hackerrank.com/challenges/awk-1/problem
+
+[M0011]: Medium/M0011.sh
+['Awk' - 2]: https://www.hackerrank.com/challenges/awk-2/problem
 
 [//]: # (Hard)
 
