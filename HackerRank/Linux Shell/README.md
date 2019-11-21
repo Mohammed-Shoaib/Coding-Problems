@@ -55,6 +55,7 @@
 |[M0011]|['Awk' - 2]|
 |[M0012]|['Awk' - 3]|
 |[M0013]|['Awk' - 4]|
+|[M0014]|[Remove the First Capital Letter from Each Element]|
 |:--------------:|-----------------|
 |[M0009]|['Sed' command #2]|
 |[M0001]|[Paste - 1]|
@@ -244,6 +245,9 @@
 
 [M0013]: Medium/M0013.sh
 ['Awk' - 4]: https://www.hackerrank.com/challenges/awk-4/problem
+
+[M0014]: Medium/M0014.sh
+[Remove the First Capital Letter from Each Element]: https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem
 
 [//]: # (Hard)
 
