@@ -57,6 +57,7 @@
 |[M0013]|['Awk' - 4]|
 |[M0014]|[Remove the First Capital Letter from Each Element]|
 |[M0015]|[Filter an Array with Patterns]|
+|[M0016]|[Compute the Average]|
 |:--------------:|-----------------|
 |[M0009]|['Sed' command #2]|
 |[M0001]|[Paste - 1]|
@@ -252,6 +253,9 @@
 
 [M0015]: Medium/M0015.sh
 [Filter an Array with Patterns]: https://www.hackerrank.com/challenges/bash-tutorials-filter-an-array-with-patterns/problem
+
+[M0016]: Medium/M0016.sh
+[Compute the Average]: https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem
 
 [//]: # (Hard)
 
