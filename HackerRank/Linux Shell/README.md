@@ -58,6 +58,7 @@
 |[M0014]|[Remove the First Capital Letter from Each Element]|
 |[M0015]|[Filter an Array with Patterns]|
 |[M0016]|[Compute the Average]|
+|[M0017]|[Arithmetic Operations]|
 |:--------------:|-----------------|
 |[M0009]|['Sed' command #2]|
 |[M0001]|[Paste - 1]|
@@ -256,6 +257,9 @@
 
 [M0016]: Medium/M0016.sh
 [Compute the Average]: https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem
+
+[M0017]: Medium/M0017.sh
+[Arithmetic Operations]: https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem
 
 [//]: # (Hard)
 
