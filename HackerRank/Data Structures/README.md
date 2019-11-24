@@ -11,6 +11,7 @@
 |[E0005]|[Print the Elements of a Linked List]|
 |[E0006]|[Insert a Node at the Tail of a Linked List]|
 |[E0007]|[Insert a node at the head of a linked list]|
+|[E0008]|[Insert a node at a specific position in a linked list]|
 
 ### Medium
 
@@ -47,6 +48,9 @@
 
 [E0007]: Easy/E0007.cpp
 [Insert a node at the head of a linked list]: https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem
+
+[E0008]: Easy/E0008.cpp
+[Insert a node at a specific position in a linked list]: https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem
 
 [//]: # (Medium)
 
