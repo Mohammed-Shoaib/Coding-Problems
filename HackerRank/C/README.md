@@ -7,6 +7,7 @@
 |[E0001]|["Hello World!" in C]|
 |[E0002]|[Playing With Characters]|
 |[E0003]|[Sum and Difference of Two Numbers]|
+|[E0004]|[Functions in C]|
 
 ### Medium
 
@@ -28,6 +29,9 @@
 
 [E0003]: Easy/E0003.c
 [Sum and Difference of Two Numbers]: https://www.hackerrank.com/challenges/sum-numbers-c/problem
+
+[E0004]: Easy/E0004.c
+[Functions in C]: https://www.hackerrank.com/challenges/functions-in-c/problem
 
 [//]: # (Medium)
 
