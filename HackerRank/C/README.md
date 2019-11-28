@@ -8,6 +8,7 @@
 |[E0002]|[Playing With Characters]|
 |[E0003]|[Sum and Difference of Two Numbers]|
 |[E0004]|[Functions in C]|
+|[E0005]|[Pointers in C]|
 
 ### Medium
 
@@ -32,6 +33,9 @@
 
 [E0004]: Easy/E0004.c
 [Functions in C]: https://www.hackerrank.com/challenges/functions-in-c/problem
+
+[E0005]: Easy/E0005.c
+[Pointers in C]: https://www.hackerrank.com/challenges/pointer-in-c/problem
 
 [//]: # (Medium)
 
