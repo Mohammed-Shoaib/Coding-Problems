@@ -9,6 +9,7 @@
 |[E0003]|[Sum and Difference of Two Numbers]|
 |[E0004]|[Functions in C]|
 |[E0005]|[Pointers in C]|
+|[E0006]|[Conditional Statements in C]|
 
 ### Medium
 
@@ -36,6 +37,9 @@
 
 [E0005]: Easy/E0005.c
 [Pointers in C]: https://www.hackerrank.com/challenges/pointer-in-c/problem
+
+[E0006]: Easy/E0006.c
+[Conditional Statements in C]: https://www.hackerrank.com/challenges/conditional-statements-in-c/problem
 
 [//]: # (Medium)
 
