@@ -16,6 +16,7 @@
 
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
+|[M0001]|[Printing Pattern using Loops]|
 
 ### Hard
 
@@ -46,6 +47,9 @@
 [For Loop in C]: https://www.hackerrank.com/challenges/for-loop-in-c/problem
 
 [//]: # (Medium)
+
+[M0001]: Medium/M0001.c
+[Printing Pattern using Loops]: https://www.hackerrank.com/challenges/printing-pattern-2/problem
 
 [//]: # (Hard)
 
