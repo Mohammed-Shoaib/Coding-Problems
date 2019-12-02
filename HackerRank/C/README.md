@@ -17,6 +17,7 @@
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
 |[M0001]|[Printing Pattern using Loops]|
+|[M0002]|[1D Arrays in C]|
 
 ### Hard
 
@@ -50,6 +51,9 @@
 
 [M0001]: Medium/M0001.c
 [Printing Pattern using Loops]: https://www.hackerrank.com/challenges/printing-pattern-2/problem
+
+[M0002]: Medium/M0002.c
+[1D Arrays in C]: https://www.hackerrank.com/challenges/1d-arrays-in-c/problem
 
 [//]: # (Hard)
 
