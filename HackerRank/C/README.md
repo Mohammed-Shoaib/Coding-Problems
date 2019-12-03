@@ -11,6 +11,7 @@
 |[E0005]|[Pointers in C]|
 |[E0006]|[Conditional Statements in C]|
 |[E0007]|[For Loop in C]|
+|[E0008]|[Sum of Digits of a Five Digit Number]|
 
 ### Medium
 
@@ -46,6 +47,9 @@
 
 [E0007]: Easy/E0007.c
 [For Loop in C]: https://www.hackerrank.com/challenges/for-loop-in-c/problem
+
+[E0008]: Easy/E0008.c
+[Sum of Digits of a Five Digit Number]: https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem
 
 [//]: # (Medium)
 
