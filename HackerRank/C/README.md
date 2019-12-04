@@ -12,6 +12,7 @@
 |[E0006]|[Conditional Statements in C]|
 |[E0007]|[For Loop in C]|
 |[E0008]|[Sum of Digits of a Five Digit Number]|
+|[E0009]|[Access Denied]|
 
 ### Medium
 
@@ -50,6 +51,9 @@
 
 [E0008]: Easy/E0008.c
 [Sum of Digits of a Five Digit Number]: https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem
+
+[E0009]: Easy/E0009.c
+[Access Denied]: https://www.hackerrank.com/challenges/recursion-in-c/problem
 
 [//]: # (Medium)
 
