@@ -13,6 +13,7 @@
 |[E0007]|[For Loop in C]|
 |[E0008]|[Sum of Digits of a Five Digit Number]|
 |[E0009]|[Access Denied]|
+|[E0010]|[Access Denied]|
 
 ### Medium
 
@@ -54,6 +55,9 @@
 
 [E0009]: Easy/E0009.c
 [Access Denied]: https://www.hackerrank.com/challenges/recursion-in-c/problem
+
+[E0010]: Easy/E0010.c
+[Access Denied]: https://www.hackerrank.com/challenges/students-marks-sum/problem
 
 [//]: # (Medium)
 
