@@ -12,8 +12,9 @@
 |[E0006]|[Conditional Statements in C]|
 |[E0007]|[For Loop in C]|
 |[E0008]|[Sum of Digits of a Five Digit Number]|
-|[E0009]|[Access Denied]|
-|[E0010]|[Access Denied]|
+|[E0009]|[Calculate the Nth term]|
+|[E0010]|[Students Marks Sum]|
+|[E0011]|[Access Denied]|
 
 ### Medium
 
@@ -54,10 +55,13 @@
 [Sum of Digits of a Five Digit Number]: https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem
 
 [E0009]: Easy/E0009.c
-[Access Denied]: https://www.hackerrank.com/challenges/recursion-in-c/problem
+[Calculate the Nth term]: https://www.hackerrank.com/challenges/recursion-in-c/problem
 
 [E0010]: Easy/E0010.c
-[Access Denied]: https://www.hackerrank.com/challenges/students-marks-sum/problem
+[Students Marks Sum]: https://www.hackerrank.com/challenges/students-marks-sum/problem
+
+[E0011]: Easy/E0011.c
+[Access Denied]: https://www.hackerrank.com/challenges/too-high-boxes/problem
 
 [//]: # (Medium)
 
