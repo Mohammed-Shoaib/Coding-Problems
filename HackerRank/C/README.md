@@ -14,7 +14,7 @@
 |[E0008]|[Sum of Digits of a Five Digit Number]|
 |[E0009]|[Calculate the Nth term]|
 |[E0010]|[Students Marks Sum]|
-|[E0011]|[Access Denied]|
+|[E0011]|[Boxes through a Tunnel]|
 
 ### Medium
 
@@ -22,6 +22,7 @@
 |:--------------:|-----------------|
 |[M0001]|[Printing Pattern using Loops]|
 |[M0002]|[1D Arrays in C]|
+|[M0003]|[Access Denied]|
 
 ### Hard
 
@@ -61,7 +62,7 @@
 [Students Marks Sum]: https://www.hackerrank.com/challenges/students-marks-sum/problem
 
 [E0011]: Easy/E0011.c
-[Access Denied]: https://www.hackerrank.com/challenges/too-high-boxes/problem
+[Boxes through a Tunnel]: https://www.hackerrank.com/challenges/too-high-boxes/problem
 
 [//]: # (Medium)
 
@@ -70,6 +71,9 @@
 
 [M0002]: Medium/M0002.c
 [1D Arrays in C]: https://www.hackerrank.com/challenges/1d-arrays-in-c/problem
+
+[M0003]: Medium/M0003.c
+[Access Denied]: https://www.hackerrank.com/challenges/reverse-array-c/problem
 
 [//]: # (Hard)
 
