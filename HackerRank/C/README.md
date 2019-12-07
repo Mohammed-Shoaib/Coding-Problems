@@ -23,6 +23,7 @@
 |[M0001]|[Printing Pattern using Loops]|
 |[M0002]|[1D Arrays in C]|
 |[M0003]|[Access Denied]|
+|[M0004]|[Access Denied]|
 
 ### Hard
 
@@ -74,6 +75,9 @@
 
 [M0003]: Medium/M0003.c
 [Access Denied]: https://www.hackerrank.com/challenges/reverse-array-c/problem
+
+[M0004]: Medium/M0004.c
+[Access Denied]: https://www.hackerrank.com/challenges/printing-tokens-/problem
 
 [//]: # (Hard)
 
