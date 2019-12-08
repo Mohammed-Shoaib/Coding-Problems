@@ -24,6 +24,7 @@
 |[M0002]|[1D Arrays in C]|
 |[M0003]|[Access Denied]|
 |[M0004]|[Access Denied]|
+|[M0005]|[Access Denied]|
 
 ### Hard
 
@@ -78,6 +79,9 @@
 
 [M0004]: Medium/M0004.c
 [Access Denied]: https://www.hackerrank.com/challenges/printing-tokens-/problem
+
+[M0005]: Medium/M0005.c
+[Access Denied]: https://www.hackerrank.com/challenges/frequency-of-digits-1/problem
 
 [//]: # (Hard)
 
