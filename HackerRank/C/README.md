@@ -25,6 +25,7 @@
 |[M0003]|[Access Denied]|
 |[M0004]|[Access Denied]|
 |[M0005]|[Access Denied]|
+|[M0006]|[Access Denied]|
 
 ### Hard
 
@@ -82,6 +83,9 @@
 
 [M0005]: Medium/M0005.c
 [Access Denied]: https://www.hackerrank.com/challenges/frequency-of-digits-1/problem
+
+[M0006]: Medium/M0006.c
+[Access Denied]: https://www.hackerrank.com/challenges/dynamic-array-in-c/problem
 
 [//]: # (Hard)
 
