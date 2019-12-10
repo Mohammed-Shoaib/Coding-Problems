@@ -26,6 +26,7 @@
 |[M0004]|[Access Denied]|
 |[M0005]|[Access Denied]|
 |[M0006]|[Access Denied]|
+|[M0007]|[Access Denied]|
 
 ### Hard
 
@@ -86,6 +87,9 @@
 
 [M0006]: Medium/M0006.c
 [Access Denied]: https://www.hackerrank.com/challenges/dynamic-array-in-c/problem
+
+[M0007]: Medium/M0007.c
+[Access Denied]: https://www.hackerrank.com/challenges/variadic-functions-in-c/problem
 
 [//]: # (Hard)
 
