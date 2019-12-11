@@ -22,11 +22,11 @@
 |:--------------:|-----------------|
 |[M0001]|[Printing Pattern using Loops]|
 |[M0002]|[1D Arrays in C]|
-|[M0003]|[Access Denied]|
-|[M0004]|[Access Denied]|
-|[M0005]|[Access Denied]|
-|[M0006]|[Access Denied]|
-|[M0007]|[Access Denied]|
+|[M0003]|[Array Reversal]|
+|[M0004]|[Printing Tokens]|
+|[M0005]|[Digit Frequency]|
+|[M0006]|[Dynamic Array in C]|
+|[M0007]|[Variadic functions in C]|
 
 ### Hard
 
@@ -77,19 +77,19 @@
 [1D Arrays in C]: https://www.hackerrank.com/challenges/1d-arrays-in-c/problem
 
 [M0003]: Medium/M0003.c
-[Access Denied]: https://www.hackerrank.com/challenges/reverse-array-c/problem
+[Array Reversal]: https://www.hackerrank.com/challenges/reverse-array-c/problem
 
 [M0004]: Medium/M0004.c
-[Access Denied]: https://www.hackerrank.com/challenges/printing-tokens-/problem
+[Printing Tokens]: https://www.hackerrank.com/challenges/printing-tokens-/problem
 
 [M0005]: Medium/M0005.c
-[Access Denied]: https://www.hackerrank.com/challenges/frequency-of-digits-1/problem
+[Digit Frequency]: https://www.hackerrank.com/challenges/frequency-of-digits-1/problem
 
 [M0006]: Medium/M0006.c
-[Access Denied]: https://www.hackerrank.com/challenges/dynamic-array-in-c/problem
+[Dynamic Array in C]: https://www.hackerrank.com/challenges/dynamic-array-in-c/problem
 
 [M0007]: Medium/M0007.c
-[Access Denied]: https://www.hackerrank.com/challenges/variadic-functions-in-c/problem
+[Variadic functions in C]: https://www.hackerrank.com/challenges/variadic-functions-in-c/problem
 
 [//]: # (Hard)
 
