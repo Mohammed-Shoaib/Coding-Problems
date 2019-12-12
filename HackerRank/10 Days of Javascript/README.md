@@ -5,7 +5,8 @@
 | 0	| [Data Types.js]			| [Data Types]				| 
 | 0 | [Hello, World!.js]		| [Hello, World!]			|
 | 1 | [Arithmetic Operators.js] | [Arithmetic Operators]	|
-| 1 | [Functions.js] 			| [Functions.js] 			|
+| 1 | [Functions.js] 			| [Functions]	 			|
+| 1 | [Let and Const.js]		| [Let and Const]			|
 
 [Data Types.js]: Day%200/Data%20Types.js
 [Data Types]: https://www.hackerrank.com/challenges/js10-data-types/problem
@@ -18,5 +19,8 @@
 
 [Functions.js]: Day%201/Functions.js
 [Functions]: https://www.hackerrank.com/challenges/js10-function/problem
+
+[Let and Const.js]: Day%201/Let%20and%20Const.js
+[Let and Const]: https://www.hackerrank.com/challenges/js10-let-and-const/problem
 
 [//]: # (EOF)
