@@ -7,6 +7,7 @@
 | 1 | [Arithmetic Operators.js] | [Arithmetic Operators]	|
 | 1 | [Functions.js] 			| [Functions]	 			|
 | 1 | [Let and Const.js]		| [Let and Const]			|
+| 2 | [If-Else.js]				| [If-Else]					|
 
 [Data Types.js]: Day%200/Data%20Types.js
 [Data Types]: https://www.hackerrank.com/challenges/js10-data-types/problem
@@ -22,5 +23,8 @@
 
 [Let and Const.js]: Day%201/Let%20and%20Const.js
 [Let and Const]: https://www.hackerrank.com/challenges/js10-let-and-const/problem
+
+[If-Else.js]: Day%202/If-Else.js
+[If-Else]: https://www.hackerrank.com/challenges/js10-if-else/problem
 
 [//]: # (EOF)
