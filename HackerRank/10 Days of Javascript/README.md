@@ -8,6 +8,7 @@
 | 1 | [Functions.js] 			| [Functions]	 			|
 | 1 | [Let and Const.js]		| [Let and Const]			|
 | 2 | [If-Else.js]				| [If-Else]					|
+| 2 | [Loops.js]				| [Loops]					|
 
 [Data Types.js]: Day%200/Data%20Types.js
 [Data Types]: https://www.hackerrank.com/challenges/js10-data-types/problem
@@ -26,5 +27,8 @@
 
 [If-Else.js]: Day%202/If-Else.js
 [If-Else]: https://www.hackerrank.com/challenges/js10-if-else/problem
+
+[Loops.js]: Day%202/Loops.js
+[Loops]: https://www.hackerrank.com/challenges/js10-loops/problem
 
 [//]: # (EOF)
