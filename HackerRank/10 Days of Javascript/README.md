@@ -9,6 +9,7 @@
 | 1 | [Let and Const.js]		| [Let and Const]			|
 | 2 | [If-Else.js]				| [If-Else]					|
 | 2 | [Loops.js]				| [Loops]					|
+| 2 | [Switch.js]				| [Switch]					|
 
 [Data Types.js]: Day%200/Data%20Types.js
 [Data Types]: https://www.hackerrank.com/challenges/js10-data-types/problem
@@ -30,5 +31,8 @@
 
 [Loops.js]: Day%202/Loops.js
 [Loops]: https://www.hackerrank.com/challenges/js10-loops/problem
+
+[Switch.js]: Day%202/Switch.js
+[Switch]: https://www.hackerrank.com/challenges/js10-switch/problem
 
 [//]: # (EOF)
