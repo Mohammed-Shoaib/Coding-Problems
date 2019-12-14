@@ -11,6 +11,7 @@
 | 2 | [Loops.js]				| [Loops]					|
 | 2 | [Switch.js]				| [Switch]					|
 | 3 | [Arrays.js]				| [Arrays]					|
+| 3 | [Throw.js]				| [Throw]					|
 
 [Data Types.js]: Day%200/Data%20Types.js
 [Data Types]: https://www.hackerrank.com/challenges/js10-data-types/problem
@@ -38,5 +39,8 @@
 
 [Arrays.js]: Day%203/Arrays.js
 [Arrays]: https://www.hackerrank.com/challenges/js10-arrays/problem
+
+[Throw.js]: Day%203/Throw.js
+[Throw]: https://www.hackerrank.com/challenges/js10-throw/problem
 
 [//]: # (EOF)
