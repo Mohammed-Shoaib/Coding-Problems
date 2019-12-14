@@ -10,6 +10,7 @@
 | 2 | [If-Else.js]				| [If-Else]					|
 | 2 | [Loops.js]				| [Loops]					|
 | 2 | [Switch.js]				| [Switch]					|
+| 3 | [Arrays.js]				| [Arrays]					|
 
 [Data Types.js]: Day%200/Data%20Types.js
 [Data Types]: https://www.hackerrank.com/challenges/js10-data-types/problem
@@ -34,5 +35,8 @@
 
 [Switch.js]: Day%202/Switch.js
 [Switch]: https://www.hackerrank.com/challenges/js10-switch/problem
+
+[Arrays.js]: Day%203/Arrays.js
+[Arrays]: https://www.hackerrank.com/challenges/js10-arrays/problem
 
 [//]: # (EOF)
