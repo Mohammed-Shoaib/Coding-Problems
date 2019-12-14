@@ -1,17 +1,18 @@
 # 10 Days of Javascript
 
-|Day| Problem Solution			| Problem Statement 		|
-|:-:|:-------------------------:|:-------------------------:|
-| 0	| [Data Types.js]			| [Data Types]				| 
-| 0 | [Hello, World!.js]		| [Hello, World!]			|
-| 1 | [Arithmetic Operators.js] | [Arithmetic Operators]	|
-| 1 | [Functions.js] 			| [Functions]	 			|
-| 1 | [Let and Const.js]		| [Let and Const]			|
-| 2 | [If-Else.js]				| [If-Else]					|
-| 2 | [Loops.js]				| [Loops]					|
-| 2 | [Switch.js]				| [Switch]					|
-| 3 | [Arrays.js]				| [Arrays]					|
-| 3 | [Throw.js]				| [Throw]					|
+|Day| Problem Solution				| Problem Statement 		|
+|:-:|:-----------------------------:|:-------------------------:|
+| 0	| [Data Types.js]				| [Data Types]				| 
+| 0 | [Hello, World!.js]			| [Hello, World!]			|
+| 1 | [Arithmetic Operators.js] 	| [Arithmetic Operators]	|
+| 1 | [Functions.js] 				| [Functions]	 			|
+| 1 | [Let and Const.js]			| [Let and Const]			|
+| 2 | [If-Else.js]					| [If-Else]					|
+| 2 | [Loops.js]					| [Loops]					|
+| 2 | [Switch.js]					| [Switch]					|
+| 3 | [Arrays.js]					| [Arrays]					|
+| 3 | [Throw.js]					| [Throw]					|
+| 3 | [Try, Catch, and Finally.js]	| [Try, Catch, and Finally]	|
 
 [Data Types.js]: Day%200/Data%20Types.js
 [Data Types]: https://www.hackerrank.com/challenges/js10-data-types/problem
@@ -42,5 +43,8 @@
 
 [Throw.js]: Day%203/Throw.js
 [Throw]: https://www.hackerrank.com/challenges/js10-throw/problem
+
+[Try, Catch, and Finally.js]: Day%203/Try,%20Catch,%20and%20Finally.js
+[Try, Catch, and Finally]: https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem
 
 [//]: # (EOF)
