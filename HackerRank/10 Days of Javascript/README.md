@@ -14,6 +14,7 @@
 | 3 | [Throw.js]					| [Throw]					|
 | 3 | [Try, Catch, and Finally.js]	| [Try, Catch, and Finally]	|
 | 4 | [Classes.js]					| [Classes]					|
+| 4 | [Count Objects.js]			| [Count Objects]			|
 
 [Data Types.js]: Day%200/Data%20Types.js
 [Data Types]: https://www.hackerrank.com/challenges/js10-data-types/problem
@@ -50,5 +51,8 @@
 
 [Classes.js]: Day%204/Classes.js
 [Classes]: https://www.hackerrank.com/challenges/js10-class/problem
+
+[Count Objects.js]: Day%204/Count%20Objects.js
+[Count Objects]: https://www.hackerrank.com/challenges/js10-count-objects/problem
 
 [//]: # (EOF)
