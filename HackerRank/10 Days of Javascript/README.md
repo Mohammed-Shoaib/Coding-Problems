@@ -13,6 +13,7 @@
 | 3 | [Arrays.js]					| [Arrays]					|
 | 3 | [Throw.js]					| [Throw]					|
 | 3 | [Try, Catch, and Finally.js]	| [Try, Catch, and Finally]	|
+| 4 | [Classes.js]					| [Classes]					|
 
 [Data Types.js]: Day%200/Data%20Types.js
 [Data Types]: https://www.hackerrank.com/challenges/js10-data-types/problem
@@ -46,5 +47,8 @@
 
 [Try, Catch, and Finally.js]: Day%203/Try,%20Catch,%20and%20Finally.js
 [Try, Catch, and Finally]: https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem
+
+[Classes.js]: Day%204/Classes.js
+[Classes]: https://www.hackerrank.com/challenges/js10-class/problem
 
 [//]: # (EOF)
