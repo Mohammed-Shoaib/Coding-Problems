@@ -1,20 +1,21 @@
 # 10 Days of Javascript
 
-|Day| Problem Solution				| Problem Statement 		|
-|:-:|:-----------------------------:|:-------------------------:|
-| 0	| [Data Types.js]				| [Data Types]				| 
-| 0 | [Hello, World!.js]			| [Hello, World!]			|
-| 1 | [Arithmetic Operators.js] 	| [Arithmetic Operators]	|
-| 1 | [Functions.js] 				| [Functions]	 			|
-| 1 | [Let and Const.js]			| [Let and Const]			|
-| 2 | [If-Else.js]					| [If-Else]					|
-| 2 | [Loops.js]					| [Loops]					|
-| 2 | [Switch.js]					| [Switch]					|
-| 3 | [Arrays.js]					| [Arrays]					|
-| 3 | [Throw.js]					| [Throw]					|
-| 3 | [Try, Catch, and Finally.js]	| [Try, Catch, and Finally]	|
-| 4 | [Classes.js]					| [Classes]					|
-| 4 | [Count Objects.js]			| [Count Objects]			|
+|Day| Problem Solution					| Problem Statement 			|
+|:-:|:---------------------------------:|:-----------------------------:|
+| 0	| [Data Types.js]					| [Data Types]					| 
+| 0 | [Hello, World!.js]				| [Hello, World!]				|
+| 1 | [Arithmetic Operators.js] 		| [Arithmetic Operators]		|
+| 1 | [Functions.js] 					| [Functions]	 				|
+| 1 | [Let and Const.js]				| [Let and Const]				|
+| 2 | [If-Else.js]						| [If-Else]						|
+| 2 | [Loops.js]						| [Loops]						|
+| 2 | [Switch.js]						| [Switch]						|
+| 3 | [Arrays.js]						| [Arrays]						|
+| 3 | [Throw.js]						| [Throw]						|
+| 3 | [Try, Catch, and Finally.js]		| [Try, Catch, and Finally]		|
+| 4 | [Classes.js]						| [Classes]						|
+| 4 | [Count Objects.js]				| [Count Objects]				|
+| 4 | [Create a Rectangle Object.js]	| [Create a Rectangle Object]	|
 
 [Data Types.js]: Day%200/Data%20Types.js
 [Data Types]: https://www.hackerrank.com/challenges/js10-data-types/problem
@@ -54,5 +55,8 @@
 
 [Count Objects.js]: Day%204/Count%20Objects.js
 [Count Objects]: https://www.hackerrank.com/challenges/js10-count-objects/problem
+
+[Create a Rectangle Object.js]: Day%204/Create%20a%20Rectangle%20Object.js
+[Create a Rectangle Object]: https://www.hackerrank.com/challenges/js10-objects/problem
 
 [//]: # (EOF)
