@@ -18,6 +18,7 @@
 | 4 | [Create a Rectangle Object.js]	| [Create a Rectangle Object]	|
 | 5 | [Arrow Functions.js]				| [Arrow Functions]				|
 | 5 | [Inheritance.js]					| [Inheritance]					|
+| 5 | [Template Literals.js]			| [Template Literals]			|
 
 [Data Types.js]: Day%200/Data%20Types.js
 [Data Types]: https://www.hackerrank.com/challenges/js10-data-types/problem
@@ -66,5 +67,8 @@
 
 [Inheritance.js]: Day%205/Inheritance.js
 [Inheritance]: https://www.hackerrank.com/challenges/js10-inheritance/problem
+
+[Template Literals.js]: Day%205/Template%20Literals.js
+[Template Literals]: https://www.hackerrank.com/challenges/js10-inheritance/problem
 
 [//]: # (EOF)
