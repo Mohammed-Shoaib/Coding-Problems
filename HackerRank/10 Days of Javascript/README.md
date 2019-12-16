@@ -16,6 +16,7 @@
 | 4 | [Classes.js]						| [Classes]						|
 | 4 | [Count Objects.js]				| [Count Objects]				|
 | 4 | [Create a Rectangle Object.js]	| [Create a Rectangle Object]	|
+| 5 | [Arrow Functions.js]				| [Arrow Functions]				|
 
 [Data Types.js]: Day%200/Data%20Types.js
 [Data Types]: https://www.hackerrank.com/challenges/js10-data-types/problem
@@ -58,5 +59,8 @@
 
 [Create a Rectangle Object.js]: Day%204/Create%20a%20Rectangle%20Object.js
 [Create a Rectangle Object]: https://www.hackerrank.com/challenges/js10-objects/problem
+
+[Arrow Functions.js]: Day%205/Arrow%20Functions.js
+[Arrow Functions]: https://www.hackerrank.com/challenges/js10-arrows/problem
 
 [//]: # (EOF)
