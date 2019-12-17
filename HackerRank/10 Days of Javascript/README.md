@@ -2,8 +2,8 @@
 
 |Day| Problem Solution					| Problem Statement 			|
 |:-:|:---------------------------------:|:-----------------------------:|
-| 0	| [Data Types.js]					| [Data Types]					| 
 | 0 | [Hello, World!.js]				| [Hello, World!]				|
+| 0	| [Data Types.js]					| [Data Types]					| 
 | 1 | [Arithmetic Operators.js] 		| [Arithmetic Operators]		|
 | 1 | [Functions.js] 					| [Functions]	 				|
 | 1 | [Let and Const.js]				| [Let and Const]				|
@@ -19,12 +19,13 @@
 | 5 | [Arrow Functions.js]				| [Arrow Functions]				|
 | 5 | [Inheritance.js]					| [Inheritance]					|
 | 5 | [Template Literals.js]			| [Template Literals]			|
-
-[Data Types.js]: Day%200/Data%20Types.js
-[Data Types]: https://www.hackerrank.com/challenges/js10-data-types/problem
+| 6 | [Bitwise Operators.js]			| [Bitwise Operators]			|
 
 [Hello, World!.js]: Day%200/Hello,%20World!.js
 [Hello, World!]: https://www.hackerrank.com/challenges/js10-hello-world/problem
+
+[Data Types.js]: Day%200/Data%20Types.js
+[Data Types]: https://www.hackerrank.com/challenges/js10-data-types/problem
 
 [Arithmetic Operators.js]: Day%201/Arithmetic%20Operators.js
 [Arithmetic Operators]: https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem
@@ -69,6 +70,9 @@
 [Inheritance]: https://www.hackerrank.com/challenges/js10-inheritance/problem
 
 [Template Literals.js]: Day%205/Template%20Literals.js
-[Template Literals]: https://www.hackerrank.com/challenges/js10-inheritance/problem
+[Template Literals]: https://www.hackerrank.com/challenges/js10-template-literals/problem
+
+[Bitwise Operators.js]: Day%206/Bitwise%20Operators.js
+[Bitwise Operators]: https://www.hackerrank.com/challenges/js10-bitwise/problem
 
 [//]: # (EOF)
