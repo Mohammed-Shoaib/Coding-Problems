@@ -20,6 +20,7 @@
 | 5 | [Inheritance.js]					| [Inheritance]					|
 | 5 | [Template Literals.js]			| [Template Literals]			|
 | 6 | [Bitwise Operators.js]			| [Bitwise Operators]			|
+| 6 | [JavaScript Dates.js]				| [JavaScript Dates]			|
 
 [Hello, World!.js]: Day%200/Hello,%20World!.js
 [Hello, World!]: https://www.hackerrank.com/challenges/js10-hello-world/problem
@@ -74,5 +75,8 @@
 
 [Bitwise Operators.js]: Day%206/Bitwise%20Operators.js
 [Bitwise Operators]: https://www.hackerrank.com/challenges/js10-bitwise/problem
+
+[JavaScript Dates.js]: Day%206/JavaScript%20Dates.js
+[JavaScript Dates]: https://www.hackerrank.com/challenges/js10-date/problem
 
 [//]: # (EOF)
