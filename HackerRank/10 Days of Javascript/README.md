@@ -23,6 +23,7 @@
 | 6 | [JavaScript Dates.js]				| [JavaScript Dates]			|
 | 7 | [Regular Expressions I.js]		| [Regular Expressions I]		|
 | 7 | [Regular Expressions II.js]		| [Regular Expressions II]		|
+| 7 | [Regular Expressions III.js]		| [Regular Expressions III]		|
 
 [Hello, World!.js]: Day%200/Hello,%20World!.js
 [Hello, World!]: https://www.hackerrank.com/challenges/js10-hello-world/problem
@@ -86,5 +87,8 @@
 
 [Regular Expressions II.js]: Day%207/Regular%20Expressions%20II.js
 [Regular Expressions II]: https://www.hackerrank.com/challenges/js10-regexp-2/problem
+
+[Regular Expressions III.js]: Day%207/Regular%20Expressions%20III.js
+[Regular Expressions III]: https://www.hackerrank.com/challenges/js10-regexp-3/problem
 
 [//]: # (EOF)
