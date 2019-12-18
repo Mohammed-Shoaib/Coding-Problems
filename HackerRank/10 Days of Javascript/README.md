@@ -21,6 +21,7 @@
 | 5 | [Template Literals.js]			| [Template Literals]			|
 | 6 | [Bitwise Operators.js]			| [Bitwise Operators]			|
 | 6 | [JavaScript Dates.js]				| [JavaScript Dates]			|
+| 7 | [Regular Expressions I.js]		| [Regular Expressions I]		|
 
 [Hello, World!.js]: Day%200/Hello,%20World!.js
 [Hello, World!]: https://www.hackerrank.com/challenges/js10-hello-world/problem
@@ -78,5 +79,8 @@
 
 [JavaScript Dates.js]: Day%206/JavaScript%20Dates.js
 [JavaScript Dates]: https://www.hackerrank.com/challenges/js10-date/problem
+
+[Regular Expressions I.js]: Day%207/Regular%20Expressions%20I.js
+[Regular Expressions I]: https://www.hackerrank.com/challenges/js10-regexp-1/problem
 
 [//]: # (EOF)
