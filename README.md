@@ -14,7 +14,7 @@ Number of problems solved: 641
 
 | Type | Solved |
 |:----:|:------:|
-| Easy | 346 |
+| Easy | 347 |
 | Medium | 80 |
 | Hard | 7 |
 
