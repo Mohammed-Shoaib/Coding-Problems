@@ -25,6 +25,7 @@
 | 7 | [Regular Expressions II.js]		| [Regular Expressions II]		|
 | 7 | [Regular Expressions III.js]		| [Regular Expressions III]		|
 | 8 | [buttonsGrid.js]					| [Buttons Container]			|
+| 8 | [button.js]						| [Create a Button]				|
 
 [Hello, World!.js]: Day%200/Hello,%20World!.js
 [Hello, World!]: https://www.hackerrank.com/challenges/js10-hello-world/problem
@@ -94,5 +95,8 @@
 
 [buttonsGrid.js]: Day%208/Buttons%20Container/js/buttonsGrid.js
 [Buttons Container]: https://www.hackerrank.com/challenges/js10-buttons-container
+
+[button.js]: Day%208/Create%20a%20Button/js/button.js
+[Create a Button]: https://www.hackerrank.com/challenges/js10-create-a-button
 
 [//]: # (EOF)
