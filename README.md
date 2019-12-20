@@ -15,7 +15,7 @@ Number of problems solved: 641
 | Type | Solved |
 |:----:|:------:|
 | Easy | 350 |
-| Medium | 80 |
+| Medium | 81 |
 | Hard | 7 |
 
 ### CodeChef

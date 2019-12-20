@@ -14,9 +14,9 @@ The questions are divided into 3 levels of difficulty:
 |:--------:|:---------:|
 | [Algorithms](Algorithms/) | 134 |
 | [C](C) | 0 |
-| [C++](C++) | 44/44 |
+| [C++](C++) | 43/44 |
 | [Data Structures](Data%20Structures/) | 11 |
-| [10 Days of Javascript](10%20Days%20of%20Javascript/) | 5/25 |
+| [10 Days of Javascript](10%20Days%20of%20Javascript/) | 25/25 |
 | [Linux Shell](Linux%20Shell/) | 0 |
 | [Python](Python/) | 115/115 |
 | [Regex](Regex/) | 47/47 |
