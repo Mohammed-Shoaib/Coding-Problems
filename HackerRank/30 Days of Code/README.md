@@ -7,6 +7,7 @@
 | [Day 2.cpp]		| [Operators]							|
 | [Day 3.cpp]		| [Intro to Conditional Statements]		|
 | [Day 4.cpp]		| [Class vs. Instance]					|
+| [Day 5.cpp]		| [Loops]								|
 
 [Day 0.cpp]: Days/Day%200.cpp
 [Hello, World.]: https://www.hackerrank.com/challenges/30-hello-world/problem
@@ -22,5 +23,8 @@
 
 [Day 4.cpp]: Days/Day%204.cpp
 [Class vs. Instance]: https://www.hackerrank.com/challenges/30-class-vs-instance/problem
+
+[Day 5.cpp]: Days/Day%205.cpp
+[Loops]: https://www.hackerrank.com/challenges/30-loops/problem
 
 [//]: # (EOF)
