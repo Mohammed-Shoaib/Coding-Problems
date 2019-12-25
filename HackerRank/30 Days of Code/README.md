@@ -11,6 +11,7 @@
 | [Day 6.cpp]		| [Let's Review]						|
 | [Day 7.cpp]		| [Arrays]								|
 | [Day 8.cpp]		| [Dictionaries and Maps]				|
+| [Day 9.cpp]		| [Recursion 3]							|
 
 [Day 0.cpp]: Days/Day%200.cpp
 [Hello, World.]: https://www.hackerrank.com/challenges/30-hello-world/problem
@@ -38,5 +39,8 @@
 
 [Day 8.cpp]: Days/Day%208.cpp
 [Dictionaries and Maps]: https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem
+
+[Day 9.cpp]: Days/Day%209.cpp
+[Recursion 3]: https://www.hackerrank.com/challenges/30-recursion/problem
 
 [//]: # (EOF)
