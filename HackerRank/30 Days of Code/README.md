@@ -10,6 +10,7 @@
 | [Day 5.cpp]		| [Loops]								|
 | [Day 6.cpp]		| [Let's Review]						|
 | [Day 7.cpp]		| [Arrays]								|
+| [Day 8.cpp]		| [Dictionaries and Maps]				|
 
 [Day 0.cpp]: Days/Day%200.cpp
 [Hello, World.]: https://www.hackerrank.com/challenges/30-hello-world/problem
@@ -34,5 +35,8 @@
 
 [Day 7.cpp]: Days/Day%207.cpp
 [Arrays]: https://www.hackerrank.com/challenges/30-arrays/problem
+
+[Day 8.cpp]: Days/Day%208.cpp
+[Dictionaries and Maps]: https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem
 
 [//]: # (EOF)
