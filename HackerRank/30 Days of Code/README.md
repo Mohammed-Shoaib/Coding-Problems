@@ -13,6 +13,7 @@
 | [Day 8.cpp]		| [Dictionaries and Maps]				|
 | [Day 9.cpp]		| [Recursion 3]							|
 | [Day 10.cpp]		| [Binary Numbers]						|
+| [Day 11.cpp]		| [2D Arrays]							|
 
 [Day 0.cpp]: Days/Day%200.cpp
 [Hello, World.]: https://www.hackerrank.com/challenges/30-hello-world/problem
@@ -46,5 +47,8 @@
 
 [Day 10.cpp]: Days/Day%2010.cpp
 [Binary Numbers]: https://www.hackerrank.com/challenges/30-binary-numbers/problem
+
+[Day 11.cpp]: Days/Day%2011.cpp
+[2D Arrays]: https://www.hackerrank.com/challenges/30-2d-arrays/problem
 
 [//]: # (EOF)
