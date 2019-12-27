@@ -15,6 +15,7 @@
 | [Day 10.cpp]		| [Binary Numbers]						|
 | [Day 11.cpp]		| [2D Arrays]							|
 | [Day 12.cpp]		| [Inheritance]							|
+| [Day 13.cpp]		| [Abstract Classes]					|
 
 [Day 0.cpp]: Days/Day%200.cpp
 [Hello, World.]: https://www.hackerrank.com/challenges/30-hello-world/problem
@@ -54,5 +55,8 @@
 
 [Day 12.cpp]: Days/Day%2012.cpp
 [Inheritance]: https://www.hackerrank.com/challenges/30-arrays/problem
+
+[Day 13.cpp]: Days/Day%2013.cpp
+[Abstract Classes]: https://www.hackerrank.com/challenges/30-abstract-classes/problem
 
 [//]: # (EOF)
