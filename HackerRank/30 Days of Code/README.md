@@ -14,6 +14,7 @@
 | [Day 9.cpp]		| [Recursion 3]							|
 | [Day 10.cpp]		| [Binary Numbers]						|
 | [Day 11.cpp]		| [2D Arrays]							|
+| [Day 12.cpp]		| [Inheritance]							|
 
 [Day 0.cpp]: Days/Day%200.cpp
 [Hello, World.]: https://www.hackerrank.com/challenges/30-hello-world/problem
@@ -50,5 +51,8 @@
 
 [Day 11.cpp]: Days/Day%2011.cpp
 [2D Arrays]: https://www.hackerrank.com/challenges/30-2d-arrays/problem
+
+[Day 12.cpp]: Days/Day%2012.cpp
+[Inheritance]: https://www.hackerrank.com/challenges/30-arrays/problem
 
 [//]: # (EOF)
