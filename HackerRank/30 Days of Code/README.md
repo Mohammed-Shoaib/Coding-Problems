@@ -17,6 +17,7 @@
 | [Day 12.cpp]		| [Inheritance]							|
 | [Day 13.cpp]		| [Abstract Classes]					|
 | [Day 14.cpp]		| [Scope]								|
+| [Day 15.cpp]		| [Linked List]							|
 
 [Day 0.cpp]: Days/Day%200.cpp
 [Hello, World.]: https://www.hackerrank.com/challenges/30-hello-world/problem
@@ -62,5 +63,8 @@
 
 [Day 14.cpp]: Days/Day%2014.cpp
 [Scope]: https://www.hackerrank.com/challenges/30-scope/problem
+
+[Day 15.cpp]: Days/Day%2015.cpp
+[Linked List]: https://www.hackerrank.com/challenges/30-linked-list/problem
 
 [//]: # (EOF)
