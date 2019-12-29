@@ -19,6 +19,7 @@
 | [Day 14.cpp]		| [Scope]								|
 | [Day 15.cpp]		| [Linked List]							|
 | [Day 16.cpp]		| [Exceptions - String to Integer]		|
+| [Day 17.cpp]		| [More Exceptions]						|
 
 [Day 0.cpp]: Days/Day%200.cpp
 [Hello, World.]: https://www.hackerrank.com/challenges/30-hello-world/problem
@@ -70,5 +71,8 @@
 
 [Day 16.cpp]: Days/Day%2016.cpp
 [Exceptions - String to Integer]: https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem
+
+[Day 17.cpp]: Days/Day%2017.cpp
+[More Exceptions]: https://www.hackerrank.com/challenges/30-more-exceptions/problem
 
 [//]: # (EOF)
