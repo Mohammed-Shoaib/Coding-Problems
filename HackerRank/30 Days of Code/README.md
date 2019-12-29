@@ -18,6 +18,7 @@
 | [Day 13.cpp]		| [Abstract Classes]					|
 | [Day 14.cpp]		| [Scope]								|
 | [Day 15.cpp]		| [Linked List]							|
+| [Day 16.cpp]		| [Exceptions - String to Integer]		|
 
 [Day 0.cpp]: Days/Day%200.cpp
 [Hello, World.]: https://www.hackerrank.com/challenges/30-hello-world/problem
@@ -66,5 +67,8 @@
 
 [Day 15.cpp]: Days/Day%2015.cpp
 [Linked List]: https://www.hackerrank.com/challenges/30-linked-list/problem
+
+[Day 16.cpp]: Days/Day%2016.cpp
+[Exceptions - String to Integer]: https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem
 
 [//]: # (EOF)
