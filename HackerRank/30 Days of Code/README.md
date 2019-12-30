@@ -20,6 +20,7 @@
 | [Day 15.cpp]		| [Linked List]							|
 | [Day 16.cpp]		| [Exceptions - String to Integer]		|
 | [Day 17.cpp]		| [More Exceptions]						|
+| [Day 18.cpp]		| [Queues and Stacks]					|
 
 [Day 0.cpp]: Days/Day%200.cpp
 [Hello, World.]: https://www.hackerrank.com/challenges/30-hello-world/problem
@@ -74,5 +75,8 @@
 
 [Day 17.cpp]: Days/Day%2017.cpp
 [More Exceptions]: https://www.hackerrank.com/challenges/30-more-exceptions/problem
+
+[Day 18.cpp]: Days/Day%2018.cpp
+[Queues and Stacks]: https://www.hackerrank.com/challenges/30-queues-stacks/problem
 
 [//]: # (EOF)
