@@ -22,6 +22,7 @@
 | [Day 17.cpp]		| [More Exceptions]						|
 | [Day 18.cpp]		| [Queues and Stacks]					|
 | [Day 19.cpp]		| [Interfaces]							|
+| [Day 20.cpp]		| [Sorting]								|
 
 [Day 0.cpp]: Days/Day%200.cpp
 [Hello, World.]: https://www.hackerrank.com/challenges/30-hello-world/problem
@@ -82,5 +83,8 @@
 
 [Day 19.cpp]: Days/Day%2019.cpp
 [Interfaces]: https://www.hackerrank.com/challenges/30-interfaces/problem
+
+[Day 20.cpp]: Days/Day%2020.cpp
+[Sorting]: https://www.hackerrank.com/challenges/30-sorting/problem
 
 [//]: # (EOF)
