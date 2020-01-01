@@ -24,6 +24,7 @@
 | [Day 19.cpp]		| [Interfaces]							|
 | [Day 20.cpp]		| [Sorting]								|
 | [Day 21.cpp]		| [Generics]							|
+| [Day 22.cpp]		| [Binary Search Trees]					|
 
 [Day 0.cpp]: Days/Day%200.cpp
 [Hello, World.]: https://www.hackerrank.com/challenges/30-hello-world/problem
@@ -90,5 +91,8 @@
 
 [Day 21.cpp]: Days/Day%2021.cpp
 [Generics]: https://www.hackerrank.com/challenges/30-generics/problem
+
+[Day 22.cpp]: Days/Day%2022.cpp
+[Binary Search Trees]: https://www.hackerrank.com/challenges/30-binary-search-trees/problem
 
 [//]: # (EOF)
