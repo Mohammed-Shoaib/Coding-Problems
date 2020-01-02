@@ -26,6 +26,7 @@
 | [Day 21.cpp]		| [Generics]							|
 | [Day 22.cpp]		| [Binary Search Trees]					|
 | [Day 23.cpp]		| [BST Level-Order Traversal]			|
+| [Day 24.cpp]		| [More Linked Lists]					|
 
 [Day 0.cpp]: Days/Day%200.cpp
 [Hello, World.]: https://www.hackerrank.com/challenges/30-hello-world/problem
@@ -98,5 +99,8 @@
 
 [Day 23.cpp]: Days/Day%2023.cpp
 [BST Level-Order Traversal]: https://www.hackerrank.com/challenges/30-binary-trees/problem
+
+[Day 24.cpp]: Days/Day%2024.cpp
+[More Linked Lists]: https://www.hackerrank.com/challenges/30-linked-list-deletion/problem
 
 [//]: # (EOF)
