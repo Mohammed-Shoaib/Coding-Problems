@@ -29,6 +29,7 @@
 | [Day 24.cpp]		| [More Linked Lists]					|
 | [Day 25.cpp]		| [Running Time and Complexity]			|
 | [Day 26.cpp]		| [Nested Logic]						|
+| [Day 27.cpp]		| [Testing]								|
 
 [Day 0.cpp]: Days/Day%200.cpp
 [Hello, World.]: https://www.hackerrank.com/challenges/30-hello-world/problem
@@ -110,5 +111,8 @@
 
 [Day 26.cpp]: Days/Day%2026.cpp
 [Nested Logic]: https://www.hackerrank.com/challenges/30-nested-logic/problem
+
+[Day 27.cpp]: Days/Day%2027.cpp
+[Testing]: https://www.hackerrank.com/challenges/30-testing/problem
 
 [//]: # (EOF)
