@@ -1,35 +1,36 @@
 # 30 Days of Code
 
-| Problem Solution	| Problem Statement 					|
-|:-----------------:|:-------------------------------------:|
-| [Day 0.cpp]		| [Hello, World.]						|
-| [Day 1.cpp]		| [Data Types]							|
-| [Day 2.cpp]		| [Operators]							|
-| [Day 3.cpp]		| [Intro to Conditional Statements]		|
-| [Day 4.cpp]		| [Class vs. Instance]					|
-| [Day 5.cpp]		| [Loops]								|
-| [Day 6.cpp]		| [Let's Review]						|
-| [Day 7.cpp]		| [Arrays]								|
-| [Day 8.cpp]		| [Dictionaries and Maps]				|
-| [Day 9.cpp]		| [Recursion 3]							|
-| [Day 10.cpp]		| [Binary Numbers]						|
-| [Day 11.cpp]		| [2D Arrays]							|
-| [Day 12.cpp]		| [Inheritance]							|
-| [Day 13.cpp]		| [Abstract Classes]					|
-| [Day 14.cpp]		| [Scope]								|
-| [Day 15.cpp]		| [Linked List]							|
-| [Day 16.cpp]		| [Exceptions - String to Integer]		|
-| [Day 17.cpp]		| [More Exceptions]						|
-| [Day 18.cpp]		| [Queues and Stacks]					|
-| [Day 19.cpp]		| [Interfaces]							|
-| [Day 20.cpp]		| [Sorting]								|
-| [Day 21.cpp]		| [Generics]							|
-| [Day 22.cpp]		| [Binary Search Trees]					|
-| [Day 23.cpp]		| [BST Level-Order Traversal]			|
-| [Day 24.cpp]		| [More Linked Lists]					|
-| [Day 25.cpp]		| [Running Time and Complexity]			|
-| [Day 26.cpp]		| [Nested Logic]						|
-| [Day 27.cpp]		| [Testing]								|
+| Problem Solution	| Problem Statement 						|
+|:-----------------:|:-----------------------------------------:|
+| [Day 0.cpp]		| [Hello, World.]							|
+| [Day 1.cpp]		| [Data Types]								|
+| [Day 2.cpp]		| [Operators]								|
+| [Day 3.cpp]		| [Intro to Conditional Statements]			|
+| [Day 4.cpp]		| [Class vs. Instance]						|
+| [Day 5.cpp]		| [Loops]									|
+| [Day 6.cpp]		| [Let's Review]							|
+| [Day 7.cpp]		| [Arrays]									|
+| [Day 8.cpp]		| [Dictionaries and Maps]					|
+| [Day 9.cpp]		| [Recursion 3]								|
+| [Day 10.cpp]		| [Binary Numbers]							|
+| [Day 11.cpp]		| [2D Arrays]								|
+| [Day 12.cpp]		| [Inheritance]								|
+| [Day 13.cpp]		| [Abstract Classes]						|
+| [Day 14.cpp]		| [Scope]									|
+| [Day 15.cpp]		| [Linked List]								|
+| [Day 16.cpp]		| [Exceptions - String to Integer]			|
+| [Day 17.cpp]		| [More Exceptions]							|
+| [Day 18.cpp]		| [Queues and Stacks]						|
+| [Day 19.cpp]		| [Interfaces]								|
+| [Day 20.cpp]		| [Sorting]									|
+| [Day 21.cpp]		| [Generics]								|
+| [Day 22.cpp]		| [Binary Search Trees]						|
+| [Day 23.cpp]		| [BST Level-Order Traversal]				|
+| [Day 24.cpp]		| [More Linked Lists]						|
+| [Day 25.cpp]		| [Running Time and Complexity]				|
+| [Day 26.cpp]		| [Nested Logic]							|
+| [Day 27.cpp]		| [Testing]									|
+| [Day 28.cpp]		| [RegEx, Patterns, and Intro to Databases]	|
 
 [Day 0.cpp]: Days/Day%200.cpp
 [Hello, World.]: https://www.hackerrank.com/challenges/30-hello-world/problem
@@ -114,5 +115,8 @@
 
 [Day 27.cpp]: Days/Day%2027.cpp
 [Testing]: https://www.hackerrank.com/challenges/30-testing/problem
+
+[Day 28.cpp]: Days/Day%2028.cpp
+[RegEx, Patterns, and Intro to Databases]: https://www.hackerrank.com/challenges/30-regex-patterns/problem
 
 [//]: # (EOF)
