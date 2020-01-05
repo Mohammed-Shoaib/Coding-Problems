@@ -31,6 +31,7 @@
 | [Day 26.cpp]		| [Nested Logic]							|
 | [Day 27.cpp]		| [Testing]									|
 | [Day 28.cpp]		| [RegEx, Patterns, and Intro to Databases]	|
+| [Day 29.cpp]		| [Bitwise AND]								|
 
 [Day 0.cpp]: Days/Day%200.cpp
 [Hello, World.]: https://www.hackerrank.com/challenges/30-hello-world/problem
@@ -118,5 +119,8 @@
 
 [Day 28.cpp]: Days/Day%2028.cpp
 [RegEx, Patterns, and Intro to Databases]: https://www.hackerrank.com/challenges/30-regex-patterns/problem
+
+[Day 29.cpp]: Days/Day%2029.cpp
+[Bitwise AND]: https://www.hackerrank.com/challenges/30-bitwise-and/problem
 
 [//]: # (EOF)
