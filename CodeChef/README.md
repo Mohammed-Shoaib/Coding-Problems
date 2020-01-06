@@ -208,6 +208,7 @@ The questions are divided into 6 categories:
 |[E0088]|[The Morning Commute]|
 |[E0089]|[Processing a string]|
 |[E0090]|[Two Groups]|
+|[E0091]|[Stupid Machine]|
 
 ### Medium
 
@@ -789,6 +790,9 @@ The questions are divided into 6 categories:
 
 [E0090]: Easy/E0090.cpp
 [Two Groups]: https://www.codechef.com/problems/TWOGRS
+
+[E0091]: Easy/E0091.cpp
+[Stupid Machine]: https://www.codechef.com/problems/STUPMACH
 
 [//]: # (Medium)
 
