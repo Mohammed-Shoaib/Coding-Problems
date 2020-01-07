@@ -209,6 +209,7 @@ The questions are divided into 6 categories:
 |[E0089]|[Processing a string]|
 |[E0090]|[Two Groups]|
 |[E0091]|[Stupid Machine]|
+|[E0092]|[Guess the number]|
 
 ### Medium
 
@@ -793,6 +794,9 @@ The questions are divided into 6 categories:
 
 [E0091]: Easy/E0091.cpp
 [Stupid Machine]: https://www.codechef.com/problems/STUPMACH
+
+[E0092]: Easy/E0092.cpp
+[Guess the number]: https://www.codechef.com/problems/GUESSNUM
 
 [//]: # (Medium)
 
