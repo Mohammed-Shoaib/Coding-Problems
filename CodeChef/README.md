@@ -210,6 +210,7 @@ The questions are divided into 6 categories:
 |[E0090]|[Two Groups]|
 |[E0091]|[Stupid Machine]|
 |[E0092]|[Guess the number]|
+|[E0093]|[The Evil Professor]|
 
 ### Medium
 
@@ -797,6 +798,9 @@ The questions are divided into 6 categories:
 
 [E0092]: Easy/E0092.cpp
 [Guess the number]: https://www.codechef.com/problems/GUESSNUM
+
+[E0093]: Easy/E0093.cpp
+[The Evil Professor]: https://www.codechef.com/problems/EVIPRO
 
 [//]: # (Medium)
 
