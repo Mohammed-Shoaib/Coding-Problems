@@ -3,6 +3,7 @@
 Solutions to some of the coding problems from popular websites. Currently, there are solutions to questions from the below mentioned websites:
 
 *   [HackerRank](HackerRank/ "HackerRank")
+*	[LeetCode](LeetCode/ "LeetCode")
 *   [CodeChef](CodeChef/ "CodeChef")
 *   [Gulf Programming Contest](Gulf%20Programming%20Contest/ "GPC")
 
@@ -14,7 +15,7 @@ Number of problems solved: 645
 
 | Type | Solved |
 |:----:|:------:|
-| Easy | 376 |
+| Easy | 375 |
 | Medium | 83 |
 | Hard | 7 |
 
@@ -25,3 +26,11 @@ Number of problems solved: 645
 | Beginner | 100 |
 | Easy | 93 |
 | Medium | 2 |
+
+### LeetCode
+
+| Type | Solved |
+|:----:|:------:|
+| Easy | 1 |
+| Medium | 0 |
+| Hard | 1 |
