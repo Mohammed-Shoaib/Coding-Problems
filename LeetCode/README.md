@@ -8,6 +8,7 @@
 | [LC0002.cpp]		| [Add Two Numbers]				| Medium		|
 | [LC0007.cpp]		| [Reverse Integer]				| Easy			|
 | [LC0009.cpp]		| [Palindrome Number]			| Easy			|
+| [LC0020.cpp]		| [Valid Parentheses]			| Easy			|
 | [LC0065.cpp]		| [Valid Number]				| Hard			|
 
 [//]: # (Solutions)
@@ -23,6 +24,9 @@
 
 [LC0009.cpp]: Solutions/LC0009.cpp
 [Palindrome Number]: https://leetcode.com/problems/palindrome-number/
+
+[LC0020.cpp]: Solutions/LC0020.cpp
+[Valid Parentheses]: https://leetcode.com/problems/valid-parentheses/
 
 [LC0065.cpp]: Solutions/LC0065.cpp
 [Valid Number]: https://leetcode.com/problems/valid-number/
