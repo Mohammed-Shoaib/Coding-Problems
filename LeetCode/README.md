@@ -9,6 +9,7 @@
 | [LC0007.cpp]		| [Reverse Integer]				| Easy			|
 | [LC0009.cpp]		| [Palindrome Number]			| Easy			|
 | [LC0020.cpp]		| [Valid Parentheses]			| Easy			|
+| [LC0021.cpp]		| [Merge Two Sorted Lists]		| Easy			|
 | [LC0065.cpp]		| [Valid Number]				| Hard			|
 
 [//]: # (Solutions)
@@ -27,6 +28,9 @@
 
 [LC0020.cpp]: Solutions/LC0020.cpp
 [Valid Parentheses]: https://leetcode.com/problems/valid-parentheses/
+
+[LC0021.cpp]: Solutions/LC0021.cpp
+[Merge Two Sorted Lists]: https://leetcode.com/problems/merge-two-sorted-lists/
 
 [LC0065.cpp]: Solutions/LC0065.cpp
 [Valid Number]: https://leetcode.com/problems/valid-number/
