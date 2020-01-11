@@ -2,15 +2,16 @@
 
 ### Solutions
 
-| Problem Solution	| Problem Statement 			| Difficulty	|
-|:-----------------:|-------------------------------|:-------------:|
-| [LC0001.cpp]		| [Two Sum]						| Easy			|
-| [LC0002.cpp]		| [Add Two Numbers]				| Medium		|
-| [LC0007.cpp]		| [Reverse Integer]				| Easy			|
-| [LC0009.cpp]		| [Palindrome Number]			| Easy			|
-| [LC0020.cpp]		| [Valid Parentheses]			| Easy			|
-| [LC0021.cpp]		| [Merge Two Sorted Lists]		| Easy			|
-| [LC0065.cpp]		| [Valid Number]				| Hard			|
+| Problem Solution	| Problem Statement 										| Difficulty	|
+|:-----------------:|-----------------------------------------------------------|:-------------:|
+| [LC0001.cpp]		| [Two Sum]													| Easy			|
+| [LC0002.cpp]		| [Add Two Numbers]											| Medium		|
+| [LC0003.cpp]		| [Longest Substring Without Repeating Characters]			| Medium		|
+| [LC0007.cpp]		| [Reverse Integer]											| Easy			|
+| [LC0009.cpp]		| [Palindrome Number]										| Easy			|
+| [LC0020.cpp]		| [Valid Parentheses]										| Easy			|
+| [LC0021.cpp]		| [Merge Two Sorted Lists]									| Easy			|
+| [LC0065.cpp]		| [Valid Number]											| Hard			|
 
 [//]: # (Solutions)
 
@@ -19,6 +20,9 @@
 
 [LC0002.cpp]: Solutions/LC0002.cpp
 [Add Two Numbers]: https://leetcode.com/problems/add-two-numbers/
+
+[LC0003.cpp]: Solutions/LC0003.cpp
+[Longest Substring Without Repeating Characters]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 [LC0007.cpp]: Solutions/LC0007.cpp
 [Reverse Integer]: https://leetcode.com/problems/reverse-integer/
