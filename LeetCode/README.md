@@ -12,6 +12,7 @@
 | [LC0020.cpp]		| [Valid Parentheses]										| Easy			|
 | [LC0021.cpp]		| [Merge Two Sorted Lists]									| Easy			|
 | [LC0065.cpp]		| [Valid Number]											| Hard			|
+| [LC0126.cpp]		| [Word Ladder II]											| Hard			|
 
 [//]: # (Solutions)
 
@@ -38,5 +39,8 @@
 
 [LC0065.cpp]: Solutions/LC0065.cpp
 [Valid Number]: https://leetcode.com/problems/valid-number/
+
+[LC0126.cpp]: Solutions/LC0126.cpp
+[Word Ladder II]: https://leetcode.com/problems/word-ladder-ii/
 
 [//]: # (EOF)

@@ -33,4 +33,4 @@ Number of problems solved: 645
 |:----:|:------:|
 | Easy | 5 |
 | Medium | 2 |
-| Hard | 1 |
+| Hard | 2 |
