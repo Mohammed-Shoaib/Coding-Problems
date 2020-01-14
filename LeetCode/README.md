@@ -13,6 +13,7 @@
 | [LC0020.cpp]		| [Valid Parentheses]										| Easy			|
 | [LC0021.cpp]		| [Merge Two Sorted Lists]									| Easy			|
 | [LC0050.cpp]		| [Pow(x, n)]												| Easy			|
+| [LC0053.cpp]		| [Maximum Subarray]										| Easy			|
 | [LC0065.cpp]		| [Valid Number]											| Hard			|
 | [LC0126.cpp]		| [Word Ladder II]											| Hard			|
 
@@ -44,6 +45,9 @@
 
 [LC0050.cpp]: Solutions/LC0050.cpp
 [Pow(x, n)]: https://leetcode.com/problems/powx-n/
+
+[LC0053.cpp]: Solutions/LC0053.cpp
+[Maximum Subarray]: https://leetcode.com/problems/maximum-subarray/
 
 [LC0065.cpp]: Solutions/LC0065.cpp
 [Valid Number]: https://leetcode.com/problems/valid-number/
