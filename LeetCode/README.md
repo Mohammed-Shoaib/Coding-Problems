@@ -12,6 +12,7 @@
 | [LC0011.cpp]		| [Container With Most Water]								| Medium		|
 | [LC0020.cpp]		| [Valid Parentheses]										| Easy			|
 | [LC0021.cpp]		| [Merge Two Sorted Lists]									| Easy			|
+| [LC0050.cpp]		| [Pow(x, n)]												| Easy			|
 | [LC0065.cpp]		| [Valid Number]											| Hard			|
 | [LC0126.cpp]		| [Word Ladder II]											| Hard			|
 
@@ -40,6 +41,9 @@
 
 [LC0021.cpp]: Solutions/LC0021.cpp
 [Merge Two Sorted Lists]: https://leetcode.com/problems/merge-two-sorted-lists/
+
+[LC0050.cpp]: Solutions/LC0050.cpp
+[Pow(x, n)]: https://leetcode.com/problems/powx-n/
 
 [LC0065.cpp]: Solutions/LC0065.cpp
 [Valid Number]: https://leetcode.com/problems/valid-number/
