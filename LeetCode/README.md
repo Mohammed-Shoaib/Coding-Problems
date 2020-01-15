@@ -12,9 +12,10 @@
 | [LC0011.cpp]		| [Container With Most Water]								| Medium		|
 | [LC0020.cpp]		| [Valid Parentheses]										| Easy			|
 | [LC0021.cpp]		| [Merge Two Sorted Lists]									| Easy			|
-| [LC0050.cpp]		| [Pow(x, n)]												| Easy			|
+| [LC0050.cpp]		| [Pow(x, n)]												| Medium		|
 | [LC0053.cpp]		| [Maximum Subarray]										| Easy			|
 | [LC0065.cpp]		| [Valid Number]											| Hard			|
+| [LC0069.cpp]		| [Sqrt(x)]													| Easy			|
 | [LC0126.cpp]		| [Word Ladder II]											| Hard			|
 
 [//]: # (Solutions)
@@ -51,6 +52,9 @@
 
 [LC0065.cpp]: Solutions/LC0065.cpp
 [Valid Number]: https://leetcode.com/problems/valid-number/
+
+[LC0069.cpp]: Solutions/LC0069.cpp
+[Sqrt(x)]: https://leetcode.com/problems/sqrtx/
 
 [LC0126.cpp]: Solutions/LC0126.cpp
 [Word Ladder II]: https://leetcode.com/problems/word-ladder-ii/
