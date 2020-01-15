@@ -16,6 +16,7 @@
 | [LC0053.cpp]		| [Maximum Subarray]										| Easy			|
 | [LC0065.cpp]		| [Valid Number]											| Hard			|
 | [LC0069.cpp]		| [Sqrt(x)]													| Easy			|
+| [LC0070.cpp]		| [Climbing Stairs]											| Easy			|
 | [LC0126.cpp]		| [Word Ladder II]											| Hard			|
 
 [//]: # (Solutions)
@@ -55,6 +56,9 @@
 
 [LC0069.cpp]: Solutions/LC0069.cpp
 [Sqrt(x)]: https://leetcode.com/problems/sqrtx/
+
+[LC0070.cpp]: Solutions/LC0070.cpp
+[Climbing Stairs]: https://leetcode.com/problems/climbing-stairs/
 
 [LC0126.cpp]: Solutions/LC0126.cpp
 [Word Ladder II]: https://leetcode.com/problems/word-ladder-ii/
