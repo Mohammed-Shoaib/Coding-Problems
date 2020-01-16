@@ -17,6 +17,7 @@
 | [LC0065.cpp]		| [Valid Number]											| Hard			|
 | [LC0069.cpp]		| [Sqrt(x)]													| Easy			|
 | [LC0070.cpp]		| [Climbing Stairs]											| Easy			|
+| [LC0088.cpp]		| [Merge Sorted Array]										| Easy			|
 | [LC0126.cpp]		| [Word Ladder II]											| Hard			|
 
 [//]: # (Solutions)
@@ -59,6 +60,9 @@
 
 [LC0070.cpp]: Solutions/LC0070.cpp
 [Climbing Stairs]: https://leetcode.com/problems/climbing-stairs/
+
+[LC0088.cpp]: Solutions/LC0088.cpp
+[Merge Sorted Array]: https://leetcode.com/problems/merge-sorted-array/
 
 [LC0126.cpp]: Solutions/LC0126.cpp
 [Word Ladder II]: https://leetcode.com/problems/word-ladder-ii/
