@@ -18,6 +18,7 @@
 | [LC0069.cpp]		| [Sqrt(x)]													| Easy			|
 | [LC0070.cpp]		| [Climbing Stairs]											| Easy			|
 | [LC0088.cpp]		| [Merge Sorted Array]										| Easy			|
+| [LC0100.cpp]		| [Same Tree]												| Easy			|
 | [LC0126.cpp]		| [Word Ladder II]											| Hard			|
 
 [//]: # (Solutions)
@@ -63,6 +64,9 @@
 
 [LC0088.cpp]: Solutions/LC0088.cpp
 [Merge Sorted Array]: https://leetcode.com/problems/merge-sorted-array/
+
+[LC0100.cpp]: Solutions/LC0100.cpp
+[Same Tree]: https://leetcode.com/problems/same-tree/
 
 [LC0126.cpp]: Solutions/LC0126.cpp
 [Word Ladder II]: https://leetcode.com/problems/word-ladder-ii/
