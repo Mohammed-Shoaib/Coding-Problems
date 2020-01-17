@@ -19,6 +19,7 @@
 | [LC0070.cpp]		| [Climbing Stairs]											| Easy			|
 | [LC0088.cpp]		| [Merge Sorted Array]										| Easy			|
 | [LC0100.cpp]		| [Same Tree]												| Easy			|
+| [LC0104.cpp]		| [Maximum Depth of Binary Tree]							| Easy			|
 | [LC0126.cpp]		| [Word Ladder II]											| Hard			|
 
 [//]: # (Solutions)
@@ -67,6 +68,9 @@
 
 [LC0100.cpp]: Solutions/LC0100.cpp
 [Same Tree]: https://leetcode.com/problems/same-tree/
+
+[LC0104.cpp]: Solutions/LC0104.cpp
+[Maximum Depth of Binary Tree]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
 [LC0126.cpp]: Solutions/LC0126.cpp
 [Word Ladder II]: https://leetcode.com/problems/word-ladder-ii/

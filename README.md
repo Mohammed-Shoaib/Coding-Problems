@@ -31,6 +31,6 @@ Number of problems solved: 645
 
 | Type | Solved |
 |:----:|:------:|
-| Easy | 10 |
+| Easy | 11 |
 | Medium | 4 |
 | Hard | 2 |
