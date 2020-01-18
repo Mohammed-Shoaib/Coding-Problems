@@ -10,6 +10,7 @@
 | [LC0007.cpp]		| [Reverse Integer]											| Easy			|
 | [LC0009.cpp]		| [Palindrome Number]										| Easy			|
 | [LC0011.cpp]		| [Container With Most Water]								| Medium		|
+| [LC0015.cpp]		| [3Sum]													| Medium		|
 | [LC0020.cpp]		| [Valid Parentheses]										| Easy			|
 | [LC0021.cpp]		| [Merge Two Sorted Lists]									| Easy			|
 | [LC0050.cpp]		| [Pow(x, n)]												| Medium		|
@@ -42,6 +43,9 @@
 
 [LC0011.cpp]: Solutions/LC0011.cpp
 [Container With Most Water]: https://leetcode.com/problems/container-with-most-water/
+
+[LC0015.cpp]: Solutions/LC0015.cpp
+[3Sum]: https://leetcode.com/problems/3sum/
 
 [LC0020.cpp]: Solutions/LC0020.cpp
 [Valid Parentheses]: https://leetcode.com/problems/valid-parentheses/
