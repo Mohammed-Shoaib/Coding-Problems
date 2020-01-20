@@ -13,8 +13,9 @@
 | [LC0015.cpp]		| [3Sum]													| Medium		|
 | [LC0020.cpp]		| [Valid Parentheses]										| Easy			|
 | [LC0021.cpp]		| [Merge Two Sorted Lists]									| Easy			|
-| [LC0050.cpp]		| [Pow(x, n)]												| Medium		|
 | [LC0031.cpp]		| [Next Permutation]										| Medium		|
+| [LC0046.cpp]		| [Permutations]											| Medium		|
+| [LC0050.cpp]		| [Pow(x, n)]												| Medium		|
 | [LC0053.cpp]		| [Maximum Subarray]										| Easy			|
 | [LC0065.cpp]		| [Valid Number]											| Hard			|
 | [LC0069.cpp]		| [Sqrt(x)]													| Easy			|
@@ -56,6 +57,9 @@
 
 [LC0031.cpp]: Solutions/LC0031.cpp
 [Next Permutation]: https://leetcode.com/problems/next-permutation/
+
+[LC0046.cpp]: Solutions/LC0046.cpp
+[Permutations]: https://leetcode.com/problems/permutations/
 
 [LC0050.cpp]: Solutions/LC0050.cpp
 [Pow(x, n)]: https://leetcode.com/problems/powx-n/
