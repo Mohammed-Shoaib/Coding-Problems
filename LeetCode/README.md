@@ -1,6 +1,16 @@
 # LeetCode
 
-### Solutions
+Solutions to some of the questions on the LeetCode [website](https://www.leetcode.com "LeetCode").
+
+<p align="center"><img src="../assets/leetcode.png" width=400px></p>
+
+The questions are divided into 3 levels of difficulty:
+
+*   Easy
+*   Medium
+*   Hard
+
+## Solutions
 
 | Problem Solution	| Problem Statement 										| Difficulty	|
 |:-----------------:|-----------------------------------------------------------|:-------------:|
@@ -19,6 +29,7 @@
 | [LC0049.cpp]		| [Group Anagrams]											| Medium		|
 | [LC0050.cpp]		| [Pow(x, n)]												| Medium		|
 | [LC0053.cpp]		| [Maximum Subarray]										| Easy			|
+| [LC0064.cpp]		| [Minimum Path Sum]										| Medium		|
 | [LC0065.cpp]		| [Valid Number]											| Hard			|
 | [LC0069.cpp]		| [Sqrt(x)]													| Easy			|
 | [LC0070.cpp]		| [Climbing Stairs]											| Easy			|
@@ -74,6 +85,9 @@
 
 [LC0053.cpp]: Solutions/LC0053.cpp
 [Maximum Subarray]: https://leetcode.com/problems/maximum-subarray/
+
+[LC0064.cpp]: Solutions/LC0064.cpp
+[Minimum Path Sum]: https://leetcode.com/problems/minimum-path-sum/
 
 [LC0065.cpp]: Solutions/LC0065.cpp
 [Valid Number]: https://leetcode.com/problems/valid-number/

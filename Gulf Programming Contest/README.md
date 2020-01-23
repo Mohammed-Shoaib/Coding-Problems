@@ -1,8 +1,10 @@
 # Gulf Programming Contest
 
-Solutions to some of the contest problems on the Gulf Programming Contest [website](http://www.gulfpc.org "GPC"). This repository aims to provide solutions to problem sets of previous years.
+Solutions to some of the contest problems on the Gulf Programming Contest [website](http://www.gulfpc.org "GPC").
 
+<p align="center"><img src="../assets/gpc.jpg" width=250px></p>
 
+This repository aims to provide solutions to problem sets of previous years.
 
 ## 2015
 
