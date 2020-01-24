@@ -2,7 +2,7 @@
 
 Solutions to some of the questions on the LeetCode [website](https://www.leetcode.com "LeetCode").
 
-<p align="center"><img src="../assets/leetcode.png" width=400px></p>
+<p align="center"><img src="../assets/leetcode.png" width=500px"></p>
 
 The questions are divided into 3 levels of difficulty:
 
@@ -33,6 +33,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0065.cpp]		| [Valid Number]											| Hard			|
 | [LC0069.cpp]		| [Sqrt(x)]													| Easy			|
 | [LC0070.cpp]		| [Climbing Stairs]											| Easy			|
+| [LC0074.cpp]		| [Search a 2D Matrix]										| Medium		|
 | [LC0088.cpp]		| [Merge Sorted Array]										| Easy			|
 | [LC0100.cpp]		| [Same Tree]												| Easy			|
 | [LC0104.cpp]		| [Maximum Depth of Binary Tree]							| Easy			|
@@ -97,6 +98,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0070.cpp]: Solutions/LC0070.cpp
 [Climbing Stairs]: https://leetcode.com/problems/climbing-stairs/
+
+[LC0074.cpp]: Solutions/LC0074.cpp
+[Search a 2D Matrix]: https://leetcode.com/problems/search-a-2d-matrix/
 
 [LC0088.cpp]: Solutions/LC0088.cpp
 [Merge Sorted Array]: https://leetcode.com/problems/merge-sorted-array/
