@@ -34,8 +34,9 @@ The questions are divided into 3 levels of difficulty:
 | [LC0069.cpp]		| [Sqrt(x)]													| Easy			|
 | [LC0070.cpp]		| [Climbing Stairs]											| Easy			|
 | [LC0074.cpp]		| [Search a 2D Matrix]										| Medium		|
-| [LC0078.cpp]		| [Search a 2D Matrix]										| Medium		|
+| [LC0078.cpp]		| [Subsets]													| Medium		|
 | [LC0088.cpp]		| [Merge Sorted Array]										| Easy			|
+| [LC0089.cpp]		| [Gray Code]												| Medium		|
 | [LC0100.cpp]		| [Same Tree]												| Easy			|
 | [LC0104.cpp]		| [Maximum Depth of Binary Tree]							| Easy			|
 | [LC0107.cpp]		| [Binary Tree Level Order Traversal II]					| Easy			|
@@ -108,6 +109,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0088.cpp]: Solutions/LC0088.cpp
 [Merge Sorted Array]: https://leetcode.com/problems/merge-sorted-array/
+
+[LC0089.cpp]: Solutions/LC0089.cpp
+[Gray Code]: https://leetcode.com/problems/gray-code/
 
 [LC0100.cpp]: Solutions/LC0100.cpp
 [Same Tree]: https://leetcode.com/problems/same-tree/
