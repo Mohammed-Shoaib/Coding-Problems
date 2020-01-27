@@ -37,6 +37,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0078.cpp]		| [Subsets]													| Medium		|
 | [LC0088.cpp]		| [Merge Sorted Array]										| Easy			|
 | [LC0089.cpp]		| [Gray Code]												| Medium		|
+| [LC0094.cpp]		| [Binary Tree Inorder Traversal]							| Medium		|
 | [LC0100.cpp]		| [Same Tree]												| Easy			|
 | [LC0104.cpp]		| [Maximum Depth of Binary Tree]							| Easy			|
 | [LC0107.cpp]		| [Binary Tree Level Order Traversal II]					| Easy			|
@@ -112,6 +113,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0089.cpp]: Solutions/LC0089.cpp
 [Gray Code]: https://leetcode.com/problems/gray-code/
+
+[LC0094.cpp]: Solutions/LC0094.cpp
+[Binary Tree Inorder Traversal]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 
 [LC0100.cpp]: Solutions/LC0100.cpp
 [Same Tree]: https://leetcode.com/problems/same-tree/
