@@ -40,6 +40,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0094.cpp]		| [Binary Tree Inorder Traversal]							| Medium		|
 | [LC0098.cpp]		| [Validate Binary Search Tree]								| Medium		|
 | [LC0100.cpp]		| [Same Tree]												| Easy			|
+| [LC0102.cpp]		| [Binary Tree Level Order Traversal]						| Medium		|
 | [LC0104.cpp]		| [Maximum Depth of Binary Tree]							| Easy			|
 | [LC0107.cpp]		| [Binary Tree Level Order Traversal II]					| Easy			|
 | [LC0126.cpp]		| [Word Ladder II]											| Hard			|
@@ -123,6 +124,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0100.cpp]: Solutions/LC0100.cpp
 [Same Tree]: https://leetcode.com/problems/same-tree/
+
+[LC0102.cpp]: Solutions/LC0102.cpp
+[Binary Tree Level Order Traversal]: https://leetcode.com/problems/binary-tree-level-order-traversal/
 
 [LC0104.cpp]: Solutions/LC0104.cpp
 [Maximum Depth of Binary Tree]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
