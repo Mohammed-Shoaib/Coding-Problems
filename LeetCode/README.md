@@ -45,6 +45,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0104.cpp]		| [Maximum Depth of Binary Tree]							| Easy			|
 | [LC0107.cpp]		| [Binary Tree Level Order Traversal II]					| Easy			|
 | [LC0126.cpp]		| [Word Ladder II]											| Hard			|
+| [LC0127.cpp]		| [Word Ladder]												| Medium		|
 
 [//]: # (Solutions)
 
@@ -140,5 +141,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0126.cpp]: Solutions/LC0126.cpp
 [Word Ladder II]: https://leetcode.com/problems/word-ladder-ii/
+
+[LC0127.cpp]: Solutions/LC0127.cpp
+[Word Ladder II]: https://leetcode.com/problems/word-ladder/
 
 [//]: # (EOF)
