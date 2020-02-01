@@ -46,6 +46,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0107.cpp]		| [Binary Tree Level Order Traversal II]					| Easy			|
 | [LC0126.cpp]		| [Word Ladder II]											| Hard			|
 | [LC0127.cpp]		| [Word Ladder]												| Medium		|
+| [LC0138.cpp]		| [Copy List with Random Pointer]							| Medium		|
 
 [//]: # (Solutions)
 
@@ -143,6 +144,9 @@ The questions are divided into 3 levels of difficulty:
 [Word Ladder II]: https://leetcode.com/problems/word-ladder-ii/
 
 [LC0127.cpp]: Solutions/LC0127.cpp
-[Word Ladder II]: https://leetcode.com/problems/word-ladder/
+[Word Ladder]: https://leetcode.com/problems/word-ladder/
+
+[LC0138.cpp]: Solutions/LC0138.cpp
+[Copy List with Random Pointer]: https://leetcode.com/problems/copy-list-with-random-pointer/
 
 [//]: # (EOF)
