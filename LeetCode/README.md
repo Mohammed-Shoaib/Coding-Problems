@@ -48,6 +48,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0127.cpp]		| [Word Ladder]												| Medium		|
 | [LC0138.cpp]		| [Copy List with Random Pointer]							| Medium		|
 | [LC0139.cpp]		| [Word Break]												| Medium		|
+| [LC0144.cpp]		| [Binary Tree Preorder Traversal]							| Medium		|
 
 [//]: # (Solutions)
 
@@ -152,5 +153,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0139.cpp]: Solutions/LC0139.cpp
 [Word Break]: https://leetcode.com/problems/word-break/
+
+[LC0144.cpp]: Solutions/LC0144.cpp
+[Binary Tree Preorder Traversal]: https://leetcode.com/problems/binary-tree-preorder-traversal/
 
 [//]: # (EOF)
