@@ -49,6 +49,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0138.cpp]		| [Copy List with Random Pointer]							| Medium		|
 | [LC0139.cpp]		| [Word Break]												| Medium		|
 | [LC0144.cpp]		| [Binary Tree Preorder Traversal]							| Medium		|
+| [LC0146.cpp]		| [LRU Cache]												| Medium		|
 
 [//]: # (Solutions)
 
@@ -156,5 +157,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0144.cpp]: Solutions/LC0144.cpp
 [Binary Tree Preorder Traversal]: https://leetcode.com/problems/binary-tree-preorder-traversal/
+
+[LC0146.cpp]: Solutions/LC0146.cpp
+[LRU Cache]: https://leetcode.com/problems/lru-cache/
 
 [//]: # (EOF)
