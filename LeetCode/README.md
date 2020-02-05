@@ -50,6 +50,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0139.cpp]		| [Word Break]												| Medium		|
 | [LC0144.cpp]		| [Binary Tree Preorder Traversal]							| Medium		|
 | [LC0146.cpp]		| [LRU Cache]												| Medium		|
+| [LC0151.cpp]		| [Reverse Words in a String]								| Medium		|
 
 [//]: # (Solutions)
 
@@ -160,5 +161,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0146.cpp]: Solutions/LC0146.cpp
 [LRU Cache]: https://leetcode.com/problems/lru-cache/
+
+[LC0151.cpp]: Solutions/LC0151.cpp
+[Reverse Words in a String]: https://leetcode.com/problems/reverse-words-in-a-string/
 
 [//]: # (EOF)
