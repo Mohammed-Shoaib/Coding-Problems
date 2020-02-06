@@ -51,6 +51,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0144.cpp]		| [Binary Tree Preorder Traversal]							| Medium		|
 | [LC0146.cpp]		| [LRU Cache]												| Medium		|
 | [LC0151.cpp]		| [Reverse Words in a String]								| Medium		|
+| [LC0179.cpp]		| [Largest Number]											| Medium		|
 
 [//]: # (Solutions)
 
@@ -164,5 +165,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0151.cpp]: Solutions/LC0151.cpp
 [Reverse Words in a String]: https://leetcode.com/problems/reverse-words-in-a-string/
+
+[LC0179.cpp]: Solutions/LC0179.cpp
+[Largest Number]: https://leetcode.com/problems/largest-number/
 
 [//]: # (EOF)
