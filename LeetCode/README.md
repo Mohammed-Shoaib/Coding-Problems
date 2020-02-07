@@ -52,6 +52,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0146.cpp]		| [LRU Cache]												| Medium		|
 | [LC0151.cpp]		| [Reverse Words in a String]								| Medium		|
 | [LC0179.cpp]		| [Largest Number]											| Medium		|
+| [LC0199.cpp]		| [Binary Tree Right Side View]								| Medium		|
 
 [//]: # (Solutions)
 
@@ -168,5 +169,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0179.cpp]: Solutions/LC0179.cpp
 [Largest Number]: https://leetcode.com/problems/largest-number/
+
+[LC0199.cpp]: Solutions/LC0199.cpp
+[Binary Tree Right Side View]: https://leetcode.com/problems/binary-tree-right-side-view/
 
 [//]: # (EOF)
