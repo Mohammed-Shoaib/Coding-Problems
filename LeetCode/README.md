@@ -56,6 +56,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0199.cpp]		| [Binary Tree Right Side View]								| Medium		|
 | [LC0215.cpp]		| [Kth Largest Element in an Array]							| Medium		|
 | [LC0221.cpp]		| [Maximal Square]											| Medium		|
+| [LC0229.cpp]		| [Majority Element II]										| Medium		|
 
 [//]: # (Solutions)
 
@@ -184,5 +185,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0221.cpp]: Solutions/LC0221.cpp
 [Maximal Square]: https://leetcode.com/problems/maximal-square/
+
+[LC0229.cpp]: Solutions/LC0229.cpp
+[Majority Element II]: https://leetcode.com/problems/majority-element-ii/
 
 [//]: # (EOF)
