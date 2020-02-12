@@ -57,6 +57,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0215.cpp]		| [Kth Largest Element in an Array]							| Medium		|
 | [LC0221.cpp]		| [Maximal Square]											| Medium		|
 | [LC0229.cpp]		| [Majority Element II]										| Medium		|
+| [LC0230.cpp]		| [Kth Smallest Element in a BST]							| Medium		|
 
 [//]: # (Solutions)
 
@@ -188,5 +189,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0229.cpp]: Solutions/LC0229.cpp
 [Majority Element II]: https://leetcode.com/problems/majority-element-ii/
+
+[LC0230.cpp]: Solutions/LC0230.cpp
+[Kth Smallest Element in a BST]: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 
 [//]: # (EOF)
