@@ -58,6 +58,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0221.cpp]		| [Maximal Square]											| Medium		|
 | [LC0229.cpp]		| [Majority Element II]										| Medium		|
 | [LC0230.cpp]		| [Kth Smallest Element in a BST]							| Medium		|
+| [LC0236.cpp]		| [Lowest Common Ancestor of a Binary Tree]					| Medium		|
 
 [//]: # (Solutions)
 
@@ -192,5 +193,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0230.cpp]: Solutions/LC0230.cpp
 [Kth Smallest Element in a BST]: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+
+[LC0236.cpp]: Solutions/LC0236.cpp
+[Lowest Common Ancestor of a Binary Tree]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 
 [//]: # (EOF)
