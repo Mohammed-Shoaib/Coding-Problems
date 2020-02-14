@@ -59,6 +59,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0229.cpp]		| [Majority Element II]										| Medium		|
 | [LC0230.cpp]		| [Kth Smallest Element in a BST]							| Medium		|
 | [LC0236.cpp]		| [Lowest Common Ancestor of a Binary Tree]					| Medium		|
+| [LC0307.cpp]		| [Range Sum Query - Mutable]								| Medium		|
 
 [//]: # (Solutions)
 
@@ -196,5 +197,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0236.cpp]: Solutions/LC0236.cpp
 [Lowest Common Ancestor of a Binary Tree]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+
+[LC0307.cpp]: Solutions/LC0307.cpp
+[Range Sum Query - Mutable]: https://leetcode.com/problems/range-sum-query-mutable/
 
 [//]: # (EOF)
