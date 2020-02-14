@@ -60,6 +60,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0230.cpp]		| [Kth Smallest Element in a BST]							| Medium		|
 | [LC0236.cpp]		| [Lowest Common Ancestor of a Binary Tree]					| Medium		|
 | [LC0307.cpp]		| [Range Sum Query - Mutable]								| Medium		|
+| [LC0322.cpp]		| [Coin Change]												| Medium		|
 
 [//]: # (Solutions)
 
@@ -200,5 +201,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0307.cpp]: Solutions/LC0307.cpp
 [Range Sum Query - Mutable]: https://leetcode.com/problems/range-sum-query-mutable/
+
+[LC0322.cpp]: Solutions/LC0322.cpp
+[Coin Change]: https://leetcode.com/problems/coin-change/
 
 [//]: # (EOF)
