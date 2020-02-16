@@ -61,6 +61,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0236.cpp]		| [Lowest Common Ancestor of a Binary Tree]					| Medium		|
 | [LC0307.cpp]		| [Range Sum Query - Mutable]								| Medium		|
 | [LC0322.cpp]		| [Coin Change]												| Medium		|
+| [LC0442.cpp]		| [Find All Duplicates in an Array]							| Medium		|
 
 [//]: # (Solutions)
 
@@ -204,5 +205,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0322.cpp]: Solutions/LC0322.cpp
 [Coin Change]: https://leetcode.com/problems/coin-change/
+
+[LC0442.cpp]: Solutions/LC0442.cpp
+[Find All Duplicates in an Array]: https://leetcode.com/problems/find-all-duplicates-in-an-array/
 
 [//]: # (EOF)
