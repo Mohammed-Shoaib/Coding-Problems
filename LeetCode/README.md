@@ -64,6 +64,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0442.cpp]		| [Find All Duplicates in an Array]							| Medium		|
 | [LC0515.cpp]		| [Find Largest Value in Each Tree Row]						| Medium		|
 | [LC0692.cpp]		| [Top K Frequent Words]									| Medium		|
+| [LC0701.cpp]		| [Insert into a Binary Search Tree]						| Medium		|
 
 [//]: # (Solutions)
 
@@ -216,5 +217,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0692.cpp]: Solutions/LC0692.cpp
 [Top K Frequent Words]: https://leetcode.com/problems/top-k-frequent-words/
+
+[LC0701.cpp]: Solutions/LC0701.cpp
+[Insert into a Binary Search Tree]: https://leetcode.com/problems/insert-into-a-binary-search-tree/
 
 [//]: # (EOF)
