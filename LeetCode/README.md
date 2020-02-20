@@ -65,6 +65,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0515.cpp]		| [Find Largest Value in Each Tree Row]						| Medium		|
 | [LC0692.cpp]		| [Top K Frequent Words]									| Medium		|
 | [LC0701.cpp]		| [Insert into a Binary Search Tree]						| Medium		|
+| [LC0718.cpp]		| [Maximum Length of Repeated Subarray]						| Medium		|
 
 [//]: # (Solutions)
 
@@ -220,5 +221,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0701.cpp]: Solutions/LC0701.cpp
 [Insert into a Binary Search Tree]: https://leetcode.com/problems/insert-into-a-binary-search-tree/
+
+[LC0718.cpp]: Solutions/LC0718.cpp
+[Maximum Length of Repeated Subarray]: https://leetcode.com/problems/maximum-length-of-repeated-subarray/
 
 [//]: # (EOF)
