@@ -67,6 +67,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0701.cpp]		| [Insert into a Binary Search Tree]						| Medium		|
 | [LC0718.cpp]		| [Maximum Length of Repeated Subarray]						| Medium		|
 | [LC0973.cpp]		| [K Closest Points to Origin]								| Medium		|
+| [LC1143.cpp]		| [Longest Common Subsequence]								| Medium		|
 
 [//]: # (Solutions)
 
@@ -228,5 +229,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0973.cpp]: Solutions/LC0973.cpp
 [K Closest Points to Origin]: https://leetcode.com/problems/k-closest-points-to-origin/
+
+[LC1143.cpp]: Solutions/LC1143.cpp
+[Longest Common Subsequence]: https://leetcode.com/problems/longest-common-subsequence/
 
 [//]: # (EOF)
