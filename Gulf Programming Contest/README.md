@@ -8,75 +8,66 @@ This repository aims to provide solutions to problem sets of previous years.
 
 ## 2015
 
-| Problem Statement | Solution | Input File | Output File |
-|-------------------|:--------:|:----------:|:-----------:|
-| [A. Predictive Text Input] | [predict.cpp] | [predict.in] | [predict.out] |
-| [B. The League] | [league.cpp] | [league.in] | [league.out] |
-| [C. Exam Graph] | [graph.cpp] | [graph.in] | [graph.out] |
-| [D. Pisano Periods] | [pisano.cpp] | [pisano.in] | [pisano.out] |
-| [I. Antibiotics] | [antibiotics.cpp] | [antibiotics.in] | [antibiotics.out] |
-| [J. Dance (a.k.a The Circles of Evil)] | [dance.cpp] | [dance.in] | [dance.out] |
-
-
+| Problem Statement                      | Solution          | Input File       | Output File       |
+|----------------------------------------|:-----------------:|:----------------:|:-----------------:|
+| [A. Predictive Text Input]             | [predict.cpp]     | [predict.in]     | [predict.out]     |
+| [B. The League]                        | [league.cpp]      | [league.in]      | [league.out]      |
+| [C. Exam Graph]                        | [graph.cpp]       | [graph.in]       | [graph.out]       |
+| [D. Pisano Periods]                    | [pisano.cpp]      | [pisano.in]      | [pisano.out]      |
+| [I. Antibiotics]                       | [antibiotics.cpp] | [antibiotics.in] | [antibiotics.out] |
+| [J. Dance (a.k.a The Circles of Evil)] | [dance.cpp]       | [dance.in]       | [dance.out]       |
 
 ## 2016
 
-| Problem Statement | Solution | Input File | Output File |
-|-------------------|:--------:|:----------:|:-----------:|
-| [A. Ntonic Sequence] | [sequence.cpp] | [sequence.in] | [sequence.out] |
-| [B. If It’s Meant To Be, You Will Guess It] | [guess.cpp] | [guess.in] | [guess.out] |
-| [D. The Big Sorter] | [sorter.cpp] | [sorter.in] | [sorter.out] |
-| [I. Largest Number] | [largest.cpp] | [largest.in] | [largest.out] |
-| [J. Pedestrian Bridges] | [bridges.cpp] | [bridges.in] | [bridges.out] |
-| [K. Leap] | [leap.cpp] | [leap.in] | [leap.out] |
-
-
+| Problem Statement                           | Solution       | Input File    | Output File    |
+|---------------------------------------------|:--------------:|:-------------:|:--------------:|
+| [A. Ntonic Sequence]                        | [sequence.cpp] | [sequence.in] | [sequence.out] |
+| [B. If It’s Meant To Be, You Will Guess It] | [guess.cpp]    | [guess.in]    | [guess.out]    |
+| [D. The Big Sorter]                         | [sorter.cpp]   | [sorter.in]   | [sorter.out]   |
+| [I. Largest Number]                         | [largest.cpp]  | [largest.in]  | [largest.out]  |
+| [J. Pedestrian Bridges]                     | [bridges.cpp]  | [bridges.in]  | [bridges.out]  |
+| [K. Leap]                                   | [leap.cpp]     | [leap.in]     | [leap.out]     |
 
 ## 2017
 
-| Problem Statement | Solution | Input File | Output File |
-|-------------------|:--------:|:----------:|:-----------:|
-| [A. Squares or Circles] | [squares.cpp] | [squares.in] | [squares.out] |
-| [B. The Peak Hour] | [peak.cpp] | [peak.in] | [peak.out] |
-| [C. Table Sorting] | [sorting.cpp] | [sorting.in] | [sorting.out] |
-| [D. The Easy League] | [league.cpp](2017/league/league.cpp) | [league.in](2017/league/league.in) | [league.out](2017/league/league.out) |
-| [F. Sales Craze] | [sales.cpp] | [sales.in] | [sales.out] |
-| [H. Armstrong numbers] | [armstrong.cpp] | [armstrong.in] | [armstrong.out] |
-| [I. Amicable Numbers] | [amicable.cpp] | [amicable.in] | [amicable.out] |
-| [J. Number Pyramid] | [pyramid.cpp] | [pyramid.in] | [pyramid.out] |
-| [L. The Digits] | [digits.cpp] | [digits.in] | [digits.out] |
-
-
+| Problem Statement       | Solution                             | Input File                         | Output File                          |
+|-------------------------|:------------------------------------:|:----------------------------------:|:------------------------------------:|
+| [A. Squares or Circles] | [squares.cpp]                        | [squares.in]                       | [squares.out]                        |
+| [B. The Peak Hour]      | [peak.cpp]                           | [peak.in]                          | [peak.out]                           |
+| [C. Table Sorting]      | [sorting.cpp]                        | [sorting.in]                       | [sorting.out]                        |
+| [D. The Easy League]    | [league.cpp](2017/league/league.cpp) | [league.in](2017/league/league.in) | [league.out](2017/league/league.out) |
+| [F. Sales Craze]        | [sales.cpp]                          | [sales.in]                         | [sales.out]                          |
+| [H. Armstrong numbers]  | [armstrong.cpp]                      | [armstrong.in]                     | [armstrong.out]                      |
+| [I. Amicable Numbers]   | [amicable.cpp]                       | [amicable.in]                      | [amicable.out]                       |
+| [J. Number Pyramid]     | [pyramid.cpp]                        | [pyramid.in]                       | [pyramid.out]                        |
+| [L. The Digits]         | [digits.cpp]                         | [digits.in]                        | [digits.out]                         |
 
 ## 2018
 
-| Problem Statement | Solution | Input File | Output File |
-|-------------------|:--------:|:----------:|:-----------:|
-| [A. Rocket Fuel] | [rocket.cpp] | [rocket.in] | [rocket.out] |
-| [B. Socks of The Dark] | [socks.cpp] | [socks.in] | [socks.out] |
-| [F. Inherited Land] | [land.cpp] | [land.in] | [land.out] |
-| [H. Rotating keyboard] | [keyboard.cpp] | [keyboard.in] | [keyboard.out] |
-| [I. Fermat’s Triangular Numbers] | [tri.cpp] | [tri.in] | [tri.out] |
-| [J. Flight Duration] | [flight.cpp] | [flight.in] | [flight.out] |
-| [K. The Gabriel Graph] | [gabriel.cpp] | [gabriel.in] | [gabriel.out] |
-
-
+| Problem Statement                | Solution       | Input File    | Output File    |
+|----------------------------------|:--------------:|:-------------:|:--------------:|
+| [A. Rocket Fuel]                 | [rocket.cpp]   | [rocket.in]   | [rocket.out]   |
+| [B. Socks of The Dark]           | [socks.cpp]    | [socks.in]    | [socks.out]    |
+| [C. Squaring the Sequence]       | [square.cpp]   | [square.in]   | [square.out]   |
+| [F. Inherited Land]              | [land.cpp]     | [land.in]     | [land.out]     |
+| [H. Rotating keyboard]           | [keyboard.cpp] | [keyboard.in] | [keyboard.out] |
+| [I. Fermat’s Triangular Numbers] | [tri.cpp]      | [tri.in]      | [tri.out]      |
+| [J. Flight Duration]             | [flight.cpp]   | [flight.in]   | [flight.out]   |
+| [K. The Gabriel Graph]           | [gabriel.cpp]  | [gabriel.in]  | [gabriel.out]  |
 
 ## 2019
 
-| Problem Statement | Solution | Input File | Output File |
-|-------------------|:--------:|:----------:|:-----------:|
-| [A. The Purifier] | [purifier.cpp] | [purifier.in] | [purifier.out] |
-| [B. n Base Palindrome] | [palindrome.cpp] | [palindrome.in] | [palindrome.out] |
-| [C. Miles of The Sky] | [miles.cpp] | [miles.in] | [miles.out] |
-| [D. Take that Photo] | [photo.cpp] | [photo.in] | [photo.out] |
-| [E. Fair share] | [fair.cpp] | [fair.in] | [fair.out] |
-| [F. Fruit burst] | [fruit.cpp] | [fruit.in] | [fruit.out] |
-| [H. Dice of Probability] | [dice.cpp] | [dice.in] | [dice.out] |
-| [I. The Secret Message] | [secret.cpp] | [secret.in] | [secret.out] |
-| [J. The Legend of Diapers] | [diapers.cpp] | [diapers.in] | [diapers.out] |
-
-
+| Problem Statement          | Solution         | Input File      | Output File      |
+|----------------------------|:----------------:|:---------------:|:----------------:|
+| [A. The Purifier]          | [purifier.cpp]   | [purifier.in]   | [purifier.out]   |
+| [B. n Base Palindrome]     | [palindrome.cpp] | [palindrome.in] | [palindrome.out] |
+| [C. Miles of The Sky]      | [miles.cpp]      | [miles.in]      | [miles.out]      |
+| [D. Take that Photo]       | [photo.cpp]      | [photo.in]      | [photo.out]      |
+| [E. Fair share]            | [fair.cpp]       | [fair.in]       | [fair.out]       |
+| [F. Fruit burst]           | [fruit.cpp]      | [fruit.in]      | [fruit.out]      |
+| [H. Dice of Probability]   | [dice.cpp]       | [dice.in]       | [dice.out]       |
+| [I. The Secret Message]    | [secret.cpp]     | [secret.in]     | [secret.out]     |
+| [J. The Legend of Diapers] | [diapers.cpp]    | [diapers.in]    | [diapers.out]    |
 
 [//]: # (2015)
 
@@ -203,6 +194,11 @@ This repository aims to provide solutions to problem sets of previous years.
 [socks.cpp]: 2018/socks/socks.cpp
 [socks.in]: 2018/socks/socks.in
 [socks.out]: 2018/socks/socks.out
+
+[C. Squaring the Sequence]: 2018/square/Squaring%20the%20Sequence.pdf
+[square.cpp]: 2018/square/square.cpp
+[square.in]: 2018/square/square.in
+[square.out]: 2018/square/square.out
 
 [F. Inherited Land]: 2018/land/Inherited%20Land.pdf
 [land.cpp]: 2018/land/land.cpp
