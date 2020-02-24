@@ -68,6 +68,9 @@ This repository aims to provide solutions to problem sets of previous years.
 | [H. Dice of Probability]   | [dice.cpp]       | [dice.in]       | [dice.out]       |
 | [I. The Secret Message]    | [secret.cpp]     | [secret.in]     | [secret.out]     |
 | [J. The Legend of Diapers] | [diapers.cpp]    | [diapers.in]    | [diapers.out]    |
+| [K. Pyramids]              | [pyramids.py]    | [pyramids.in]   | [pyramids.out]   |
+
+
 
 [//]: # (2015)
 
@@ -273,3 +276,8 @@ This repository aims to provide solutions to problem sets of previous years.
 [diapers.cpp]: 2019/diapers/diapers.cpp
 [diapers.in]: 2019/diapers/diapers.in
 [diapers.out]: 2019/diapers/diapers.out
+
+[K. Pyramids]: 2019/pyramids/Pyramids.pdf
+[pyramids.py]: 2019/pyramids/pyramids.py
+[pyramids.in]: 2019/pyramids/pyramids.in
+[pyramids.out]: 2019/pyramids/pyramids.out
