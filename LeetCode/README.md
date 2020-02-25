@@ -69,6 +69,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0973.cpp]		| [K Closest Points to Origin]								| Medium		|
 | [LC1143.cpp]		| [Longest Common Subsequence]								| Medium		|
 | [LC1190.cpp]		| [Reverse Substrings Between Each Pair of Parentheses]		| Medium		|
+| [LC1191.cpp]		| [K-Concatenation Maximum Sum]								| Medium		|
 
 [//]: # (Solutions)
 
@@ -236,5 +237,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1190.cpp]: Solutions/LC1190.cpp
 [Reverse Substrings Between Each Pair of Parentheses]: https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
+
+[LC1191.cpp]: Solutions/LC1191.cpp
+[K-Concatenation Maximum Sum]: https://leetcode.com/problems/k-concatenation-maximum-sum/
 
 [//]: # (EOF)
