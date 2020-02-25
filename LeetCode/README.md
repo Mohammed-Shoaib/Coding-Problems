@@ -68,6 +68,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0718.cpp]		| [Maximum Length of Repeated Subarray]						| Medium		|
 | [LC0973.cpp]		| [K Closest Points to Origin]								| Medium		|
 | [LC1143.cpp]		| [Longest Common Subsequence]								| Medium		|
+| [LC1190.cpp]		| [Reverse Substrings Between Each Pair of Parentheses]		| Medium		|
 
 [//]: # (Solutions)
 
@@ -232,5 +233,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1143.cpp]: Solutions/LC1143.cpp
 [Longest Common Subsequence]: https://leetcode.com/problems/longest-common-subsequence/
+
+[LC1190.cpp]: Solutions/LC1190.cpp
+[Reverse Substrings Between Each Pair of Parentheses]: https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
 
 [//]: # (EOF)
