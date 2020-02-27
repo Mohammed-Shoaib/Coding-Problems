@@ -69,6 +69,7 @@ This repository aims to provide solutions to problem sets of previous years.
 | [I. The Secret Message]    | [secret.cpp]     | [secret.in]     | [secret.out]     |
 | [J. The Legend of Diapers] | [diapers.cpp]    | [diapers.in]    | [diapers.out]    |
 | [K. Pyramids]              | [pyramids.py]    | [pyramids.in]   | [pyramids.out]   |
+| [L. Table Format]          | [table.cpp]      | [table.in]      | [table.out]      |
 
 
 
@@ -281,3 +282,8 @@ This repository aims to provide solutions to problem sets of previous years.
 [pyramids.py]: 2019/pyramids/pyramids.py
 [pyramids.in]: 2019/pyramids/pyramids.in
 [pyramids.out]: 2019/pyramids/pyramids.out
+
+[L. Table Format]: 2019/table/Table%20Format.pdf
+[table.cpp]: 2019/table/table.cpp
+[table.in]: 2019/table/table.in
+[table.out]: 2019/table/table.out
