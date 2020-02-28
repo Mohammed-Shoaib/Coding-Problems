@@ -70,6 +70,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1143.cpp]		| [Longest Common Subsequence]								| Medium		|
 | [LC1190.cpp]		| [Reverse Substrings Between Each Pair of Parentheses]		| Medium		|
 | [LC1191.cpp]		| [K-Concatenation Maximum Sum]								| Medium		|
+| [LC1201.cpp]		| [Ugly Number III]											| Medium		|
 
 [//]: # (Solutions)
 
@@ -240,5 +241,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1191.cpp]: Solutions/LC1191.cpp
 [K-Concatenation Maximum Sum]: https://leetcode.com/problems/k-concatenation-maximum-sum/
+
+[LC1201.cpp]: Solutions/LC1201.cpp
+[Ugly Number III]: https://leetcode.com/problems/ugly-number-iii/
 
 [//]: # (EOF)
