@@ -71,6 +71,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1190.cpp]		| [Reverse Substrings Between Each Pair of Parentheses]		| Medium		|
 | [LC1191.cpp]		| [K-Concatenation Maximum Sum]								| Medium		|
 | [LC1201.cpp]		| [Ugly Number III]											| Medium		|
+| [LC1202.cpp]		| [Smallest String With Swaps]								| Medium		|
 
 [//]: # (Solutions)
 
@@ -244,5 +245,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1201.cpp]: Solutions/LC1201.cpp
 [Ugly Number III]: https://leetcode.com/problems/ugly-number-iii/
+
+[LC1202.cpp]: Solutions/LC1202.cpp
+[Smallest String With Swaps]: https://leetcode.com/problems/smallest-string-with-swaps/
 
 [//]: # (EOF)
