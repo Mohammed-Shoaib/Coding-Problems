@@ -115,6 +115,7 @@ The questions are divided into 6 categories:
 |[B0098]|[Train Partner]|
 |[B0099]|[One more weird game]|
 |[B0100]|[Find the Maximum Value]|
+|[B0101]|[Playing with Matches]|
 
 ### Easy
 
@@ -522,6 +523,9 @@ The questions are divided into 6 categories:
 
 [B0100]: Beginner/B0100.cpp
 [Find the Maximum Value]: https://www.codechef.com/problems/LOSTMAX
+
+[B0101]: Beginner/B0101.cpp
+[Playing with Matches]: https://www.codechef.com/problems/MATCHES
 
 [//]: # (Easy)
 
