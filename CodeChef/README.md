@@ -116,6 +116,7 @@ The questions are divided into 6 categories:
 |[B0099]|[One more weird game]|
 |[B0100]|[Find the Maximum Value]|
 |[B0101]|[Playing with Matches]|
+|[B0102]|[Check Algorithm]|
 
 ### Easy
 
@@ -526,6 +527,9 @@ The questions are divided into 6 categories:
 
 [B0101]: Beginner/B0101.cpp
 [Playing with Matches]: https://www.codechef.com/problems/MATCHES
+
+[B0102]: Beginner/B0102.cpp
+[Check Algorithm]: https://www.codechef.com/problems/CHEALG
 
 [//]: # (Easy)
 
