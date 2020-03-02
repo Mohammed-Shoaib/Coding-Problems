@@ -72,6 +72,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1191.cpp]		| [K-Concatenation Maximum Sum]								| Medium		|
 | [LC1201.cpp]		| [Ugly Number III]											| Medium		|
 | [LC1202.cpp]		| [Smallest String With Swaps]								| Medium		|
+| [LC1208.cpp]		| [Get Equal Substrings Within Budget]						| Medium		|
 
 [//]: # (Solutions)
 
@@ -248,5 +249,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1202.cpp]: Solutions/LC1202.cpp
 [Smallest String With Swaps]: https://leetcode.com/problems/smallest-string-with-swaps/
+
+[LC1208.cpp]: Solutions/LC1208.cpp
+[Get Equal Substrings Within Budget]: https://leetcode.com/problems/get-equal-substrings-within-budget/
 
 [//]: # (EOF)
