@@ -73,6 +73,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1201.cpp]		| [Ugly Number III]											| Medium		|
 | [LC1202.cpp]		| [Smallest String With Swaps]								| Medium		|
 | [LC1208.cpp]		| [Get Equal Substrings Within Budget]						| Medium		|
+| [LC1209.cpp]		| [Remove All Adjacent Duplicates in String II]				| Medium		|
 
 [//]: # (Solutions)
 
@@ -252,5 +253,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1208.cpp]: Solutions/LC1208.cpp
 [Get Equal Substrings Within Budget]: https://leetcode.com/problems/get-equal-substrings-within-budget/
+
+[LC1209.cpp]: Solutions/LC1209.cpp
+[Remove All Adjacent Duplicates in String II]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
 
 [//]: # (EOF)
