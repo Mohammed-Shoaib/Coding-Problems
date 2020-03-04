@@ -74,6 +74,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1202.cpp]		| [Smallest String With Swaps]								| Medium		|
 | [LC1208.cpp]		| [Get Equal Substrings Within Budget]						| Medium		|
 | [LC1209.cpp]		| [Remove All Adjacent Duplicates in String II]				| Medium		|
+| [LC1218.cpp]		| [Longest Arithmetic Subsequence of Given Difference]		| Medium		|
 
 [//]: # (Solutions)
 
@@ -256,5 +257,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1209.cpp]: Solutions/LC1209.cpp
 [Remove All Adjacent Duplicates in String II]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
+
+[LC1218.cpp]: Solutions/LC1218.cpp
+[Longest Arithmetic Subsequence of Given Difference]: https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/
 
 [//]: # (EOF)

@@ -32,5 +32,5 @@ Number of problems solved: 647
 | Type | Solved |
 |:----:|:------:|
 | Easy | 12 |
-| Medium | 46 |
+| Medium | 47 |
 | Hard | 2 |
