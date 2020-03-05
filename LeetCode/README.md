@@ -75,6 +75,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1208.cpp]		| [Get Equal Substrings Within Budget]						| Medium		|
 | [LC1209.cpp]		| [Remove All Adjacent Duplicates in String II]				| Medium		|
 | [LC1218.cpp]		| [Longest Arithmetic Subsequence of Given Difference]		| Medium		|
+| [LC1219.cpp]		| [Path with Maximum Gold]									| Medium		|
 
 [//]: # (Solutions)
 
@@ -260,5 +261,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1218.cpp]: Solutions/LC1218.cpp
 [Longest Arithmetic Subsequence of Given Difference]: https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/
+
+[LC1219.cpp]: Solutions/LC1219.cpp
+[Path with Maximum Gold]: https://leetcode.com/problems/path-with-maximum-gold/
 
 [//]: # (EOF)
