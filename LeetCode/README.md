@@ -76,6 +76,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1209.cpp]		| [Remove All Adjacent Duplicates in String II]				| Medium		|
 | [LC1218.cpp]		| [Longest Arithmetic Subsequence of Given Difference]		| Medium		|
 | [LC1219.cpp]		| [Path with Maximum Gold]									| Medium		|
+| [LC1222.cpp]		| [Queens That Can Attack the King]							| Medium		|
 
 [//]: # (Solutions)
 
@@ -264,5 +265,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1219.cpp]: Solutions/LC1219.cpp
 [Path with Maximum Gold]: https://leetcode.com/problems/path-with-maximum-gold/
+
+[LC1222.cpp]: Solutions/LC1222.cpp
+[Queens That Can Attack the King]: https://leetcode.com/problems/queens-that-can-attack-the-king/
 
 [//]: # (EOF)
