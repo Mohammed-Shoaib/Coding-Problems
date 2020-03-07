@@ -77,6 +77,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1218.cpp]		| [Longest Arithmetic Subsequence of Given Difference]		| Medium		|
 | [LC1219.cpp]		| [Path with Maximum Gold]									| Medium		|
 | [LC1222.cpp]		| [Queens That Can Attack the King]							| Medium		|
+| [LC1229.cpp]		| [Meeting Scheduler]										| Medium		|
 
 [//]: # (Solutions)
 
@@ -268,5 +269,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1222.cpp]: Solutions/LC1222.cpp
 [Queens That Can Attack the King]: https://leetcode.com/problems/queens-that-can-attack-the-king/
+
+[LC1229.cpp]: Solutions/LC1229.cpp
+[Meeting Scheduler]: https://leetcode.com/problems/meeting-scheduler/
 
 [//]: # (EOF)
