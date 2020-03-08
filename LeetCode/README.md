@@ -78,6 +78,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1219.cpp]		| [Path with Maximum Gold]									| Medium		|
 | [LC1222.cpp]		| [Queens That Can Attack the King]							| Medium		|
 | [LC1229.cpp]		| [Meeting Scheduler]										| Medium		|
+| [LC1230.cpp]		| [Toss Strange Coins]										| Medium		|
 
 [//]: # (Solutions)
 
@@ -272,5 +273,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1229.cpp]: Solutions/LC1229.cpp
 [Meeting Scheduler]: https://leetcode.com/problems/meeting-scheduler/
+
+[LC1230.cpp]: Solutions/LC1230.cpp
+[Toss Strange Coins]: https://leetcode.com/problems/toss-strange-coins/
 
 [//]: # (EOF)
