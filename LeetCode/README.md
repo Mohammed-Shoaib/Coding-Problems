@@ -80,6 +80,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1229.cpp]		| [Meeting Scheduler]										| Medium		|
 | [LC1230.cpp]		| [Toss Strange Coins]										| Medium		|
 | [LC1233.cpp]		| [Remove Sub-Folders from the Filesystem]					| Medium		|
+| [LC1238.cpp]		| [Circular Permutation in Binary Representation]			| Medium		|
 
 [//]: # (Solutions)
 
@@ -280,5 +281,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1233.cpp]: Solutions/LC1233.cpp
 [Remove Sub-Folders from the Filesystem]: https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
+
+[LC1238.cpp]: Solutions/LC1238.cpp
+[Circular Permutation in Binary Representation]: https://leetcode.com/problems/circular-permutation-in-binary-representation/
 
 [//]: # (EOF)
