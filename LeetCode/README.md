@@ -82,6 +82,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1233.cpp]		| [Remove Sub-Folders from the Filesystem]								| Medium		|
 | [LC1238.cpp]		| [Circular Permutation in Binary Representation]						| Medium		|
 | [LC1239.cpp]		| [Maximum Length of a Concatenated String with Unique Characters]		| Medium		|
+| [LC1248.cpp]		| [Count Number of Nice Subarrays]										| Medium		|
 
 [//]: # (Solutions)
 
@@ -288,5 +289,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1239.cpp]: Solutions/LC1239.cpp
 [Maximum Length of a Concatenated String with Unique Characters]: https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
+
+[LC1248.cpp]: Solutions/LC1248.cpp
+[Count Number of Nice Subarrays]: https://leetcode.com/problems/count-number-of-nice-subarrays/
 
 [//]: # (EOF)
