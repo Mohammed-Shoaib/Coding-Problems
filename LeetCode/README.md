@@ -83,6 +83,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1238.cpp]		| [Circular Permutation in Binary Representation]						| Medium		|
 | [LC1239.cpp]		| [Maximum Length of a Concatenated String with Unique Characters]		| Medium		|
 | [LC1248.cpp]		| [Count Number of Nice Subarrays]										| Medium		|
+| [LC1249.cpp]		| [Minimum Remove to Make Valid Parentheses]							| Medium		|
 
 [//]: # (Solutions)
 
@@ -292,5 +293,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1248.cpp]: Solutions/LC1248.cpp
 [Count Number of Nice Subarrays]: https://leetcode.com/problems/count-number-of-nice-subarrays/
+
+[LC1249.cpp]: Solutions/LC1249.cpp
+[Minimum Remove to Make Valid Parentheses]: https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 
 [//]: # (EOF)

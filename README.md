@@ -9,28 +9,28 @@ Solutions to some of the coding problems from popular websites. Currently, there
 
 ## Stats
 
-Number of problems solved: 647
+Number of problems solved: 732
 
 ### HackerRank
 
-| Type | Solved |
-|:----:|:------:|
-| Easy | 375 |
-| Medium | 83 |
-| Hard | 7 |
+| Type 		| Solved 	|
+|:---------:|:---------:|
+| Easy 		| 375 		|
+| Medium 	| 83 		|
+| Hard 		| 7 		|
 
 ### CodeChef
 
-| Type | Solved |
-|:----:|:------:|
-| Beginner | 102 |
-| Easy | 93 |
-| Medium | 2 |
+| Type 		| Solved 	|
+|:---------:|:---------:|
+| Beginner 	| 102 		|
+| Easy 		| 93 		|
+| Medium 	| 2 		|
 
 ### LeetCode
 
-| Type | Solved |
-|:----:|:------:|
-| Easy | 12 |
-| Medium | 55 |
-| Hard | 2 |
+| Type 		| Solved 	|
+|:---------:|:---------:|
+| Easy 		| 12 		|
+| Medium 	| 56 		|
+| Hard 		| 2 		|
