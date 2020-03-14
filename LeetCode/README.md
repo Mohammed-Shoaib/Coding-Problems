@@ -84,6 +84,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1239.cpp]		| [Maximum Length of a Concatenated String with Unique Characters]		| Medium		|
 | [LC1248.cpp]		| [Count Number of Nice Subarrays]										| Medium		|
 | [LC1249.cpp]		| [Minimum Remove to Make Valid Parentheses]							| Medium		|
+| [LC1261.cpp]		| [Find Elements in a Contaminated Binary Tree]							| Medium		|
 
 [//]: # (Solutions)
 
@@ -296,5 +297,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1249.cpp]: Solutions/LC1249.cpp
 [Minimum Remove to Make Valid Parentheses]: https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+
+[LC1261.cpp]: Solutions/LC1261.cpp
+[Find Elements in a Contaminated Binary Tree]: https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
 
 [//]: # (EOF)
