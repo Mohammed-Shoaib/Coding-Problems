@@ -85,6 +85,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1248.cpp]		| [Count Number of Nice Subarrays]										| Medium		|
 | [LC1249.cpp]		| [Minimum Remove to Make Valid Parentheses]							| Medium		|
 | [LC1261.cpp]		| [Find Elements in a Contaminated Binary Tree]							| Medium		|
+| [LC1262.cpp]		| [Greatest Sum Divisible by Three]										| Medium		|
 
 [//]: # (Solutions)
 
@@ -300,5 +301,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1261.cpp]: Solutions/LC1261.cpp
 [Find Elements in a Contaminated Binary Tree]: https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
+
+[LC1261.cpp]: Solutions/LC1261.cpp
+[Greatest Sum Divisible by Three]: https://leetcode.com/problems/greatest-sum-divisible-by-three/
 
 [//]: # (EOF)
