@@ -86,6 +86,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1249.cpp]		| [Minimum Remove to Make Valid Parentheses]							| Medium		|
 | [LC1261.cpp]		| [Find Elements in a Contaminated Binary Tree]							| Medium		|
 | [LC1262.cpp]		| [Greatest Sum Divisible by Three]										| Medium		|
+| [LC1267.cpp]		| [Count Servers that Communicate]										| Medium		|
 
 [//]: # (Solutions)
 
@@ -302,7 +303,10 @@ The questions are divided into 3 levels of difficulty:
 [LC1261.cpp]: Solutions/LC1261.cpp
 [Find Elements in a Contaminated Binary Tree]: https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
 
-[LC1261.cpp]: Solutions/LC1261.cpp
+[LC1262.cpp]: Solutions/LC1262.cpp
 [Greatest Sum Divisible by Three]: https://leetcode.com/problems/greatest-sum-divisible-by-three/
+
+[LC1267.cpp]: Solutions/LC1267.cpp
+[Count Servers that Communicate]: https://leetcode.com/problems/count-servers-that-communicate/
 
 [//]: # (EOF)
