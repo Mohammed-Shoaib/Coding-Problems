@@ -87,6 +87,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1261.cpp]		| [Find Elements in a Contaminated Binary Tree]							| Medium		|
 | [LC1262.cpp]		| [Greatest Sum Divisible by Three]										| Medium		|
 | [LC1267.cpp]		| [Count Servers that Communicate]										| Medium		|
+| [LC1268.cpp]		| [Search Suggestions System]											| Medium		|
 
 [//]: # (Solutions)
 
@@ -308,5 +309,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1267.cpp]: Solutions/LC1267.cpp
 [Count Servers that Communicate]: https://leetcode.com/problems/count-servers-that-communicate/
+
+[LC1268.cpp]: Solutions/LC1268.cpp
+[Search Suggestions System]: https://leetcode.com/problems/search-suggestions-system/
 
 [//]: # (EOF)
