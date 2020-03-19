@@ -89,6 +89,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1267.cpp]		| [Count Servers that Communicate]										| Medium		|
 | [LC1268.cpp]		| [Search Suggestions System]											| Medium		|
 | [LC1276.cpp]		| [Number of Burgers with No Waste of Ingredients]						| Medium		|
+| [LC1277.cpp]		| [Count Square Submatrices with All Ones]								| Medium		|
 
 [//]: # (Solutions)
 
@@ -316,5 +317,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1276.cpp]: Solutions/LC1276.cpp
 [Number of Burgers with No Waste of Ingredients]: https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/
+
+[LC1277.cpp]: Solutions/LC1277.cpp
+[Count Square Submatrices with All Ones]: https://leetcode.com/problems/count-square-submatrices-with-all-ones/
 
 [//]: # (EOF)
