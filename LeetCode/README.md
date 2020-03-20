@@ -90,6 +90,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1268.cpp]		| [Search Suggestions System]											| Medium		|
 | [LC1276.cpp]		| [Number of Burgers with No Waste of Ingredients]						| Medium		|
 | [LC1277.cpp]		| [Count Square Submatrices with All Ones]								| Medium		|
+| [LC1282.cpp]		| [Group the People Given the Group Size They Belong To]				| Medium		|
 
 [//]: # (Solutions)
 
@@ -318,7 +319,7 @@ The questions are divided into 3 levels of difficulty:
 [LC1276.cpp]: Solutions/LC1276.cpp
 [Number of Burgers with No Waste of Ingredients]: https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/
 
-[LC1277.cpp]: Solutions/LC1277.cpp
-[Count Square Submatrices with All Ones]: https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+[LC1282.cpp]: Solutions/LC1282.cpp
+[Group the People Given the Group Size They Belong To]: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
 
 [//]: # (EOF)
