@@ -92,6 +92,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1277.cpp]		| [Count Square Submatrices with All Ones]								| Medium		|
 | [LC1282.cpp]		| [Group the People Given the Group Size They Belong To]				| Medium		|
 | [LC1283.cpp]		| [Find the Smallest Divisor Given a Threshold]							| Medium		|
+| [LC1286.cpp]		| [Iterator for Combination]											| Medium		|
 
 [//]: # (Solutions)
 
@@ -328,5 +329,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1283.cpp]: Solutions/LC1283.cpp
 [Find the Smallest Divisor Given a Threshold]: https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
+
+[LC1286.cpp]: Solutions/LC1286.cpp
+[Iterator for Combination]: https://leetcode.com/problems/iterator-for-combination/
 
 [//]: # (EOF)
