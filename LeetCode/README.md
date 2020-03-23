@@ -93,6 +93,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1282.cpp]		| [Group the People Given the Group Size They Belong To]				| Medium		|
 | [LC1283.cpp]		| [Find the Smallest Divisor Given a Threshold]							| Medium		|
 | [LC1286.cpp]		| [Iterator for Combination]											| Medium		|
+| [LC1288.cpp]		| [Remove Covered Intervals]											| Medium		|
 
 [//]: # (Solutions)
 
@@ -332,5 +333,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1286.cpp]: Solutions/LC1286.cpp
 [Iterator for Combination]: https://leetcode.com/problems/iterator-for-combination/
+
+[LC1288.cpp]: Solutions/LC1288.cpp
+[Remove Covered Intervals]: https://leetcode.com/problems/remove-covered-intervals/
 
 [//]: # (EOF)
