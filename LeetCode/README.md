@@ -94,6 +94,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1283.cpp]		| [Find the Smallest Divisor Given a Threshold]							| Medium		|
 | [LC1286.cpp]		| [Iterator for Combination]											| Medium		|
 | [LC1288.cpp]		| [Remove Covered Intervals]											| Medium		|
+| [LC1291.cpp]		| [Sequential Digits]													| Medium		|
 
 [//]: # (Solutions)
 
@@ -336,5 +337,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1288.cpp]: Solutions/LC1288.cpp
 [Remove Covered Intervals]: https://leetcode.com/problems/remove-covered-intervals/
+
+[LC1291.cpp]: Solutions/LC1291.cpp
+[Sequential Digits]: https://leetcode.com/problems/sequential-digits/
 
 [//]: # (EOF)
