@@ -12,89 +12,90 @@ The questions are divided into 3 levels of difficulty:
 
 ## Solutions
 
-| Problem Solution	| Problem Statement 													| Difficulty	|
-|:-----------------:|-----------------------------------------------------------------------|:-------------:|
-| [LC0001.cpp]		| [Two Sum]																| Easy			|
-| [LC0002.cpp]		| [Add Two Numbers]														| Medium		|
-| [LC0003.cpp]		| [Longest Substring Without Repeating Characters]						| Medium		|
-| [LC0007.cpp]		| [Reverse Integer]														| Easy			|
-| [LC0009.cpp]		| [Palindrome Number]													| Easy			|
-| [LC0011.cpp]		| [Container With Most Water]											| Medium		|
-| [LC0015.cpp]		| [3Sum]																| Medium		|
-| [LC0020.cpp]		| [Valid Parentheses]													| Easy			|
-| [LC0021.cpp]		| [Merge Two Sorted Lists]												| Easy			|
-| [LC0031.cpp]		| [Next Permutation]													| Medium		|
-| [LC0033.cpp]		| [Search in Rotated Sorted Array]										| Medium		|
-| [LC0046.cpp]		| [Permutations]														| Medium		|
-| [LC0047.cpp]		| [Permutations II]														| Medium		|
-| [LC0049.cpp]		| [Group Anagrams]														| Medium		|
-| [LC0050.cpp]		| [Pow(x, n)]															| Medium		|
-| [LC0053.cpp]		| [Maximum Subarray]													| Easy			|
-| [LC0064.cpp]		| [Minimum Path Sum]													| Medium		|
-| [LC0065.cpp]		| [Valid Number]														| Hard			|
-| [LC0069.cpp]		| [Sqrt(x)]																| Easy			|
-| [LC0070.cpp]		| [Climbing Stairs]														| Easy			|
-| [LC0074.cpp]		| [Search a 2D Matrix]													| Medium		|
-| [LC0078.cpp]		| [Subsets]																| Medium		|
-| [LC0088.cpp]		| [Merge Sorted Array]													| Easy			|
-| [LC0089.cpp]		| [Gray Code]															| Medium		|
-| [LC0094.cpp]		| [Binary Tree Inorder Traversal]										| Medium		|
-| [LC0098.cpp]		| [Validate Binary Search Tree]											| Medium		|
-| [LC0100.cpp]		| [Same Tree]															| Easy			|
-| [LC0102.cpp]		| [Binary Tree Level Order Traversal]									| Medium		|
-| [LC0103.cpp]		| [Binary Tree Zigzag Level Order Traversal]							| Medium		|
-| [LC0104.cpp]		| [Maximum Depth of Binary Tree]										| Easy			|
-| [LC0107.cpp]		| [Binary Tree Level Order Traversal II]								| Easy			|
-| [LC0126.cpp]		| [Word Ladder II]														| Hard			|
-| [LC0127.cpp]		| [Word Ladder]															| Medium		|
-| [LC0138.cpp]		| [Copy List with Random Pointer]										| Medium		|
-| [LC0139.cpp]		| [Word Break]															| Medium		|
-| [LC0144.cpp]		| [Binary Tree Preorder Traversal]										| Medium		|
-| [LC0146.cpp]		| [LRU Cache]															| Medium		|
-| [LC0151.cpp]		| [Reverse Words in a String]											| Medium		|
-| [LC0179.cpp]		| [Largest Number]														| Medium		|
-| [LC0199.cpp]		| [Binary Tree Right Side View]											| Medium		|
-| [LC0215.cpp]		| [Kth Largest Element in an Array]										| Medium		|
-| [LC0221.cpp]		| [Maximal Square]														| Medium		|
-| [LC0229.cpp]		| [Majority Element II]													| Medium		|
-| [LC0230.cpp]		| [Kth Smallest Element in a BST]										| Medium		|
-| [LC0236.cpp]		| [Lowest Common Ancestor of a Binary Tree]								| Medium		|
-| [LC0307.cpp]		| [Range Sum Query - Mutable]											| Medium		|
-| [LC0322.cpp]		| [Coin Change]															| Medium		|
-| [LC0442.cpp]		| [Find All Duplicates in an Array]										| Medium		|
-| [LC0515.cpp]		| [Find Largest Value in Each Tree Row]									| Medium		|
-| [LC0692.cpp]		| [Top K Frequent Words]												| Medium		|
-| [LC0701.cpp]		| [Insert into a Binary Search Tree]									| Medium		|
-| [LC0718.cpp]		| [Maximum Length of Repeated Subarray]									| Medium		|
-| [LC0973.cpp]		| [K Closest Points to Origin]											| Medium		|
-| [LC1143.cpp]		| [Longest Common Subsequence]											| Medium		|
-| [LC1190.cpp]		| [Reverse Substrings Between Each Pair of Parentheses]					| Medium		|
-| [LC1191.cpp]		| [K-Concatenation Maximum Sum]											| Medium		|
-| [LC1201.cpp]		| [Ugly Number III]														| Medium		|
-| [LC1202.cpp]		| [Smallest String With Swaps]											| Medium		|
-| [LC1208.cpp]		| [Get Equal Substrings Within Budget]									| Medium		|
-| [LC1209.cpp]		| [Remove All Adjacent Duplicates in String II]							| Medium		|
-| [LC1218.cpp]		| [Longest Arithmetic Subsequence of Given Difference]					| Medium		|
-| [LC1219.cpp]		| [Path with Maximum Gold]												| Medium		|
-| [LC1222.cpp]		| [Queens That Can Attack the King]										| Medium		|
-| [LC1229.cpp]		| [Meeting Scheduler]													| Medium		|
-| [LC1230.cpp]		| [Toss Strange Coins]													| Medium		|
-| [LC1233.cpp]		| [Remove Sub-Folders from the Filesystem]								| Medium		|
-| [LC1238.cpp]		| [Circular Permutation in Binary Representation]						| Medium		|
-| [LC1239.cpp]		| [Maximum Length of a Concatenated String with Unique Characters]		| Medium		|
-| [LC1248.cpp]		| [Count Number of Nice Subarrays]										| Medium		|
-| [LC1249.cpp]		| [Minimum Remove to Make Valid Parentheses]							| Medium		|
-| [LC1261.cpp]		| [Find Elements in a Contaminated Binary Tree]							| Medium		|
-| [LC1262.cpp]		| [Greatest Sum Divisible by Three]										| Medium		|
-| [LC1267.cpp]		| [Count Servers that Communicate]										| Medium		|
-| [LC1268.cpp]		| [Search Suggestions System]											| Medium		|
-| [LC1276.cpp]		| [Number of Burgers with No Waste of Ingredients]						| Medium		|
-| [LC1277.cpp]		| [Count Square Submatrices with All Ones]								| Medium		|
-| [LC1282.cpp]		| [Group the People Given the Group Size They Belong To]				| Medium		|
-| [LC1283.cpp]		| [Find the Smallest Divisor Given a Threshold]							| Medium		|
-| [LC1286.cpp]		| [Iterator for Combination]											| Medium		|
-| [LC1288.cpp]		| [Remove Covered Intervals]											| Medium		|
-| [LC1291.cpp]		| [Sequential Digits]													| Medium		|
+| Problem Solution	| Problem Statement 															| Difficulty	|
+|:-----------------:|-------------------------------------------------------------------------------|:-------------:|
+| [LC0001.cpp]		| [Two Sum]																		| Easy			|
+| [LC0002.cpp]		| [Add Two Numbers]																| Medium		|
+| [LC0003.cpp]		| [Longest Substring Without Repeating Characters]								| Medium		|
+| [LC0007.cpp]		| [Reverse Integer]																| Easy			|
+| [LC0009.cpp]		| [Palindrome Number]															| Easy			|
+| [LC0011.cpp]		| [Container With Most Water]													| Medium		|
+| [LC0015.cpp]		| [3Sum]																		| Medium		|
+| [LC0020.cpp]		| [Valid Parentheses]															| Easy			|
+| [LC0021.cpp]		| [Merge Two Sorted Lists]														| Easy			|
+| [LC0031.cpp]		| [Next Permutation]															| Medium		|
+| [LC0033.cpp]		| [Search in Rotated Sorted Array]												| Medium		|
+| [LC0046.cpp]		| [Permutations]																| Medium		|
+| [LC0047.cpp]		| [Permutations II]																| Medium		|
+| [LC0049.cpp]		| [Group Anagrams]																| Medium		|
+| [LC0050.cpp]		| [Pow(x, n)]																	| Medium		|
+| [LC0053.cpp]		| [Maximum Subarray]															| Easy			|
+| [LC0064.cpp]		| [Minimum Path Sum]															| Medium		|
+| [LC0065.cpp]		| [Valid Number]																| Hard			|
+| [LC0069.cpp]		| [Sqrt(x)]																		| Easy			|
+| [LC0070.cpp]		| [Climbing Stairs]																| Easy			|
+| [LC0074.cpp]		| [Search a 2D Matrix]															| Medium		|
+| [LC0078.cpp]		| [Subsets]																		| Medium		|
+| [LC0088.cpp]		| [Merge Sorted Array]															| Easy			|
+| [LC0089.cpp]		| [Gray Code]																	| Medium		|
+| [LC0094.cpp]		| [Binary Tree Inorder Traversal]												| Medium		|
+| [LC0098.cpp]		| [Validate Binary Search Tree]													| Medium		|
+| [LC0100.cpp]		| [Same Tree]																	| Easy			|
+| [LC0102.cpp]		| [Binary Tree Level Order Traversal]											| Medium		|
+| [LC0103.cpp]		| [Binary Tree Zigzag Level Order Traversal]									| Medium		|
+| [LC0104.cpp]		| [Maximum Depth of Binary Tree]												| Easy			|
+| [LC0107.cpp]		| [Binary Tree Level Order Traversal II]										| Easy			|
+| [LC0126.cpp]		| [Word Ladder II]																| Hard			|
+| [LC0127.cpp]		| [Word Ladder]																	| Medium		|
+| [LC0138.cpp]		| [Copy List with Random Pointer]												| Medium		|
+| [LC0139.cpp]		| [Word Break]																	| Medium		|
+| [LC0144.cpp]		| [Binary Tree Preorder Traversal]												| Medium		|
+| [LC0146.cpp]		| [LRU Cache]																	| Medium		|
+| [LC0151.cpp]		| [Reverse Words in a String]													| Medium		|
+| [LC0179.cpp]		| [Largest Number]																| Medium		|
+| [LC0199.cpp]		| [Binary Tree Right Side View]													| Medium		|
+| [LC0215.cpp]		| [Kth Largest Element in an Array]												| Medium		|
+| [LC0221.cpp]		| [Maximal Square]																| Medium		|
+| [LC0229.cpp]		| [Majority Element II]															| Medium		|
+| [LC0230.cpp]		| [Kth Smallest Element in a BST]												| Medium		|
+| [LC0236.cpp]		| [Lowest Common Ancestor of a Binary Tree]										| Medium		|
+| [LC0307.cpp]		| [Range Sum Query - Mutable]													| Medium		|
+| [LC0322.cpp]		| [Coin Change]																	| Medium		|
+| [LC0442.cpp]		| [Find All Duplicates in an Array]												| Medium		|
+| [LC0515.cpp]		| [Find Largest Value in Each Tree Row]											| Medium		|
+| [LC0692.cpp]		| [Top K Frequent Words]														| Medium		|
+| [LC0701.cpp]		| [Insert into a Binary Search Tree]											| Medium		|
+| [LC0718.cpp]		| [Maximum Length of Repeated Subarray]											| Medium		|
+| [LC0973.cpp]		| [K Closest Points to Origin]													| Medium		|
+| [LC1143.cpp]		| [Longest Common Subsequence]													| Medium		|
+| [LC1190.cpp]		| [Reverse Substrings Between Each Pair of Parentheses]							| Medium		|
+| [LC1191.cpp]		| [K-Concatenation Maximum Sum]													| Medium		|
+| [LC1201.cpp]		| [Ugly Number III]																| Medium		|
+| [LC1202.cpp]		| [Smallest String With Swaps]													| Medium		|
+| [LC1208.cpp]		| [Get Equal Substrings Within Budget]											| Medium		|
+| [LC1209.cpp]		| [Remove All Adjacent Duplicates in String II]									| Medium		|
+| [LC1218.cpp]		| [Longest Arithmetic Subsequence of Given Difference]							| Medium		|
+| [LC1219.cpp]		| [Path with Maximum Gold]														| Medium		|
+| [LC1222.cpp]		| [Queens That Can Attack the King]												| Medium		|
+| [LC1229.cpp]		| [Meeting Scheduler]															| Medium		|
+| [LC1230.cpp]		| [Toss Strange Coins]															| Medium		|
+| [LC1233.cpp]		| [Remove Sub-Folders from the Filesystem]										| Medium		|
+| [LC1238.cpp]		| [Circular Permutation in Binary Representation]								| Medium		|
+| [LC1239.cpp]		| [Maximum Length of a Concatenated String with Unique Characters]				| Medium		|
+| [LC1248.cpp]		| [Count Number of Nice Subarrays]												| Medium		|
+| [LC1249.cpp]		| [Minimum Remove to Make Valid Parentheses]									| Medium		|
+| [LC1261.cpp]		| [Find Elements in a Contaminated Binary Tree]									| Medium		|
+| [LC1262.cpp]		| [Greatest Sum Divisible by Three]												| Medium		|
+| [LC1267.cpp]		| [Count Servers that Communicate]												| Medium		|
+| [LC1268.cpp]		| [Search Suggestions System]													| Medium		|
+| [LC1276.cpp]		| [Number of Burgers with No Waste of Ingredients]								| Medium		|
+| [LC1277.cpp]		| [Count Square Submatrices with All Ones]										| Medium		|
+| [LC1282.cpp]		| [Group the People Given the Group Size They Belong To]						| Medium		|
+| [LC1283.cpp]		| [Find the Smallest Divisor Given a Threshold]									| Medium		|
+| [LC1286.cpp]		| [Iterator for Combination]													| Medium		|
+| [LC1288.cpp]		| [Remove Covered Intervals]													| Medium		|
+| [LC1291.cpp]		| [Sequential Digits]															| Medium		|
+| [LC1292.cpp]		| [Maximum Side Length of a Square with Sum Less than or Equal to Threshold]	| Medium		|
 
 [//]: # (Solutions)
 
@@ -340,5 +341,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1291.cpp]: Solutions/LC1291.cpp
 [Sequential Digits]: https://leetcode.com/problems/sequential-digits/
+
+[LC1292.cpp]: Solutions/LC1292.cpp
+[Maximum Side Length of a Square with Sum Less than or Equal to Threshold]: https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
 
 [//]: # (EOF)
