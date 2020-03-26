@@ -96,6 +96,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1288.cpp]		| [Remove Covered Intervals]													| Medium		|
 | [LC1291.cpp]		| [Sequential Digits]															| Medium		|
 | [LC1292.cpp]		| [Maximum Side Length of a Square with Sum Less than or Equal to Threshold]	| Medium		|
+| [LC1296.cpp]		| [Divide Array in Sets of K Consecutive Numbers]								| Medium		|
 
 [//]: # (Solutions)
 
@@ -344,5 +345,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1292.cpp]: Solutions/LC1292.cpp
 [Maximum Side Length of a Square with Sum Less than or Equal to Threshold]: https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
+
+[LC1296.cpp]: Solutions/LC1296.cpp
+[Divide Array in Sets of K Consecutive Numbers]: https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
 
 [//]: # (EOF)
