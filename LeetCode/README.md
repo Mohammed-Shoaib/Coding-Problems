@@ -97,6 +97,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1291.cpp]		| [Sequential Digits]															| Medium		|
 | [LC1292.cpp]		| [Maximum Side Length of a Square with Sum Less than or Equal to Threshold]	| Medium		|
 | [LC1296.cpp]		| [Divide Array in Sets of K Consecutive Numbers]								| Medium		|
+| [LC1297.cpp]		| [Maximum Number of Occurrences of a Substring]								| Medium		|
 
 [//]: # (Solutions)
 
@@ -348,5 +349,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1296.cpp]: Solutions/LC1296.cpp
 [Divide Array in Sets of K Consecutive Numbers]: https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
+
+[LC1297.cpp]: Solutions/LC1297.cpp
+[Maximum Number of Occurrences of a Substring]: https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
 
 [//]: # (EOF)
