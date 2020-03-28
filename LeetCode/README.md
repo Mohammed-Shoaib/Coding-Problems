@@ -98,6 +98,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1292.cpp]		| [Maximum Side Length of a Square with Sum Less than or Equal to Threshold]	| Medium		|
 | [LC1296.cpp]		| [Divide Array in Sets of K Consecutive Numbers]								| Medium		|
 | [LC1297.cpp]		| [Maximum Number of Occurrences of a Substring]								| Medium		|
+| [LC1300.cpp]		| [Sum of Mutated Array Closest to Target]										| Medium		|
 
 [//]: # (Solutions)
 
@@ -352,5 +353,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1297.cpp]: Solutions/LC1297.cpp
 [Maximum Number of Occurrences of a Substring]: https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
+
+[LC1300.cpp]: Solutions/LC1300.cpp
+[Sum of Mutated Array Closest to Target]: https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
 
 [//]: # (EOF)
