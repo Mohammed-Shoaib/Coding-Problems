@@ -99,6 +99,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1296.cpp]		| [Divide Array in Sets of K Consecutive Numbers]								| Medium		|
 | [LC1297.cpp]		| [Maximum Number of Occurrences of a Substring]								| Medium		|
 | [LC1300.cpp]		| [Sum of Mutated Array Closest to Target]										| Medium		|
+| [LC1302.cpp]		| [Deepest Leaves Sum]															| Medium		|
 
 [//]: # (Solutions)
 
@@ -356,5 +357,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1300.cpp]: Solutions/LC1300.cpp
 [Sum of Mutated Array Closest to Target]: https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
+
+[LC1302.cpp]: Solutions/LC1302.cpp
+[Deepest Leaves Sum]: https://leetcode.com/problems/deepest-leaves-sum/
 
 [//]: # (EOF)
