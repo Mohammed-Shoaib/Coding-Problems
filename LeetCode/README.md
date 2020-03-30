@@ -100,6 +100,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1297.cpp]		| [Maximum Number of Occurrences of a Substring]								| Medium		|
 | [LC1300.cpp]		| [Sum of Mutated Array Closest to Target]										| Medium		|
 | [LC1302.cpp]		| [Deepest Leaves Sum]															| Medium		|
+| [LC1305.cpp]		| [All Elements in Two Binary Search Trees]										| Medium		|
 
 [//]: # (Solutions)
 
@@ -360,5 +361,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1302.cpp]: Solutions/LC1302.cpp
 [Deepest Leaves Sum]: https://leetcode.com/problems/deepest-leaves-sum/
+
+[LC1305.cpp]: Solutions/LC1305.cpp
+[All Elements in Two Binary Search Trees]: https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
 
 [//]: # (EOF)
