@@ -101,6 +101,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1300.cpp]		| [Sum of Mutated Array Closest to Target]										| Medium		|
 | [LC1302.cpp]		| [Deepest Leaves Sum]															| Medium		|
 | [LC1305.cpp]		| [All Elements in Two Binary Search Trees]										| Medium		|
+| [LC1306.cpp]		| [Jump Game III]																| Medium		|
 
 [//]: # (Solutions)
 
@@ -364,5 +365,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1305.cpp]: Solutions/LC1305.cpp
 [All Elements in Two Binary Search Trees]: https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
+
+[LC1306.cpp]: Solutions/LC1306.cpp
+[Jump Game III]: https://leetcode.com/problems/jump-game-iii/
 
 [//]: # (EOF)
