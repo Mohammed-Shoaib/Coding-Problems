@@ -103,6 +103,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1305.cpp]		| [All Elements in Two Binary Search Trees]										| Medium		|
 | [LC1306.cpp]		| [Jump Game III]																| Medium		|
 | [LC1310.cpp]		| [XOR Queries of a Subarray]													| Medium		|
+| [LC1311.cpp]		| [Get Watched Videos by Your Friends]											| Medium		|
 
 [//]: # (Solutions)
 
@@ -372,5 +373,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1310.cpp]: Solutions/LC1310.cpp
 [XOR Queries of a Subarray]: https://leetcode.com/problems/xor-queries-of-a-subarray/
+
+[LC1311.cpp]: Solutions/LC1311.cpp
+[Get Watched Videos by Your Friends]: https://leetcode.com/problems/get-watched-videos-by-your-friends/
 
 [//]: # (EOF)
