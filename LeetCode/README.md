@@ -105,6 +105,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1310.cpp]		| [XOR Queries of a Subarray]													| Medium		|
 | [LC1311.cpp]		| [Get Watched Videos by Your Friends]											| Medium		|
 | [LC1314.cpp]		| [Matrix Block Sum]															| Medium		|
+| [LC1315.cpp]		| [Sum of Nodes with Even-Valued Grandparent]									| Medium		|
 
 [//]: # (Solutions)
 
@@ -380,5 +381,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1314.cpp]: Solutions/LC1314.cpp
 [Matrix Block Sum]: https://leetcode.com/problems/matrix-block-sum/
+
+[LC1315.cpp]: Solutions/LC1315.cpp
+[Sum of Nodes with Even-Valued Grandparent]: https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
 
 [//]: # (EOF)
