@@ -32,6 +32,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0053.cpp]		| [Maximum Subarray]															| Easy			|
 | [LC0064.cpp]		| [Minimum Path Sum]															| Medium		|
 | [LC0065.cpp]		| [Valid Number]																| Hard			|
+| [LC0067.cpp]		| [Add Binary]																	| Easy			|
 | [LC0069.cpp]		| [Sqrt(x)]																		| Easy			|
 | [LC0070.cpp]		| [Climbing Stairs]																| Easy			|
 | [LC0074.cpp]		| [Search a 2D Matrix]															| Medium		|
@@ -163,6 +164,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0065.cpp]: Solutions/LC0065.cpp
 [Valid Number]: https://leetcode.com/problems/valid-number/
+
+[LC0067.cpp]: Solutions/LC0067.cpp
+[Add Binary]: https://leetcode.com/problems/add-binary/
 
 [LC0069.cpp]: Solutions/LC0069.cpp
 [Sqrt(x)]: https://leetcode.com/problems/sqrtx/
