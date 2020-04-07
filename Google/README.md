@@ -2,18 +2,20 @@
 
 Solutions to some of the questions from coding competitions by [Google](https://codingcompetitions.withgoogle.com/ "Google's Coding Competitions").
 
-<p align="center"><img src="../assets/google.png" height=300px"></p>
+<p align="center"><img src="../assets/google.png" height=400px"></p>
 
 ## Code Jam
 
-| Problem Solution		| Problem Statement 					| Round 				| Year	|
-|:---------------------:|---------------------------------------|:---------------------:|:-----:|
-| [vestigium.cpp]		| Vestigium								| Qualification Round	| 2020	|
-| [nesting_depth.cpp]	| Nesting Depth							| Qualification Round	| 2020	|
+| Problem Solution						| Problem Statement 					| Round 				| Year	|
+|:-------------------------------------:|---------------------------------------|:---------------------:|:-----:|
+| [vestigium.cpp]						| Vestigium								| Qualification Round	| 2020	|
+| [nesting_depth.cpp]					| Nesting Depth							| Qualification Round	| 2020	|
+| [parenting_partnering_returns.cpp]	| Parenting Partnering Returns			| Qualification Round	| 2020	|
 
 [//]: # (Code Jam)
 
 [vestigium.cpp]: Code%20Jam/2020/vestigium.cpp
 [nesting_depth.cpp]: Code%20Jam/2020/nesting_depth.cpp
+[parenting_partnering_returns.cpp]: Code%20Jam/2020/parenting_partnering_returns.cpp
 
 [//]: # (EOF)
