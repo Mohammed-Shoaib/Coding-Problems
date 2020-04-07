@@ -5,11 +5,12 @@ Solutions to some of the coding problems from popular websites. Currently, there
 *   [HackerRank](HackerRank/ "HackerRank")
 *	[LeetCode](LeetCode/ "LeetCode")
 *   [CodeChef](CodeChef/ "CodeChef")
+*   [Google](Google/ "Google's Coding Competitions")
 *   [Gulf Programming Contest](Gulf%20Programming%20Contest/ "GPC")
 
 ## Stats
 
-Number of problems solved: 757
+Number of problems solved: 758
 
 ### HackerRank
 
@@ -39,6 +40,6 @@ Number of problems solved: 757
 
 | Type 			| Solved 	|
 |:-------------:|:---------:|
-| Code Jam 		| 1 		|
+| Code Jam 		| 2 		|
 | Hash Code 	| 0 		|
 | Kick Start 	| 0 		|
