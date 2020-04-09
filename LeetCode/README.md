@@ -49,6 +49,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0107.cpp]		| [Binary Tree Level Order Traversal II]										| Easy			|
 | [LC0112.cpp]		| [Path Sum]																	| Easy			|
 | [LC0121.cpp]		| [Best Time to Buy and Sell Stock]												| Easy			|
+| [LC0122.cpp]		| [Best Time to Buy and Sell Stock II]											| Easy			|
 | [LC0126.cpp]		| [Word Ladder II]																| Hard			|
 | [LC0127.cpp]		| [Word Ladder]																	| Medium		|
 | [LC0138.cpp]		| [Copy List with Random Pointer]												| Medium		|
@@ -218,6 +219,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0121.cpp]: Solutions/LC0121.cpp
 [Best Time to Buy and Sell Stock]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+[LC0122.cpp]: Solutions/LC0122.cpp
+[Best Time to Buy and Sell Stock II]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 
 [LC0126.cpp]: Solutions/LC0126.cpp
 [Word Ladder II]: https://leetcode.com/problems/word-ladder-ii/
