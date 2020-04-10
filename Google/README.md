@@ -6,16 +6,16 @@ Solutions to some of the questions from coding competitions by [Google](https://
 
 ## Code Jam
 
-| Problem Solution						| Problem Statement 					| Round 				| Year	|
-|:-------------------------------------:|---------------------------------------|:---------------------:|:-----:|
-| [vestigium.cpp]						| Vestigium								| Qualification Round	| 2020	|
-| [nesting_depth.cpp]					| Nesting Depth							| Qualification Round	| 2020	|
-| [parenting_partnering_returns.cpp]	| Parenting Partnering Returns			| Qualification Round	| 2020	|
+| Problem Solution										| Problem Statement 					| Round 				| Year	|
+|:-----------------------------------------------------:|---------------------------------------|:---------------------:|:-----:|
+| [A.cpp](Code%20Jam/2020/Qualification%20Round/A.cpp)	| Vestigium								| Qualification Round	| 2020	|
+| [B.cpp](Code%20Jam/2020/Qualification%20Round/B.cpp)	| Nesting Depth							| Qualification Round	| 2020	|
+| [C.cpp](Code%20Jam/2020/Qualification%20Round/C.cpp)	| Parenting Partnering Returns			| Qualification Round	| 2020	|
 
 [//]: # (Code Jam)
 
-[vestigium.cpp]: Code%20Jam/2020/vestigium.cpp
-[nesting_depth.cpp]: Code%20Jam/2020/nesting_depth.cpp
-[parenting_partnering_returns.cpp]: Code%20Jam/2020/parenting_partnering_returns.cpp
+[//]: # (Hash Code)
+
+[//]: # (Kick Start)
 
 [//]: # (EOF)
