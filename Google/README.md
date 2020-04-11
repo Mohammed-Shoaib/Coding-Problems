@@ -18,6 +18,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | Problem Solution								| Problem Statement 	| Round 	| Year	|
 |:---------------------------------------------:|-----------------------|:---------:|:-----:|
 | [A.cpp](Kick%20Start/2020/Round%20A/A.cpp)	| Allocation			| Round A	| 2020	|
+| [B.cpp](Kick%20Start/2020/Round%20A/B.cpp)	| Plates				| Round A	| 2020	|
 
 [//]: # (Code Jam)
 
