@@ -58,8 +58,9 @@ The questions are divided into 3 levels of difficulty:
 | [LC0144.cpp]		| [Binary Tree Preorder Traversal]												| Medium		|
 | [LC0146.cpp]		| [LRU Cache]																	| Medium		|
 | [LC0151.cpp]		| [Reverse Words in a String]													| Medium		|
-| [LC0155.cpp]		| [Min Stack]																	| Medium		|
-| [LC0167.cpp]		| [Two Sum II - Input array is sorted]											| Medium		|
+| [LC0155.cpp]		| [Min Stack]																	| Easy			|
+| [LC0167.cpp]		| [Two Sum II - Input array is sorted]											| Easy			|
+| [LC0169.cpp]		| [Majority Element]															| Easy			|
 | [LC0179.cpp]		| [Largest Number]																| Medium		|
 | [LC0199.cpp]		| [Binary Tree Right Side View]													| Medium		|
 | [LC0215.cpp]		| [Kth Largest Element in an Array]												| Medium		|
@@ -255,6 +256,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0167.cpp]: Solutions/LC0167.cpp
 [Two Sum II - Input array is sorted]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+
+[LC0169.cpp]: Solutions/LC0169.cpp
+[Majority Element]: https://leetcode.com/problems/majority-element/
 
 [LC0179.cpp]: Solutions/LC0179.cpp
 [Largest Number]: https://leetcode.com/problems/largest-number/
