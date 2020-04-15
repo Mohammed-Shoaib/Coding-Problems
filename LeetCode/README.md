@@ -64,6 +64,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0179.cpp]		| [Largest Number]																| Medium		|
 | [LC0189.cpp]		| [Rotate Array]																| Easy			|
 | [LC0199.cpp]		| [Binary Tree Right Side View]													| Medium		|
+| [LC0202.cpp]		| [Happy Number]																| Easy			|
 | [LC0215.cpp]		| [Kth Largest Element in an Array]												| Medium		|
 | [LC0221.cpp]		| [Maximal Square]																| Medium		|
 | [LC0229.cpp]		| [Majority Element II]															| Medium		|
@@ -269,6 +270,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0199.cpp]: Solutions/LC0199.cpp
 [Binary Tree Right Side View]: https://leetcode.com/problems/binary-tree-right-side-view/
+
+[LC0202.cpp]: Solutions/LC0202.cpp
+[Happy Number]: https://leetcode.com/problems/happy-number/
 
 [LC0215.cpp]: Solutions/LC0215.cpp
 [Kth Largest Element in an Array]: https://leetcode.com/problems/kth-largest-element-in-an-array/
