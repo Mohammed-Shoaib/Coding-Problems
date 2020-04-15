@@ -66,6 +66,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0199.cpp]		| [Binary Tree Right Side View]													| Medium		|
 | [LC0202.cpp]		| [Happy Number]																| Easy			|
 | [LC0215.cpp]		| [Kth Largest Element in an Array]												| Medium		|
+| [LC0217.cpp]		| [Contains Duplicate]															| Easy			|
 | [LC0221.cpp]		| [Maximal Square]																| Medium		|
 | [LC0229.cpp]		| [Majority Element II]															| Medium		|
 | [LC0230.cpp]		| [Kth Smallest Element in a BST]												| Medium		|
@@ -276,6 +277,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0215.cpp]: Solutions/LC0215.cpp
 [Kth Largest Element in an Array]: https://leetcode.com/problems/kth-largest-element-in-an-array/
+
+[LC0217.cpp]: Solutions/LC0217.cpp
+[Contains Duplicate]: https://leetcode.com/problems/contains-duplicate/
 
 [LC0221.cpp]: Solutions/LC0221.cpp
 [Maximal Square]: https://leetcode.com/problems/maximal-square/
