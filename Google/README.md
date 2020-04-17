@@ -14,6 +14,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [D.cpp](Code%20Jam/2020/Qualification%20Round/D.cpp)	| ESAb ATAd								| Qualification Round	| 2020	|
 | [A.cpp](Code%20Jam/2020/Round%201A/A.cpp)				| Pattern Matching						| Round 1A				| 2020	|
 | [B.cpp](Code%20Jam/2020/Round%201A/B.cpp)				| Pascal Walk							| Round 1A				| 2020	|
+| [C.cpp](Code%20Jam/2020/Round%201A/C.cpp)				| Square Dance							| Round 1A				| 2020	|
 
 ## Kick Start
 
