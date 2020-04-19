@@ -15,6 +15,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [A.cpp](Code%20Jam/2020/Round%201A/A.cpp)				| [Pattern Matching]						| Round 1A				| 2020	|
 | [B.cpp](Code%20Jam/2020/Round%201A/B.cpp)				| [Pascal Walk]								| Round 1A				| 2020	|
 | [C.cpp](Code%20Jam/2020/Round%201A/C.cpp)				| [Square Dance]							| Round 1A				| 2020	|
+| [B.cpp](Code%20Jam/2017/Qualification%20Round/B.cpp)	| [Tidy Numbers]							| Qualification Round	| 2017	|
 | [A.cpp](Code%20Jam/2017/Round%201A/A.cpp)				| [Alphabet Cake]							| Round 1A				| 2017	|
 
 ## Kick Start
@@ -36,6 +37,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 [Pascal Walk]: https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1353
 [Square Dance]: https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1355
 
+[Tidy Numbers]: https://code.google.com/codejam/contest/3264486/dashboard#s=p1
 [Alphabet Cake]: https://code.google.com/codejam/contest/5304486/dashboard#s=p0
 
 [//]: # (Hash Code)
