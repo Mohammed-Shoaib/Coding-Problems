@@ -28,6 +28,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [D.cpp](Kick%20Start/2020/Round%20A/D.cpp)	| [Bundling]				| Round A	| 2020	|
 | [A.cpp](Kick%20Start/2020/Round%20B/A.cpp)	| [Bike Tour]				| Round B	| 2020	|
 | [B.cpp](Kick%20Start/2020/Round%20B/B.cpp)	| [Bus Routes]				| Round B	| 2020	|
+| [C.cpp](Kick%20Start/2020/Round%20B/C.cpp)	| [Robot Path Decoding]		| Round B	| 2020	|
 
 [//]: # (Code Jam)
 
@@ -53,5 +54,6 @@ Solutions to some of the questions from coding competitions by [Google](https://
 
 [Bike Tour]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d82e6
 [Bus Routes]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83bf
+[Robot Path Decoding]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83dc
 
 [//]: # (EOF)
