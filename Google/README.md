@@ -26,6 +26,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [B.cpp](Kick%20Start/2020/Round%20A/B.cpp)	| [Plates]					| Round A	| 2020	|
 | [C.cpp](Kick%20Start/2020/Round%20A/C.cpp)	| [Workout]					| Round A	| 2020	|
 | [D.cpp](Kick%20Start/2020/Round%20A/D.cpp)	| [Bundling]				| Round A	| 2020	|
+| [A.cpp](Kick%20Start/2020/Round%20B/A.cpp)	| [Bike Tour]				| Round B	| 2020	|
 
 [//]: # (Code Jam)
 
@@ -48,5 +49,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 [Plates]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d40bb
 [Workout]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f5b
 [Bundling]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3ff3
+
+[Bike Tour]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d82e6
 
 [//]: # (EOF)
