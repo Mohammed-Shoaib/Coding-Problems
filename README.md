@@ -10,7 +10,7 @@ Solutions to some of the coding problems from popular websites. Currently, there
 
 ## Stats
 
-Number of problems solved: 782
+Number of problems solved: 783
 
 ### HackerRank
 
@@ -42,4 +42,4 @@ Number of problems solved: 782
 |:-------------:|:---------:|
 | Code Jam 		| 9 		|
 | Hash Code 	| 0 		|
-| Kick Start 	| 7 		|
+| Kick Start 	| 8 		|
