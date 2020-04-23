@@ -74,6 +74,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0236.cpp]		| [Lowest Common Ancestor of a Binary Tree]										| Medium		|
 | [LC0242.cpp]		| [Valid Anagram]																| Easy			|
 | [LC0268.cpp]		| [Missing Number]																| Easy			|
+| [LC0283.cpp]		| [Move Zeroes]																	| Easy			|
 | [LC0307.cpp]		| [Range Sum Query - Mutable]													| Medium		|
 | [LC0322.cpp]		| [Coin Change]																	| Medium		|
 | [LC0442.cpp]		| [Find All Duplicates in an Array]												| Medium		|
@@ -304,6 +305,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0268.cpp]: Solutions/LC0268.cpp
 [Missing Number]: https://leetcode.com/problems/missing-number/
+
+[LC0283.cpp]: Solutions/LC0283.cpp
+[Move Zeroes]: https://leetcode.com/problems/move-zeroes/
 
 [LC0307.cpp]: Solutions/LC0307.cpp
 [Range Sum Query - Mutable]: https://leetcode.com/problems/range-sum-query-mutable/
