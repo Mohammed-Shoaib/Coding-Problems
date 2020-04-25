@@ -66,6 +66,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0199.cpp]		| [Binary Tree Right Side View]													| Medium		|
 | [LC0200.cpp]		| [Number of Islands]															| Medium		|
 | [LC0202.cpp]		| [Happy Number]																| Easy			|
+| [LC0208.cpp]		| [Implement Trie (Prefix Tree)]												| Medium		|
 | [LC0215.cpp]		| [Kth Largest Element in an Array]												| Medium		|
 | [LC0217.cpp]		| [Contains Duplicate]															| Easy			|
 | [LC0221.cpp]		| [Maximal Square]																| Medium		|
@@ -282,6 +283,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0202.cpp]: Solutions/LC0202.cpp
 [Happy Number]: https://leetcode.com/problems/happy-number/
+
+[LC0208.cpp]: Solutions/LC0208.cpp
+[Implement Trie (Prefix Tree)]: https://leetcode.com/problems/implement-trie-prefix-tree/
 
 [LC0215.cpp]: Solutions/LC0215.cpp
 [Kth Largest Element in an Array]: https://leetcode.com/problems/kth-largest-element-in-an-array/
