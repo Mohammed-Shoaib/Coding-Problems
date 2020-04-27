@@ -82,6 +82,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0322.cpp]		| [Coin Change]																	| Medium		|
 | [LC0442.cpp]		| [Find All Duplicates in an Array]												| Medium		|
 | [LC0515.cpp]		| [Find Largest Value in Each Tree Row]											| Medium		|
+| [LC0525.cpp]		| [Contiguous Array]															| Medium		|
 | [LC0692.cpp]		| [Top K Frequent Words]														| Medium		|
 | [LC0701.cpp]		| [Insert into a Binary Search Tree]											| Medium		|
 | [LC0718.cpp]		| [Maximum Length of Repeated Subarray]											| Medium		|
@@ -332,6 +333,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0515.cpp]: Solutions/LC0515.cpp
 [Find Largest Value in Each Tree Row]: https://leetcode.com/problems/find-largest-value-in-each-tree-row/
+
+[LC0525.cpp]: Solutions/LC0525.cpp
+[Contiguous Array]: https://leetcode.com/problems/contiguous-array/
 
 [LC0692.cpp]: Solutions/LC0692.cpp
 [Top K Frequent Words]: https://leetcode.com/problems/top-k-frequent-words/
