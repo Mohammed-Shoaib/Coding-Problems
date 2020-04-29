@@ -84,6 +84,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0515.cpp]		| [Find Largest Value in Each Tree Row]											| Medium		|
 | [LC0525.cpp]		| [Contiguous Array]															| Medium		|
 | [LC0560.cpp]		| [Subarray Sum Equals K]														| Medium		|
+| [LC0678.cpp]		| [Valid Parenthesis String]													| Medium		|
 | [LC0692.cpp]		| [Top K Frequent Words]														| Medium		|
 | [LC0701.cpp]		| [Insert into a Binary Search Tree]											| Medium		|
 | [LC0718.cpp]		| [Maximum Length of Repeated Subarray]											| Medium		|
@@ -340,6 +341,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0560.cpp]: Solutions/LC0560.cpp
 [Subarray Sum Equals K]: https://leetcode.com/problems/subarray-sum-equals-k/
+
+[LC0678.cpp]: Solutions/LC0678.cpp
+[Valid Parenthesis String]: https://leetcode.com/problems/valid-parenthesis-string/
 
 [LC0692.cpp]: Solutions/LC0692.cpp
 [Top K Frequent Words]: https://leetcode.com/problems/top-k-frequent-words/
