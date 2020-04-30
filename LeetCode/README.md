@@ -129,6 +129,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1314.cpp]		| [Matrix Block Sum]															| Medium		|
 | [LC1315.cpp]		| [Sum of Nodes with Even-Valued Grandparent]									| Medium		|
 | [LC1318.cpp]		| [Minimum Flips to Make a OR b Equal to c]										| Medium		|
+| [LC1319.cpp]		| [Number of Operations to Make Network Connected]								| Medium		|
 
 [//]: # (Solutions)
 
@@ -476,5 +477,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1318.cpp]: Solutions/LC1318.cpp
 [Minimum Flips to Make a OR b Equal to c]: https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
+
+[LC1319.cpp]: Solutions/LC1319.cpp
+[Number of Operations to Make Network Connected]: https://leetcode.com/problems/number-of-operations-to-make-network-connected/
 
 [//]: # (EOF)
