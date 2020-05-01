@@ -130,6 +130,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1315.cpp]		| [Sum of Nodes with Even-Valued Grandparent]									| Medium		|
 | [LC1318.cpp]		| [Minimum Flips to Make a OR b Equal to c]										| Medium		|
 | [LC1319.cpp]		| [Number of Operations to Make Network Connected]								| Medium		|
+| [LC1324.cpp]		| [Print Words Vertically]														| Medium		|
 
 [//]: # (Solutions)
 
@@ -480,5 +481,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1319.cpp]: Solutions/LC1319.cpp
 [Number of Operations to Make Network Connected]: https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+
+[LC1324.cpp]: Solutions/LC1324.cpp
+[Print Words Vertically]: https://leetcode.com/problems/print-words-vertically/
 
 [//]: # (EOF)
