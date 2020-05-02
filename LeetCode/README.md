@@ -77,6 +77,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0238.cpp]		| [Product of Array Except Self]												| Medium		|
 | [LC0242.cpp]		| [Valid Anagram]																| Easy			|
 | [LC0268.cpp]		| [Missing Number]																| Easy			|
+| [LC0278.cpp]		| [First Bad Version]															| Easy			|
 | [LC0283.cpp]		| [Move Zeroes]																	| Easy			|
 | [LC0307.cpp]		| [Range Sum Query - Mutable]													| Medium		|
 | [LC0322.cpp]		| [Coin Change]																	| Medium		|
@@ -322,6 +323,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0268.cpp]: Solutions/LC0268.cpp
 [Missing Number]: https://leetcode.com/problems/missing-number/
+
+[LC0278.cpp]: Solutions/LC0278.cpp
+[First Bad Version]: https://leetcode.com/problems/first-bad-version/
 
 [LC0283.cpp]: Solutions/LC0283.cpp
 [Move Zeroes]: https://leetcode.com/problems/move-zeroes/
