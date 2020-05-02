@@ -89,6 +89,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0692.cpp]		| [Top K Frequent Words]														| Medium		|
 | [LC0701.cpp]		| [Insert into a Binary Search Tree]											| Medium		|
 | [LC0718.cpp]		| [Maximum Length of Repeated Subarray]											| Medium		|
+| [LC0876.cpp]		| [Middle of the Linked List]													| Easy			|
 | [LC0973.cpp]		| [K Closest Points to Origin]													| Medium		|
 | [LC1143.cpp]		| [Longest Common Subsequence]													| Medium		|
 | [LC1190.cpp]		| [Reverse Substrings Between Each Pair of Parentheses]							| Medium		|
@@ -359,6 +360,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0718.cpp]: Solutions/LC0718.cpp
 [Maximum Length of Repeated Subarray]: https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+
+[LC0876.cpp]: Solutions/LC0876.cpp
+[Middle of the Linked List]: https://leetcode.com/problems/middle-of-the-linked-list/
 
 [LC0973.cpp]: Solutions/LC0973.cpp
 [K Closest Points to Origin]: https://leetcode.com/problems/k-closest-points-to-origin/
