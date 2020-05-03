@@ -84,6 +84,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0442.cpp]		| [Find All Duplicates in an Array]												| Medium		|
 | [LC0515.cpp]		| [Find Largest Value in Each Tree Row]											| Medium		|
 | [LC0525.cpp]		| [Contiguous Array]															| Medium		|
+| [LC0543.cpp]		| [Diameter of Binary Tree]														| Easy			|
 | [LC0560.cpp]		| [Subarray Sum Equals K]														| Medium		|
 | [LC0678.cpp]		| [Valid Parenthesis String]													| Medium		|
 | [LC0692.cpp]		| [Top K Frequent Words]														| Medium		|
@@ -346,6 +347,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0525.cpp]: Solutions/LC0525.cpp
 [Contiguous Array]: https://leetcode.com/problems/contiguous-array/
+
+[LC0543.cpp]: Solutions/LC0543.cpp
+[Diameter of Binary Tree]: https://leetcode.com/problems/diameter-of-binary-tree/
 
 [LC0560.cpp]: Solutions/LC0560.cpp
 [Subarray Sum Equals K]: https://leetcode.com/problems/subarray-sum-equals-k/
