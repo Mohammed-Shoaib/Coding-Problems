@@ -4,36 +4,37 @@ Problem Statement: https://leetcode.com/problems/copy-list-with-random-pointer/
 
 class Solution {
 public:
-    Node* copyRandomList(Node* head) {
-		unordered_map<Node*, Node*> m;
-        Node *temp1, *prev, *temp2, *head2;
-		head2 = prev = nullptr;
+	Node* copyRandomList(Node* head) {
+		Node *head2, *temp1, *temp2;
 
-		// Clone nodes of linked list
+		// clone nodes of linked list
 		temp1 = head;
 		while (temp1) {
 			temp2 = new Node(temp1->val);
-			if (prev)
-				prev->next = temp2;
-			else
-				head2 = temp2;
-			m[temp1] = temp2;
-			prev = temp2;
-			temp1 = temp1->next;
+			temp2->next = temp1->next;
+			temp1->next = temp2;
+			temp1 = temp2->next;
+		}
+		head2 = (head) ? head->next : nullptr;
+
+		// assign random pointers
+		temp1 = head;
+		while (temp1) {
+			temp2 = temp1->next;
+			if (temp1->random)
+				temp2->random = temp1->random->next;
+			temp1 = temp2->next;
 		}
 
-		// Assign random pointers
+		// undo rewirings
 		temp1 = head;
-		temp2 = head2;
 		while (temp1) {
-			if (temp1->random)
-				temp2->random = m[temp1->random];
-			else
-				temp2->random = nullptr;
-			temp1 = temp1->next;
-			temp2 = temp2->next;
+			temp2 = temp1->next;
+			if (temp2)
+				temp1->next = temp2->next;
+			temp1 = temp2;
 		}
 
 		return head2;
-    }
+	}
 };
