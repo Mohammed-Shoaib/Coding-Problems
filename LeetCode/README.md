@@ -91,6 +91,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0692.cpp]		| [Top K Frequent Words]														| Medium		|
 | [LC0701.cpp]		| [Insert into a Binary Search Tree]											| Medium		|
 | [LC0718.cpp]		| [Maximum Length of Repeated Subarray]											| Medium		|
+| [LC0771.cpp]		| [Jewels and Stones]															| Easy			|
 | [LC0844.cpp]		| [Backspace String Compare]													| Easy			|
 | [LC0876.cpp]		| [Middle of the Linked List]													| Easy			|
 | [LC0973.cpp]		| [K Closest Points to Origin]													| Medium		|
@@ -369,6 +370,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0718.cpp]: Solutions/LC0718.cpp
 [Maximum Length of Repeated Subarray]: https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+
+[LC0771.cpp]: Solutions/LC0771.cpp
+[Jewels and Stones]: https://leetcode.com/problems/jewels-and-stones/
 
 [LC0844.cpp]: Solutions/LC0844.cpp
 [Backspace String Compare]: https://leetcode.com/problems/backspace-string-compare/
