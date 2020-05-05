@@ -83,6 +83,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0322.cpp]		| [Coin Change]																	| Medium		|
 | [LC0383.cpp]		| [Ransom Note]																	| Easy			|
 | [LC0442.cpp]		| [Find All Duplicates in an Array]												| Medium		|
+| [LC0476.cpp]		| [Number Complement]															| Easy			|
 | [LC0515.cpp]		| [Find Largest Value in Each Tree Row]											| Medium		|
 | [LC0525.cpp]		| [Contiguous Array]															| Medium		|
 | [LC0543.cpp]		| [Diameter of Binary Tree]														| Easy			|
@@ -347,6 +348,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0442.cpp]: Solutions/LC0442.cpp
 [Find All Duplicates in an Array]: https://leetcode.com/problems/find-all-duplicates-in-an-array/
+
+[LC0476.cpp]: Solutions/LC0476.cpp
+[Number Complement]: https://leetcode.com/problems/number-complement/
 
 [LC0515.cpp]: Solutions/LC0515.cpp
 [Find Largest Value in Each Tree Row]: https://leetcode.com/problems/find-largest-value-in-each-tree-row/
