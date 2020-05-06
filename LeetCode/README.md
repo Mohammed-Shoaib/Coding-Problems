@@ -97,6 +97,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0844.cpp]		| [Backspace String Compare]													| Easy			|
 | [LC0876.cpp]		| [Middle of the Linked List]													| Easy			|
 | [LC0973.cpp]		| [K Closest Points to Origin]													| Medium		|
+| [LC1009.cpp]		| [Complement of Base 10 Integer]												| Easy			|
 | [LC1046.cpp]		| [Last Stone Weight]															| Easy			|
 | [LC1143.cpp]		| [Longest Common Subsequence]													| Medium		|
 | [LC1190.cpp]		| [Reverse Substrings Between Each Pair of Parentheses]							| Medium		|
@@ -391,6 +392,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0973.cpp]: Solutions/LC0973.cpp
 [K Closest Points to Origin]: https://leetcode.com/problems/k-closest-points-to-origin/
+
+[LC1009.cpp]: Solutions/LC1009.cpp
+[Complement of Base 10 Integer]: https://leetcode.com/problems/complement-of-base-10-integer/
 
 [LC1046.cpp]: Solutions/LC1046.cpp
 [Last Stone Weight]: https://leetcode.com/problems/last-stone-weight/
