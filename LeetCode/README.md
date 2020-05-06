@@ -82,6 +82,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0307.cpp]		| [Range Sum Query - Mutable]													| Medium		|
 | [LC0322.cpp]		| [Coin Change]																	| Medium		|
 | [LC0383.cpp]		| [Ransom Note]																	| Easy			|
+| [LC0387.cpp]		| [First Unique Character in a String]											| Easy			|
 | [LC0442.cpp]		| [Find All Duplicates in an Array]												| Medium		|
 | [LC0476.cpp]		| [Number Complement]															| Easy			|
 | [LC0515.cpp]		| [Find Largest Value in Each Tree Row]											| Medium		|
@@ -96,8 +97,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0844.cpp]		| [Backspace String Compare]													| Easy			|
 | [LC0876.cpp]		| [Middle of the Linked List]													| Easy			|
 | [LC0973.cpp]		| [K Closest Points to Origin]													| Medium		|
-| [LC1143.cpp]		| [Longest Common Subsequence]													| Medium		|
 | [LC1046.cpp]		| [Last Stone Weight]															| Easy			|
+| [LC1143.cpp]		| [Longest Common Subsequence]													| Medium		|
 | [LC1190.cpp]		| [Reverse Substrings Between Each Pair of Parentheses]							| Medium		|
 | [LC1191.cpp]		| [K-Concatenation Maximum Sum]													| Medium		|
 | [LC1201.cpp]		| [Ugly Number III]																| Medium		|
@@ -346,6 +347,9 @@ The questions are divided into 3 levels of difficulty:
 [LC0383.cpp]: Solutions/LC0383.cpp
 [Ransom Note]: https://leetcode.com/problems/ransom-note/
 
+[LC0387.cpp]: Solutions/LC0387.cpp
+[First Unique Character in a String]: https://leetcode.com/problems/first-unique-character-in-a-string/
+
 [LC0442.cpp]: Solutions/LC0442.cpp
 [Find All Duplicates in an Array]: https://leetcode.com/problems/find-all-duplicates-in-an-array/
 
@@ -388,11 +392,11 @@ The questions are divided into 3 levels of difficulty:
 [LC0973.cpp]: Solutions/LC0973.cpp
 [K Closest Points to Origin]: https://leetcode.com/problems/k-closest-points-to-origin/
 
-[LC1143.cpp]: Solutions/LC1143.cpp
-[Longest Common Subsequence]: https://leetcode.com/problems/longest-common-subsequence/
-
 [LC1046.cpp]: Solutions/LC1046.cpp
 [Last Stone Weight]: https://leetcode.com/problems/last-stone-weight/
+
+[LC1143.cpp]: Solutions/LC1143.cpp
+[Longest Common Subsequence]: https://leetcode.com/problems/longest-common-subsequence/
 
 [LC1190.cpp]: Solutions/LC1190.cpp
 [Reverse Substrings Between Each Pair of Parentheses]: https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
