@@ -65,6 +65,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0189.cpp]		| [Rotate Array]																| Easy			|
 | [LC0199.cpp]		| [Binary Tree Right Side View]													| Medium		|
 | [LC0200.cpp]		| [Number of Islands]															| Medium		|
+| [LC0201.cpp]		| [Bitwise AND of Numbers Range]												| Medium		|
 | [LC0202.cpp]		| [Happy Number]																| Easy			|
 | [LC0208.cpp]		| [Implement Trie (Prefix Tree)]												| Medium		|
 | [LC0215.cpp]		| [Kth Largest Element in an Array]												| Medium		|
@@ -296,6 +297,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0200.cpp]: Solutions/LC0200.cpp
 [Number of Islands]: https://leetcode.com/problems/number-of-islands/
+
+[LC0201.cpp]: Solutions/LC0201.cpp
+[Bitwise AND of Numbers Range]: https://leetcode.com/problems/bitwise-and-of-numbers-range/
 
 [LC0202.cpp]: Solutions/LC0202.cpp
 [Happy Number]: https://leetcode.com/problems/happy-number/
