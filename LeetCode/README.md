@@ -115,6 +115,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1222.cpp]		| [Queens That Can Attack the King]												| Medium		|
 | [LC1229.cpp]		| [Meeting Scheduler]															| Medium		|
 | [LC1230.cpp]		| [Toss Strange Coins]															| Medium		|
+| [LC1232.cpp]		| [Check If It Is a Straight Line]												| Easy			|
 | [LC1233.cpp]		| [Remove Sub-Folders from the Filesystem]										| Medium		|
 | [LC1238.cpp]		| [Circular Permutation in Binary Representation]								| Medium		|
 | [LC1239.cpp]		| [Maximum Length of a Concatenated String with Unique Characters]				| Medium		|
@@ -450,6 +451,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1230.cpp]: Solutions/LC1230.cpp
 [Toss Strange Coins]: https://leetcode.com/problems/toss-strange-coins/
+
+[LC1232.cpp]: Solutions/LC1232.cpp
+[Check If It Is a Straight Line]: https://leetcode.com/problems/check-if-it-is-a-straight-line/
 
 [LC1233.cpp]: Solutions/LC1233.cpp
 [Remove Sub-Folders from the Filesystem]: https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
