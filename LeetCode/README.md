@@ -102,6 +102,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0876.cpp]		| [Middle of the Linked List]													| Easy			|
 | [LC0973.cpp]		| [K Closest Points to Origin]													| Medium		|
 | [LC0993.cpp]		| [Cousins in Binary Tree]														| Easy			|
+| [LC0997.cpp]		| [Find the Town Judge]															| Easy			|
 | [LC1008.cpp]		| [Construct Binary Search Tree from Preorder Traversal]						| Medium		|
 | [LC1009.cpp]		| [Complement of Base 10 Integer]												| Easy			|
 | [LC1046.cpp]		| [Last Stone Weight]															| Easy			|
@@ -414,6 +415,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0993.cpp]: Solutions/LC0993.cpp
 [Cousins in Binary Tree]: https://leetcode.com/problems/cousins-in-binary-tree/
+
+[LC0997.cpp]: Solutions/LC0997.cpp
+[Find the Town Judge]: https://leetcode.com/problems/find-the-town-judge/
 
 [LC1008.cpp]: Solutions/LC1008.cpp
 [Construct Binary Search Tree from Preorder Traversal]: https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
