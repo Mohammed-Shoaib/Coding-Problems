@@ -84,6 +84,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0283.cpp]		| [Move Zeroes]																	| Easy			|
 | [LC0307.cpp]		| [Range Sum Query - Mutable]													| Medium		|
 | [LC0322.cpp]		| [Coin Change]																	| Medium		|
+| [LC0367.cpp]		| [Valid Perfect Square]														| Easy			|
 | [LC0383.cpp]		| [Ransom Note]																	| Easy			|
 | [LC0387.cpp]		| [First Unique Character in a String]											| Easy			|
 | [LC0442.cpp]		| [Find All Duplicates in an Array]												| Medium		|
@@ -359,6 +360,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0322.cpp]: Solutions/LC0322.cpp
 [Coin Change]: https://leetcode.com/problems/coin-change/
+
+[LC0367.cpp]: Solutions/LC0367.cpp
+[Valid Perfect Square]: https://leetcode.com/problems/valid-perfect-square/
 
 [LC0383.cpp]: Solutions/LC0383.cpp
 [Ransom Note]: https://leetcode.com/problems/ransom-note/
