@@ -82,6 +82,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0268.cpp]		| [Missing Number]																| Easy			|
 | [LC0278.cpp]		| [First Bad Version]															| Easy			|
 | [LC0283.cpp]		| [Move Zeroes]																	| Easy			|
+| [LC0303.cpp]		| [Range Sum Query - Immutable]													| Easy			|
 | [LC0307.cpp]		| [Range Sum Query - Mutable]													| Medium		|
 | [LC0322.cpp]		| [Coin Change]																	| Medium		|
 | [LC0367.cpp]		| [Valid Perfect Square]														| Easy			|
@@ -356,6 +357,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0283.cpp]: Solutions/LC0283.cpp
 [Move Zeroes]: https://leetcode.com/problems/move-zeroes/
+
+[LC0303.cpp]: Solutions/LC0303.cpp
+[Range Sum Query - Immutable]: https://leetcode.com/problems/range-sum-query-immutable/
 
 [LC0307.cpp]: Solutions/LC0307.cpp
 [Range Sum Query - Mutable]: https://leetcode.com/problems/range-sum-query-mutable/
