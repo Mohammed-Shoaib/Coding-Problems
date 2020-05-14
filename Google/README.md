@@ -18,6 +18,12 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [B.cpp](Code%20Jam/2017/Qualification%20Round/B.cpp)	| [Tidy Numbers]							| Qualification Round	| 2017	|
 | [A.cpp](Code%20Jam/2017/Round%201A/A.cpp)				| [Alphabet Cake]							| Round 1A				| 2017	|
 
+## Hash Code
+
+| Problem Solution		| Problem Statement	| Round 				| Year	|
+|:---------------------:|-------------------|:---------------------:|:-----:|
+| [book_scanning.cpp]	| [Book scanning]	| Qualification Round	| 2020	|
+
 ## Kick Start
 
 | Problem Solution								| Problem Statement 		| Round 	| Year	|
@@ -45,6 +51,9 @@ Solutions to some of the questions from coding competitions by [Google](https://
 [Alphabet Cake]: https://code.google.com/codejam/contest/5304486/dashboard#s=p0
 
 [//]: # (Hash Code)
+
+[book_scanning.cpp]: Hash%20Code/2020/book_scanning.cpp
+[Book scanning]: Hash%20Code/2020/Book%20scanning.pdf
 
 [//]: # (Kick Start)
 
