@@ -104,6 +104,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0771.cpp]		| [Jewels and Stones]															| Easy			|
 | [LC0844.cpp]		| [Backspace String Compare]													| Easy			|
 | [LC0876.cpp]		| [Middle of the Linked List]													| Easy			|
+| [LC0918.cpp]		| [Maximum Sum Circular Subarray]												| Medium		|
 | [LC0973.cpp]		| [K Closest Points to Origin]													| Medium		|
 | [LC0993.cpp]		| [Cousins in Binary Tree]														| Easy			|
 | [LC0997.cpp]		| [Find the Town Judge]															| Easy			|
@@ -425,6 +426,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0876.cpp]: Solutions/LC0876.cpp
 [Middle of the Linked List]: https://leetcode.com/problems/middle-of-the-linked-list/
+
+[LC0918.cpp]: Solutions/LC0918.cpp
+[Maximum Sum Circular Subarray]: https://leetcode.com/problems/maximum-sum-circular-subarray/
 
 [LC0973.cpp]: Solutions/LC0973.cpp
 [K Closest Points to Origin]: https://leetcode.com/problems/k-closest-points-to-origin/
