@@ -90,6 +90,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0383.cpp]		| [Ransom Note]																	| Easy			|
 | [LC0387.cpp]		| [First Unique Character in a String]											| Easy			|
 | [LC0402.cpp]		| [Remove K Digits]																| Medium		|
+| [LC0438.cpp]		| [Find All Anagrams in a String]												| Medium		|
 | [LC0442.cpp]		| [Find All Duplicates in an Array]												| Medium		|
 | [LC0476.cpp]		| [Number Complement]															| Easy			|
 | [LC0515.cpp]		| [Find Largest Value in Each Tree Row]											| Medium		|
@@ -385,6 +386,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0402.cpp]: Solutions/LC0402.cpp
 [Remove K Digits]: https://leetcode.com/problems/remove-k-digits/
+
+[LC0438.cpp]: Solutions/LC0438.cpp
+[Find All Anagrams in a String]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
 
 [LC0442.cpp]: Solutions/LC0442.cpp
 [Find All Duplicates in an Array]: https://leetcode.com/problems/find-all-duplicates-in-an-array/
