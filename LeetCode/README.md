@@ -98,6 +98,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0540.cpp]		| [Single Element in a Sorted Array]											| Medium		|
 | [LC0543.cpp]		| [Diameter of Binary Tree]														| Easy			|
 | [LC0560.cpp]		| [Subarray Sum Equals K]														| Medium		|
+| [LC0567.cpp]		| [Permutation in String]														| Medium		|
 | [LC0678.cpp]		| [Valid Parenthesis String]													| Medium		|
 | [LC0692.cpp]		| [Top K Frequent Words]														| Medium		|
 | [LC0701.cpp]		| [Insert into a Binary Search Tree]											| Medium		|
@@ -410,6 +411,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0560.cpp]: Solutions/LC0560.cpp
 [Subarray Sum Equals K]: https://leetcode.com/problems/subarray-sum-equals-k/
+
+[LC0567.cpp]: Solutions/LC0567.cpp
+[Permutation in String]: https://leetcode.com/problems/permutation-in-string/
 
 [LC0678.cpp]: Solutions/LC0678.cpp
 [Valid Parenthesis String]: https://leetcode.com/problems/valid-parenthesis-string/
