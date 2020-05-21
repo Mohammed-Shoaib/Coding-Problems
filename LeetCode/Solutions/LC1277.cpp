@@ -4,19 +4,21 @@ Problem Statement: https://leetcode.com/problems/count-square-submatrices-with-a
 
 class Solution {
 public:
-    int countSquares(vector< vector<int> >& matrix) {
-		int squares = 0;
+	int countSquares(vector<vector<int>>& matrix) {
+		int squares, m, n;
+		squares = 0;
+		m = matrix.size();
+		n = matrix[0].size();
+		vector<vector<int>> dp(m + 1, vector<int>(n + 1));
 		
-		// Dynamic Programming
-		for (int i = 1; i < matrix.size(); i++)
-			for (int j = 1; j < matrix[i].size(); j++) 
-				if (matrix[i][j])
-					matrix[i][j] = 1 + min(matrix[i - 1][j - 1], min(matrix[i - 1][j], matrix[i][j - 1]));
-		
-		// Sum the results
-		for (int i = 0; i < matrix.size(); i++)
-			squares += accumulate(matrix[i].begin(), matrix[i].end(), 0);
+		// dynamic programming
+		for (int i = 1; i <= m; i++)
+			for (int j = 1; j <= n; j++) 
+				if (matrix[i - 1][j - 1]) {
+					dp[i][j] = 1 + min({dp[i][j - 1], dp[i - 1][j], dp[i - 1][j - 1]});
+					squares += dp[i][j];
+				}
 		
 		return squares;
-    }
+	}
 };
