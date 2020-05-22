@@ -159,6 +159,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1319.cpp]		| [Number of Operations to Make Network Connected]								| Medium		|
 | [LC1324.cpp]		| [Print Words Vertically]														| Medium		|
 | [LC1426.cpp]		| [Counting Elements]															| Easy			|
+| [LC1427.cpp]		| [Perform String Shifts]														| Easy			|
 
 [//]: # (Solutions)
 
@@ -596,5 +597,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1426.cpp]: Solutions/LC1426.cpp
 [Counting Elements]: https://leetcode.com/problems/counting-elements/
+
+[LC1427.cpp]: Solutions/LC1427.cpp
+[Perform String Shifts]: https://leetcode.com/problems/perform-string-shifts/
 
 [//]: # (EOF)
