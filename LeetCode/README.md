@@ -160,6 +160,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1324.cpp]		| [Print Words Vertically]														| Medium		|
 | [LC1426.cpp]		| [Counting Elements]															| Easy			|
 | [LC1427.cpp]		| [Perform String Shifts]														| Easy			|
+| [LC1428.cpp]		| [Leftmost Column with at Least a One]											| Medium		|
 
 [//]: # (Solutions)
 
@@ -600,5 +601,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1427.cpp]: Solutions/LC1427.cpp
 [Perform String Shifts]: https://leetcode.com/problems/perform-string-shifts/
+
+[LC1428.cpp]: Solutions/LC1428.cpp
+[Leftmost Column with at Least a One]: https://leetcode.com/problems/leftmost-column-with-at-least-a-one/
 
 [//]: # (EOF)
