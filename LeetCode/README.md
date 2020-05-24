@@ -92,6 +92,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0402.cpp]		| [Remove K Digits]																| Medium		|
 | [LC0438.cpp]		| [Find All Anagrams in a String]												| Medium		|
 | [LC0442.cpp]		| [Find All Duplicates in an Array]												| Medium		|
+| [LC0451.cpp]		| [Sort Characters By Frequency]												| Medium		|
 | [LC0476.cpp]		| [Number Complement]															| Easy			|
 | [LC0515.cpp]		| [Find Largest Value in Each Tree Row]											| Medium		|
 | [LC0525.cpp]		| [Contiguous Array]															| Medium		|
@@ -397,6 +398,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0442.cpp]: Solutions/LC0442.cpp
 [Find All Duplicates in an Array]: https://leetcode.com/problems/find-all-duplicates-in-an-array/
+
+[LC0451.cpp]: Solutions/LC0451.cpp
+[Sort Characters By Frequency]: https://leetcode.com/problems/sort-characters-by-frequency/
 
 [LC0476.cpp]: Solutions/LC0476.cpp
 [Number Complement]: https://leetcode.com/problems/number-complement/
