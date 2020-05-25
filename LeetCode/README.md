@@ -111,6 +111,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0901.cpp]		| [Online Stock Span]															| Medium		|
 | [LC0918.cpp]		| [Maximum Sum Circular Subarray]												| Medium		|
 | [LC0973.cpp]		| [K Closest Points to Origin]													| Medium		|
+| [LC0986.cpp]		| [Interval List Intersections]													| Medium		|
 | [LC0993.cpp]		| [Cousins in Binary Tree]														| Easy			|
 | [LC0997.cpp]		| [Find the Town Judge]															| Easy			|
 | [LC1008.cpp]		| [Construct Binary Search Tree from Preorder Traversal]						| Medium		|
@@ -455,6 +456,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0973.cpp]: Solutions/LC0973.cpp
 [K Closest Points to Origin]: https://leetcode.com/problems/k-closest-points-to-origin/
+
+[LC0986.cpp]: Solutions/LC0986.cpp
+[Interval List Intersections]: https://leetcode.com/problems/interval-list-intersections/
 
 [LC0993.cpp]: Solutions/LC0993.cpp
 [Cousins in Binary Tree]: https://leetcode.com/problems/cousins-in-binary-tree/
