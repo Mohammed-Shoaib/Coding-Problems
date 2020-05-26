@@ -163,6 +163,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1426.cpp]		| [Counting Elements]															| Easy			|
 | [LC1427.cpp]		| [Perform String Shifts]														| Easy			|
 | [LC1428.cpp]		| [Leftmost Column with at Least a One]											| Medium		|
+| [LC1429.cpp]		| [First Unique Number]															| Medium		|
 
 [//]: # (Solutions)
 
@@ -612,5 +613,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1428.cpp]: Solutions/LC1428.cpp
 [Leftmost Column with at Least a One]: https://leetcode.com/problems/leftmost-column-with-at-least-a-one/
+
+[LC1429.cpp]: Solutions/LC1429.cpp
+[First Unique Number]: https://leetcode.com/problems/first-unique-number/
 
 [//]: # (EOF)
