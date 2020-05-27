@@ -116,6 +116,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0997.cpp]		| [Find the Town Judge]															| Easy			|
 | [LC1008.cpp]		| [Construct Binary Search Tree from Preorder Traversal]						| Medium		|
 | [LC1009.cpp]		| [Complement of Base 10 Integer]												| Easy			|
+| [LC1035.cpp]		| [Uncrossed Lines]																| Medium		|
 | [LC1046.cpp]		| [Last Stone Weight]															| Easy			|
 | [LC1143.cpp]		| [Longest Common Subsequence]													| Medium		|
 | [LC1190.cpp]		| [Reverse Substrings Between Each Pair of Parentheses]							| Medium		|
@@ -472,6 +473,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1009.cpp]: Solutions/LC1009.cpp
 [Complement of Base 10 Integer]: https://leetcode.com/problems/complement-of-base-10-integer/
+
+[LC1035.cpp]: Solutions/LC1035.cpp
+[Uncrossed Lines]: https://leetcode.com/problems/uncrossed-lines/
 
 [LC1046.cpp]: Solutions/LC1046.cpp
 [Last Stone Weight]: https://leetcode.com/problems/last-stone-weight/
