@@ -86,6 +86,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0307.cpp]		| [Range Sum Query - Mutable]														| Medium		|
 | [LC0322.cpp]		| [Coin Change]																		| Medium		|
 | [LC0328.cpp]		| [Odd Even Linked List]															| Medium		|
+| [LC0338.cpp]		| [Counting Bits]																	| Medium		|
 | [LC0367.cpp]		| [Valid Perfect Square]															| Easy			|
 | [LC0383.cpp]		| [Ransom Note]																		| Easy			|
 | [LC0387.cpp]		| [First Unique Character in a String]												| Easy			|
@@ -385,6 +386,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0328.cpp]: Solutions/LC0328.cpp
 [Odd Even Linked List]: https://leetcode.com/problems/odd-even-linked-list/
+
+[LC0338.cpp]: Solutions/LC0338.cpp
+[Counting Bits]: https://leetcode.com/problems/counting-bits/
 
 [LC0367.cpp]: Solutions/LC0367.cpp
 [Valid Perfect Square]: https://leetcode.com/problems/valid-perfect-square/
