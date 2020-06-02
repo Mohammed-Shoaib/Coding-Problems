@@ -170,6 +170,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1428.cpp]		| [Leftmost Column with at Least a One]												| Medium		|
 | [LC1429.cpp]		| [First Unique Number]																| Medium		|
 | [LC1430.cpp]		| [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree]	| Medium		|
+| [LC1467.cpp]		| [Probability of a Two Boxes Having The Same Number of Distinct Balls]				| Hard			|
 
 [//]: # (Solutions)
 
@@ -640,5 +641,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1430.cpp]: Solutions/LC1430.cpp
 [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree]: https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/
+
+[LC1467.cpp]: Solutions/LC1467.cpp
+[Probability of a Two Boxes Having The Same Number of Distinct Balls]: https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/
 
 [//]: # (EOF)
