@@ -42,4 +42,4 @@ Number of problems solved: 837
 |:-------------:|:---------:|
 | Code Jam 		| 9 		|
 | Hash Code 	| 1 		|
-| Kick Start 	| 8 		|
+| Kick Start 	| 9 		|
