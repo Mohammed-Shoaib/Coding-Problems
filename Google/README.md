@@ -37,6 +37,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [C.cpp](Kick%20Start/2020/Round%20B/C.cpp)	| [Robot Path Decoding]		| Round B	| 2020	|
 | [D.cpp](Kick%20Start/2020/Round%20B/D.cpp)	| [Wandering Robot]			| Round B	| 2020	|
 | [A.cpp](Kick%20Start/2020/Round%20C/A.cpp)	| [Countdown]				| Round C	| 2020	|
+| [B.cpp](Kick%20Start/2020/Round%20C/B.cpp)	| [Stable Wall]				| Round C	| 2020	|
 
 [//]: # (Code Jam)
 
@@ -69,5 +70,6 @@ Solutions to some of the questions from coding competitions by [Google](https://
 [Wandering Robot]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d8565
 
 [Countdown]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003380d2
+[Stable Wall]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003379bb
 
 [//]: # (EOF)
