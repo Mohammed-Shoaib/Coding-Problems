@@ -39,6 +39,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [A.cpp](Kick%20Start/2020/Round%20C/A.cpp)	| [Countdown]				| Round C	| 2020	|
 | [B.cpp](Kick%20Start/2020/Round%20C/B.cpp)	| [Stable Wall]				| Round C	| 2020	|
 | [C.cpp](Kick%20Start/2020/Round%20C/C.cpp)	| [Perfect Subarray]		| Round C	| 2020	|
+| [D.cpp](Kick%20Start/2020/Round%20C/D.cpp)	| [Candies]					| Round C	| 2020	|
 
 [//]: # (Code Jam)
 
@@ -73,5 +74,6 @@ Solutions to some of the questions from coding competitions by [Google](https://
 [Countdown]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003380d2
 [Stable Wall]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003379bb
 [Perfect Subarray]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003381cb
+[Candies]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/0000000000337b4d
 
 [//]: # (EOF)
