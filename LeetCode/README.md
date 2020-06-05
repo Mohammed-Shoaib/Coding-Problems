@@ -75,6 +75,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0215.cpp]		| [Kth Largest Element in an Array]													| Medium		|
 | [LC0217.cpp]		| [Contains Duplicate]																| Easy			|
 | [LC0221.cpp]		| [Maximal Square]																	| Medium		|
+| [LC0226.cpp]		| [Invert Binary Tree]																| Easy			|
 | [LC0229.cpp]		| [Majority Element II]																| Medium		|
 | [LC0230.cpp]		| [Kth Smallest Element in a BST]													| Medium		|
 | [LC0235.cpp]		| [Lowest Common Ancestor of a Binary Search Tree]									| Easy			|
@@ -356,6 +357,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0221.cpp]: Solutions/LC0221.cpp
 [Maximal Square]: https://leetcode.com/problems/maximal-square/
+
+[LC0226.cpp]: Solutions/LC0226.cpp
+[Invert Binary Tree]: https://leetcode.com/problems/invert-binary-tree/
 
 [LC0229.cpp]: Solutions/LC0229.cpp
 [Majority Element II]: https://leetcode.com/problems/majority-element-ii/
