@@ -102,6 +102,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0476.cpp]		| [Number Complement]																| Easy			|
 | [LC0515.cpp]		| [Find Largest Value in Each Tree Row]												| Medium		|
 | [LC0525.cpp]		| [Contiguous Array]																| Medium		|
+| [LC0528.cpp]		| [Random Pick with Weight]															| Medium		|
 | [LC0540.cpp]		| [Single Element in a Sorted Array]												| Medium		|
 | [LC0543.cpp]		| [Diameter of Binary Tree]															| Easy			|
 | [LC0560.cpp]		| [Subarray Sum Equals K]															| Medium		|
@@ -441,6 +442,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0525.cpp]: Solutions/LC0525.cpp
 [Contiguous Array]: https://leetcode.com/problems/contiguous-array/
+
+[LC0528.cpp]: Solutions/LC0528.cpp
+[Random Pick with Weight]: https://leetcode.com/problems/random-pick-with-weight/
 
 [LC0540.cpp]: Solutions/LC0540.cpp
 [Single Element in a Sorted Array]: https://leetcode.com/problems/single-element-in-a-sorted-array/
