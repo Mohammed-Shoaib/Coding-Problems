@@ -102,6 +102,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0451.cpp]		| [Sort Characters By Frequency]													| Medium		|
 | [LC0476.cpp]		| [Number Complement]																| Easy			|
 | [LC0515.cpp]		| [Find Largest Value in Each Tree Row]												| Medium		|
+| [LC0518.cpp]		| [Coin Change 2]																	| Medium		|
 | [LC0525.cpp]		| [Contiguous Array]																| Medium		|
 | [LC0528.cpp]		| [Random Pick with Weight]															| Medium		|
 | [LC0540.cpp]		| [Single Element in a Sorted Array]												| Medium		|
@@ -443,6 +444,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0515.cpp]: Solutions/LC0515.cpp
 [Find Largest Value in Each Tree Row]: https://leetcode.com/problems/find-largest-value-in-each-tree-row/
+
+[LC0518.cpp]: Solutions/LC0518.cpp
+[Coin Change 2]: https://leetcode.com/problems/coin-change-2/
 
 [LC0525.cpp]: Solutions/LC0525.cpp
 [Contiguous Array]: https://leetcode.com/problems/contiguous-array/
