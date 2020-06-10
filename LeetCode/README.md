@@ -96,6 +96,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0367.cpp]		| [Valid Perfect Square]															| Easy			|
 | [LC0383.cpp]		| [Ransom Note]																		| Easy			|
 | [LC0387.cpp]		| [First Unique Character in a String]												| Easy			|
+| [LC0392.cpp]		| [Is Subsequence]																	| Easy			|
 | [LC0402.cpp]		| [Remove K Digits]																	| Medium		|
 | [LC0406.cpp]		| [Queue Reconstruction by Height]													| Medium		|
 | [LC0438.cpp]		| [Find All Anagrams in a String]													| Medium		|
@@ -427,6 +428,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0387.cpp]: Solutions/LC0387.cpp
 [First Unique Character in a String]: https://leetcode.com/problems/first-unique-character-in-a-string/
+
+[LC0392.cpp]: Solutions/LC0392.cpp
+[Is Subsequence]: https://leetcode.com/problems/is-subsequence/
 
 [LC0402.cpp]: Solutions/LC0402.cpp
 [Remove K Digits]: https://leetcode.com/problems/remove-k-digits/
