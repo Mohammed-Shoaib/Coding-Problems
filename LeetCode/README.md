@@ -78,6 +78,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0226.cpp]		| [Invert Binary Tree]																| Easy			|
 | [LC0229.cpp]		| [Majority Element II]																| Medium		|
 | [LC0230.cpp]		| [Kth Smallest Element in a BST]													| Medium		|
+| [LC0231.cpp]		| [Power of Two]																	| Easy			|
 | [LC0235.cpp]		| [Lowest Common Ancestor of a Binary Search Tree]									| Easy			|
 | [LC0236.cpp]		| [Lowest Common Ancestor of a Binary Tree]											| Medium		|
 | [LC0237.cpp]		| [Delete Node in a Linked List]													| Easy			|
@@ -372,6 +373,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0230.cpp]: Solutions/LC0230.cpp
 [Kth Smallest Element in a BST]: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+
+[LC0231.cpp]: Solutions/LC0231.cpp
+[Power of Two]: https://leetcode.com/problems/power-of-two/
 
 [LC0235.cpp]: Solutions/LC0235.cpp
 [Lowest Common Ancestor of a Binary Search Tree]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
