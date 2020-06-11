@@ -6,13 +6,14 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 
 ## Solutions
 
-| Problem Solution	| Problem Statement 		| Difficulty	|
-|:-----------------:|---------------------------|:-------------:|
-| [1A.cpp]			| [Theatre Square]			| 1000			|
+| Problem Solution	| Problem Statement 														| Difficulty	|
+|:-----------------:|---------------------------------------------------------------------------|:-------------:|
+| [1A.cpp]			| [Theatre Square](https://codeforces.com/problemset/problem/1/A)			| 1000			|
+| [4A.cpp]			| [Watermelon](https://codeforces.com/problemset/problem/4/A)				| 800			|
 
 [//]: # (Solutions)
 
 [1A.cpp]: Solutions/1A.cpp
-[Theatre Square]: https://codeforces.com/problemset/problem/1/A
+[4A.cpp]: Solutions/4A.cpp
 
 [//]: # (EOF)

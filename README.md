@@ -7,10 +7,12 @@ Solutions to some of the coding problems from popular websites. Currently, there
 *   [CodeChef](CodeChef/ "CodeChef")
 *   [Google](Google/ "Google's Coding Competitions")
 *   [Gulf Programming Contest](Gulf%20Programming%20Contest/ "GPC")
+*	[Codeforces](Codeforces/ "Codeforces")
+*	[AtCoder](AtCoder/ "AtCoder")
 
 ## Stats
 
-Number of problems solved: 850
+Number of problems solved: 853
 
 ### HackerRank
 
@@ -43,3 +45,8 @@ Number of problems solved: 850
 | Code Jam 		| 9 		|
 | Hash Code 	| 1 		|
 | Kick Start 	| 12 		|
+
+### Others
+
+* Codeforces: 2
+* AtCoder: 1
