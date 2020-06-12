@@ -12,7 +12,7 @@ Solutions to some of the coding problems from popular websites. Currently, there
 
 ## Stats
 
-Number of problems solved: **858**
+Number of problems solved: **859**
 
 ### HackerRank
 
@@ -49,4 +49,4 @@ Number of problems solved: **858**
 ### Others
 
 * Codeforces: 2
-* AtCoder: 5
+* AtCoder: 6
