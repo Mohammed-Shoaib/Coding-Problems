@@ -12,6 +12,7 @@ Solutions to some of the questions on the AtCoder [website](https://atcoder.jp/ 
 | [abc158_b.cpp]	| [Count Balls](https://atcoder.jp/contests/abc158/tasks/abc158_b)									| 200	|
 | [abc158_c.cpp]	| [Tax Increase](https://atcoder.jp/contests/abc158/tasks/abc158_c)									| 300	|
 | [abc158_d.cpp]	| [String Formation](https://atcoder.jp/contests/abc158/tasks/abc158_d)								| 400	|
+| [abc158_e.cpp]	| [Divisible Substring](https://atcoder.jp/contests/abc158/tasks/abc158_e)							| 500	|
 
 [//]: # (Solutions)
 
@@ -19,5 +20,6 @@ Solutions to some of the questions on the AtCoder [website](https://atcoder.jp/ 
 [abc158_b.cpp]: Solutions/abc158_b.cpp
 [abc158_c.cpp]: Solutions/abc158_c.cpp
 [abc158_d.cpp]: Solutions/abc158_d.cpp
+[abc158_e.cpp]: Solutions/abc158_e.cpp
 
 [//]: # (EOF)
