@@ -25,6 +25,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0021.cpp]		| [Merge Two Sorted Lists]															| Easy			|
 | [LC0031.cpp]		| [Next Permutation]																| Medium		|
 | [LC0033.cpp]		| [Search in Rotated Sorted Array]													| Medium		|
+| [LC0035.cpp]		| [Search Insert Position]															| Easy			|
 | [LC0046.cpp]		| [Permutations]																	| Medium		|
 | [LC0047.cpp]		| [Permutations II]																	| Medium		|
 | [LC0049.cpp]		| [Group Anagrams]																	| Medium		|
@@ -215,6 +216,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0033.cpp]: Solutions/LC0033.cpp
 [Search in Rotated Sorted Array]: https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+[LC0035.cpp]: Solutions/LC0035.cpp
+[Search Insert Position]: https://leetcode.com/problems/search-insert-position/
 
 [LC0046.cpp]: Solutions/LC0046.cpp
 [Permutations]: https://leetcode.com/problems/permutations/
