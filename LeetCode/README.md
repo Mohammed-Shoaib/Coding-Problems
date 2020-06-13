@@ -39,6 +39,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0070.cpp]		| [Climbing Stairs]																	| Easy			|
 | [LC0072.cpp]		| [Edit Distance]																	| Hard			|
 | [LC0074.cpp]		| [Search a 2D Matrix]																| Medium		|
+| [LC0075.cpp]		| [Sort Colors]																		| Medium		|
 | [LC0078.cpp]		| [Subsets]																			| Medium		|
 | [LC0088.cpp]		| [Merge Sorted Array]																| Easy			|
 | [LC0089.cpp]		| [Gray Code]																		| Medium		|
@@ -258,6 +259,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0074.cpp]: Solutions/LC0074.cpp
 [Search a 2D Matrix]: https://leetcode.com/problems/search-a-2d-matrix/
+
+[LC0075.cpp]: Solutions/LC0075.cpp
+[Sort Colors]: https://leetcode.com/problems/sort-colors/
 
 [LC0078.cpp]: Solutions/LC0078.cpp
 [Subsets]: https://leetcode.com/problems/subsets/
