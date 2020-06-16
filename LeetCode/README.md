@@ -97,6 +97,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0338.cpp]		| [Counting Bits]																	| Medium		|
 | [LC0344.cpp]		| [Reverse String]																	| Easy			|
 | [LC0367.cpp]		| [Valid Perfect Square]															| Easy			|
+| [LC0368.cpp]		| [Largest Divisible Subset]														| Medium		|
 | [LC0380.cpp]		| [Insert Delete GetRandom O(1)]													| Medium		|
 | [LC0383.cpp]		| [Ransom Note]																		| Easy			|
 | [LC0387.cpp]		| [First Unique Character in a String]												| Easy			|
@@ -435,6 +436,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0367.cpp]: Solutions/LC0367.cpp
 [Valid Perfect Square]: https://leetcode.com/problems/valid-perfect-square/
+
+[LC0368.cpp]: Solutions/LC0368.cpp
+[Largest Divisible Subset]: https://leetcode.com/problems/largest-divisible-subset/
 
 [LC0380.cpp]: Solutions/LC0380.cpp
 [Insert Delete GetRandom O(1)]: https://leetcode.com/problems/insert-delete-getrandom-o1/
