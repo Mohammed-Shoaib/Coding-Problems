@@ -57,6 +57,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0124.cpp]		| [Binary Tree Maximum Path Sum]													| Hard			|
 | [LC0126.cpp]		| [Word Ladder II]																	| Hard			|
 | [LC0127.cpp]		| [Word Ladder]																		| Medium		|
+| [LC0130.cpp]		| [Surrounded Regions]																| Medium		|
 | [LC0136.cpp]		| [Single Number]																	| Easy			|
 | [LC0138.cpp]		| [Copy List with Random Pointer]													| Medium		|
 | [LC0139.cpp]		| [Word Break]																		| Medium		|
@@ -319,6 +320,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0127.cpp]: Solutions/LC0127.cpp
 [Word Ladder]: https://leetcode.com/problems/word-ladder/
+
+[LC0130.cpp]: Solutions/LC0130.cpp
+[Surrounded Regions]: https://leetcode.com/problems/surrounded-regions/
 
 [LC0136.cpp]: Solutions/LC0136.cpp
 [Single Number]: https://leetcode.com/problems/single-number/
