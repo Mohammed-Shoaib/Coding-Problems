@@ -1,7 +1,7 @@
 # CodeChef Problems
 Solutions to some of the questions on the CodeChef [website](https://www.codechef.com "CodeChef").
 
-<p align="center"><img src="../assets/codechef.png" width=500px></p>
+<p align="center"><img src="../assets/codechef.png"></p>
 
 The questions are divided into 6 categories:
 * Beginner

@@ -2,7 +2,7 @@
 
 Solutions to some of the contest problems on the Gulf Programming Contest [website](http://www.gulfpc.org "GPC").
 
-<p align="center"><img src="../assets/gpc.jpg" width=250px></p>
+<p align="center"><img src="../assets/gpc.jpg"></p>
 
 This repository aims to provide solutions to problem sets of previous years.
 

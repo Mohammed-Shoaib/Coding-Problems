@@ -2,7 +2,7 @@
 
 Solutions to some of the questions from coding competitions by [Google](https://codingcompetitions.withgoogle.com/ "Google's Coding Competitions").
 
-<p align="center"><img src="../assets/google.png" height=400px></p>
+<p align="center"><img src="../assets/google.png"></p>
 
 ## Code Jam
 

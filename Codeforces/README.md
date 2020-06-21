@@ -2,7 +2,7 @@
 
 Solutions to some of the questions on the Codeforces [website](http://codeforces.com/ "Codeforces").
 
-<p align="center"><img src="../assets/codeforces.png" width=500px></p>
+<p align="center"><img src="../assets/codeforces.png"></p>
 
 ## Solutions
 

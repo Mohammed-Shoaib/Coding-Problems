@@ -2,7 +2,7 @@
 
 Solutions to some of the questions on the AtCoder [website](https://atcoder.jp/ "AtCoder").
 
-<p align="center"><img src="../assets/atcoder.png" width=500px></p>
+<p align="center"><img src="../assets/atcoder.png"></p>
 
 ## Solutions
 

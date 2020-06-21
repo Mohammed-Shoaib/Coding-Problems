@@ -14,22 +14,6 @@ Solutions to some of the coding problems from popular websites. Currently, there
 
 Number of problems solved: **868**
 
-### HackerRank
-
-| Type 		| Solved 	|
-|:---------:|:---------:|
-| Easy 		| 375 		|
-| Medium 	| 83 		|
-| Hard 		| 7 		|
-
-### CodeChef
-
-| Type 		| Solved 	|
-|:---------:|:---------:|
-| Beginner 	| 102 		|
-| Easy 		| 93 		|
-| Medium 	| 2 		|
-
 ### LeetCode
 
 | Type 		| Solved 	|
@@ -37,6 +21,14 @@ Number of problems solved: **868**
 | Easy 		| 54 		|
 | Medium 	| 117 		|
 | Hard 		| 5 		|
+
+### HackerRank
+
+| Type 		| Solved 	|
+|:---------:|:---------:|
+| Easy 		| 375 		|
+| Medium 	| 83 		|
+| Hard 		| 7 		|
 
 ### Google
 
@@ -46,7 +38,16 @@ Number of problems solved: **868**
 | Hash Code 	| 1 		|
 | Kick Start 	| 12 		|
 
+### CodeChef
+
+| Type 		| Solved 	|
+|:---------:|:---------:|
+| Beginner 	| 102 		|
+| Easy 		| 93 		|
+| Medium 	| 2 		|
+
 ### Others
 
 * Codeforces: 2
 * AtCoder: 6
+* Gulf Programming Contest :40
