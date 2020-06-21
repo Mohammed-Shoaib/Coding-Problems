@@ -1,0 +1,86 @@
+{
+	"LeetCode": {
+		"Easy": 54,
+		"Medium": 117,
+		"Hard": 5
+	},
+	"HackerRank": {
+		"Algorithms": {
+			"Easy": 108,
+			"Medium": 25,
+			"Hard": 1
+		},
+		"C": {
+			"Easy": 11,
+			"Medium": 7,
+			"Hard": 0
+		},
+		"C++": {
+			"Easy": 27,
+			"Medium": 1,
+			"Hard": 0
+		},
+		"Data Structures": {
+			"Easy": 8,
+			"Medium": 2,
+			"Hard": 1
+		},
+		"10 Days of Javascript": {
+			"Easy": 24,
+			"Medium": 1,
+			"Hard": 0
+		},
+		"30 Days of Code": {
+			"Easy": 27,
+			"Medium": 3,
+			"Hard": 0
+		},
+		"Linux Shell": {
+			"Easy": 38,
+			"Medium": 16,
+			"Hard": 2
+		},
+		"Python": {
+			"Easy": 88,
+			"Medium": 22,
+			"Hard": 3
+		},
+		"Regex": {
+			"Easy": 41,
+			"Medium": 6,
+			"Hard": 0
+		},
+		"Easy": 372,
+		"Medium": 83,
+		"Hard": 7
+	},
+	"Google": {
+		"Code Jam": 9,
+		"Hash Code": 1,
+		"Kick Start": 12
+	},
+	"CodeChef": {
+		"Beginner": 102,
+		"Easy": 93,
+		"Medium": 2
+	},
+	"Codeforces": {
+		"800": 1,
+		"1000": 1
+	},
+	"AtCoder": {
+		"100": 1,
+		"200": 1,
+		"300": 1,
+		"400": 1,
+		"500": 1,
+		"600": 1
+	},
+	"Gulf Programming Contest": {
+		"2015": 6,
+		"2016": 6,
+		"2017": 9,
+		"2018": 8,
+		"2019": 11
+	}
+}

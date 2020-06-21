@@ -3,7 +3,7 @@
 |Day| Problem Solution					| Problem Statement 			|
 |:-:|:---------------------------------:|:-----------------------------:|
 | 0 | [Hello, World!.js]				| [Hello, World!]				|
-| 0	| [Data Types.js]					| [Data Types]					| 
+| 0	| [Data Types.js]					| [Data Types]					|
 | 1 | [Arithmetic Operators.js] 		| [Arithmetic Operators]		|
 | 1 | [Functions.js] 					| [Functions]	 				|
 | 1 | [Let and Const.js]				| [Let and Const]				|

@@ -104,7 +104,7 @@
 |[E0098]|[Big Sorting]|
 |[E0099]|[Poker Nim]|
 |[E0100]|[Introduction to Nim Game]|
-|[E0101]|[Mis�re Nim]|
+|[E0101]|[Misère Nim]|
 |[E0102]|[A Chessboard Game]|
 |[E0103]|[Sherlock and Array]|
 |[E0104]|[Beautiful Pairs]|

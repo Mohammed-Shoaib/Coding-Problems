@@ -13,11 +13,11 @@ The questions are divided into 3 levels of difficulty:
 | Category              | Completed |
 |:---------------------:|:---------:|
 | Algorithms			| 134		|
-| C						| 0			|
+| C						| 18/25		|
 | C++					| 43/44		|
 | Data Structures		| 11		|
 | 10 Days of Javascript | 25/25		|
-| 30 Days of Code		| 0/30		|
-| Linux Shell			| 0			|
-| Python				| 115/115	|
+| 30 Days of Code		| 30/30		|
+| Linux Shell			| 62/65		|
+| Python				| 113/115	|
 | Regex					| 47/47		|
