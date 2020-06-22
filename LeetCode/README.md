@@ -32,6 +32,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0050.cpp]		| [Pow(x, n)]																		| Medium		|
 | [LC0053.cpp]		| [Maximum Subarray]																| Easy			|
 | [LC0055.cpp]		| [Jump Game]																		| Medium		|
+| [LC0060.cpp]		| [Permutation Sequence]															| Medium		|
 | [LC0064.cpp]		| [Minimum Path Sum]																| Medium		|
 | [LC0065.cpp]		| [Valid Number]																	| Hard			|
 | [LC0067.cpp]		| [Add Binary]																		| Easy			|
@@ -246,6 +247,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0055.cpp]: Solutions/LC0055.cpp
 [Jump Game]: https://leetcode.com/problems/jump-game/
+
+[LC0060.cpp]: Solutions/LC0060.cpp
+[Permutation Sequence]: https://leetcode.com/problems/permutation-sequence/
 
 [LC0064.cpp]: Solutions/LC0064.cpp
 [Minimum Path Sum]: https://leetcode.com/problems/minimum-path-sum/
