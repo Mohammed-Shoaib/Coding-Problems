@@ -6,8 +6,8 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 
 ## Solutions
 
-| Problem Solution	| Problem Statement 														| Difficulty	|
-|:-----------------:|---------------------------------------------------------------------------|:-------------:|
+| Problem Solution | Problem Statement                                                                                    | Difficulty |
+|:----------------:|------------------------------------------------------------------------------------------------------|:----------:|
 | [1A.cpp]			| [Theatre Square](https://codeforces.com/problemset/problem/1/A)			| 1000			|
 | [4A.cpp]			| [Watermelon](https://codeforces.com/problemset/problem/4/A)				| 800			|
 
