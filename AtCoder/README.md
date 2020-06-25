@@ -15,6 +15,7 @@ Solutions to some of the questions on the AtCoder [website](https://atcoder.jp/ 
 | [abc158_e.cpp]                 | [Divisible Substring](https://atcoder.jp/contests/abc158/tasks/abc158_e)                             | 500   |
 | [abc158_f.cpp]                 | [Removing Robots](https://atcoder.jp/contests/abc158/tasks/abc158_f)                                 | 600   |
 | [abc162_a.cpp]                 | [Lucky 7](https://atcoder.jp/contests/abc162/tasks/abc162_a)                                         | 100   |
+| [abc162_b.cpp]                 | [FizzBuzz Sum](https://atcoder.jp/contests/abc162/tasks/abc162_b)                                    | 200   |
 
 [//]: # (Solutions)
 
@@ -25,5 +26,6 @@ Solutions to some of the questions on the AtCoder [website](https://atcoder.jp/ 
 [abc158_e.cpp]: Solutions/abc158_e.cpp
 [abc158_f.cpp]: Solutions/abc158_f.cpp
 [abc162_a.cpp]: Solutions/abc162_a.cpp
+[abc162_b.cpp]: Solutions/abc162_b.cpp
 
 [//]: # (EOF)
