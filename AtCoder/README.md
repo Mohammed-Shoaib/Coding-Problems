@@ -17,6 +17,7 @@ Solutions to some of the questions on the AtCoder [website](https://atcoder.jp/ 
 | [abc162_a.cpp]                 | [Lucky 7](https://atcoder.jp/contests/abc162/tasks/abc162_a)                                         | 100   |
 | [abc162_b.cpp]                 | [FizzBuzz Sum](https://atcoder.jp/contests/abc162/tasks/abc162_b)                                    | 200   |
 | [abc162_c.cpp]                 | [Sum of gcd of Tuples (Easy)](https://atcoder.jp/contests/abc162/tasks/abc162_c)                     | 300   |
+| [abc162_d.cpp]                 | [RGB Triplets](https://atcoder.jp/contests/abc162/tasks/abc162_d)                                    | 400   |
 
 [//]: # (Solutions)
 
@@ -29,5 +30,6 @@ Solutions to some of the questions on the AtCoder [website](https://atcoder.jp/ 
 [abc162_a.cpp]: Solutions/abc162_a.cpp
 [abc162_b.cpp]: Solutions/abc162_b.cpp
 [abc162_c.cpp]: Solutions/abc162_c.cpp
+[abc162_d.cpp]: Solutions/abc162_d.cpp
 
 [//]: # (EOF)
