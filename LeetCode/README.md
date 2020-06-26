@@ -45,6 +45,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0088.cpp]     | [Merge Sorted Array]                                                                                 | Easy       |
 | [LC0089.cpp]     | [Gray Code]                                                                                          | Medium     |
 | [LC0094.cpp]     | [Binary Tree Inorder Traversal]                                                                      | Medium     |
+| [LC0096.cpp]     | [Unique Binary Search Trees]                                                                         | Medium     |
 | [LC0098.cpp]     | [Validate Binary Search Tree]                                                                        | Medium     |
 | [LC0100.cpp]     | [Same Tree]                                                                                          | Easy       |
 | [LC0101.cpp]     | [Symmetric Tree]                                                                                     | Easy       |
@@ -289,6 +290,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0094.cpp]: Solutions/LC0094.cpp
 [Binary Tree Inorder Traversal]: https://leetcode.com/problems/binary-tree-inorder-traversal/
+
+[LC0096.cpp]: Solutions/LC0096.cpp
+[Unique Binary Search Trees]: https://leetcode.com/problems/unique-binary-search-trees/
 
 [LC0098.cpp]: Solutions/LC0098.cpp
 [Validate Binary Search Tree]: https://leetcode.com/problems/validate-binary-search-tree/
@@ -736,5 +740,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1467.cpp]: Solutions/LC1467.cpp
 [Probability of a Two Boxes Having The Same Number of Distinct Balls]: https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/
+
 
 [//]: # (EOF)
