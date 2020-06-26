@@ -45,6 +45,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0088.cpp]     | [Merge Sorted Array]                                                                                 | Easy       |
 | [LC0089.cpp]     | [Gray Code]                                                                                          | Medium     |
 | [LC0094.cpp]     | [Binary Tree Inorder Traversal]                                                                      | Medium     |
+| [LC0095.cpp]     | [Unique Binary Search Trees II]                                                                      | Medium     |
 | [LC0096.cpp]     | [Unique Binary Search Trees]                                                                         | Medium     |
 | [LC0098.cpp]     | [Validate Binary Search Tree]                                                                        | Medium     |
 | [LC0100.cpp]     | [Same Tree]                                                                                          | Easy       |
@@ -290,6 +291,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0094.cpp]: Solutions/LC0094.cpp
 [Binary Tree Inorder Traversal]: https://leetcode.com/problems/binary-tree-inorder-traversal/
+
+[LC0095.cpp]: Solutions/LC0095.cpp
+[Unique Binary Search Trees II]: https://leetcode.com/problems/unique-binary-search-trees-ii/
 
 [LC0096.cpp]: Solutions/LC0096.cpp
 [Unique Binary Search Trees]: https://leetcode.com/problems/unique-binary-search-trees/
