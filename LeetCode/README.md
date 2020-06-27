@@ -98,6 +98,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0275.cpp]     | [H-Index II]                                                                                         | Medium     |
 | [LC0278.cpp]     | [First Bad Version]                                                                                  | Easy       |
 | [LC0283.cpp]     | [Move Zeroes]                                                                                        | Easy       |
+| [LC0287.cpp]     | [Find the Duplicate Number]                                                                          | Medium     |
 | [LC0303.cpp]     | [Range Sum Query - Immutable]                                                                        | Easy       |
 | [LC0307.cpp]     | [Range Sum Query - Mutable]                                                                          | Medium     |
 | [LC0322.cpp]     | [Coin Change]                                                                                        | Medium     |
@@ -450,6 +451,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0283.cpp]: Solutions/LC0283.cpp
 [Move Zeroes]: https://leetcode.com/problems/move-zeroes/
+
+[LC0287.cpp]: Solutions/LC0287.cpp
+[Find the Duplicate Number]: https://leetcode.com/problems/find-the-duplicate-number/
 
 [LC0303.cpp]: Solutions/LC0303.cpp
 [Range Sum Query - Immutable]: https://leetcode.com/problems/range-sum-query-immutable/
