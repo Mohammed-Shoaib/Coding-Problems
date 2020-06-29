@@ -98,6 +98,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0268.cpp]     | [Missing Number]                                                                                     | Easy       |
 | [LC0275.cpp]     | [H-Index II]                                                                                         | Medium     |
 | [LC0278.cpp]     | [First Bad Version]                                                                                  | Easy       |
+| [LC0279.cpp]     | [Perfect Squares]                                                                                    | Medium     |
 | [LC0283.cpp]     | [Move Zeroes]                                                                                        | Easy       |
 | [LC0287.cpp]     | [Find the Duplicate Number]                                                                          | Medium     |
 | [LC0303.cpp]     | [Range Sum Query - Immutable]                                                                        | Easy       |
@@ -452,6 +453,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0278.cpp]: Solutions/LC0278.cpp
 [First Bad Version]: https://leetcode.com/problems/first-bad-version/
+
+[LC0279.cpp]: Solutions/LC0279.cpp
+[Perfect Squares]: https://leetcode.com/problems/perfect-squares/
 
 [LC0283.cpp]: Solutions/LC0283.cpp
 [Move Zeroes]: https://leetcode.com/problems/move-zeroes/
