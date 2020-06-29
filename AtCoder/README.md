@@ -19,6 +19,7 @@ Solutions to some of the questions on the AtCoder [website](https://atcoder.jp/ 
 | [abc162_c.cpp]                 | [Sum of gcd of Tuples (Easy)](https://atcoder.jp/contests/abc162/tasks/abc162_c)                     | 300   |
 | [abc162_d.cpp]                 | [RGB Triplets](https://atcoder.jp/contests/abc162/tasks/abc162_d)                                    | 400   |
 | [abc172_a.cpp]                 | [Calc](https://atcoder.jp/contests/abc172/tasks/abc172_a)                                            | 100   |
+| [abc172_b.cpp]                 | [Minor Change](https://atcoder.jp/contests/abc172/tasks/abc172_b)                                    | 200   |
 
 [//]: # (Solutions)
 
@@ -33,5 +34,6 @@ Solutions to some of the questions on the AtCoder [website](https://atcoder.jp/ 
 [abc162_c.cpp]: Solutions/abc162_c.cpp
 [abc162_d.cpp]: Solutions/abc162_d.cpp
 [abc172_a.cpp]: Solutions/abc172_a.cpp
+[abc172_b.cpp]: Solutions/abc172_b.cpp
 
 [//]: # (EOF)
