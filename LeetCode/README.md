@@ -105,6 +105,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0307.cpp]     | [Range Sum Query - Mutable]                                                                          | Medium     |
 | [LC0322.cpp]     | [Coin Change]                                                                                        | Medium     |
 | [LC0328.cpp]     | [Odd Even Linked List]                                                                               | Medium     |
+| [LC0332.cpp]     | [Reconstruct Itinerary]                                                                              | Medium     |
 | [LC0338.cpp]     | [Counting Bits]                                                                                      | Medium     |
 | [LC0344.cpp]     | [Reverse String]                                                                                     | Easy       |
 | [LC0367.cpp]     | [Valid Perfect Square]                                                                               | Easy       |
@@ -474,6 +475,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0328.cpp]: Solutions/LC0328.cpp
 [Odd Even Linked List]: https://leetcode.com/problems/odd-even-linked-list/
+
+[LC0332.cpp]: Solutions/LC0332.cpp
+[Reconstruct Itinerary]: https://leetcode.com/problems/reconstruct-itinerary/
 
 [LC0338.cpp]: Solutions/LC0338.cpp
 [Counting Bits]: https://leetcode.com/problems/counting-bits/
