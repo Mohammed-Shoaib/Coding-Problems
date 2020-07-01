@@ -34,6 +34,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0055.cpp]     | [Jump Game]                                                                                          | Medium     |
 | [LC0060.cpp]     | [Permutation Sequence]                                                                               | Medium     |
 | [LC0062.cpp]     | [Unique Paths]                                                                                       | Medium     |
+| [LC0063.cpp]     | [Unique Paths II]                                                                                    | Medium     |
 | [LC0064.cpp]     | [Minimum Path Sum]                                                                                   | Medium     |
 | [LC0065.cpp]     | [Valid Number]                                                                                       | Hard       |
 | [LC0067.cpp]     | [Add Binary]                                                                                         | Easy       |
@@ -263,6 +264,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0062.cpp]: Solutions/LC0062.cpp
 [Unique Paths]: https://leetcode.com/problems/unique-paths/
+
+[LC0063.cpp]: Solutions/LC0063.cpp
+[Unique Paths II]: https://leetcode.com/problems/unique-paths-ii/
 
 [LC0064.cpp]: Solutions/LC0064.cpp
 [Minimum Path Sum]: https://leetcode.com/problems/minimum-path-sum/
