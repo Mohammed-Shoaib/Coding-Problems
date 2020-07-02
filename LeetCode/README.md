@@ -44,6 +44,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0074.cpp]     | [Search a 2D Matrix]                                                                                 | Medium     |
 | [LC0075.cpp]     | [Sort Colors]                                                                                        | Medium     |
 | [LC0078.cpp]     | [Subsets]                                                                                            | Medium     |
+| [LC0079.cpp]     | [Word Search]                                                                                        | Medium     |
 | [LC0088.cpp]     | [Merge Sorted Array]                                                                                 | Easy       |
 | [LC0089.cpp]     | [Gray Code]                                                                                          | Medium     |
 | [LC0094.cpp]     | [Binary Tree Inorder Traversal]                                                                      | Medium     |
@@ -294,6 +295,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0078.cpp]: Solutions/LC0078.cpp
 [Subsets]: https://leetcode.com/problems/subsets/
+
+[LC0079.cpp]: Solutions/LC0079.cpp
+[Word Search]: https://leetcode.com/problems/word-search/
 
 [LC0088.cpp]: Solutions/LC0088.cpp
 [Merge Sorted Array]: https://leetcode.com/problems/merge-sorted-array/
