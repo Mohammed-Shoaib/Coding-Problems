@@ -1,20 +1,21 @@
 /*
 Problem Statement: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
+Time: O(n)
+Space: O(n)
 */
 
 class Solution {
 public:
-    vector< vector<int> > levelOrderBottom(TreeNode* root) {
-		int size;
+	vector<vector<int>> levelOrderBottom(TreeNode* root) {
 		queue<TreeNode*> q;
-		vector< vector<int> > levels;
-
+		vector<vector<int>> levels;
+		
 		if (root)
 			q.push(root);
 		
 		while (!q.empty()) {
-			size = q.size();
 			vector<int> level;
+			int size = q.size();
 			
 			while (size--) {
 				root = q.front();
@@ -30,6 +31,7 @@ public:
 		}
 		
 		reverse(levels.begin(), levels.end());
+		
 		return levels;
-    }
+	}
 };

@@ -154,6 +154,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1009.cpp]     | [Complement of Base 10 Integer]                                                                      | Easy       |
 | [LC1029.cpp]     | [Two City Scheduling]                                                                                | Easy       |
 | [LC1035.cpp]     | [Uncrossed Lines]                                                                                    | Medium     |
+| [LC1044.cpp]     | [Longest Duplicate Substring]                                                                        | Hard       |
 | [LC1046.cpp]     | [Last Stone Weight]                                                                                  | Easy       |
 | [LC1143.cpp]     | [Longest Common Subsequence]                                                                         | Medium     |
 | [LC1190.cpp]     | [Reverse Substrings Between Each Pair of Parentheses]                                                | Medium     |
@@ -626,6 +627,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1035.cpp]: Solutions/LC1035.cpp
 [Uncrossed Lines]: https://leetcode.com/problems/uncrossed-lines/
+
+[LC1044.cpp]: Solutions/LC1044.cpp
+[Longest Duplicate Substring]: https://leetcode.com/problems/longest-duplicate-substring/
 
 [LC1046.cpp]: Solutions/LC1046.cpp
 [Last Stone Weight]: https://leetcode.com/problems/last-stone-weight/
