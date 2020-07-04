@@ -121,6 +121,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0402.cpp]     | [Remove K Digits]                                                                                    | Medium     |
 | [LC0406.cpp]     | [Queue Reconstruction by Height]                                                                     | Medium     |
 | [LC0438.cpp]     | [Find All Anagrams in a String]                                                                      | Medium     |
+| [LC0441.cpp]     | [Arranging Coins]                                                                                    | Easy       |
 | [LC0442.cpp]     | [Find All Duplicates in an Array]                                                                    | Medium     |
 | [LC0451.cpp]     | [Sort Characters By Frequency]                                                                       | Medium     |
 | [LC0468.cpp]     | [Validate IP Address]                                                                                | Medium     |
@@ -528,6 +529,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0438.cpp]: Solutions/LC0438.cpp
 [Find All Anagrams in a String]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
+
+[LC0441.cpp]: Solutions/LC0441.cpp
+[Arranging Coins]: https://leetcode.com/problems/arranging-coins/
 
 [LC0442.cpp]: Solutions/LC0442.cpp
 [Find All Duplicates in an Array]: https://leetcode.com/problems/find-all-duplicates-in-an-array/
