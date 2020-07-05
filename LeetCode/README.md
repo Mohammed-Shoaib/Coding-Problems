@@ -147,6 +147,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0886.cpp]     | [Possible Bipartition]                                                                               | Medium     |
 | [LC0901.cpp]     | [Online Stock Span]                                                                                  | Medium     |
 | [LC0918.cpp]     | [Maximum Sum Circular Subarray]                                                                      | Medium     |
+| [LC0957.cpp]     | [Prison Cells After N Days]                                                                          | Medium     |
 | [LC0973.cpp]     | [K Closest Points to Origin]                                                                         | Medium     |
 | [LC0986.cpp]     | [Interval List Intersections]                                                                        | Medium     |
 | [LC0993.cpp]     | [Cousins in Binary Tree]                                                                             | Easy       |
@@ -607,6 +608,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0918.cpp]: Solutions/LC0918.cpp
 [Maximum Sum Circular Subarray]: https://leetcode.com/problems/maximum-sum-circular-subarray/
+
+[LC0957.cpp]: Solutions/LC0957.cpp
+[Prison Cells After N Days]: https://leetcode.com/problems/prison-cells-after-n-days/
 
 [LC0973.cpp]: Solutions/LC0973.cpp
 [K Closest Points to Origin]: https://leetcode.com/problems/k-closest-points-to-origin/
