@@ -99,6 +99,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0237.cpp]     | [Delete Node in a Linked List]                                                                       | Easy       |
 | [LC0238.cpp]     | [Product of Array Except Self]                                                                       | Medium     |
 | [LC0242.cpp]     | [Valid Anagram]                                                                                      | Easy       |
+| [LC0264.cpp]     | [Ugly Number II]                                                                                     | Medium     |
 | [LC0268.cpp]     | [Missing Number]                                                                                     | Easy       |
 | [LC0275.cpp]     | [H-Index II]                                                                                         | Medium     |
 | [LC0278.cpp]     | [First Bad Version]                                                                                  | Easy       |
@@ -464,6 +465,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0242.cpp]: Solutions/LC0242.cpp
 [Valid Anagram]: https://leetcode.com/problems/valid-anagram/
+
+[LC0264.cpp]: Solutions/LC0264.cpp
+[Ugly Number II]: https://leetcode.com/problems/ugly-number-ii/
 
 [LC0268.cpp]: Solutions/LC0268.cpp
 [Missing Number]: https://leetcode.com/problems/missing-number/
