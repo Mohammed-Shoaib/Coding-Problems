@@ -128,6 +128,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0442.cpp]     | [Find All Duplicates in an Array]                                                                    | Medium     |
 | [LC0451.cpp]     | [Sort Characters By Frequency]                                                                       | Medium     |
 | [LC0461.cpp]     | [Hamming Distance]                                                                                   | Easy       |
+| [LC0463.cpp]     | [Island Perimeter]                                                                                   | Easy       |
 | [LC0468.cpp]     | [Validate IP Address]                                                                                | Medium     |
 | [LC0476.cpp]     | [Number Complement]                                                                                  | Easy       |
 | [LC0515.cpp]     | [Find Largest Value in Each Tree Row]                                                                | Medium     |
@@ -555,6 +556,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0461.cpp]: Solutions/LC0461.cpp
 [Hamming Distance]: https://leetcode.com/problems/hamming-distance/
+
+[LC0463.cpp]: Solutions/LC0463.cpp
+[Island Perimeter]: https://leetcode.com/problems/island-perimeter/
 
 [LC0468.cpp]: Solutions/LC0468.cpp
 [Validate IP Address]: https://leetcode.com/problems/validate-ip-address
