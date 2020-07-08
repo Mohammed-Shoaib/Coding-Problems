@@ -37,6 +37,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0063.cpp]     | [Unique Paths II]                                                                                    | Medium     |
 | [LC0064.cpp]     | [Minimum Path Sum]                                                                                   | Medium     |
 | [LC0065.cpp]     | [Valid Number]                                                                                       | Hard       |
+| [LC0066.cpp]     | [Plus One]                                                                                           | Easy       |
 | [LC0067.cpp]     | [Add Binary]                                                                                         | Easy       |
 | [LC0069.cpp]     | [Sqrt(x)]                                                                                            | Easy       |
 | [LC0070.cpp]     | [Climbing Stairs]                                                                                    | Easy       |
@@ -281,6 +282,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0065.cpp]: Solutions/LC0065.cpp
 [Valid Number]: https://leetcode.com/problems/valid-number/
+
+[LC0066.cpp]: Solutions/LC0066.cpp
+[Plus One]: https://leetcode.com/problems/plus-one/
 
 [LC0067.cpp]: Solutions/LC0067.cpp
 [Add Binary]: https://leetcode.com/problems/add-binary/
