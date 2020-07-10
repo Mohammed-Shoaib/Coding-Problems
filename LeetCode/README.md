@@ -139,6 +139,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0543.cpp]     | [Diameter of Binary Tree]                                                                            | Easy       |
 | [LC0560.cpp]     | [Subarray Sum Equals K]                                                                              | Medium     |
 | [LC0567.cpp]     | [Permutation in String]                                                                              | Medium     |
+| [LC0662.cpp]     | [Maximum Width of Binary Tree]                                                                       | Medium     |
 | [LC0678.cpp]     | [Valid Parenthesis String]                                                                           | Medium     |
 | [LC0692.cpp]     | [Top K Frequent Words]                                                                               | Medium     |
 | [LC0700.cpp]     | [Search in a Binary Search Tree]                                                                     | Easy       |
@@ -589,6 +590,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0567.cpp]: Solutions/LC0567.cpp
 [Permutation in String]: https://leetcode.com/problems/permutation-in-string/
+
+[LC0662.cpp]: Solutions/LC0662.cpp
+[Maximum Width of Binary Tree]: https://leetcode.com/problems/maximum-width-of-binary-tree/
 
 [LC0678.cpp]: Solutions/LC0678.cpp
 [Valid Parenthesis String]: https://leetcode.com/problems/valid-parenthesis-string/
