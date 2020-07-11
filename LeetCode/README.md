@@ -123,6 +123,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0392.cpp]     | [Is Subsequence]                                                                                     | Easy       |
 | [LC0402.cpp]     | [Remove K Digits]                                                                                    | Medium     |
 | [LC0406.cpp]     | [Queue Reconstruction by Height]                                                                     | Medium     |
+| [LC0430.cpp]     | [Flatten a Multilevel Doubly Linked List]                                                            | Medium     |
 | [LC0438.cpp]     | [Find All Anagrams in a String]                                                                      | Medium     |
 | [LC0441.cpp]     | [Arranging Coins]                                                                                    | Easy       |
 | [LC0442.cpp]     | [Find All Duplicates in an Array]                                                                    | Medium     |
@@ -542,6 +543,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0406.cpp]: Solutions/LC0406.cpp
 [Queue Reconstruction by Height]: https://leetcode.com/problems/queue-reconstruction-by-height/
+
+[LC0430.cpp]: Solutions/LC0430.cpp
+[Flatten a Multilevel Doubly Linked List]: https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
 
 [LC0438.cpp]: Solutions/LC0438.cpp
 [Find All Anagrams in a String]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
