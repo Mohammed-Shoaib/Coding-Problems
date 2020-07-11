@@ -48,6 +48,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0079.cpp]     | [Word Search]                                                                                        | Medium     |
 | [LC0088.cpp]     | [Merge Sorted Array]                                                                                 | Easy       |
 | [LC0089.cpp]     | [Gray Code]                                                                                          | Medium     |
+| [LC0090.cpp]     | [Subsets II]                                                                                         | Medium     |
 | [LC0094.cpp]     | [Binary Tree Inorder Traversal]                                                                      | Medium     |
 | [LC0095.cpp]     | [Unique Binary Search Trees II]                                                                      | Medium     |
 | [LC0096.cpp]     | [Unique Binary Search Trees]                                                                         | Medium     |
@@ -318,6 +319,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0089.cpp]: Solutions/LC0089.cpp
 [Gray Code]: https://leetcode.com/problems/gray-code/
+
+[LC0090.cpp]: Solutions/LC0090.cpp
+[Subsets II]: https://leetcode.com/problems/subsets-ii/
 
 [LC0094.cpp]: Solutions/LC0094.cpp
 [Binary Tree Inorder Traversal]: https://leetcode.com/problems/binary-tree-inorder-traversal/
