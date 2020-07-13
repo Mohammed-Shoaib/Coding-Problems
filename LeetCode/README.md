@@ -80,6 +80,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0174.cpp]     | [Dungeon Game]                                                                                       | Hard       |
 | [LC0179.cpp]     | [Largest Number]                                                                                     | Medium     |
 | [LC0189.cpp]     | [Rotate Array]                                                                                       | Easy       |
+| [LC0190.cpp]     | [Reverse Bits]                                                                                       | Easy       |
 | [LC0199.cpp]     | [Binary Tree Right Side View]                                                                        | Medium     |
 | [LC0200.cpp]     | [Number of Islands]                                                                                  | Medium     |
 | [LC0201.cpp]     | [Bitwise AND of Numbers Range]                                                                       | Medium     |
@@ -415,6 +416,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0189.cpp]: Solutions/LC0189.cpp
 [Rotate Array]: https://leetcode.com/problems/rotate-array/
+
+[LC0190.cpp]: Solutions/LC0190.cpp
+[Reverse Bits]: https://leetcode.com/problems/reverse-bits/
 
 [LC0199.cpp]: Solutions/LC0199.cpp
 [Binary Tree Right Side View]: https://leetcode.com/problems/binary-tree-right-side-view/
