@@ -210,6 +210,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1318.cpp]     | [Minimum Flips to Make a OR b Equal to c]                                                            | Medium     |
 | [LC1319.cpp]     | [Number of Operations to Make Network Connected]                                                     | Medium     |
 | [LC1324.cpp]     | [Print Words Vertically]                                                                             | Medium     |
+| [LC1344.cpp]     | [Angle Between Hands of a Clock]                                                                     | Medium     |
 | [LC1426.cpp]     | [Counting Elements]                                                                                  | Easy       |
 | [LC1427.cpp]     | [Perform String Shifts]                                                                              | Easy       |
 | [LC1428.cpp]     | [Leftmost Column with at Least a One]                                                                | Medium     |
@@ -806,6 +807,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1324.cpp]: Solutions/LC1324.cpp
 [Print Words Vertically]: https://leetcode.com/problems/print-words-vertically/
+
+[LC1344.cpp]: Solutions/LC1344.cpp
+[Angle Between Hands of a Clock]: https://leetcode.com/problems/angle-between-hands-of-a-clock/
 
 [LC1426.cpp]: Solutions/LC1426.cpp
 [Counting Elements]: https://leetcode.com/problems/counting-elements/
