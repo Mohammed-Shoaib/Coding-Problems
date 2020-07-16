@@ -1,19 +1,22 @@
 /*
 Problem Statement: https://leetcode.com/problems/powx-n/
+Time: O(log n)
+Space: O(1)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
-    double myPow(double x, long long n) {
-        double y = pow(x, abs(n));
-        return (n >= 0) ? y : 1 / y;
-    }
-
-    double pow(double x, long long n) {
-        if (n == 0)
-            return 1;
-        double y = pow(x, n / 2);
-        y *= y;
-        return (n & 1) ? x * y : y;
-    }
+	double myPow(double x, int n) {
+		double y = 1;
+		if (x == 0)
+			return 0;
+		while (n) {
+			if (n & 1)
+				y = (n < 0) ? y / x : y * x;
+			x *= x;
+			n /= 2;
+		}
+		return y;
+	}
 };
