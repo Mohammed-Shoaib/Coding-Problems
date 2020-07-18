@@ -1,11 +1,14 @@
 /*
 Problem Statement: https://leetcode.com/problems/course-schedule-ii/
+Time: O(V + E)
+Space: O(V + E)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
 	vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-		bool is_cycle = false;
+		bool has_cycle = false;
 		vector<int> order;
 		vector<int> visited(numCourses);
 		vector<vector<int>> adj(numCourses);
@@ -17,7 +20,7 @@ public:
 				if (!visited[u])
 					dfs(u);
 				else if (visited[u] == 1)
-					is_cycle = true;
+					has_cycle = true;
 			}
 			visited[s] = 2;
 			order.push_back(s);
@@ -32,7 +35,7 @@ public:
 				dfs(i);
 		reverse(order.begin(), order.end());
 
-		if (is_cycle)
+		if (has_cycle)
 			order.clear();
 
 		return order;
