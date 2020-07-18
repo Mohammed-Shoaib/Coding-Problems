@@ -117,6 +117,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0332.cpp]     | [Reconstruct Itinerary]                                                                              | Medium     |
 | [LC0338.cpp]     | [Counting Bits]                                                                                      | Medium     |
 | [LC0344.cpp]     | [Reverse String]                                                                                     | Easy       |
+| [LC0347.cpp]     | [Top K Frequent Elements]                                                                            | Medium     |
 | [LC0367.cpp]     | [Valid Perfect Square]                                                                               | Easy       |
 | [LC0368.cpp]     | [Largest Divisible Subset]                                                                           | Medium     |
 | [LC0380.cpp]     | [Insert Delete GetRandom O(1)]                                                                       | Medium     |
@@ -528,6 +529,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0344.cpp]: Solutions/LC0344.cpp
 [Reverse String]: https://leetcode.com/problems/reverse-string/
+
+[LC0347.cpp]: Solutions/LC0347.cpp
+[Top K Frequent Elements]: https://leetcode.com/problems/top-k-frequent-elements/
 
 [LC0367.cpp]: Solutions/LC0367.cpp
 [Valid Perfect Square]: https://leetcode.com/problems/valid-perfect-square/
