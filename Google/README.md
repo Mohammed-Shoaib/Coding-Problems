@@ -41,6 +41,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [C.cpp](Kick%20Start/2020/Round%20C/C.cpp)	| [Perfect Subarray]		| Round C	| 2020	|
 | [D.cpp](Kick%20Start/2020/Round%20C/D.cpp)	| [Candies]					| Round C	| 2020	|
 | [A.cpp](Kick%20Start/2020/Round%20D/A.cpp)	| [Record Breaker]			| Round D	| 2020	|
+| [B.cpp](Kick%20Start/2020/Round%20D/B.cpp)	| [Alien Piano]				| Round D	| 2020	|
 
 [//]: # (Code Jam)
 
@@ -78,5 +79,6 @@ Solutions to some of the questions from coding competitions by [Google](https://
 [Candies]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/0000000000337b4d
 
 [Record Breaker]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000387171
+[Alien Piano]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000387174
 
 [//]: # (EOF)
