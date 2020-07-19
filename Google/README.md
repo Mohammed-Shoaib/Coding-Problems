@@ -43,6 +43,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [A.cpp](Kick%20Start/2020/Round%20D/A.cpp)	| [Record Breaker]			| Round D	| 2020	|
 | [B.cpp](Kick%20Start/2020/Round%20D/B.cpp)	| [Alien Piano]				| Round D	| 2020	|
 | [C.cpp](Kick%20Start/2020/Round%20D/C.cpp)	| [Beauty of tree]			| Round D	| 2020	|
+| [D.cpp](Kick%20Start/2020/Round%20D/D.cpp)	| [Locked Doors]			| Round D	| 2020	|
 
 [//]: # (Code Jam)
 
@@ -82,5 +83,6 @@ Solutions to some of the questions from coding competitions by [Google](https://
 [Record Breaker]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000387171
 [Alien Piano]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000387174
 [Beauty of tree]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000386edd
+[Locked Doors]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000386d5c
 
 [//]: # (EOF)
