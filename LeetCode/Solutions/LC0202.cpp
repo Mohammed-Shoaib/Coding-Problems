@@ -1,5 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/happy-number/
+Time: O(1)
+Space: O(1)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
@@ -13,16 +16,16 @@ public:
 		return sum;
 	}
 
-    bool isHappy(int n) {
+	bool isHappy(int n) {
 		int a, b;
 		a = b = n;
 		
-		// Floyd's algorithm
+		// floyd's cycle-finding algorithm
 		do {
 			a = f(a);
 			b = f(f(b));
 		} while (a != b);
 		
 		return a == 1;
-    }
+	}
 };
