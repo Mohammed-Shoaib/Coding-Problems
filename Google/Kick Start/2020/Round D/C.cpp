@@ -2,32 +2,43 @@
 #include <iomanip>
 #include <vector>
 #include <functional>
-#include <unordered_set>
 
 using namespace std;
 
-double beauty_of_tree(int N, int A, int B, vector<int>& parent) {
+double beauty_of_tree(long long N, int A, int B, vector<int>& parent) {
 	double expected = 0;
-	unordered_set<int> seen;
-
-	function<void(int, int)> beauty = [&](int s, int steps) {
-		seen.insert(s);
-		for (int i = 0; i < steps; i++) {
-			if (s == parent[s])
-				return;
-			s = parent[s];
-		}
-		beauty(s, steps);
+	vector<int> ancestors;
+	vector<vector<int>> adj(N);
+	vector<vector<int>> dp(N, vector<int>(2, 1));
+	
+	function<void(int, int)> dfs = [&](int s, int a_or_b) {
+		// keep track of ancestors
+		ancestors.push_back(s);
+		for (int& u: adj[s])
+			dfs(u, a_or_b);
+		ancestors.pop_back();
+		
+		// compute sum for parent
+		int n, steps;
+		n = ancestors.size();
+		steps = (a_or_b) ? B : A;
+		if (n >= steps)
+			dp[ancestors[n - steps]][a_or_b] += dp[s][a_or_b];
 	};
 
-	for (int i = 0; i < N; i++)
-		for (int j = 0; j < N; j++) {
-			seen.clear();
-			beauty(i, A);
-			beauty(j, B);
-			expected += seen.size();
-		}
-	expected /= (long long) N * N;
+	// preprocess
+	for (int i = 1; i < N; i++)
+		adj[parent[i]].push_back(i);
+	dfs(0, 0);
+	dfs(0, 1);
+	
+	// inclusion-exclusion
+	for (int i = 0; i < N; i++) {
+		expected += dp[i][0] * N;
+		expected += dp[i][1] * N;
+		expected -= (long long) dp[i][0] * dp[i][1];
+	}
+	expected /= N * N;
 	
 	return expected;
 }
