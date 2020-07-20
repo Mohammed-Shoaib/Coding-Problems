@@ -4,21 +4,16 @@
 
 using namespace std;
 
-int locked_doors(int N, int S, int K, vector<int> D) {
-	int l = S - 1, r = S;
-	const int INF = numeric_limits<int>::max();
-	D[0] = D[N] = INF;
-	
-	while (--K) {
-		if (D[l] > D[r]) {
-			S = r + 1;
-			D[r++] = INF;
-		} else {
-			S = l;
-			D[l--] = INF;
-		}
+// passes test set 1
+int locked_doors(int N, int S, int K, vector<int>& D) {
+	int l, r;
+	l = r = S;
+	while (K--) {
+		if (D[l] > D[r])
+			S = ++r;
+		else
+			S = l--;
 	}
-	
 	return S;
 }
 
@@ -31,6 +26,7 @@ int main() {
 		vector<int> D(N + 1);
 		for (int i = 1; i < N; i++)
 			cin >> D[i];
+		D[0] = D[N] = numeric_limits<int>::max();
 		cout << "Case #" << x << ":";
 		while (Q--) {
 			int S, K;
