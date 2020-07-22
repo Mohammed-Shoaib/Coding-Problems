@@ -85,6 +85,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0200.cpp]     | [Number of Islands]                                                                                  | Medium     |
 | [LC0201.cpp]     | [Bitwise AND of Numbers Range]                                                                       | Medium     |
 | [LC0202.cpp]     | [Happy Number]                                                                                       | Easy       |
+| [LC0203.cpp]     | [Remove Linked List Elements]                                                                        | Easy       |
 | [LC0207.cpp]     | [Course Schedule]                                                                                    | Medium     |
 | [LC0208.cpp]     | [Implement Trie (Prefix Tree)]                                                                       | Medium     |
 | [LC0210.cpp]     | [Course Schedule II]                                                                                 | Medium     |
@@ -433,6 +434,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0202.cpp]: Solutions/LC0202.cpp
 [Happy Number]: https://leetcode.com/problems/happy-number/
+
+[LC0203.cpp]: Solutions/LC0203.cpp
+[Remove Linked List Elements]: https://leetcode.com/problems/remove-linked-list-elements/
 
 [LC0207.cpp]: Solutions/LC0207.cpp
 [Course Schedule]: https://leetcode.com/problems/course-schedule/
