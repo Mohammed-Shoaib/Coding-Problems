@@ -154,6 +154,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0733.cpp]     | [Flood Fill]                                                                                         | Easy       |
 | [LC0771.cpp]     | [Jewels and Stones]                                                                                  | Easy       |
 | [LC0787.cpp]     | [Cheapest Flights Within K Stops]                                                                    | Medium     |
+| [LC0797.cpp]     | [All Paths From Source to Target]                                                                    | Medium     |
 | [LC0844.cpp]     | [Backspace String Compare]                                                                           | Easy       |
 | [LC0876.cpp]     | [Middle of the Linked List]                                                                          | Easy       |
 | [LC0886.cpp]     | [Possible Bipartition]                                                                               | Medium     |
@@ -642,6 +643,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0787.cpp]: Solutions/LC0787.cpp
 [Cheapest Flights Within K Stops]: https://leetcode.com/problems/cheapest-flights-within-k-stops/
+
+[LC0797.cpp]: Solutions/LC0797.cpp
+[All Paths From Source to Target]: https://leetcode.com/problems/all-paths-from-source-to-target/
 
 [LC0844.cpp]: Solutions/LC0844.cpp
 [Backspace String Compare]: https://leetcode.com/problems/backspace-string-compare/
