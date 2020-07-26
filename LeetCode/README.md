@@ -46,6 +46,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0075.cpp]     | [Sort Colors]                                                                                        | Medium     |
 | [LC0078.cpp]     | [Subsets]                                                                                            | Medium     |
 | [LC0079.cpp]     | [Word Search]                                                                                        | Medium     |
+| [LC0081.cpp]     | [Search in Rotated Sorted Array II]                                                                  | Medium     |
 | [LC0088.cpp]     | [Merge Sorted Array]                                                                                 | Easy       |
 | [LC0089.cpp]     | [Gray Code]                                                                                          | Medium     |
 | [LC0090.cpp]     | [Subsets II]                                                                                         | Medium     |
@@ -319,6 +320,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0079.cpp]: Solutions/LC0079.cpp
 [Word Search]: https://leetcode.com/problems/word-search/
+
+[LC0081.cpp]: Solutions/LC0081.cpp
+[Search in Rotated Sorted Array II]: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 
 [LC0088.cpp]: Solutions/LC0088.cpp
 [Merge Sorted Array]: https://leetcode.com/problems/merge-sorted-array/
