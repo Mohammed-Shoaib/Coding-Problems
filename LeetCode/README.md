@@ -75,6 +75,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0144.cpp]     | [Binary Tree Preorder Traversal]                                                                     | Medium     |
 | [LC0146.cpp]     | [LRU Cache]                                                                                          | Medium     |
 | [LC0151.cpp]     | [Reverse Words in a String]                                                                          | Medium     |
+| [LC0153.cpp]     | [Find Minimum in Rotated Sorted Array]                                                               | Medium     |
 | [LC0155.cpp]     | [Min Stack]                                                                                          | Easy       |
 | [LC0167.cpp]     | [Two Sum II - Input array is sorted]                                                                 | Easy       |
 | [LC0169.cpp]     | [Majority Element]                                                                                   | Easy       |
@@ -407,6 +408,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0151.cpp]: Solutions/LC0151.cpp
 [Reverse Words in a String]: https://leetcode.com/problems/reverse-words-in-a-string/
+
+[LC0153.cpp]: Solutions/LC0153.cpp
+[Find Minimum in Rotated Sorted Array]: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 
 [LC0155.cpp]: Solutions/LC0155.cpp
 [Min Stack]: https://leetcode.com/problems/min-stack/
