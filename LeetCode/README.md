@@ -164,6 +164,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0844.cpp]     | [Backspace String Compare]                                                                           | Easy       |
 | [LC0876.cpp]     | [Middle of the Linked List]                                                                          | Easy       |
 | [LC0886.cpp]     | [Possible Bipartition]                                                                               | Medium     |
+| [LC0889.cpp]     | [Construct Binary Tree from Preorder and Postorder Traversal]                                        | Medium     |
 | [LC0901.cpp]     | [Online Stock Span]                                                                                  | Medium     |
 | [LC0918.cpp]     | [Maximum Sum Circular Subarray]                                                                      | Medium     |
 | [LC0957.cpp]     | [Prison Cells After N Days]                                                                          | Medium     |
@@ -679,6 +680,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0886.cpp]: Solutions/LC0886.cpp
 [Possible Bipartition]: https://leetcode.com/problems/possible-bipartition/
+
+[LC0889.cpp]: Solutions/LC0889.cpp
+[Construct Binary Tree from Preorder and Postorder Traversal]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
 
 [LC0901.cpp]: Solutions/LC0901.cpp
 [Online Stock Span]: https://leetcode.com/problems/online-stock-span/
