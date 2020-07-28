@@ -59,6 +59,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0102.cpp]     | [Binary Tree Level Order Traversal]                                                                  | Medium     |
 | [LC0103.cpp]     | [Binary Tree Zigzag Level Order Traversal]                                                           | Medium     |
 | [LC0104.cpp]     | [Maximum Depth of Binary Tree]                                                                       | Easy       |
+| [LC0105.cpp]     | [Construct Binary Tree from Preorder and Inorder Traversal]                                          | Medium     |
 | [LC0107.cpp]     | [Binary Tree Level Order Traversal II]                                                               | Easy       |
 | [LC0112.cpp]     | [Path Sum]                                                                                           | Easy       |
 | [LC0121.cpp]     | [Best Time to Buy and Sell Stock]                                                                    | Easy       |
@@ -362,6 +363,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0104.cpp]: Solutions/LC0104.cpp
 [Maximum Depth of Binary Tree]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+[LC0105.cpp]: Solutions/LC0105.cpp
+[Construct Binary Tree from Preorder and Inorder Traversal]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 
 [LC0107.cpp]: Solutions/LC0107.cpp
 [Binary Tree Level Order Traversal II]: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
