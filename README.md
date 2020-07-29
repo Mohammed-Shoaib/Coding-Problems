@@ -5,6 +5,7 @@ Solutions to some of the coding problems from popular websites. Currently, there
 *	[LeetCode](LeetCode/ "LeetCode")
 *	[HackerRank](HackerRank/ "HackerRank")
 *	[Google](Google/ "Google's Coding Competitions")
+*	[Facebook](Facebook/ "Facebook's Coding Competitions")
 *	[CodeChef](CodeChef/ "CodeChef")
 *	[Codeforces](Codeforces/ "Codeforces")
 *	[AtCoder](AtCoder/ "AtCoder")
@@ -12,7 +13,7 @@ Solutions to some of the coding problems from popular websites. Currently, there
 
 ## Stats
 
-Number of problems solved: **960**
+Number of problems solved: **961**
 
 ### LeetCode
 
@@ -52,7 +53,7 @@ Number of problems solved: **960**
 
 ### Others
 
-* Facebook: 1
+* Facebook: 2
 * Codeforces: 5
 * AtCoder: 15
 * Gulf Programming Contest: 40
