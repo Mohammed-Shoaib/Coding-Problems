@@ -24,6 +24,7 @@ Solutions to some of the questions on the AtCoder [website](https://atcoder.jp/ 
 | [abc172_d.cpp]                 | [Sum of Divisors](https://atcoder.jp/contests/abc172/tasks/abc172_d)                                 | 400   |
 | [abc172_e.cpp]                 | [NEQ](https://atcoder.jp/contests/abc172/tasks/abc172_e)                                             | 500   |
 | [abc174_a.cpp]                 | [Air Conditioner](https://atcoder.jp/contests/abc174/tasks/abc174_a)                                 | 100   |
+| [abc174_b.cpp]                 | [Distance](https://atcoder.jp/contests/abc174/tasks/abc174_b)                                        | 200   |
 
 [//]: # (Solutions)
 
@@ -43,5 +44,6 @@ Solutions to some of the questions on the AtCoder [website](https://atcoder.jp/ 
 [abc172_d.cpp]: Solutions/abc172_d.cpp
 [abc172_e.cpp]: Solutions/abc172_e.cpp
 [abc174_a.cpp]: Solutions/abc174_a.cpp
+[abc174_b.cpp]: Solutions/abc174_b.cpp
 
 [//]: # (EOF)
