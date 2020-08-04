@@ -161,6 +161,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0692.cpp]     | [Top K Frequent Words]                                                                               | Medium     |
 | [LC0700.cpp]     | [Search in a Binary Search Tree]                                                                     | Easy       |
 | [LC0701.cpp]     | [Insert into a Binary Search Tree]                                                                   | Medium     |
+| [LC0705.cpp]     | [Design HashSet]                                                                                     | Easy       |
 | [LC0718.cpp]     | [Maximum Length of Repeated Subarray]                                                                | Medium     |
 | [LC0733.cpp]     | [Flood Fill]                                                                                         | Easy       |
 | [LC0771.cpp]     | [Jewels and Stones]                                                                                  | Easy       |
@@ -676,6 +677,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0701.cpp]: Solutions/LC0701.cpp
 [Insert into a Binary Search Tree]: https://leetcode.com/problems/insert-into-a-binary-search-tree/
+
+[LC0705.cpp]: Solutions/LC0705.cpp
+[Design HashSet]: https://leetcode.com/problems/design-hashset/
 
 [LC0718.cpp]: Solutions/LC0718.cpp
 [Maximum Length of Repeated Subarray]: https://leetcode.com/problems/maximum-length-of-repeated-subarray/
