@@ -127,6 +127,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0328.cpp]     | [Odd Even Linked List]                                                                               | Medium     |
 | [LC0332.cpp]     | [Reconstruct Itinerary]                                                                              | Medium     |
 | [LC0338.cpp]     | [Counting Bits]                                                                                      | Medium     |
+| [LC0342.cpp]     | [Power of Four]                                                                                      | Easy       |
 | [LC0344.cpp]     | [Reverse String]                                                                                     | Easy       |
 | [LC0347.cpp]     | [Top K Frequent Elements]                                                                            | Medium     |
 | [LC0367.cpp]     | [Valid Perfect Square]                                                                               | Easy       |
@@ -576,6 +577,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0338.cpp]: Solutions/LC0338.cpp
 [Counting Bits]: https://leetcode.com/problems/counting-bits/
+
+[LC0342.cpp]: Solutions/LC0342.cpp
+[Power of Four]: https://leetcode.com/problems/power-of-four/
 
 [LC0344.cpp]: Solutions/LC0344.cpp
 [Reverse String]: https://leetcode.com/problems/reverse-string/
