@@ -13,6 +13,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1374A.cpp]      | [Required Remainder](https://codeforces.com/problemset/problem/1374/A)                               | 800        |
 | [1374B.cpp]      | [Multiply by 2, divide by 6](https://codeforces.com/problemset/problem/1374/B)                       | 900        |
 | [1374C.cpp]      | [Move Brackets](https://codeforces.com/problemset/problem/1374/C)                                    | 1000       |
+| [1399A.cpp]      | [Remove Smallest](https://codeforces.com/problemset/problem/1399/A)                                  | 800        |
 
 [//]: # (Solutions)
 
@@ -21,5 +22,6 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1374A.cpp]: Solutions/1374A.cpp
 [1374B.cpp]: Solutions/1374B.cpp
 [1374C.cpp]: Solutions/1374C.cpp
+[1399A.cpp]: Solutions/1399A.cpp
 
 [//]: # (EOF)
