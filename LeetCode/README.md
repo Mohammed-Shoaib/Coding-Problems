@@ -96,6 +96,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0207.cpp]     | [Course Schedule]                                                                                    | Medium     |
 | [LC0208.cpp]     | [Implement Trie (Prefix Tree)]                                                                       | Medium     |
 | [LC0210.cpp]     | [Course Schedule II]                                                                                 | Medium     |
+| [LC0211.cpp]     | [Add and Search Word - Data structure design]                                                        | Medium     |
 | [LC0212.cpp]     | [Word Search II]                                                                                     | Hard       |
 | [LC0215.cpp]     | [Kth Largest Element in an Array]                                                                    | Medium     |
 | [LC0217.cpp]     | [Contains Duplicate]                                                                                 | Easy       |
@@ -484,6 +485,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0210.cpp]: Solutions/LC0210.cpp
 [Course Schedule II]: https://leetcode.com/problems/course-schedule-ii/
+
+[LC0211.cpp]: Solutions/LC0211.cpp
+[Add and Search Word - Data structure design]: https://leetcode.com/problems/add-and-search-word-data-structure-design/
 
 [LC0212.cpp]: Solutions/LC0212.cpp
 [Word Search II]: https://leetcode.com/problems/word-search-ii/
