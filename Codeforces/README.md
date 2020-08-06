@@ -15,6 +15,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1374C.cpp]      | [Move Brackets](https://codeforces.com/problemset/problem/1374/C)                                    | 1000       |
 | [1399A.cpp]      | [Remove Smallest](https://codeforces.com/problemset/problem/1399/A)                                  | 800        |
 | [1399B.cpp]      | [Gifts Fixing](https://codeforces.com/problemset/problem/1399/B)                                     | 800        |
+| [1399C.cpp]      | [Boats Competition](https://codeforces.com/problemset/problem/1399/C)                                |            |
 
 [//]: # (Solutions)
 
@@ -25,5 +26,6 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1374C.cpp]: Solutions/1374C.cpp
 [1399A.cpp]: Solutions/1399A.cpp
 [1399B.cpp]: Solutions/1399B.cpp
+[1399C.cpp]: Solutions/1399C.cpp
 
 [//]: # (EOF)
