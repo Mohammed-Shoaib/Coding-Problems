@@ -179,6 +179,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0957.cpp]     | [Prison Cells After N Days]                                                                          | Medium     |
 | [LC0973.cpp]     | [K Closest Points to Origin]                                                                         | Medium     |
 | [LC0986.cpp]     | [Interval List Intersections]                                                                        | Medium     |
+| [LC0987.cpp]     | [Vertical Order Traversal of a Binary Tree]                                                          | Medium     |
 | [LC0993.cpp]     | [Cousins in Binary Tree]                                                                             | Easy       |
 | [LC0997.cpp]     | [Find the Town Judge]                                                                                | Easy       |
 | [LC1008.cpp]     | [Construct Binary Search Tree from Preorder Traversal]                                               | Medium     |
@@ -734,6 +735,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0986.cpp]: Solutions/LC0986.cpp
 [Interval List Intersections]: https://leetcode.com/problems/interval-list-intersections/
+
+[LC0987.cpp]: Solutions/LC0987.cpp
+[Vertical Order Traversal of a Binary Tree]: https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
 
 [LC0993.cpp]: Solutions/LC0993.cpp
 [Cousins in Binary Tree]: https://leetcode.com/problems/cousins-in-binary-tree/
