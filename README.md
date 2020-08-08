@@ -13,7 +13,7 @@ Solutions to some of the coding problems from popular websites. Currently, there
 
 ## Stats
 
-Number of problems solved: **981**
+Number of problems solved: **982**
 
 ### LeetCode
 
@@ -54,6 +54,6 @@ Number of problems solved: **981**
 ### Others
 
 * Facebook: 3
-* Codeforces: 10
+* Codeforces: 11
 * AtCoder: 20
 * Gulf Programming Contest: 40

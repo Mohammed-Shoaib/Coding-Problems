@@ -15,7 +15,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1374C.cpp]      | [Move Brackets](https://codeforces.com/problemset/problem/1374/C)                                    | 1000       |
 | [1399A.cpp]      | [Remove Smallest](https://codeforces.com/problemset/problem/1399/A)                                  | 800        |
 | [1399B.cpp]      | [Gifts Fixing](https://codeforces.com/problemset/problem/1399/B)                                     | 800        |
-| [1399E1.cpp]     | [Weights Division (easy version)](https://codeforces.com/problemset/problem/1399/E1)                 |            |
+| [1399E2.cpp]     | [Weights Division (hard version)](https://codeforces.com/problemset/problem/1399/E2)                 |            |
 
 [//]: # (Solutions)
 
@@ -26,6 +26,6 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1374C.cpp]: Solutions/1374C.cpp
 [1399A.cpp]: Solutions/1399A.cpp
 [1399B.cpp]: Solutions/1399B.cpp
-[1399E1.cpp]: Solutions/1399E1.cpp
+[1399E2.cpp]: Solutions/1399E2.cpp
 
 [//]: # (EOF)
