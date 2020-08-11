@@ -183,6 +183,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0986.cpp]     | [Interval List Intersections]                                                                        | Medium     |
 | [LC0987.cpp]     | [Vertical Order Traversal of a Binary Tree]                                                          | Medium     |
 | [LC0993.cpp]     | [Cousins in Binary Tree]                                                                             | Easy       |
+| [LC0994.cpp]     | [Rotting Oranges]                                                                                    | Medium     |
 | [LC0997.cpp]     | [Find the Town Judge]                                                                                | Easy       |
 | [LC1008.cpp]     | [Construct Binary Search Tree from Preorder Traversal]                                               | Medium     |
 | [LC1009.cpp]     | [Complement of Base 10 Integer]                                                                      | Easy       |
@@ -749,6 +750,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0993.cpp]: Solutions/LC0993.cpp
 [Cousins in Binary Tree]: https://leetcode.com/problems/cousins-in-binary-tree/
+
+[LC0994.cpp]: Solutions/LC0994.cpp
+[Rotting Oranges]: https://leetcode.com/problems/rotting-oranges/
 
 [LC0997.cpp]: Solutions/LC0997.cpp
 [Find the Town Judge]: https://leetcode.com/problems/find-the-town-judge/
