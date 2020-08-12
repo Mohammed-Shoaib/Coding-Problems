@@ -85,6 +85,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0155.cpp]     | [Min Stack]                                                                                          | Easy       |
 | [LC0167.cpp]     | [Two Sum II - Input array is sorted]                                                                 | Easy       |
 | [LC0169.cpp]     | [Majority Element]                                                                                   | Easy       |
+| [LC0171.cpp]     | [Excel Sheet Column Number]                                                                          | Easy       |
 | [LC0174.cpp]     | [Dungeon Game]                                                                                       | Hard       |
 | [LC0179.cpp]     | [Largest Number]                                                                                     | Medium     |
 | [LC0189.cpp]     | [Rotate Array]                                                                                       | Easy       |
@@ -456,6 +457,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0169.cpp]: Solutions/LC0169.cpp
 [Majority Element]: https://leetcode.com/problems/majority-element/
+
+[LC0171.cpp]: Solutions/LC0171.cpp
+[Excel Sheet Column Number]: https://leetcode.com/problems/excel-sheet-column-number/
 
 [LC0174.cpp]: Solutions/LC0174.cpp
 [Dungeon Game]: https://leetcode.com/problems/dungeon-game/
