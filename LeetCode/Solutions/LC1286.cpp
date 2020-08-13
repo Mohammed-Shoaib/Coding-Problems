@@ -1,51 +1,53 @@
 /*
 Problem Statement: https://leetcode.com/problems/iterator-for-combination/
+Space: O(n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
+
+|------------|------|-------|
+| Operations | Time | Space |
+|------------|------|-------|
+| next()     | O(m) | O(m)  |
+| hasNext()  | O(1) | O(1)  |
+|------------|------|-------|
 */
 
 class CombinationIterator {
 private:
-	int n;
-	string s;
+	int m, n;
 	vector<int> pos;
+	string characters;
 public:
-    CombinationIterator(string characters, int combinationLength) {
-		n = characters.length();
-        s = characters;
-		pos = vector<int>(combinationLength, -1);
-    }
-
+	CombinationIterator(string characters, int combinationLength) 
+		: m(combinationLength), n(characters.length()), pos(m, -1), characters(characters) {}
+	
 	void increment() {
-		int i = pos.size() - 1;
-
+		int i = m - 1;
+		
+		// first time, create combination
 		if (pos[i] == -1) {
-			// If first time, create combination
-			for (int i = 0; i < pos.size(); i++)
-				pos[i] = i;
+			iota(pos.begin(), pos.end(), 0);
 			return;
 		}
-
+		
 		// find the position which can be incremented
-		for (int j = 0; i > 0 && n - pos[i] - j == 1; j++)
+		for (int j = 1; i > 0 && n - pos[i] - j == 0; j++)
 			i--;
 		
-		// increment position
-		pos[i]++;
-
 		// get next combination
-		for (int j = i + 1; j < pos.size(); j++)
+		pos[i]++;
+		for (int j = i + 1; j < m; j++)
 			pos[j] = pos[j - 1] + 1;
 	}
-    
-    string next() {
-		string comb = "";
-		increment();	// get next combination of positions
-		for (int i = 0; i < pos.size(); i++)	// assign characters at position to string
-			comb += s[pos[i]];
+	
+	string next() {
+		string comb;
+		increment();
+		for (int& i: pos)
+			comb += characters[i];
 		return comb;
-    }
-    
-    bool hasNext() {
-		// check if the first position can be incremented further
-        return (pos[0] != n - pos.size());
-    }
+	}
+	
+	bool hasNext() {
+		return n - pos[0] != pos.size();
+	}
 };
