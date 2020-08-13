@@ -118,6 +118,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0263.cpp]     | [Ugly Number]                                                                                        | Easy       |
 | [LC0264.cpp]     | [Ugly Number II]                                                                                     | Medium     |
 | [LC0268.cpp]     | [Missing Number]                                                                                     | Easy       |
+| [LC0274.cpp]     | [H-Index]                                                                                            | Medium     |
 | [LC0275.cpp]     | [H-Index II]                                                                                         | Medium     |
 | [LC0278.cpp]     | [First Bad Version]                                                                                  | Easy       |
 | [LC0279.cpp]     | [Perfect Squares]                                                                                    | Medium     |
@@ -556,6 +557,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0268.cpp]: Solutions/LC0268.cpp
 [Missing Number]: https://leetcode.com/problems/missing-number/
+
+[LC0274.cpp]: Solutions/LC0274.cpp
+[H-Index]: https://leetcode.com/problems/h-index/
 
 [LC0275.cpp]: Solutions/LC0275.cpp
 [H-Index II]: https://leetcode.com/problems/h-index-ii/
