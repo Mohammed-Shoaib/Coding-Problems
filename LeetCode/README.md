@@ -64,6 +64,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0106.cpp]     | [Construct Binary Tree from Inorder and Postorder Traversal]                                         | Medium     |
 | [LC0107.cpp]     | [Binary Tree Level Order Traversal II]                                                               | Easy       |
 | [LC0112.cpp]     | [Path Sum]                                                                                           | Easy       |
+| [LC0118.cpp]     | [Pascal's Triangle]                                                                                  | Easy       |
 | [LC0119.cpp]     | [Pascal's Triangle II]                                                                               | Easy       |
 | [LC0121.cpp]     | [Best Time to Buy and Sell Stock]                                                                    | Easy       |
 | [LC0122.cpp]     | [Best Time to Buy and Sell Stock II]                                                                 | Easy       |
@@ -397,6 +398,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0112.cpp]: Solutions/LC0112.cpp
 [Path Sum]: https://leetcode.com/problems/path-sum/
+
+[LC0118.cpp]: Solutions/LC0118.cpp
+[Pascal's Triangle]: https://leetcode.com/problems/pascals-triangle/
 
 [LC0119.cpp]: Solutions/LC0119.cpp
 [Pascal's Triangle II]: https://leetcode.com/problems/pascals-triangle-ii/
