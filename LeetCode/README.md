@@ -145,6 +145,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0392.cpp]     | [Is Subsequence]                                                                                     | Easy       |
 | [LC0402.cpp]     | [Remove K Digits]                                                                                    | Medium     |
 | [LC0406.cpp]     | [Queue Reconstruction by Height]                                                                     | Medium     |
+| [LC0409.cpp]     | [Longest Palindrome]                                                                                 | Easy       |
 | [LC0430.cpp]     | [Flatten a Multilevel Doubly Linked List]                                                            | Medium     |
 | [LC0437.cpp]     | [Path Sum III]                                                                                       | Medium     |
 | [LC0438.cpp]     | [Find All Anagrams in a String]                                                                      | Medium     |
@@ -641,6 +642,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0406.cpp]: Solutions/LC0406.cpp
 [Queue Reconstruction by Height]: https://leetcode.com/problems/queue-reconstruction-by-height/
+
+[LC0409.cpp]: Solutions/LC0409.cpp
+[Longest Palindrome]: https://leetcode.com/problems/longest-palindrome/
 
 [LC0430.cpp]: Solutions/LC0430.cpp
 [Flatten a Multilevel Doubly Linked List]: https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
