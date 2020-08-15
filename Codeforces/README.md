@@ -11,6 +11,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1A.cpp]         | [Theatre Square](https://codeforces.com/problemset/problem/1/A)                                      | 1000       |
 | [4A.cpp]         | [Watermelon](https://codeforces.com/problemset/problem/4/A)                                          | 800        |
 | [50A.cpp]        | [Domino piling](https://codeforces.com/problemset/problem/50/A)                                      | 800        |
+| [71A.cpp]        | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A)                                 | 800        |
 | [1374A.cpp]      | [Required Remainder](https://codeforces.com/problemset/problem/1374/A)                               | 800        |
 | [1374B.cpp]      | [Multiply by 2, divide by 6](https://codeforces.com/problemset/problem/1374/B)                       | 900        |
 | [1374C.cpp]      | [Move Brackets](https://codeforces.com/problemset/problem/1374/C)                                    | 1000       |
@@ -26,6 +27,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1A.cpp]: Solutions/1A.cpp
 [4A.cpp]: Solutions/4A.cpp
 [50A.cpp]: Solutions/50A.cpp
+[71A.cpp]: Solutions/71A.cpp
 [1374A.cpp]: Solutions/1374A.cpp
 [1374B.cpp]: Solutions/1374B.cpp
 [1374C.cpp]: Solutions/1374C.cpp
