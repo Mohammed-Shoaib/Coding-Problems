@@ -173,6 +173,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0701.cpp]     | [Insert into a Binary Search Tree]                                                                   | Medium     |
 | [LC0705.cpp]     | [Design HashSet]                                                                                     | Easy       |
 | [LC0706.cpp]     | [Design HashMap]                                                                                     | Easy       |
+| [LC0714.cpp]     | [Best Time to Buy and Sell Stock with Transaction Fee]                                               | Medium     |
 | [LC0718.cpp]     | [Maximum Length of Repeated Subarray]                                                                | Medium     |
 | [LC0733.cpp]     | [Flood Fill]                                                                                         | Easy       |
 | [LC0771.cpp]     | [Jewels and Stones]                                                                                  | Easy       |
@@ -726,6 +727,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0706.cpp]: Solutions/LC0706.cpp
 [Design HashMap]: https://leetcode.com/problems/design-hashmap/
+
+[LC0714.cpp]: Solutions/LC0714.cpp
+[Best Time to Buy and Sell Stock with Transaction Fee]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
 
 [LC0718.cpp]: Solutions/LC0718.cpp
 [Maximum Length of Repeated Subarray]: https://leetcode.com/problems/maximum-length-of-repeated-subarray/
