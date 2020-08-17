@@ -92,6 +92,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0171.cpp]     | [Excel Sheet Column Number]                                                                          | Easy       |
 | [LC0174.cpp]     | [Dungeon Game]                                                                                       | Hard       |
 | [LC0179.cpp]     | [Largest Number]                                                                                     | Medium     |
+| [LC0188.cpp]     | [Best Time to Buy and Sell Stock IV]                                                                 | Hard       |
 | [LC0189.cpp]     | [Rotate Array]                                                                                       | Easy       |
 | [LC0190.cpp]     | [Reverse Bits]                                                                                       | Easy       |
 | [LC0199.cpp]     | [Binary Tree Right Side View]                                                                        | Medium     |
@@ -486,6 +487,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0179.cpp]: Solutions/LC0179.cpp
 [Largest Number]: https://leetcode.com/problems/largest-number/
+
+[LC0188.cpp]: Solutions/LC0188.cpp
+[Best Time to Buy and Sell Stock IV]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
 
 [LC0189.cpp]: Solutions/LC0189.cpp
 [Rotate Array]: https://leetcode.com/problems/rotate-array/
