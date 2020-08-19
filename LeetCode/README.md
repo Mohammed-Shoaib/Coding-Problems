@@ -202,6 +202,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1035.cpp]     | [Uncrossed Lines]                                                                                    | Medium     |
 | [LC1044.cpp]     | [Longest Duplicate Substring]                                                                        | Hard       |
 | [LC1046.cpp]     | [Last Stone Weight]                                                                                  | Easy       |
+| [LC1103.cpp]     | [Distribute Candies to People]                                                                       | Easy       |
 | [LC1143.cpp]     | [Longest Common Subsequence]                                                                         | Medium     |
 | [LC1190.cpp]     | [Reverse Substrings Between Each Pair of Parentheses]                                                | Medium     |
 | [LC1191.cpp]     | [K-Concatenation Maximum Sum]                                                                        | Medium     |
@@ -818,6 +819,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1046.cpp]: Solutions/LC1046.cpp
 [Last Stone Weight]: https://leetcode.com/problems/last-stone-weight/
+
+[LC1103.cpp]: Solutions/LC1103.cpp
+[Distribute Candies to People]: https://leetcode.com/problems/distribute-candies-to-people/
 
 [LC1143.cpp]: Solutions/LC1143.cpp
 [Longest Common Subsequence]: https://leetcode.com/problems/longest-common-subsequence/
