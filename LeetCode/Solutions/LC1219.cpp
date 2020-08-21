@@ -1,37 +1,45 @@
 /*
 Problem Statement: https://leetcode.com/problems/path-with-maximum-gold/
+Time: O(k • 3ᵏ)
+Space: O(k)
+k => Number of cells containing gold
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
-	int x[4] = {0, 0, -1, 1};
-	int y[4] = {-1, 1, 0, 0};
-
-	int DFS(int i, int j, vector< vector<int> > &grid) {
-		// Base Cases
-		if (i < 0 || i >= grid.size() || j < 0 || j >= grid[0].size() || grid[i][j] == 0)
-			return 0;
+	int getMaximumGold(vector<vector<int>>& grid) {
+		int max_gold, m, n;
+		max_gold = 0;
+		m = grid.size();
+		n = grid[0].size();
 		
-		int max_gold, temp;
-		temp = grid[i][j];
-		max_gold = grid[i][j] = 0;
+		// traverse directions easily
+		vector<int> x = {-1, 0, 1, 0};
+		vector<int> y = {0, -1, 0, 1};
 		
-		// Loop through all directions
-		for(int k = 0; k < 4; k++)
-			max_gold = max(DFS(i + y[k], j + x[k], grid), max_gold);
-
-		grid[i][j] = temp;
-
-		return max_gold + grid[i][j];
+		// helper function
+		function<int(int, int)> dfs = [&](int i, int j) {
+			// base cases
+			if (i < 0 || i >= m || j < 0 || j >= n || grid[i][j] <= 0)
+				return 0;
+			
+			// recurse
+			int gold = 0;
+			grid[i][j] *= -1;
+			
+			for(int k = 0; k < 4; k++)
+				gold = max(dfs(i + y[k], j + x[k]), gold);
+			
+			grid[i][j] *= -1;
+			
+			return gold + grid[i][j];
+		};
+		
+		for (int i = 0; i < m; i++)
+			for (int j = 0; j < n; j++)
+				max_gold = max(dfs(i, j), max_gold);
+		
+		return max_gold;
 	}
-
-    int getMaximumGold(vector< vector<int> > &grid) {
-		int path = 0;
-
-		for (int i = 0; i < grid.size(); i++)
-			for (int j = 0; j < grid[0].size(); j++)
-				path = max(DFS(i, j, grid), path);
-		
-		return path;
-    }
 };
