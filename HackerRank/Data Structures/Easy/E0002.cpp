@@ -32,5 +32,5 @@ int main() {
 		for (int j = 0; j < arr[i].size(); j++)
 			cin >> arr[i][j];
 	cout << hourglassSum(arr);
-    return 0;
+	return 0;
 }

@@ -8,9 +8,9 @@ Problem Statement: https://www.hackerrank.com/challenges/30-hello-world/problem
 using namespace std;
 
 int main () {
-    string s;
-    getline(cin, s);
-    cout << "Hello, World." << endl;
-    cout << s << endl;
-    return 0;
+	string s;
+	getline(cin, s);
+	cout << "Hello, World." << endl;
+	cout << s << endl;
+	return 0;
 }

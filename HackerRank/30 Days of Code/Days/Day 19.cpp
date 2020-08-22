@@ -10,9 +10,9 @@ using namespace std;
 
 class Calculator : public AdvancedArithmetic {
 public:
-    int divisorSum(int n) {
+	int divisorSum(int n) {
 		int num, den, sum = 1;
-        unordered_map<int, int> factors;
+		unordered_map<int, int> factors;
 
 		// Get the prime factorization of n
 		for (int x = 2; x * x <= n; x++)
@@ -31,5 +31,5 @@ public:
 		}
 
 		return sum;
-    }
+	}
 };

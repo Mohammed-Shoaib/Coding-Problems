@@ -5,4 +5,4 @@ from itertools import permutations
 S, k = input().split()
 
 for perm in permutations(sorted(S), int(k)):
-    print(''.join(perm))
+	print(''.join(perm))

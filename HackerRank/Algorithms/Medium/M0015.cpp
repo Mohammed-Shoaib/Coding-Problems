@@ -23,13 +23,13 @@ int queensAttack(int n, int k, pair<int, int> q, vector< pair<int, int> > &obs) 
 	qx = q.second;
 	qy = q.first;
 	vector<int> dir = { n - qy, 				// North
-					    qy - 1, 				// South
-					    n - qx, 				// East
-					    qx - 1, 				// West
-					    min(n - qx, n - qy),	// North-East
-					    min(n - qx, qy - 1),	// South-East
-					    min(qx - 1, n - qy),	// North-West
-					    min(qx - 1, qy - 1) };	// South-West
+						qy - 1, 				// South
+						n - qx, 				// East
+						qx - 1, 				// West
+						min(n - qx, n - qy),	// North-East
+						min(n - qx, qy - 1),	// South-East
+						min(qx - 1, n - qy),	// North-West
+						min(qx - 1, qy - 1) };	// South-West
 	
 	for (int i = 0; i < k; i++) {
 		obx = obs[i].second;
@@ -85,5 +85,5 @@ int main() {
 	for (int i = 0; i < k; i++)
 		cin >> obs[i].first >> obs[i].second;
 	cout << queensAttack(n, k, q, obs);
-    return 0;
+	return 0;
 }

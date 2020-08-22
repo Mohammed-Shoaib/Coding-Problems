@@ -17,5 +17,5 @@ int main() {
 	reverse(A.begin(), A.end());
 	for (int i = 0; i < N; i++)
 		cout << A[i] << " ";
-    return 0;
+	return 0;
 }

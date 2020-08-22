@@ -32,5 +32,5 @@ int main() {
 		queries[i] = make_tuple(a, b, k);
 	}
 	cout << arrayManipulation(n, queries);
-    return 0;
+	return 0;
 }

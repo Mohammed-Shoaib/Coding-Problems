@@ -8,12 +8,12 @@ Problem Statement: https://www.hackerrank.com/challenges/c-tutorial-conditional-
 using namespace std;
 
 int main() {
-    string nos [] = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
-    int n;
-    cin >> n;
-    if (n <= 9)
-        cout << nos[n];
-    else
-        cout << "Greater than 9";
-    return 0;
+	string nos [] = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
+	int n;
+	cin >> n;
+	if (n <= 9)
+		cout << nos[n];
+	else
+		cout << "Greater than 9";
+	return 0;
 }

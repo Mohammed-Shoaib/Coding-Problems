@@ -4,9 +4,9 @@
 arr=($(cat -| sort -u))
 
 if (("${#arr[@]}" == 3)); then
-    echo "SCALENE"
+	echo "SCALENE"
 elif (("${#arr[@]}" == 2)); then
-    echo "ISOSCELES"
+	echo "ISOSCELES"
 else
-    echo "EQUILATERAL"
+	echo "EQUILATERAL"
 fi

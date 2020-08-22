@@ -23,5 +23,5 @@ int main() {
 			cout << lastAnswer << endl;
 		}
 	}
-    return 0;
+	return 0;
 }

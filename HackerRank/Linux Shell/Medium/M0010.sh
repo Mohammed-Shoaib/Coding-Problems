@@ -3,5 +3,5 @@
 
 awk '{
 if ($4 == "")
-    print "Not all scores are available for", $1
+	print "Not all scores are available for", $1
 }'

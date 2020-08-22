@@ -22,5 +22,5 @@ int main() {
 	int k;
 	cin >> s >> t >> k;
 	cout << appendAndDelete(s, t, k);
-    return 0;
+	return 0;
 }

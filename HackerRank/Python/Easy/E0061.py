@@ -2,6 +2,6 @@
 
 def person_lister(f):
 	def inner(people):
-    	people.sort(key=lambda x: int(x[2]))
-    	return map(f, people)
-    return inner
+		people.sort(key=lambda x: int(x[2]))
+		return map(f, people)
+	return inner

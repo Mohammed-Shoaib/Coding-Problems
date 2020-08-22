@@ -4,7 +4,7 @@
 read -n1 c
 
 if [ "${c,,}" == "y" ]; then
-    echo "YES"
+	echo "YES"
 else
-    echo "NO"
+	echo "NO"
 fi

@@ -8,15 +8,15 @@ Problem Statement: https://www.hackerrank.com/challenges/flipping-bits/problem
 using namespace std;
 
 long flippingBits(long n) {
-    return bitset<32> (n).flip().to_ulong();
+	return bitset<32> (n).flip().to_ulong();
 }
 
 int main() {
-    int q;
-    cin >> q;
-    while (q--) {
-        long n;
-        cin >> n;
-        cout << flippingBits(n) << endl;
-    }
+	int q;
+	cin >> q;
+	while (q--) {
+		long n;
+		cin >> n;
+		cout << flippingBits(n) << endl;
+	}
 }

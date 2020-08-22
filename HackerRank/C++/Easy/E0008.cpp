@@ -8,13 +8,13 @@ Problem Statement: https://www.hackerrank.com/challenges/arrays-introduction/pro
 using namespace std;
 
 int main() {
-    int N;
-    cin >> N;
-    int A[N];
-    for (int i = 0; i < N; i++)
-        cin >> A[i];
-    reverse(A, A + N);
-    for (int i = 0; i < N; i++)
-        cout << A[i] << " ";
-    return 0;
+	int N;
+	cin >> N;
+	int A[N];
+	for (int i = 0; i < N; i++)
+		cin >> A[i];
+	reverse(A, A + N);
+	for (int i = 0; i < N; i++)
+		cout << A[i] << " ";
+	return 0;
 }

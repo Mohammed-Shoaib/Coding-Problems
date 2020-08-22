@@ -2,4 +2,4 @@
 
 S = input()
 for cond in ['isalnum', 'isalpha', 'isdigit', 'islower', 'isupper']:
-    print(any(getattr(c, cond)() for c in S))
+	print(any(getattr(c, cond)() for c in S))

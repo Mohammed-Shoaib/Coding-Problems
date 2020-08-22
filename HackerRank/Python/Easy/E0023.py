@@ -3,4 +3,4 @@
 import string
 
 def solve(s):
-    return string.capwords(s, sep=' ')
+	return string.capwords(s, sep=' ')

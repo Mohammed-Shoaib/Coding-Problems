@@ -3,9 +3,9 @@
 
 awk '{
 if (NR == 1)
-    N = $1
+	N = $1
 else
-    avg += $1
+	avg += $1
 } END {
 printf "%0.3f", avg / N
 }'

@@ -5,5 +5,5 @@ import re
 sentence = '\n'.join([input() for _ in range(int(input()))])
 
 for _ in range(int(input())):
-    words = re.findall(r'(?<!\w)' + input() + r'(?!\w)', sentence)
-    print(len(words))
+	words = re.findall(r'(?<!\w)' + input() + r'(?!\w)', sentence)
+	print(len(words))

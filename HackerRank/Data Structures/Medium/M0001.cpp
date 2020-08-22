@@ -32,5 +32,5 @@ int main() {
 	vector<int> freq = matchingStrings(strings, queries);
 	for (int i = 0; i < freq.size(); i++)
 		cout << freq[i] << endl;
-    return 0;
+	return 0;
 }

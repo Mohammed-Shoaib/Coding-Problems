@@ -112,5 +112,5 @@ int main() {
 	for (int i = 0; i < n; i++)
 		cin >> grid[i];
 	cout << twoPluses(grid);
-    return 0;
+	return 0;
 }

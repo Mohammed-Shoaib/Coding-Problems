@@ -4,5 +4,5 @@
 grep -i "^[^a]*$"
 
 if [ $? -eq 1 ]; then   # grep sets $? to 1 if there were no matches
-    echo ""
+	echo ""
 fi

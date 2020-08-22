@@ -3,5 +3,5 @@
 
 for i in {1..99..2}
 do
-    echo $i
+	echo $i
 done
