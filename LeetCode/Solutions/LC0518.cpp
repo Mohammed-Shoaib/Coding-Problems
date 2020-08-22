@@ -1,5 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/coin-change-2/
+Time: O(coins + amount)
+Space: O(amount)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {

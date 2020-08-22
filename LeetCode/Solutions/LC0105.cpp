@@ -10,7 +10,7 @@ public:
 	TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
 		int pos = 0, n = inorder.size();
 		unordered_map<int, int> mp;
-
+		
 		// helper function
 		function<TreeNode*(int, int)> build = [&](int beg, int end) -> TreeNode* {
 			if (beg >= end)
@@ -25,7 +25,7 @@ public:
 			
 			return node;
 		};
-
+		
 		// store position of elements in map
 		for (int i = 0; i < n; i++)
 			mp[inorder[i]] = i;

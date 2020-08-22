@@ -4,14 +4,14 @@ Problem Statement: https://leetcode.com/problems/all-elements-in-two-binary-sear
 
 class Solution {
 public:
-    vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
+	vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
 		vector<int> b1, b2, b3;
 		inorder(root1, b1);
 		inorder(root2, b2);
 		merge(b1, b2, b3);
 		return b3;
-    }
-
+	}
+	
 	void inorder(TreeNode* node, vector<int>& b) {
 		if (!node)
 			return;
@@ -19,7 +19,7 @@ public:
 		b.push_back(node->val);
 		inorder(node->right, b);
 	}
-
+	
 	void merge(vector<int>& b1, vector<int>& b2, vector<int>& b3) {
 		int i, j;
 		i = j = 0;

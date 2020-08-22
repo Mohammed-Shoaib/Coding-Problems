@@ -2,6 +2,7 @@
 Problem Statement: https://leetcode.com/problems/arranging-coins/
 Time: O(1)
 Space: O(1)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {

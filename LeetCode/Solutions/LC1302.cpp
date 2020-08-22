@@ -1,13 +1,16 @@
 /*
 Problem Statement: https://leetcode.com/problems/deepest-leaves-sum/
+Time: O(n)
+Space: O(n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
-    int deepestLeavesSum(TreeNode* root) {
+	int deepestLeavesSum(TreeNode* root) {
 		int sum, size;
 		queue<TreeNode*> q;
-
+		
 		if (root)
 			q.push(root);
 		
@@ -24,7 +27,7 @@ public:
 					q.push(root->right);
 			}
 		}
-
+		
 		return sum;
-    }
+	}
 };

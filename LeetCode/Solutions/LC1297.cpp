@@ -4,7 +4,7 @@ Problem Statement: https://leetcode.com/problems/maximum-number-of-occurrences-o
 
 class Solution {
 public:
-    int maxFreq(string& s, int maxLetters, int minSize, int maxSize) {
+	int maxFreq(string& s, int maxLetters, int minSize, int maxSize) {
 		int occ = 0;
 		bitset<26> b;
 		unordered_map<string, int> freq;
@@ -17,7 +17,7 @@ public:
 			if (b.count() <= maxLetters)
 				occ = max(++freq[sub], occ);
 		}
-
+		
 		return occ;
-    }
+	}
 };

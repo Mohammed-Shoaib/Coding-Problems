@@ -9,7 +9,7 @@ public:
 			return {};
 		return generateTrees(1, n);
 	}
-
+	
 	vector<TreeNode*> generateTrees(int beg, int end) {
 		if (beg > end)
 			return {nullptr};

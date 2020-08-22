@@ -11,7 +11,7 @@ public:
 		int low, mid, high;
 		low = 0;
 		high = (int) nums.size() - 1;
-
+		
 		while (low < high) {
 			mid = low + (high - low) / 2;
 			if (nums[mid] < nums[high])
@@ -21,7 +21,7 @@ public:
 			else
 				high--;
 		}
-
+		
 		return nums[high];
 	}
 };

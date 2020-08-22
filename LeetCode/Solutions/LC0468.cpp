@@ -8,7 +8,7 @@ public:
 		string token;
 		vector<string> g4, g8;
 		istringstream ss(IP);
-
+		
 		// split by '.' for IPv4
 		while (getline(ss, token, '.'))
 			g4.push_back(token);
@@ -18,7 +18,7 @@ public:
 		// reset stringstream
 		ss.clear();
 		ss.str(IP);
-
+		
 		// split by ':' for IPv6
 		while (getline(ss, token, ':'))
 			g8.push_back(token);
@@ -33,7 +33,7 @@ public:
 		else
 			return "Neither";
 	}
-
+	
 	string ipv4(vector<string>& groups) {
 		bool valid = true;
 		for (string g: groups) {
@@ -48,7 +48,7 @@ public:
 		}
 		return "IPv4";
 	}
-
+	
 	string ipv6(vector<string>& groups) {
 		bool valid = true;
 		for (string& g: groups) {

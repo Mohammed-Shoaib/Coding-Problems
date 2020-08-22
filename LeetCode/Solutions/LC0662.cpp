@@ -20,7 +20,7 @@ public:
 			beg = q.front().second;
 			end = q.back().second;
 			max_w = max(end - beg + 1, max_w);
-
+			
 			while (size--) {
 				tie(root, idx) = q.front();
 				q.pop();
@@ -31,7 +31,7 @@ public:
 					q.push({root->right, 2 * idx + 2});
 			}
 		}
-
+		
 		return max_w;
 	}
 };

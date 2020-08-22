@@ -1,5 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/search-in-a-binary-search-tree/
+Time: O(h)
+Space: O(1)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {

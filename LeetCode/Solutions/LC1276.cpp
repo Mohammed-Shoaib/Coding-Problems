@@ -1,11 +1,14 @@
 /*
 Problem Statement: https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/
+Time: O(1)
+Space: O(1)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
-    vector<int> numOfBurgers(int tomatoSlices, int cheeseSlices) {
-        /*
+	vector<int> numOfBurgers(int tomatoSlices, int cheeseSlices) {
+		/*
 		4x + 2y = tomato;
 		x + y = cheese;
 		x = (tomato - 2 * cheese) / 2;
@@ -19,5 +22,5 @@ public:
 			return {};
 		else
 			return {x, y};
-    }
+	}
 };

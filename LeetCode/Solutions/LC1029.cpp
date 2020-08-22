@@ -1,5 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/two-city-scheduling/
+Time: O(n • log n)
+Space: O(1)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {

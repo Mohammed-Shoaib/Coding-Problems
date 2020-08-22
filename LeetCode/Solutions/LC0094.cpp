@@ -1,10 +1,13 @@
 /*
 Problem Statement: https://leetcode.com/problems/binary-tree-inorder-traversal/
+Time: O(n)
+Space: O(n + h)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
-    vector<int> inorderTraversal(TreeNode* root) {
+	vector<int> inorderTraversal(TreeNode* root) {
 		vector<int> order;
 		stack<TreeNode*> st;
 		
@@ -20,5 +23,5 @@ public:
 		}
 		
 		return order;
-    }
+	}
 };

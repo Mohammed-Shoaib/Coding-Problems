@@ -11,7 +11,7 @@ public:
 		int n = graph.size();
 		vector<int> path;
 		vector<vector<int>> paths;
-
+		
 		// helper function to backtrack
 		function<void(int)> dfs = [&](int s) {
 			path.push_back(s);
@@ -22,7 +22,7 @@ public:
 			path.pop_back();
 		};
 		dfs(0);
-
+		
 		return paths;
 	}
 };

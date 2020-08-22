@@ -1,7 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/perfect-squares/
-Time Complexity: O(n * sqrt(n))
-Space Complexity: O(n)
+Time: O(n • sqrt(n))
+Space: O(n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {

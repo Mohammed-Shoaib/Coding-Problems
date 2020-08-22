@@ -12,7 +12,7 @@ public:
 		freq[0]++;
 		return dfs(0, sum, root, freq);
 	}
-
+	
 	int dfs(int sum, int target, TreeNode* node, unordered_map<int, int>& freq) {
 		if (!node)
 			return 0;
@@ -20,11 +20,11 @@ public:
 		sum += node->val;
 		int cnt = freq[sum - target];
 		freq[sum]++;
-
+		
 		cnt += dfs(sum, target, node->left , freq);
 		cnt += dfs(sum, target, node->right, freq);
 		freq[sum]--;
-
+		
 		return cnt;
 	}
 };

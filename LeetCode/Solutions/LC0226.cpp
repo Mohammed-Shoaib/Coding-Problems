@@ -1,5 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/invert-binary-tree/
+Time: O(n)
+Space: O(h)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {

@@ -1,6 +1,6 @@
 /*
 Problem Statement: https://leetcode.com/problems/word-search/
-Time: O(n • m • (3 ^ len))
+Time: O(n • m • 3ˡᵉⁿ)
 Space: O(len)
 */
 
@@ -12,7 +12,7 @@ public:
 		n = board[0].size();
 		unordered_map<char, int> freq;
 		vector<int> xdir = {-1, 0, 1, 0}, ydir = {0, -1, 0, 1};
-
+		
 		// helper function
 		function<bool(int, int, int)> search = [&](int pos, int i, int j) -> bool {
 			// base cases
@@ -30,7 +30,7 @@ public:
 			
 			return found;
 		};
-
+		
 		// check if we have enough letters
 		for (int i = 0; i < m; i++)
 			for (int j = 0; j < n; j++)

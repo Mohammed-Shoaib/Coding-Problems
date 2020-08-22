@@ -2,6 +2,7 @@
 Problem Statement: https://leetcode.com/problems/plus-one/
 Time: O(n)
 Space: O(n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {

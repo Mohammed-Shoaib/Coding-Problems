@@ -8,7 +8,7 @@ public:
 		string res;
 		unordered_map<char, int> freq;
 		priority_queue<pair<int, char>> pq;
-
+		
 		for (char& c: s)
 			freq[c]++;
 		

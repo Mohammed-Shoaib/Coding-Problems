@@ -1,6 +1,6 @@
 /*
 Problem Statement: https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
-Time: O(n log³ n)
+Time: O(n • log³ n)
 Space: O(n)
 Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */

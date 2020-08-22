@@ -1,7 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/sum-root-to-leaf-numbers/
-Time Complexity: O(n)
-Space Complexity: O(n)
+Time: O(n)
+Space: O(h)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {

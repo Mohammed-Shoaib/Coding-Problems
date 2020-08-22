@@ -4,13 +4,14 @@ Problem Statement: https://leetcode.com/problems/sum-of-mutated-array-closest-to
 
 class Solution {
 public:
-    int findBestValue(vector<int>& arr, int target) {
-        int low, mid, high, sum;
+	int findBestValue(vector<int>& arr, int target) {
+		int low, mid, high, sum;
 		low = 1;
 		high = *max_element(arr.begin(), arr.end()) + 1;
 		
+		// binary search
 		while (low < high) {
-			mid = (low + high) / 2;
+			mid = low + (high - low) / 2;
 			sum = get_sum(mid, arr);
 			if (target <= sum)
 				high = mid;
@@ -22,8 +23,8 @@ public:
 			low--;
 		
 		return low;
-    }
-
+	}
+	
 	int get_sum(int x, vector<int> arr) {
 		for (int i = 0; i < arr.size(); i++)
 			if (arr[i] > x)

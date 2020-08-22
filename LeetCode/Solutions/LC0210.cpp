@@ -12,7 +12,7 @@ public:
 		vector<int> order;
 		vector<int> visited(numCourses);
 		vector<vector<int>> adj(numCourses);
-
+		
 		// helper function to perform topological sort
 		function<void(int)> dfs = [&](int s) {
 			visited[s] = 1;
@@ -25,7 +25,7 @@ public:
 			visited[s] = 2;
 			order.push_back(s);
 		};
-
+		
 		// construct adjacency list
 		for (auto& edge: prerequisites)
 			adj[edge[1]].push_back(edge[0]);
@@ -34,10 +34,10 @@ public:
 			if (!visited[i])
 				dfs(i);
 		reverse(order.begin(), order.end());
-
+		
 		if (has_cycle)
 			order.clear();
-
+		
 		return order;
 	}
 };

@@ -4,12 +4,12 @@ Problem Statement: https://leetcode.com/problems/minimum-remove-to-make-valid-pa
 
 class Solution {
 public:
-    string minRemoveToMakeValid(string& s) {
+	string minRemoveToMakeValid(string& s) {
 		int n = s.length();
-		string valid = "";
+		string valid;
 		stack<int> st;
 		vector<bool> mark(n);
-
+		
 		for (int i = 0; i < n; i++) {
 			if (s[i] == '(')
 				st.push(i);
@@ -25,11 +25,11 @@ public:
 			mark[st.top()] = true;
 			st.pop();
 		}
-
+		
 		for (int i = 0; i < n; i++)
 			if (!mark[i])
 				valid += s[i];
 		
 		return valid;
-    }
+	}
 };

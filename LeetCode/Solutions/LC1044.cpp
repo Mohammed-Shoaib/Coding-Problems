@@ -2,6 +2,7 @@
 Problem Statement: https://leetcode.com/problems/longest-duplicate-substring/
 Time: O(n² • log n), amortized O(n • log n)
 Space: O(n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class RabinKarp {
@@ -16,14 +17,14 @@ public:
 		for (int i = 0; i < m - 1; i++)
 			p = (d * p) % mod;
 	}
-
+	
 	void push(char& c1, char& c2) {
 		hash = (hash - p * (c1 - 'a')) % mod;
 		if (hash < 0)
 			hash += mod;
 		hash = (d * hash + (c2 - 'a')) % mod;
 	}
-
+	
 	int get_hash() {
 		return hash;
 	}
@@ -42,7 +43,7 @@ public:
 			RabinKarp rk(S.substr(0, x));
 			unordered_map<int, vector<int>> m;
 			m[rk.get_hash()].push_back(0);
-
+			
 			for (int i = x; i < n; i++) {
 				rk.push(S[i - x], S[i]);
 				auto it = m.find(rk.get_hash());
@@ -56,10 +57,10 @@ public:
 				}
 				m[rk.get_hash()].push_back(i - x + 1);
 			}
-
+			
 			return false;
 		};
-
+		
 		// binary search
 		while (low < high) {
 			mid = (low + high) / 2;
@@ -68,7 +69,7 @@ public:
 			else
 				high = mid;
 		}
-
+		
 		return dup;
 	}
 };

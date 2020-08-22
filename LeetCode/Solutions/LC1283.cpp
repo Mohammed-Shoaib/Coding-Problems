@@ -1,31 +1,35 @@
 /*
 Problem Statement: https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
+Time: O(n • log n)
+Space: O(1)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
-    int smallestDivisor(vector<int>& nums, int threshold) {
-		int low, mid, high, sum;
+	int smallestDivisor(vector<int>& nums, int threshold) {
+		int n, low, mid, high;
+		n = nums.size();
 		low = 1;
 		high = *max_element(nums.begin(), nums.end());
-
+		
+		// helper function
+		auto good = [&](int x) {
+			int sum = 0;
+			for (int i = 0; i < n; i++)
+				sum += (nums[i] + x - 1) / x;
+			return sum > threshold;	
+		};
+		
+		// binary search
 		while (low < high) {
-			mid = (low + high) / 2;
-			sum = get_sum(nums, mid);
-
-			if (sum > threshold)
+			mid = low + (high - low) / 2;
+			if (good(mid))
 				low = mid + 1;
 			else
 				high = mid;
 		}
-
+		
 		return high;
-    }
-
-	int get_sum(vector<int>& nums, int d) {
-		int sum = 0;
-		for (int i = 0; i < nums.size(); i++)
-			sum += (nums[i] + d - 1) / d;
-		return sum;
 	}
 };

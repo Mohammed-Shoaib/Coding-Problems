@@ -1,7 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/reconstruct-itinerary/
-Time Complexity: O(E log E)
-Space Complexity: O(E)
+Time: O(E • log E)
+Space: O(E)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
@@ -9,7 +10,7 @@ public:
 	vector<string> findItinerary(vector<vector<string>>& tickets) {
 		vector<string> order;
 		unordered_map<string, vector<string>> adj;
-
+		
 		// hierholzer's algorithm
 		function<void(string)> dfs = [&](string s) {
 			vector<string>& v = adj[s];
@@ -20,7 +21,7 @@ public:
 			}
 			order.push_back(s);
 		};
-
+		
 		// construct adjacency list
 		for (auto& t: tickets)
 			adj[t[0]].push_back(t[1]);
@@ -30,7 +31,7 @@ public:
 		// euler path finding
 		dfs("JFK");
 		reverse(order.begin(), order.end());
-
+		
 		return order;
 	}
 };

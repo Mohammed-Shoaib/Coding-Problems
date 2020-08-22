@@ -2,6 +2,7 @@
 Problem Statement: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 Time: O(n)
 Space: O(n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
@@ -14,9 +15,8 @@ public:
 			q.push(root);
 		
 		while (!q.empty()) {
-			vector<int> level;
 			int size = q.size();
-			
+			vector<int> level;
 			while (size--) {
 				root = q.front();
 				q.pop();
@@ -26,7 +26,6 @@ public:
 				if (root->right)
 					q.push(root->right);
 			}
-			
 			levels.push_back(level);
 		}
 		

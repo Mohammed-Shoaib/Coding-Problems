@@ -1,13 +1,17 @@
 /*
 Problem Statement: https://leetcode.com/problems/maximal-square/
+Time: O(m • n)
+Space: O(m • n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
-    int maximalSquare(vector<vector<char>>& matrix) {
+	int maximalSquare(vector<vector<char>>& matrix) {
 		if (matrix.empty())	
 			return 0;
-        int max_len, m, n;
+		
+		int max_len, m, n;
 		max_len = 0;
 		m = matrix.size();
 		n = matrix[0].size();
@@ -22,5 +26,5 @@ public:
 				}
 		
 		return max_len * max_len;
-    }
+	}
 };

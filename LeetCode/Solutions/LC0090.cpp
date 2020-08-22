@@ -14,7 +14,7 @@ public:
 		generate_subset(0, nums, subset, subsets);
 		return subsets;
 	}
-
+	
 	void generate_subset(int pos, vector<int>& nums, vector<int>& subset, vector<vector<int>>& subsets) {
 		subsets.push_back(subset);
 		for (int i = pos; i < nums.size(); i++) {

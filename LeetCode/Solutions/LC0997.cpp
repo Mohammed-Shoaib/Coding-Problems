@@ -1,10 +1,14 @@
 /*
 Problem Statement: https://leetcode.com/problems/find-the-town-judge/
+Time: O(M + N)
+Space: O(N)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
 	int findJudge(int N, vector<vector<int>>& trust) {
+		int M = trust.size();
 		vector<int> deg(N + 1);
 		for (vector<int>& p: trust) {
 			deg[p[0]]--;

@@ -1,5 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/counting-bits/
+Time: O(num)
+Space: O(num)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {

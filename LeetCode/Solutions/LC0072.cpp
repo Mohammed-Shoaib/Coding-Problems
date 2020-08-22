@@ -1,5 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/edit-distance/
+Time: O(m • n)
+Space: O(m • n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
@@ -16,14 +19,14 @@ public:
 			dp[i][0] = i;
 		for (int j = 1; j <= n; j++)
 			dp[0][j] = j;
-
+		
 		// dynamic programming
 		for (int i = 1; i <= m; i++)
 			for (int j = 1; j <= n; j++)
 				dp[i][j] = min({dp[i][j - 1] + 1,
 								dp[i - 1][j] + 1,
 								dp[i - 1][j - 1] + (word1[i - 1] != word2[j - 1])});
-
+		
 		return dp[m][n];
 	}
 };

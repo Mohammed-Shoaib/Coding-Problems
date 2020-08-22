@@ -1,5 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/
+Time: O(n² + (n / k)ᵏ)
+Space: O(n² + k)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
@@ -11,7 +14,7 @@ public:
 		valid = total = 0;
 		n = accumulate(balls.begin(), balls.end(), 0);
 		double nCr[n + 1][n + 1];
-
+		
 		// initialize nCr
 		for (int i = 0; i < n; i++)
 			nCr[i][0] = 1;
@@ -38,7 +41,7 @@ public:
 					  box_2 + (balls[pos] - i > 0));
 		};
 		state(0, 0, 1, 0, 0);
-
+		
 		return valid / total;
 	}
 };

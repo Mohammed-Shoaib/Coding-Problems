@@ -14,7 +14,7 @@ public:
 		ListNode *odd, *even, *even_head;
 		odd = head;
 		even = even_head = odd->next;
-
+		
 		while (even && even->next) {
 			odd->next = even->next;
 			odd = odd->next;
@@ -22,7 +22,7 @@ public:
 			even = even->next;
 		}
 		odd->next = even_head;
-
+		
 		return head;
 	}
 };

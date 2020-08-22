@@ -1,18 +1,21 @@
 /*
 Problem Statement: https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+Time: O(m • n)
+Space: O(n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
-	int findLength(vector<int> &A, vector<int> &B) {
-		int n, m, length;
-		n = A.size();
-		m = B.size();
+	int findLength(vector<int>& A, vector<int>& B) {
+		int m, n, length;
+		m = A.size();
+		n = B.size();
 		length = 0;
-		vector<int> prev(m), curr(m);
-
-		for (int i = 0; i < n; i++) {
-			for (int j = 0; j < m; j++)
+		vector<int> prev(n), curr(n);
+		
+		for (int i = 0; i < m; i++) {
+			for (int j = 0; j < n; j++)
 				if (A[i] == B[j]) {
 					if (i == 0 || j == 0)
 						curr[j] = 1;
@@ -23,7 +26,7 @@ public:
 			prev = curr;
 			fill(curr.begin(), curr.end(), 0);
 		}
-
+		
 		return length;
 	}
 };

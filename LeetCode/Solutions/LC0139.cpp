@@ -11,7 +11,7 @@ public:
 		int max_len = 0, n = s.length();
 		vector<bool> dp(n + 1);
 		unordered_set<string> words(wordDict.begin(), wordDict.end());
-
+		
 		// initialization
 		dp[0] = true;
 		for (string& word: wordDict)
@@ -22,7 +22,7 @@ public:
 			for (int j = i - 1; j >= max(0, i - max_len); j--)
 				if (dp[j] && words.count(s.substr(j, i - j)))
 					dp[i] = true;
-
+		
 		return dp[n];
 	}
 };

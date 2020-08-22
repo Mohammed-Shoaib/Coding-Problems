@@ -1,7 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/unique-paths/
-Time Complexity: O(mn)
-Space Complexity: O(mn)
+Time: O(m • n)
+Space: O(m • n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {

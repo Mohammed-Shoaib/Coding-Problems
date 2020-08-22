@@ -8,7 +8,7 @@ public:
 		bool is_cycle = false;
 		vector<int> visited(numCourses);
 		vector<vector<int>> adj(numCourses);
-
+		
 		// helper function
 		function<void(int)> dfs = [&](int s) {
 			visited[s] = 1;
@@ -20,7 +20,7 @@ public:
 			}
 			visited[s] = 2;
 		};
-
+		
 		// construct adjacency list
 		for (auto& edge: prerequisites)
 			adj[edge[1]].push_back(edge[0]);

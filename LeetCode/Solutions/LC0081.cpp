@@ -11,7 +11,7 @@ public:
 		int low, mid, high;
 		low = 0;
 		high = (int) nums.size() - 1;
-
+		
 		// binary search
 		while (low < high) {
 			mid = (low + high) / 2;
@@ -22,7 +22,7 @@ public:
 			else
 				high = mid;
 		}
-
+		
 		return !nums.empty() && nums[high] == target;
 	}
 };

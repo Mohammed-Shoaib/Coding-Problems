@@ -1,5 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+Time: O(m • n)
+Space: O(m • n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {

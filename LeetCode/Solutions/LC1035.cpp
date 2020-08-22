@@ -1,5 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/uncrossed-lines/
+Time: O(m • n)
+Space: O(m • n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
@@ -9,7 +12,7 @@ public:
 		m = A.size();
 		n = B.size();
 		vector<vector<int>> dp(m + 1, vector<int>(n + 1));
-
+		
 		// dynamic programming
 		for (int i = 1; i <= m; i++)
 			for (int j = 1; j <= n; j++) {

@@ -15,14 +15,14 @@ class TrieNode {
 public:
 	int words;
 	unordered_map<char, TrieNode*> children;
-
+	
 	TrieNode() : words(0) {}
 };
 
 class WordDictionary {
 private:
 	TrieNode* root;
-
+	
 	bool search(const string& word, TrieNode* node, int pos = 0) {
 		if (pos == word.length())
 			return node->words;
@@ -33,10 +33,10 @@ private:
 				return true;
 		return false;
 	}
-
+	
 public:
 	WordDictionary() : root(new TrieNode()) {}
-
+	
 	void addWord(string word) {
 		TrieNode* node = root;
 		for (char& c: word) {
@@ -46,7 +46,7 @@ public:
 		}
 		node->words++;
 	}
-
+	
 	bool search(string word) {
 		return search(word, root);
 	}

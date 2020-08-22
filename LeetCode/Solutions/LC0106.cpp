@@ -11,7 +11,7 @@ public:
 		int pos, n;
 		unordered_map<int, int> mp;
 		pos = n = inorder.size();
-
+		
 		// helper function
 		function<TreeNode*(int, int)> build = [&](int beg, int end) -> TreeNode* {
 			if (beg >= end)
@@ -20,17 +20,17 @@ public:
 			--pos;
 			int mid = mp[postorder[pos]];
 			TreeNode* node = new TreeNode(postorder[pos]);
-
+			
 			node->right = build(mid + 1, end);
 			node->left  = build(beg, mid);
-
+			
 			return node;
 		};
-
+		
 		// store position of elements in map
 		for (int i = 0; i < n; i++)
 			mp[inorder[i]] = i;
-
+		
 		return build(0, n);
 	}
 };

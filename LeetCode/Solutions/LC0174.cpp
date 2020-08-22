@@ -1,5 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/dungeon-game/
+Time: O(m • n)
+Space: O(m • n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
@@ -9,7 +12,7 @@ public:
 		m = dungeon.size();
 		n = dungeon[0].size();
 		int dp[m][n];
-
+		
 		// initialization
 		dp[m - 1][n - 1] = min(0, dungeon[m - 1][n - 1]);
 		for (int i = m - 2; i >= 0; i--)
@@ -21,7 +24,7 @@ public:
 		for (int i = m - 2; i >= 0; i--)
 			for (int j = n - 2; j >= 0; j--)
 				dp[i][j] = min(0, dungeon[i][j] + max(dp[i + 1][j], dp[i][j + 1]));
-
+		
 		return abs(dp[0][0]) + 1;
 	}
 };

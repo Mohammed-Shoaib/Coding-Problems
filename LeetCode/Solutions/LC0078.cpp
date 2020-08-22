@@ -10,7 +10,7 @@ public:
 	vector<vector<int>> subsets(vector<int>& nums) {
 		int n = nums.size();
 		vector<vector<int>> sets(1 << n);
-
+		
 		for (int b = 0; b < sets.size(); b++)
 			for (int i = 0; i < n; i++)
 				if ((b >> i) & 1)

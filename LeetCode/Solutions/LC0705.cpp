@@ -9,16 +9,16 @@ class MyHashSet {
 private:
 	int prime;
 	vector<list<int>> table;
-
+	
 	int hash(int key) {
 		return key % prime;
 	}
-
+	
 	list<int>::iterator search(int key) {
 		int h = hash(key);
 		return find(table[h].begin(), table[h].end(), key);
 	}
-
+	
 public:
 	MyHashSet() : prime(10007), table(prime) {}
 	

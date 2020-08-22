@@ -12,25 +12,25 @@ public:
 		prev = nullptr;
 		curr = head;
 		n -= m - 1;
-
+		
 		while (--m) {
 			prev = curr;
 			curr = curr->next;
 		}
-
+		
 		ListNode *beg = prev, *end = curr;
 		while (n--) {
 			next = curr->next;
 			curr->next = prev;
 			prev = exchange(curr, next);
 		}
-
+		
 		if (beg)
 			beg->next = prev;
 		else
 			head = prev;
 		end->next = curr;
-
+		
 		return head;
 	}
 };

@@ -1,14 +1,17 @@
- /*
+/*
 Problem Statement: https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
+Time: O(n)
+Space: O(n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
-    TreeNode* bstFromPreorder(vector<int>& preorder) {
+	TreeNode* bstFromPreorder(vector<int>& preorder) {
 		int pos = 0;
 		return construct(pos, numeric_limits<int>::max(), preorder);
-    }
-
+	}
+	
 	TreeNode* construct(int& pos, int mx, vector<int>& preorder) {
 		if (pos == preorder.size() || preorder[pos] > mx)
 			return nullptr;

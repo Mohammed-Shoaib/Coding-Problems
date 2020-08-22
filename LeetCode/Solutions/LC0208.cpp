@@ -11,37 +11,37 @@ public:
 
 class Trie {
 private:
-    TrieNode* root;
+	TrieNode* root;
 public:
-    Trie() : root(new TrieNode()) {}
-    
-    void insert(string word) {
-        TrieNode* node = root;
-        for (char& c: word) {
-            if (!node->children.count(c))
-                node->children[c] = new TrieNode();
-            node = node->children[c];
-        }
-        node->words++;
-    }
-    
-    bool search(string word) {
-        TrieNode* node = root;
-        for (char& c: word) {
-            if (!node->children.count(c))
-                return false;
-            node = node->children[c];
-        }
-        return node->words;
-    }
-    
-    bool startsWith(string prefix) {
-        TrieNode* node = root;
-        for(char& c: prefix) {
-            if (!node->children.count(c))
-                return false;
-            node = node->children[c];
-        }
-        return true;
-    }
+	Trie() : root(new TrieNode()) {}
+	
+	void insert(string word) {
+		TrieNode* node = root;
+		for (char& c: word) {
+			if (!node->children.count(c))
+				node->children[c] = new TrieNode();
+			node = node->children[c];
+		}
+		node->words++;
+	}
+	
+	bool search(string word) {
+		TrieNode* node = root;
+		for (char& c: word) {
+			if (!node->children.count(c))
+				return false;
+			node = node->children[c];
+		}
+		return node->words;
+	}
+	
+	bool startsWith(string prefix) {
+		TrieNode* node = root;
+		for(char& c: prefix) {
+			if (!node->children.count(c))
+				return false;
+			node = node->children[c];
+		}
+		return true;
+	}
 };

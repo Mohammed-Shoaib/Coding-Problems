@@ -1,32 +1,36 @@
 /*
 Problem Statement: https://leetcode.com/problems/queens-that-can-attack-the-king/
+Time: O(n²)
+Space: O(n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
-    vector< vector<int> > queensAttacktheKing(vector< vector<int> > &queens, vector<int> &king) {
-		int qx, qy, ox, oy, kx, ky;
+	vector<vector<int>> queensAttacktheKing(vector<vector<int>>& queens, vector<int>& king) {
+		int n, qx, qy, ox, oy, kx, ky;
 		bool blocked, cond1, cond2;
-		vector< vector<int> > coords;
+		vector<vector<int>> coords;
 		
+		n = queens.size();
 		kx = king[0];
 		ky = king[1];
 		
-		for (int i = 0; i < queens.size(); i++) {
+		for (int i = 0; i < n; i++) {
 			blocked = false;
 			qx = queens[i][0];
 			qy = queens[i][1];
-
-			// Check if queen can attack
+			
+			// check if queen can attack
 			if (qx != kx && qy != ky && abs(qx - kx) != abs(qy - ky))
 				continue;
-
-			// Check if queen is being blocked
-			for (int j = 0; j < queens.size() && !blocked; j++) {
+			
+			// check if queen is being blocked
+			for (int j = 0; j < n && !blocked; j++) {
 				ox = queens[j][0];
 				oy = queens[j][1];
-
-				// Check if points are collinear
+				
+				// check if points are collinear
 				if (j == i || (ky - oy) * (ox - qx) != (oy - qy) * (kx - ox))
 					continue;
 				else if ((min(qy, ky) < oy && oy < max(qy, ky)) || (min(qx, kx) < ox && ox < max(qx, kx)))
@@ -36,7 +40,7 @@ public:
 			if (!blocked)
 				coords.push_back(queens[i]);
 		}
-
+		
 		return coords;
-    }
+	}
 };

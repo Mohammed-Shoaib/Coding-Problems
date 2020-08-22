@@ -11,7 +11,7 @@ public:
 		ListNode *dummy, *l;
 		dummy = new ListNode(0);
 		l = dummy;
-
+		
 		while (l1 && l2) {
 			if (l1->val < l2->val) {
 				l->next = l1;
@@ -22,7 +22,7 @@ public:
 			}
 			l = l->next;
 		}
-
+		
 		l->next = (l1) ? l1 : l2;
 		l = dummy->next;
 		delete dummy;

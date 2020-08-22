@@ -15,10 +15,10 @@ public:
 			if (!st.empty() || c != '0')
 				st.push_back(c);
 		}
-
+		
 		while (k-- && !st.empty())
 			st.pop_back();
-
+		
 		return st.empty() ? "0" : st;
 	}
 };

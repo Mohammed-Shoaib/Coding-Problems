@@ -10,7 +10,7 @@ public:
 	Node* flatten(Node* head) {
 		stack<Node*> st;
 		Node *prev = nullptr, *node = head;
-
+		
 		while (node) {
 			prev = node;
 			if (!node->child)
@@ -25,10 +25,10 @@ public:
 				assign(prev, node);
 			}
 		}
-
+		
 		return head;
 	}
-
+	
 	void assign(Node*& node, Node* next) {
 		if (next)
 			next->prev = node;

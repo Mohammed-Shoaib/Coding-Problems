@@ -1,12 +1,15 @@
 /*
 Problem Statement: https://leetcode.com/problems/symmetric-tree/
+Time: O(n)
+Space: O(h)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
-    bool isSymmetric(TreeNode* root) {
+	bool isSymmetric(TreeNode* root) {
 		return isSymmetric(root, root);
-    }
+	}
 	
 	bool isSymmetric(TreeNode* node1, TreeNode* node2) {
 		if (!node1 || !node2)

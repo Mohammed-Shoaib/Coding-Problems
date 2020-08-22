@@ -1,5 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/jewels-and-stones/
+Time: O(J + S)
+Space: O(J)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {

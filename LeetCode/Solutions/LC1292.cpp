@@ -1,16 +1,19 @@
 /*
 Problem Statement: https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
+Time: O(m • n)
+Space: O(m • n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
-    int maxSideLength(vector<vector<int>>& mat, int threshold) {
+	int maxSideLength(vector<vector<int>>& mat, int threshold) {
 		int m, n, side;
 		m = mat.size();
 		n = mat[0].size();
 		side = 0;
-		int prefix[m + 1][n + 1] = {};
-
+		vector<vector<int>> prefix(m + 1, vector<int>(n + 1));
+		
 		// 2D cumulative prefix sum
 		for (int i = 1; i <= m; i++)
 			for (int j = 1; j <= n; j++) {
@@ -25,5 +28,5 @@ public:
 			}
 		
 		return side;
-    }
+	}
 };

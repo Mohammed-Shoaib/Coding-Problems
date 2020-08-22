@@ -1,12 +1,17 @@
 /*
 Problem Statement: https://leetcode.com/problems/valid-parenthesis-string/
+Time: O(n)
+Space: O(1)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
 	bool checkValidString(string s) {
-		int cmin, cmax;
+		int n, cmin, cmax;
+		n = s.length();
 		cmin = cmax = 0;
+		
 		for (char& c: s) {
 			if (c == '(') {
 				cmin++;
@@ -22,6 +27,7 @@ public:
 				return false;
 			cmin = max(0, cmin);	// change '*' to empty
 		}
+		
 		return cmin == 0;
 	}
 };

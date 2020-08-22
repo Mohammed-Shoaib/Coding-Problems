@@ -1,10 +1,13 @@
 /*
 Problem Statement: https://leetcode.com/problems/binary-tree-preorder-traversal/
+Time: O(n)
+Space: O(h)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
-    vector<int> preorderTraversal(TreeNode* root) {
+	vector<int> preorderTraversal(TreeNode* root) {
 		vector<int> order;
 		stack<TreeNode*> st;
 		if (root)
@@ -19,5 +22,5 @@ public:
 				st.push(root->left);
 		}
 		return order;
-    }
+	}
 };

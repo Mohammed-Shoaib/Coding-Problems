@@ -1,7 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/unique-binary-search-trees/
-Time Complexity: O(n²)
-Space Complexity: O(n)
+Time: O(n²)
+Space: O(n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
@@ -14,7 +15,7 @@ public:
 		for (int i = 1; i <= n; i++)
 			for (int j = 1; j <= i; j++)
 				dp[i] += dp[j - 1] * dp[i - j];
-
+		
 		return dp[n];
 	}
 };

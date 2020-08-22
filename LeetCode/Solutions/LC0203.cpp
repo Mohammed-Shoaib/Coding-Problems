@@ -11,7 +11,7 @@ public:
 		ListNode *prev, *curr, *next;
 		prev = nullptr;
 		curr = head;
-
+		
 		while (curr) {
 			next = curr->next;
 			if (curr->val == val) {
@@ -24,7 +24,7 @@ public:
 			}
 			prev = exchange(curr, next);
 		}
-
+		
 		return head;
 	}
 };

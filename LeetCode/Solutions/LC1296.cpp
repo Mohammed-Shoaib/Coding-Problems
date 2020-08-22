@@ -4,11 +4,13 @@ Problem Statement: https://leetcode.com/problems/divide-array-in-sets-of-k-conse
 
 class Solution {
 public:
-    bool isPossibleDivide(vector<int>& nums, int k) {
+	bool isPossibleDivide(vector<int>& nums, int k) {
 		int val, cnt;
-		map<int, int> freq;
+		unordered_map<int, int> freq;
+		
 		for (int num: nums)
 			freq[num]++;
+		
 		for (auto it: freq) {
 			tie(val, cnt) = it;
 			if (cnt == 0)
@@ -19,6 +21,7 @@ public:
 				freq[i] -= cnt;
 			}
 		}
+		
 		return true;
-    }
+	}
 };

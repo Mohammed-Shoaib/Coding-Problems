@@ -1,5 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/find-the-duplicate-number/
+Time: O(n)
+Space: O(1)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
@@ -8,19 +11,19 @@ public:
 		int slow, fast;
 		slow = fast = 0;
 		
-		// floyd's algorithm
+		// floyd's cycle-finding algorithm
 		do {
 			slow = nums[slow];
 			fast = nums[nums[fast]];
 		} while (slow != fast);
-
-		// find the entrance to the cyle
+		
+		// find the entrance to the cycle
 		slow = 0;
 		while (slow != fast) {
 			slow = nums[slow];
 			fast = nums[fast];
 		}
-
+		
 		return slow;
 	}
 };

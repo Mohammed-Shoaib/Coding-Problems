@@ -1,7 +1,7 @@
 /*
 Problem Statement: https://leetcode.com/problems/prison-cells-after-n-days/
-Time: O(n • 2ⁿ) -> O(1)
-Space: O(2ⁿ) -> O(1)
+Time: O(n • 2ⁿ)
+Space: O(2ⁿ)
 */
 
 class Solution {
@@ -23,7 +23,7 @@ public:
 			}
 			states.push_back(b);
 		}
-
+		
 		for (int i = 0; i < n; i++) {
 			int mask = b >> (n - i - 1);
 			cells[i] = mask & 1;
@@ -31,7 +31,7 @@ public:
 		
 		return cells;
 	}
-
+	
 	int convert(vector<int>& cells) {
 		int b = 0;
 		for (int& cell: cells) {

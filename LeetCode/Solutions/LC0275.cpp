@@ -12,6 +12,7 @@ public:
 		low = 0;
 		n = high = citations.size();
 		
+		// binary search
 		while (low < high) {
 			mid = low + (high - low) / 2;
 			if (citations[mid] >= n - mid)

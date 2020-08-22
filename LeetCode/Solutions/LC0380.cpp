@@ -28,7 +28,7 @@ public:
 		v.pop_back();
 		return true;
 	}
-
+	
 	int getRandom() {
 		int pos = uniform_int_distribution<int>{0, (int) v.size() - 1}(gen);
 		return v[pos];

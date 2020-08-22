@@ -1,5 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/reverse-string/
+Time: O(n)
+Space: O(1)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {

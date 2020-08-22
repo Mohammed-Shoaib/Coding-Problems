@@ -15,7 +15,7 @@ public:
 		}
 		return sum;
 	}
-
+	
 	bool isHappy(int n) {
 		int a, b;
 		a = b = n;

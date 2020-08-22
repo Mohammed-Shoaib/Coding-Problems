@@ -12,7 +12,7 @@ public:
 		m = grid.size();
 		n = grid[0].size();
 		len = 0;
-
+		
 		for (int i = 0; i < m; i++)
 			for (int j = 0; j < n; j++)
 				if (grid[i][j]) {

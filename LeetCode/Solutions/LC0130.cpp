@@ -11,11 +11,11 @@ public:
 		int m, n;
 		m = board.size();
 		n = board[0].size();
-
+		
 		// traverse neighbours easily
 		vector<int> xdir = {-1, 0, 1, 0};
 		vector<int> ydir = {0, -1, 0, 1};
-
+		
 		// flood-fill
 		function<void(int, int)> dfs = [&](int i, int j) {
 			// base cases
@@ -27,7 +27,7 @@ public:
 			for (int k = 0; k < xdir.size(); k++)
 				dfs(i + xdir[k], j + ydir[k]);
 		};
-
+		
 		// go through the borders
 		for (int i = 0; i < n; i++) {
 			dfs(0, i);
@@ -37,7 +37,7 @@ public:
 			dfs(i, 0);
 			dfs(i, n - 1);
 		}
-
+		
 		// capture surrounded regions
 		for (int i = 0; i < m; i++)
 			for (int j = 0; j < n; j++) {

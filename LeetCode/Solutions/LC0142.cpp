@@ -10,12 +10,12 @@ public:
 	ListNode *detectCycle(ListNode *head) {
 		ListNode *slow, *fast;
 		slow = fast = head;
-
+		
 		// floyd's cycle-finding algorithm
 		while (fast && fast->next) {
 			slow = slow->next;
 			fast = fast->next->next;
-
+			
 			// found cycle
 			if (slow == fast) {
 				slow = head;
@@ -26,7 +26,7 @@ public:
 				return slow;
 			}
 		}
-
+		
 		return nullptr;
 	}
 };

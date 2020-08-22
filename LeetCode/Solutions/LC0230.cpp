@@ -4,9 +4,10 @@ Problem Statement: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 
 class Solution {
 public:
-    int kthSmallest(TreeNode* root, int k) {
+	int kthSmallest(TreeNode* root, int k) {
 		int ele;
-        stack<TreeNode*> st;
+		stack<TreeNode*> st;
+		
 		for (int i = 0; i < k; i++) {
 			while (root) {
 				st.push(root);
@@ -17,6 +18,7 @@ public:
 			ele = root->val;
 			root = root->right;
 		}
+		
 		return ele;
-    }
+	}
 };
