@@ -188,6 +188,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0886.cpp]     | [Possible Bipartition]                                                                               | Medium     |
 | [LC0889.cpp]     | [Construct Binary Tree from Preorder and Postorder Traversal]                                        | Medium     |
 | [LC0901.cpp]     | [Online Stock Span]                                                                                  | Medium     |
+| [LC0905.cpp]     | [Sort Array By Parity]                                                                               | Easy       |
 | [LC0918.cpp]     | [Maximum Sum Circular Subarray]                                                                      | Medium     |
 | [LC0957.cpp]     | [Prison Cells After N Days]                                                                          | Medium     |
 | [LC0973.cpp]     | [K Closest Points to Origin]                                                                         | Medium     |
@@ -777,6 +778,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0901.cpp]: Solutions/LC0901.cpp?ts=4
 [Online Stock Span]: https://leetcode.com/problems/online-stock-span/
+
+[LC0905.cpp]: Solutions/LC0905.cpp?ts=4
+[Sort Array By Parity]: https://leetcode.com/problems/sort-array-by-parity/
 
 [LC0918.cpp]: Solutions/LC0918.cpp?ts=4
 [Maximum Sum Circular Subarray]: https://leetcode.com/problems/maximum-sum-circular-subarray/
