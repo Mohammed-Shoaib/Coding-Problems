@@ -190,6 +190,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0901.cpp]     | [Online Stock Span]                                                                                  | Medium     |
 | [LC0905.cpp]     | [Sort Array By Parity]                                                                               | Easy       |
 | [LC0918.cpp]     | [Maximum Sum Circular Subarray]                                                                      | Medium     |
+| [LC0922.cpp]     | [Sort Array By Parity II]                                                                            | Easy       |
 | [LC0957.cpp]     | [Prison Cells After N Days]                                                                          | Medium     |
 | [LC0973.cpp]     | [K Closest Points to Origin]                                                                         | Medium     |
 | [LC0986.cpp]     | [Interval List Intersections]                                                                        | Medium     |
@@ -784,6 +785,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0918.cpp]: Solutions/LC0918.cpp?ts=4
 [Maximum Sum Circular Subarray]: https://leetcode.com/problems/maximum-sum-circular-subarray/
+
+[LC0922.cpp]: Solutions/LC0922.cpp?ts=4
+[Sort Array By Parity II]: https://leetcode.com/problems/sort-array-by-parity-ii/
 
 [LC0957.cpp]: Solutions/LC0957.cpp?ts=4
 [Prison Cells After N Days]: https://leetcode.com/problems/prison-cells-after-n-days/
