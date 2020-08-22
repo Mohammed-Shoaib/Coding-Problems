@@ -130,347 +130,347 @@
 
 [//]: # (Easy)
 
-[E0001]: Easy/E0001.py
+[E0001]: Easy/E0001.py?ts=4
 [Say "Hello, World!" With Python]: https://www.hackerrank.com/challenges/py-hello-world/problem
 
-[E0002]: Easy/E0002.py
+[E0002]: Easy/E0002.py?ts=4
 [Python If-Else]: https://www.hackerrank.com/challenges/py-if-else/problem
 
-[E0003]: Easy/E0003.py
+[E0003]: Easy/E0003.py?ts=4
 [Arithmetic Operators]: https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
 
-[E0004]: Easy/E0004.py
+[E0004]: Easy/E0004.py?ts=4
 [Python: Division]: https://www.hackerrank.com/challenges/python-division/problem
 
-[E0005]: Easy/E0005.py
+[E0005]: Easy/E0005.py?ts=4
 [Loops]: https://www.hackerrank.com/challenges/python-loops/problem
 
-[E0006]: Easy/E0006.py
+[E0006]: Easy/E0006.py?ts=4
 [Print Function]: https://www.hackerrank.com/challenges/python-print/problem
 
-[E0007]: Easy/E0007.py
+[E0007]: Easy/E0007.py?ts=4
 [List Comprehensions]: https://www.hackerrank.com/challenges/list-comprehensions/problem
 
-[E0008]: Easy/E0008.py
+[E0008]: Easy/E0008.py?ts=4
 [Nested Lists]: https://www.hackerrank.com/challenges/nested-list/problem
 
-[E0009]: Easy/E0009.py
+[E0009]: Easy/E0009.py?ts=4
 [Finding the percentage]: https://www.hackerrank.com/challenges/finding-the-percentage/problem
 
-[E0010]: Easy/E0010.py
+[E0010]: Easy/E0010.py?ts=4
 [Lists]: https://www.hackerrank.com/challenges/python-lists/problem
 
-[E0011]: Easy/E0011.py
+[E0011]: Easy/E0011.py?ts=4
 [Tuples]: https://www.hackerrank.com/challenges/python-tuples/problem
 
-[E0012]: Easy/E0012.py
+[E0012]: Easy/E0012.py?ts=4
 [sWAP cASE]: https://www.hackerrank.com/challenges/swap-case/problem
 
-[E0013]: Easy/E0013.py
+[E0013]: Easy/E0013.py?ts=4
 [String Split and Join]: https://www.hackerrank.com/challenges/python-string-split-and-join/problem
 
-[E0014]: Easy/E0014.py
+[E0014]: Easy/E0014.py?ts=4
 [What's Your Name?]: https://www.hackerrank.com/challenges/whats-your-name/problem
 
-[E0015]: Easy/E0015.py
+[E0015]: Easy/E0015.py?ts=4
 [Mutations]: https://www.hackerrank.com/challenges/python-mutations/problem
 
-[E0016]: Easy/E0016.py
+[E0016]: Easy/E0016.py?ts=4
 [Find a string]: https://www.hackerrank.com/challenges/find-a-string/problem
 
-[E0017]: Easy/E0017.py
+[E0017]: Easy/E0017.py?ts=4
 [String Validators]: https://www.hackerrank.com/challenges/string-validators/problem
 
-[E0018]: Easy/E0018.py
+[E0018]: Easy/E0018.py?ts=4
 [Text Alignment]: https://www.hackerrank.com/challenges/text-alignment/problem
 
-[E0019]: Easy/E0019.py
+[E0019]: Easy/E0019.py?ts=4
 [Text Wrap]: https://www.hackerrank.com/challenges/text-wrap/problem
 
-[E0020]: Easy/E0020.py
+[E0020]: Easy/E0020.py?ts=4
 [Designer Door Mat]: https://www.hackerrank.com/challenges/designer-door-mat/problem
 
-[E0021]: Easy/E0021.py
+[E0021]: Easy/E0021.py?ts=4
 [String Formatting]: https://www.hackerrank.com/challenges/python-string-formatting/problem
 
-[E0022]: Easy/E0022.py
+[E0022]: Easy/E0022.py?ts=4
 [Alphabet Rangoli]: https://www.hackerrank.com/challenges/alphabet-rangoli/problem
 
-[E0023]: Easy/E0023.py
+[E0023]: Easy/E0023.py?ts=4
 [Capitalize!]: https://www.hackerrank.com/challenges/capitalize/problem
 
-[E0024]: Easy/E0024.py
+[E0024]: Easy/E0024.py?ts=4
 [itertools.product()]: https://www.hackerrank.com/challenges/itertools-product/problem
 
-[E0025]: Easy/E0025.py
+[E0025]: Easy/E0025.py?ts=4
 [collections.Counter()]: https://www.hackerrank.com/challenges/collections-counter/problem
 
-[E0026]: Easy/E0026.py
+[E0026]: Easy/E0026.py?ts=4
 [itertools.permutations()]: https://www.hackerrank.com/challenges/itertools-permutations/problem
 
-[E0027]: Easy/E0027.py
+[E0027]: Easy/E0027.py?ts=4
 [Polar Coordinates]: https://www.hackerrank.com/challenges/polar-coordinates/problem
 
-[E0028]: Easy/E0028.py
+[E0028]: Easy/E0028.py?ts=4
 [Introduction to Sets]: https://www.hackerrank.com/challenges/py-introduction-to-sets/problem
 
-[E0029]: Easy/E0029.py
+[E0029]: Easy/E0029.py?ts=4
 [DefaultDict Tutorial]: https://www.hackerrank.com/challenges/defaultdict-tutorial/problem
 
-[E0030]: Easy/E0030.py
+[E0030]: Easy/E0030.py?ts=4
 [Calendar Module]: https://www.hackerrank.com/challenges/calendar-module/problem
 
-[E0031]: Easy/E0031.py
+[E0031]: Easy/E0031.py?ts=4
 [Exceptions]: https://www.hackerrank.com/challenges/exceptions/problem
 
-[E0032]: Easy/E0032.py
+[E0032]: Easy/E0032.py?ts=4
 [Collections.namedtuple()]: https://www.hackerrank.com/challenges/py-collections-namedtuple/problem
 
-[E0033]: Easy/E0033.py
+[E0033]: Easy/E0033.py?ts=4
 [Collections.OrderedDict()]: https://www.hackerrank.com/challenges/py-collections-ordereddict/problem
 
-[E0034]: Easy/E0034.py
+[E0034]: Easy/E0034.py?ts=4
 [Symmetric Difference]: https://www.hackerrank.com/challenges/symmetric-difference/problem
 
-[E0035]: Easy/E0035.py
+[E0035]: Easy/E0035.py?ts=4
 [itertools.combinations()]: https://www.hackerrank.com/challenges/itertools-combinations/problem
 
-[E0036]: Easy/E0036.py
+[E0036]: Easy/E0036.py?ts=4
 [itertools.combinations_with_replacement()]: https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem
 
-[E0037]: Easy/E0037.py
+[E0037]: Easy/E0037.py?ts=4
 [Incorrect Regex]: https://www.hackerrank.com/challenges/incorrect-regex/problem
 
-[E0038]: Easy/E0038.py
+[E0038]: Easy/E0038.py?ts=4
 [Set .add()]: https://www.hackerrank.com/challenges/py-set-add/problem
 
-[E0039]: Easy/E0039.py
+[E0039]: Easy/E0039.py?ts=4
 [Set .discard(), .remove() & .pop()]: https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem
 
-[E0040]: Easy/E0040.py
+[E0040]: Easy/E0040.py?ts=4
 [Set .difference() Operation]: https://www.hackerrank.com/challenges/py-set-difference-operation/problem
 
-[E0041]: Easy/E0041.py
+[E0041]: Easy/E0041.py?ts=4
 [Set .symmetric_difference() Operation]: https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem
 
-[E0042]: Easy/E0042.py
+[E0042]: Easy/E0042.py?ts=4
 [Set .union() Operation]: https://www.hackerrank.com/challenges/py-set-union/problem
 
-[E0043]: Easy/E0043.py
+[E0043]: Easy/E0043.py?ts=4
 [Set .intersection() Operation]: https://www.hackerrank.com/challenges/py-set-intersection-operation/problem
 
-[E0044]: Easy/E0044.py
+[E0044]: Easy/E0044.py?ts=4
 [Set Mutations]: https://www.hackerrank.com/challenges/py-set-mutations/problem
 
-[E0045]: Easy/E0045.py
+[E0045]: Easy/E0045.py?ts=4
 [The Captain's Room]: https://www.hackerrank.com/challenges/py-the-captains-room/problem
 
-[E0046]: Easy/E0046.py
+[E0046]: Easy/E0046.py?ts=4
 [Check Strict Superset]: https://www.hackerrank.com/challenges/py-check-strict-superset/problem
 
-[E0047]: Easy/E0047.py
+[E0047]: Easy/E0047.py?ts=4
 [Collections.deque()]: https://www.hackerrank.com/challenges/py-collections-deque/problem
 
-[E0048]: Easy/E0048.py
+[E0048]: Easy/E0048.py?ts=4
 [Mod Divmod]: https://www.hackerrank.com/challenges/python-mod-divmod/problem
 
-[E0049]: Easy/E0049.py
+[E0049]: Easy/E0049.py?ts=4
 [Power - Mod Power]: https://www.hackerrank.com/challenges/python-power-mod-power/problem
 
-[E0050]: Easy/E0050.py
+[E0050]: Easy/E0050.py?ts=4
 [Integers Come In All Sizes]: https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem
 
-[E0051]: Easy/E0051.py
+[E0051]: Easy/E0051.py?ts=4
 [Zipped!]: https://www.hackerrank.com/challenges/zipped/problem
 
-[E0052]: Easy/E0052.py
+[E0052]: Easy/E0052.py?ts=4
 [Python Evaluation]: https://www.hackerrank.com/challenges/python-eval/problem
 
-[E0053]: Easy/E0053.py
+[E0053]: Easy/E0053.py?ts=4
 [Any or All]: https://www.hackerrank.com/challenges/any-or-all/problem
 
-[E0054]: Easy/E0054.py
+[E0054]: Easy/E0054.py?ts=4
 [Detect Floating Point Number]: https://www.hackerrank.com/challenges/introduction-to-regex/problem
 
-[E0055]: Easy/E0055.py
+[E0055]: Easy/E0055.py?ts=4
 [Arrays]: https://www.hackerrank.com/challenges/np-arrays/problem
 
-[E0056]: Easy/E0056.py
+[E0056]: Easy/E0056.py?ts=4
 [Map and Lambda Function]: https://www.hackerrank.com/challenges/map-and-lambda-expression/problem
 
-[E0057]: Easy/E0057.py
+[E0057]: Easy/E0057.py?ts=4
 [Class 2 - Find the Torsional Angle]: https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem
 
-[E0058]: Easy/E0058.py
+[E0058]: Easy/E0058.py?ts=4
 [XML 1 - Find the Score]: https://www.hackerrank.com/challenges/xml-1-find-the-score/problem
 
-[E0059]: Easy/E0059.py
+[E0059]: Easy/E0059.py?ts=4
 [XML2 - Find the Maximum Depth]: https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem
 
-[E0060]: Easy/E0060.py
+[E0060]: Easy/E0060.py?ts=4
 [Standardize Mobile Number Using Decorators]: https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem
 
-[E0061]: Easy/E0061.py
+[E0061]: Easy/E0061.py?ts=4
 [Decorators 2 - Name Directory]: https://www.hackerrank.com/challenges/decorators-2-name-directory/problem
 
-[E0062]: Easy/E0062.py
+[E0062]: Easy/E0062.py?ts=4
 [Re.split()]: https://www.hackerrank.com/challenges/re-split/problem
 
-[E0063]: Easy/E0063.py
+[E0063]: Easy/E0063.py?ts=4
 [Group(), Groups() & Groupdict()]: https://www.hackerrank.com/challenges/re-group-groups/problem
 
-[E0064]: Easy/E0064.py
+[E0064]: Easy/E0064.py?ts=4
 [Re.findall() & Re.finditer()]: https://www.hackerrank.com/challenges/re-findall-re-finditer/problem
 
-[E0065]: Easy/E0065.py
+[E0065]: Easy/E0065.py?ts=4
 [Re.start() & Re.end()]: https://www.hackerrank.com/challenges/re-start-re-end/problem
 
-[E0066]: Easy/E0066.py
+[E0066]: Easy/E0066.py?ts=4
 [Validating Roman Numerals]: https://www.hackerrank.com/challenges/validate-a-roman-number/problem
 
-[E0067]: Easy/E0067.py
+[E0067]: Easy/E0067.py?ts=4
 [Validating phone numbers]: https://www.hackerrank.com/challenges/validating-the-phone-number/problem
 
-[E0068]: Easy/E0068.py
+[E0068]: Easy/E0068.py?ts=4
 [Validating and Parsing Email Addresses]: https://www.hackerrank.com/challenges/validating-named-email-addresses/problem
 
-[E0069]: Easy/E0069.py
+[E0069]: Easy/E0069.py?ts=4
 [Hex Color Code]: https://www.hackerrank.com/challenges/hex-color-code/problem
 
-[E0070]: Easy/E0070.py
+[E0070]: Easy/E0070.py?ts=4
 [Validating UID]: https://www.hackerrank.com/challenges/validating-uid/problem
 
-[E0071]: Easy/E0071.py
+[E0071]: Easy/E0071.py?ts=4
 [Shape and Reshape]: https://www.hackerrank.com/challenges/np-shape-reshape/problem
 
-[E0072]: Easy/E0072.py
+[E0072]: Easy/E0072.py?ts=4
 [Zeros and Ones]: https://www.hackerrank.com/challenges/np-zeros-and-ones/problem
 
-[E0073]: Easy/E0073.py
+[E0073]: Easy/E0073.py?ts=4
 [Transpose and Flatten]: https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem
 
-[E0074]: Easy/E0074.py
+[E0074]: Easy/E0074.py?ts=4
 [Concatenate]: https://www.hackerrank.com/challenges/np-concatenate/problem
 
-[E0075]: Easy/E0075.py
+[E0075]: Easy/E0075.py?ts=4
 [Eye and Identity]: https://www.hackerrank.com/challenges/np-eye-and-identity/problem
 
-[E0076]: Easy/E0076.py
+[E0076]: Easy/E0076.py?ts=4
 [Array Mathematics]: https://www.hackerrank.com/challenges/np-array-mathematics/problem
 
-[E0077]: Easy/E0077.py
+[E0077]: Easy/E0077.py?ts=4
 [Floor, Ceil and Rint]: https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem
 
-[E0078]: Easy/E0078.py
+[E0078]: Easy/E0078.py?ts=4
 [Sum and Prod]: https://www.hackerrank.com/challenges/np-sum-and-prod/problem
 
-[E0079]: Easy/E0079.py
+[E0079]: Easy/E0079.py?ts=4
 [Min and Max]: https://www.hackerrank.com/challenges/np-min-and-max/problem
 
-[E0080]: Easy/E0080.py
+[E0080]: Easy/E0080.py?ts=4
 [Mean, Var, and Std]: https://www.hackerrank.com/challenges/np-mean-var-and-std/problem
 
-[E0081]: Easy/E0081.py
+[E0081]: Easy/E0081.py?ts=4
 [Dot and Cross]: https://www.hackerrank.com/challenges/np-dot-and-cross/problem
 
-[E0082]: Easy/E0082.py
+[E0082]: Easy/E0082.py?ts=4
 [Inner and Outer]: https://www.hackerrank.com/challenges/np-inner-and-outer/problem
 
-[E0083]: Easy/E0083.py
+[E0083]: Easy/E0083.py?ts=4
 [Polynomials]: https://www.hackerrank.com/challenges/np-polynomials/problem
 
-[E0084]: Easy/E0084.py
+[E0084]: Easy/E0084.py?ts=4
 [Linear Algebra]: https://www.hackerrank.com/challenges/np-linear-algebra/problem
 
-[E0085]: Easy/E0085.py
+[E0085]: Easy/E0085.py?ts=4
 [Input()]: https://www.hackerrank.com/challenges/input/problem
 
-[E0086]: Easy/E0086.py
+[E0086]: Easy/E0086.py?ts=4
 [HTML Parser - Part 1]: https://www.hackerrank.com/challenges/html-parser-part-1/problem
 
-[E0087]: Easy/E0087.py
+[E0087]: Easy/E0087.py?ts=4
 [HTML Parser - Part 2]: https://www.hackerrank.com/challenges/html-parser-part-2/problem
 
-[E0088]: Easy/E0088.py
+[E0088]: Easy/E0088.py?ts=4
 [Detect HTML Tags, Attributes and Attribute Values]: https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem
 
 [//]: # (Medium)
 
-[M0001]: Medium/M0001.py
+[M0001]: Medium/M0001.py?ts=4
 [Write a function]: https://www.hackerrank.com/challenges/write-a-function/problem
 
-[M0002]: Medium/M0002.py
+[M0002]: Medium/M0002.py?ts=4
 [The Minion Game]: https://www.hackerrank.com/challenges/the-minion-game/problem
 
-[M0003]: Medium/M0003.py
+[M0003]: Medium/M0003.py?ts=4
 [Time Delta]: https://www.hackerrank.com/challenges/python-time-delta/problem
 
-[M0004]: Medium/M0004.py
+[M0004]: Medium/M0004.py?ts=4
 [Iterables and Iterators]: https://www.hackerrank.com/challenges/iterables-and-iterators/problem
 
-[M0005]: Medium/M0005.py
+[M0005]: Medium/M0005.py?ts=4
 [Compress the String!]: https://www.hackerrank.com/challenges/compress-the-string/problem
 
-[M0006]: Medium/M0006.py
+[M0006]: Medium/M0006.py?ts=4
 [Merge the Tools!]: https://www.hackerrank.com/challenges/merge-the-tools/problem
 
-[M0007]: Medium/M0007.py
+[M0007]: Medium/M0007.py?ts=4
 [No Idea!]: https://www.hackerrank.com/challenges/no-idea/problem
 
-[M0008]: Medium/M0008.py
+[M0008]: Medium/M0008.py?ts=4
 [Find Angle MBC]: https://www.hackerrank.com/challenges/find-angle/problem
 
-[M0009]: Medium/M0009.py
+[M0009]: Medium/M0009.py?ts=4
 [Triangle Quest]: https://www.hackerrank.com/challenges/python-quest-1/problem
 
-[M0010]: Medium/M0010.py
+[M0010]: Medium/M0010.py?ts=4
 [Triangle Quest 2]: https://www.hackerrank.com/challenges/triangle-quest-2/problem
 
-[M0011]: Medium/M0011.py
+[M0011]: Medium/M0011.py?ts=4
 [Word Order]: https://www.hackerrank.com/challenges/word-order/problem
 
-[M0012]: Medium/M0012.py
+[M0012]: Medium/M0012.py?ts=4
 [Company Logo]: https://www.hackerrank.com/challenges/most-commons/problem
 
-[M0013]: Medium/M0013.py
+[M0013]: Medium/M0013.py?ts=4
 [Piling Up!]: https://www.hackerrank.com/challenges/piling-up/problem
 
-[M0014]: Medium/M0014.py
+[M0014]: Medium/M0014.py?ts=4
 [Classes: Dealing with Complex Numbers]: https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem
 
-[M0015]: Medium/M0015.py
+[M0015]: Medium/M0015.py?ts=4
 [Athlete Sort]: https://www.hackerrank.com/challenges/python-sort-sort/problem
 
-[M0016]: Medium/M0016.py
+[M0016]: Medium/M0016.py?ts=4
 [ginortS]: https://www.hackerrank.com/challenges/ginorts/problem
 
-[M0017]: Medium/M0017.py
+[M0017]: Medium/M0017.py?ts=4
 [Reduce Function]: https://www.hackerrank.com/challenges/reduce-function/problem
 
-[M0018]: Medium/M0018.py
+[M0018]: Medium/M0018.py?ts=4
 [Validating Email Addresses With a Filter]: https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem
 
-[M0019]: Medium/M0019.py
+[M0019]: Medium/M0019.py?ts=4
 [Regex Substitution]: https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem
 
-[M0020]: Medium/M0020.py
+[M0020]: Medium/M0020.py?ts=4
 [Validating Credit Card Numbers]: https://www.hackerrank.com/challenges/validating-credit-card-number/problem
 
-[M0021]: Medium/M0021.py
+[M0021]: Medium/M0021.py?ts=4
 [Words Score]: https://www.hackerrank.com/challenges/words-score/problem
 
-[M0022]: Medium/M0022.py
+[M0022]: Medium/M0022.py?ts=4
 [Default Arguments]: https://www.hackerrank.com/challenges/default-arguments/problem
 
 [//]: # (Hard)
 
-[H0001]: Hard/H0001.py
+[H0001]: Hard/H0001.py?ts=4
 [Maximize It!]: https://www.hackerrank.com/challenges/maximize-it/problem
 
-[H0002]: Hard/H0002.py
+[H0002]: Hard/H0002.py?ts=4
 [Validating Postal Codes]: https://www.hackerrank.com/challenges/validating-postalcode/problem
 
-[H0003]: Hard/H0003.py
+[H0003]: Hard/H0003.py?ts=4
 [Matrix Script]: https://www.hackerrank.com/challenges/matrix-script/problem
 
 [//]: # (EOF)

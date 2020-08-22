@@ -151,410 +151,410 @@
 
 [//]: # (Easy)
 
-[E0001]: Easy/E0001.cpp
+[E0001]: Easy/E0001.cpp?ts=4
 [Solve Me First]: https://www.hackerrank.com/challenges/solve-me-first/problem
 
-[E0002]: Easy/E0002.cpp
+[E0002]: Easy/E0002.cpp?ts=4
 [Simple Array Sum]: https://www.hackerrank.com/challenges/simple-array-sum/problem
 
-[E0003]: Easy/E0003.cpp
+[E0003]: Easy/E0003.cpp?ts=4
 [Compare the Triplets]: https://www.hackerrank.com/challenges/compare-the-triplets/problem
 
-[E0004]: Easy/E0004.cpp
+[E0004]: Easy/E0004.cpp?ts=4
 [A Very Big Sum]: https://www.hackerrank.com/challenges/a-very-big-sum/problem
 
-[E0005]: Easy/E0005.cpp
+[E0005]: Easy/E0005.cpp?ts=4
 [Diagonal Difference]: https://www.hackerrank.com/challenges/diagonal-difference/problem
 
-[E0006]: Easy/E0006.cpp
+[E0006]: Easy/E0006.cpp?ts=4
 [Plus Minus]: https://www.hackerrank.com/challenges/plus-minus/problem
 
-[E0007]: Easy/E0007.cpp
+[E0007]: Easy/E0007.cpp?ts=4
 [Staircase]: https://www.hackerrank.com/challenges/staircase/problem
 
-[E0008]: Easy/E0008.cpp
+[E0008]: Easy/E0008.cpp?ts=4
 [Mini-Max Sum]: https://www.hackerrank.com/challenges/mini-max-sum/problem
 
-[E0009]: Easy/E0009.cpp
+[E0009]: Easy/E0009.cpp?ts=4
 [Birthday Cake Candles]: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 
-[E0010]: Easy/E0010.cpp
+[E0010]: Easy/E0010.cpp?ts=4
 [Grading Students]: https://www.hackerrank.com/challenges/grading/problem
 
-[E0011]: Easy/E0011.cpp
+[E0011]: Easy/E0011.cpp?ts=4
 [Apple and Orange]: https://www.hackerrank.com/challenges/apple-and-orange/problem
 
-[E0012]: Easy/E0012.cpp
+[E0012]: Easy/E0012.cpp?ts=4
 [Breaking the Records]: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
 
-[E0013]: Easy/E0013.cpp
+[E0013]: Easy/E0013.cpp?ts=4
 [Bon Appétit]: https://www.hackerrank.com/challenges/bon-appetit/problem
 
-[E0014]: Easy/E0014.cpp
+[E0014]: Easy/E0014.cpp?ts=4
 [Drawing Book]: https://www.hackerrank.com/challenges/drawing-book/problem
 
-[E0015]: Easy/E0015.cpp
+[E0015]: Easy/E0015.cpp?ts=4
 [Counting Valleys]: https://www.hackerrank.com/challenges/counting-valleys/problem
 
-[E0016]: Easy/E0016.cpp
+[E0016]: Easy/E0016.cpp?ts=4
 [Cats and a Mouse]: https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
 
-[E0017]: Easy/E0017.cpp
+[E0017]: Easy/E0017.cpp?ts=4
 [The Hurdle Race]: https://www.hackerrank.com/challenges/the-hurdle-race/problem
 
-[E0018]: Easy/E0018.cpp
+[E0018]: Easy/E0018.cpp?ts=4
 [Designer PDF Viewer]: https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
 
-[E0019]: Easy/E0019.cpp
+[E0019]: Easy/E0019.cpp?ts=4
 [Utopian Tree]: https://www.hackerrank.com/challenges/utopian-tree/problem
 
-[E0020]: Easy/E0020.cpp
+[E0020]: Easy/E0020.cpp?ts=4
 [Angry Professor]: https://www.hackerrank.com/challenges/angry-professor/problem
 
-[E0021]: Easy/E0021.cpp
+[E0021]: Easy/E0021.cpp?ts=4
 [Beautiful Days at the Movies]: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
 
-[E0022]: Easy/E0022.cpp
+[E0022]: Easy/E0022.cpp?ts=4
 [Save the Prisoner!]: https://www.hackerrank.com/challenges/save-the-prisoner/problem
 
-[E0023]: Easy/E0023.cpp
+[E0023]: Easy/E0023.cpp?ts=4
 [Sherlock and Squares]: https://www.hackerrank.com/challenges/sherlock-and-squares/problem
 
-[E0024]: Easy/E0024.cpp
+[E0024]: Easy/E0024.cpp?ts=4
 [Library Fine]: https://www.hackerrank.com/challenges/library-fine/problem
 
-[E0025]: Easy/E0025.cpp
+[E0025]: Easy/E0025.cpp?ts=4
 [Circular Array Rotation]: https://www.hackerrank.com/challenges/circular-array-rotation/problem
 
-[E0026]: Easy/E0026.cpp
+[E0026]: Easy/E0026.cpp?ts=4
 [Cut the sticks]: https://www.hackerrank.com/challenges/cut-the-sticks/problem
 
-[E0027]: Easy/E0027.cpp
+[E0027]: Easy/E0027.cpp?ts=4
 [Repeated String]: https://www.hackerrank.com/challenges/repeated-string/problem
 
-[E0028]: Easy/E0028.cpp
+[E0028]: Easy/E0028.cpp?ts=4
 [Equalize the Array]: https://www.hackerrank.com/challenges/equality-in-a-array/problem
 
-[E0029]: Easy/E0029.cpp
+[E0029]: Easy/E0029.cpp?ts=4
 [Taum and B'day]: https://www.hackerrank.com/challenges/taum-and-bday/problem
 
-[E0030]: Easy/E0030.cpp
+[E0030]: Easy/E0030.cpp?ts=4
 [Modified Kaprekar Numbers]: https://www.hackerrank.com/challenges/kaprekar-numbers/problem
 
-[E0031]: Easy/E0031.cpp
+[E0031]: Easy/E0031.cpp?ts=4
 [Find Digits]: https://www.hackerrank.com/challenges/find-digits/problem
 
-[E0032]: Easy/E0032.cpp
+[E0032]: Easy/E0032.cpp?ts=4
 [Fair Rations]: https://www.hackerrank.com/challenges/fair-rations/problem
 
-[E0033]: Easy/E0033.cpp
+[E0033]: Easy/E0033.cpp?ts=4
 [Jumping on the Clouds]: https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
 
-[E0034]: Easy/E0034.cpp
+[E0034]: Easy/E0034.cpp?ts=4
 [Jumping on the Clouds: Revisited]: https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
 
-[E0035]: Easy/E0035.cpp
+[E0035]: Easy/E0035.cpp?ts=4
 [Service Lane]: https://www.hackerrank.com/challenges/service-lane/problem
 
-[E0036]: Easy/E0036.cpp
+[E0036]: Easy/E0036.cpp?ts=4
 [Migratory Birds]: https://www.hackerrank.com/challenges/migratory-birds/problem
 
-[E0037]: Easy/E0037.cpp
+[E0037]: Easy/E0037.cpp?ts=4
 [Minimum Distances]: https://www.hackerrank.com/challenges/minimum-distances/problem
 
-[E0038]: Easy/E0038.cpp
+[E0038]: Easy/E0038.cpp?ts=4
 [Pangrams]: https://www.hackerrank.com/challenges/pangrams/problem
 
-[E0039]: Easy/E0039.cpp
+[E0039]: Easy/E0039.cpp?ts=4
 [Lisa's Workbook]: https://www.hackerrank.com/challenges/lisa-workbook/problem
 
-[E0040]: Easy/E0040.cpp
+[E0040]: Easy/E0040.cpp?ts=4
 [Cavity Map]: https://www.hackerrank.com/challenges/cavity-map/problem
 
-[E0041]: Easy/E0041.cpp
+[E0041]: Easy/E0041.cpp?ts=4
 [Manasa and Stones]: https://www.hackerrank.com/challenges/manasa-and-stones/problem
 
-[E0042]: Easy/E0042.cpp
+[E0042]: Easy/E0042.cpp?ts=4
 [Flatland Space Stations]: https://www.hackerrank.com/challenges/flatland-space-stations/problem
 
-[E0043]: Easy/E0043.cpp
+[E0043]: Easy/E0043.cpp?ts=4
 [Sequence Equation]: https://www.hackerrank.com/challenges/permutation-equation/problem
 
-[E0044]: Easy/E0044.cpp
+[E0044]: Easy/E0044.cpp?ts=4
 [Mars Exploration]: https://www.hackerrank.com/challenges/mars-exploration/problem
 
-[E0045]: Easy/E0045.cpp
+[E0045]: Easy/E0045.cpp?ts=4
 [Happy Ladybugs]: https://www.hackerrank.com/challenges/happy-ladybugs/problem
 
-[E0046]: Easy/E0046.cpp
+[E0046]: Easy/E0046.cpp?ts=4
 [Sock Merchant]: https://www.hackerrank.com/challenges/sock-merchant/problem
 
-[E0047]: Easy/E0047.cpp
+[E0047]: Easy/E0047.cpp?ts=4
 [Electronics Shop]: https://www.hackerrank.com/challenges/electronics-shop/problem
 
-[E0048]: Easy/E0048.cpp
+[E0048]: Easy/E0048.cpp?ts=4
 [HackerRank in a String!]: https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem
 
-[E0049]: Easy/E0049.cpp
+[E0049]: Easy/E0049.cpp?ts=4
 [Funny String]: https://www.hackerrank.com/challenges/funny-string/problem
 
-[E0050]: Easy/E0050.cpp
+[E0050]: Easy/E0050.cpp?ts=4
 [Alternating Characters]: https://www.hackerrank.com/challenges/alternating-characters/problem
 
-[E0051]: Easy/E0051.cpp
+[E0051]: Easy/E0051.cpp?ts=4
 [Beautiful Binary String]: https://www.hackerrank.com/challenges/beautiful-binary-string/problem
 
-[E0052]: Easy/E0052.cpp
+[E0052]: Easy/E0052.cpp?ts=4
 [The Love-Letter Mystery]: https://www.hackerrank.com/challenges/the-love-letter-mystery/problem
 
-[E0053]: Easy/E0053.cpp
+[E0053]: Easy/E0053.cpp?ts=4
 [Anagram]: https://www.hackerrank.com/challenges/anagram/problem
 
-[E0054]: Easy/E0054.cpp
+[E0054]: Easy/E0054.cpp?ts=4
 [Making Anagrams]: https://www.hackerrank.com/challenges/making-anagrams/problem
 
-[E0055]: Easy/E0055.cpp
+[E0055]: Easy/E0055.cpp?ts=4
 [Caesar Cipher]: https://www.hackerrank.com/challenges/caesar-cipher-1/problem
 
-[E0056]: Easy/E0056.cpp
+[E0056]: Easy/E0056.cpp?ts=4
 [Time Conversion]: https://www.hackerrank.com/challenges/time-conversion/problem
 
-[E0057]: Easy/E0057.cpp
+[E0057]: Easy/E0057.cpp?ts=4
 [Kangaroo]: https://www.hackerrank.com/challenges/kangaroo/problem
 
-[E0058]: Easy/E0058.cpp
+[E0058]: Easy/E0058.cpp?ts=4
 [Viral Advertising]: https://www.hackerrank.com/challenges/strange-advertising/problem
 
-[E0059]: Easy/E0059.cpp
+[E0059]: Easy/E0059.cpp?ts=4
 [Beautiful Triplets]: https://www.hackerrank.com/challenges/beautiful-triplets/problem
 
-[E0060]: Easy/E0060.cpp
+[E0060]: Easy/E0060.cpp?ts=4
 [String Construction]: https://www.hackerrank.com/challenges/string-construction/problem
 
-[E0061]: Easy/E0061.cpp
+[E0061]: Easy/E0061.cpp?ts=4
 [Picking Numbers]: https://www.hackerrank.com/challenges/picking-numbers/problem
 
-[E0062]: Easy/E0062.cpp
+[E0062]: Easy/E0062.cpp?ts=4
 [Gemstones]: https://www.hackerrank.com/challenges/gem-stones/problem
 
-[E0063]: Easy/E0063.cpp
+[E0063]: Easy/E0063.cpp?ts=4
 [Closest Numbers]: https://www.hackerrank.com/challenges/closest-numbers/problem
 
-[E0064]: Easy/E0064.cpp
+[E0064]: Easy/E0064.cpp?ts=4
 [Find the Median]: https://www.hackerrank.com/challenges/find-the-median/problem
 
-[E0065]: Easy/E0065.cpp
+[E0065]: Easy/E0065.cpp?ts=4
 [Two Strings]: https://www.hackerrank.com/challenges/two-strings/problem
 
-[E0066]: Easy/E0066.cpp
+[E0066]: Easy/E0066.cpp?ts=4
 [Weighted Uniform Strings]: https://www.hackerrank.com/challenges/weighted-uniform-string/problem
 
-[E0067]: Easy/E0067.cpp
+[E0067]: Easy/E0067.cpp?ts=4
 [Ice Cream Parlor]: https://www.hackerrank.com/challenges/icecream-parlor/problem
 
-[E0068]: Easy/E0068.cpp
+[E0068]: Easy/E0068.cpp?ts=4
 [Missing Numbers]: https://www.hackerrank.com/challenges/missing-numbers/problem
 
-[E0069]: Easy/E0069.cpp
+[E0069]: Easy/E0069.cpp?ts=4
 [Day of the Programmer]: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
 
-[E0070]: Easy/E0070.cpp
+[E0070]: Easy/E0070.cpp?ts=4
 [Halloween Sale]: https://www.hackerrank.com/challenges/halloween-sale/problem
 
-[E0071]: Easy/E0071.cpp
+[E0071]: Easy/E0071.cpp?ts=4
 [Chocolate Feast]: https://www.hackerrank.com/challenges/chocolate-feast/problem
 
-[E0072]: Easy/E0072.cpp
+[E0072]: Easy/E0072.cpp?ts=4
 [Separate the Numbers]: https://www.hackerrank.com/challenges/separate-the-numbers/problem
 
-[E0073]: Easy/E0073.cpp
+[E0073]: Easy/E0073.cpp?ts=4
 [Palindrome Index]: https://www.hackerrank.com/challenges/palindrome-index/problem
 
-[E0074]: Easy/E0074.cpp
+[E0074]: Easy/E0074.cpp?ts=4
 [Minimum Absolute Difference in an Array]: https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem
 
-[E0075]: Easy/E0075.cpp
+[E0075]: Easy/E0075.cpp?ts=4
 [Marc's Cakewalk]: https://www.hackerrank.com/challenges/marcs-cakewalk/problem
 
-[E0076]: Easy/E0076.cpp
+[E0076]: Easy/E0076.cpp?ts=4
 [Luck Balance]: https://www.hackerrank.com/challenges/luck-balance/problem
 
-[E0077]: Easy/E0077.cpp
+[E0077]: Easy/E0077.cpp?ts=4
 [Maximum Perimeter Triangle]: https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem
 
-[E0078]: Easy/E0078.cpp
+[E0078]: Easy/E0078.cpp?ts=4
 [Sherlock and The Beast]: https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem
 
-[E0079]: Easy/E0079.cpp
+[E0079]: Easy/E0079.cpp?ts=4
 [Priyanka and Toys]: https://www.hackerrank.com/challenges/priyanka-and-toys/problem
 
-[E0080]: Easy/E0080.cpp
+[E0080]: Easy/E0080.cpp?ts=4
 [Mark and Toys]: https://www.hackerrank.com/challenges/mark-and-toys/problem
 
-[E0081]: Easy/E0081.cpp
+[E0081]: Easy/E0081.cpp?ts=4
 [Permuting Two Arrays]: https://www.hackerrank.com/challenges/two-arrays/problem
 
-[E0082]: Easy/E0082.cpp
+[E0082]: Easy/E0082.cpp?ts=4
 [Lonely Integer]: https://www.hackerrank.com/challenges/lonely-integer/problem
 
-[E0083]: Easy/E0083.cpp
+[E0083]: Easy/E0083.cpp?ts=4
 [Maximizing XOR]: https://www.hackerrank.com/challenges/maximizing-xor/problem
 
-[E0084]: Easy/E0084.cpp
+[E0084]: Easy/E0084.cpp?ts=4
 [Game of Stones]: https://www.hackerrank.com/challenges/game-of-stones-1/problem
 
-[E0085]: Easy/E0085.cpp
+[E0085]: Easy/E0085.cpp?ts=4
 [Tower Breakers]: https://www.hackerrank.com/challenges/tower-breakers-1/problem
 
-[E0086]: Easy/E0086.cpp
+[E0086]: Easy/E0086.cpp?ts=4
 [Flipping bits]: https://www.hackerrank.com/challenges/flipping-bits/problem
 
-[E0087]: Easy/E0087.cpp
+[E0087]: Easy/E0087.cpp?ts=4
 [Grid Challenge]: https://www.hackerrank.com/challenges/grid-challenge/problem
 
-[E0088]: Easy/E0088.cpp
+[E0088]: Easy/E0088.cpp?ts=4
 [ACM ICPC Team]: https://www.hackerrank.com/challenges/acm-icpc-team/problem
 
-[E0089]: Easy/E0089.cpp
+[E0089]: Easy/E0089.cpp?ts=4
 [Game of Thrones - I]: https://www.hackerrank.com/challenges/game-of-thrones/problem
 
-[E0090]: Easy/E0090.cpp
+[E0090]: Easy/E0090.cpp?ts=4
 [Largest Permutation]: https://www.hackerrank.com/challenges/largest-permutation/problem
 
-[E0091]: Easy/E0091.cpp
+[E0091]: Easy/E0091.cpp?ts=4
 [Intro to Tutorial Challenges]: https://www.hackerrank.com/challenges/tutorial-intro/problem
 
-[E0092]: Easy/E0092.cpp
+[E0092]: Easy/E0092.cpp?ts=4
 [Insertion Sort - Part 1]: https://www.hackerrank.com/challenges/insertionsort1/problem
 
-[E0093]: Easy/E0093.cpp
+[E0093]: Easy/E0093.cpp?ts=4
 [Insertion Sort - Part 2]: https://www.hackerrank.com/challenges/insertionsort2/problem
 
-[E0094]: Easy/E0094.cpp
+[E0094]: Easy/E0094.cpp?ts=4
 [Correctness and the Loop Invariant]: https://www.hackerrank.com/challenges/correctness-invariant/problem
 
-[E0095]: Easy/E0095.cpp
+[E0095]: Easy/E0095.cpp?ts=4
 [Append and Delete]: https://www.hackerrank.com/challenges/append-and-delete/problem
 
-[E0096]: Easy/E0096.cpp
+[E0096]: Easy/E0096.cpp?ts=4
 [XOR Strings]: https://www.hackerrank.com/challenges/strings-xor/problem
 
-[E0097]: Easy/E0097.cpp
+[E0097]: Easy/E0097.cpp?ts=4
 [Smart Number]: https://www.hackerrank.com/challenges/smart-number/problem
 
-[E0098]: Easy/E0098.cpp
+[E0098]: Easy/E0098.cpp?ts=4
 [Big Sorting]: https://www.hackerrank.com/challenges/big-sorting/problem
 
-[E0099]: Easy/E0099.cpp
+[E0099]: Easy/E0099.cpp?ts=4
 [Poker Nim]: https://www.hackerrank.com/challenges/poker-nim-1/problem
 
-[E0100]: Easy/E0100.cpp
+[E0100]: Easy/E0100.cpp?ts=4
 [Introduction to Nim Game]: https://www.hackerrank.com/challenges/nim-game-1/problem
 
-[E0101]: Easy/E0101.cpp
+[E0101]: Easy/E0101.cpp?ts=4
 [Mis�re Nim]: https://www.hackerrank.com/challenges/misere-nim-1/problem
 
-[E0102]: Easy/E0102.cpp
+[E0102]: Easy/E0102.cpp?ts=4
 [A Chessboard Game]: https://www.hackerrank.com/challenges/a-chessboard-game-1/problem
 
-[E0103]: Easy/E0103.cpp
+[E0103]: Easy/E0103.cpp?ts=4
 [Sherlock and Array]: https://www.hackerrank.com/challenges/sherlock-and-array/problem
 
-[E0104]: Easy/E0104.cpp
+[E0104]: Easy/E0104.cpp?ts=4
 [Beautiful Pairs]: https://www.hackerrank.com/challenges/beautiful-pairs/problem
 
-[E0105]: Easy/E0105.cpp
+[E0105]: Easy/E0105.cpp?ts=4
 [Two Characters]: https://www.hackerrank.com/challenges/two-characters/problem
 
-[E0106]: Easy/E0106.cpp
+[E0106]: Easy/E0106.cpp?ts=4
 [Strange Counter]: https://www.hackerrank.com/challenges/strange-code/problem
 
-[E0107]: Easy/E0107.cpp
+[E0107]: Easy/E0107.cpp?ts=4
 [Sum vs XOR]: https://www.hackerrank.com/challenges/sum-vs-xor/problem
 
-[E0108]: Easy/E0108.cpp
+[E0108]: Easy/E0108.cpp?ts=4
 [Nimble Game]: https://www.hackerrank.com/challenges/nimble-game-1/problem
 
 [//]: # (Medium)
 
-[M0001]: Medium/M0001.cpp
+[M0001]: Medium/M0001.cpp?ts=4
 [Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
 
-[M0002]: Medium/M0002.cpp
+[M0002]: Medium/M0002.cpp?ts=4
 [The Coin Change Problem]: https://www.hackerrank.com/challenges/coin-change/problem
 
-[M0003]: Medium/M0003.cpp
+[M0003]: Medium/M0003.cpp?ts=4
 [Extra Long Factorials]: https://www.hackerrank.com/challenges/extra-long-factorials/problem
 
-[M0004]: Medium/M0004.cpp
+[M0004]: Medium/M0004.cpp?ts=4
 [Encryption]: https://www.hackerrank.com/challenges/encryption/problem
 
-[M0005]: Medium/M0005.cpp
+[M0005]: Medium/M0005.cpp?ts=4
 [3D Surface Area]: https://www.hackerrank.com/challenges/3d-surface-area/problem
 
-[M0006]: Medium/M0006.cpp
+[M0006]: Medium/M0006.cpp?ts=4
 [Non-Divisible Subset]: https://www.hackerrank.com/challenges/non-divisible-subset/problem
 
-[M0007]: Medium/M0007.cpp
+[M0007]: Medium/M0007.cpp?ts=4
 [The Time in Words]: https://www.hackerrank.com/challenges/the-time-in-words/problem
 
-[M0008]: Medium/M0008.cpp
+[M0008]: Medium/M0008.cpp?ts=4
 [The Grid Search]: https://www.hackerrank.com/challenges/the-grid-search/problem
 
-[M0009]: Medium/M0009.cpp
+[M0009]: Medium/M0009.cpp?ts=4
 [Absolute Permutation]: https://www.hackerrank.com/challenges/absolute-permutation/problem
 
-[M0010]: Medium/M0010.cpp
+[M0010]: Medium/M0010.cpp?ts=4
 [Larry's Array]: https://www.hackerrank.com/challenges/larrys-array/problem
 
-[M0011]: Medium/M0011.cpp
+[M0011]: Medium/M0011.cpp?ts=4
 [Bigger is Greater]: https://www.hackerrank.com/challenges/bigger-is-greater/problem
 
-[M0012]: Medium/M0012.cpp
+[M0012]: Medium/M0012.cpp?ts=4
 [Almost Sorted]: https://www.hackerrank.com/challenges/almost-sorted/problem
 
-[M0013]: Medium/M0013.cpp
+[M0013]: Medium/M0013.cpp?ts=4
 [Organizing Containers of Balls]: https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem
 
-[M0014]: Medium/M0014.cpp
+[M0014]: Medium/M0014.cpp?ts=4
 [The Bomberman Game]: https://www.hackerrank.com/challenges/bomber-man/problem
 
-[M0015]: Medium/M0015.cpp
+[M0015]: Medium/M0015.cpp?ts=4
 [Queen's Attack II]: https://www.hackerrank.com/challenges/queens-attack-2/problem
 
-[M0016]: Medium/M0016.cpp
+[M0016]: Medium/M0016.cpp?ts=4
 [Forming a Magic Square]: https://www.hackerrank.com/challenges/magic-square-forming/problem
 
-[M0017]: Medium/M0017.cpp
+[M0017]: Medium/M0017.cpp?ts=4
 [Ema's Supercomputer]: https://www.hackerrank.com/challenges/two-pluses/problem
 
-[M0018]: Medium/M0018.cpp
+[M0018]: Medium/M0018.cpp?ts=4
 [Fraudulent Activity Notifications]: https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem
 
-[M0019]: Medium/M0019.cpp
+[M0019]: Medium/M0019.cpp?ts=4
 [Lily's Homework]: https://www.hackerrank.com/challenges/lilys-homework/problem
 
-[M0020]: Medium/M0020.cpp
+[M0020]: Medium/M0020.cpp?ts=4
 [Sherlock and the Valid String]: https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem
 
-[M0021]: Medium/M0021.cpp
+[M0021]: Medium/M0021.cpp?ts=4
 [Sherlock and Anagrams]: https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem
 
-[M0022]: Medium/M0022.cpp
+[M0022]: Medium/M0022.cpp?ts=4
 [Highest Value Palindrome]: https://www.hackerrank.com/challenges/richie-rich/problem
 
-[M0023]: Medium/M0023.cpp
+[M0023]: Medium/M0023.cpp?ts=4
 [Hackerland Radio Transmitters]: https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem
 
-[M0024]: Medium/M0024.cpp
+[M0024]: Medium/M0024.cpp?ts=4
 [Common Child]: https://www.hackerrank.com/challenges/common-child/problem
 
-[M0025]: Medium/M0025.cpp
+[M0025]: Medium/M0025.cpp?ts=4
 [KnightL on a Chessboard]: https://www.hackerrank.com/challenges/knightl-on-chessboard/problem
 
 [//]: # (Hard)
 
-[H0001]: Hard/H0001.cpp
+[H0001]: Hard/H0001.cpp?ts=4
 [Matrix Layer Rotation]: https://www.hackerrank.com/challenges/matrix-rotation-algo/problem
 
 [//]: # (EOF)

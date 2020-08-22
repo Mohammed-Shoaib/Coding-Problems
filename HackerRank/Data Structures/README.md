@@ -28,41 +28,41 @@
 
 [//]: # (Easy)
 
-[E0001]: Easy/E0001.cpp
+[E0001]: Easy/E0001.cpp?ts=4
 [Arrays - DS]: https://www.hackerrank.com/challenges/arrays-ds/problem
 
-[E0002]: Easy/E0002.cpp
+[E0002]: Easy/E0002.cpp?ts=4
 [2D Array - DS]: https://www.hackerrank.com/challenges/2d-array/problem
 
-[E0003]: Easy/E0003.cpp
+[E0003]: Easy/E0003.cpp?ts=4
 [Dynamic Array]: https://www.hackerrank.com/challenges/dynamic-array/problem
 
-[E0004]: Easy/E0004.cpp
+[E0004]: Easy/E0004.cpp?ts=4
 [Left Rotation]: https://www.hackerrank.com/challenges/array-left-rotation/problem
 
-[E0005]: Easy/E0005.cpp
+[E0005]: Easy/E0005.cpp?ts=4
 [Print the Elements of a Linked List]: https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
 
-[E0006]: Easy/E0006.cpp
+[E0006]: Easy/E0006.cpp?ts=4
 [Insert a Node at the Tail of a Linked List]: https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem
 
-[E0007]: Easy/E0007.cpp
+[E0007]: Easy/E0007.cpp?ts=4
 [Insert a node at the head of a linked list]: https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem
 
-[E0008]: Easy/E0008.cpp
+[E0008]: Easy/E0008.cpp?ts=4
 [Insert a node at a specific position in a linked list]: https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem
 
 [//]: # (Medium)
 
-[M0001]: Medium/M0001.cpp
+[M0001]: Medium/M0001.cpp?ts=4
 [Sparse Arrays]: https://www.hackerrank.com/challenges/sparse-arrays/problem
 
-[M0002]: Medium/M0002.cpp
+[M0002]: Medium/M0002.cpp?ts=4
 [Cycle Detection]: https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem
 
 [//]: # (Hard)
 
-[H0001]: Hard/H0001.cpp
+[H0001]: Hard/H0001.cpp?ts=4
 [Array Manipulation]: https://www.hackerrank.com/challenges/crush/problem
 
 [//]: # (EOF)
