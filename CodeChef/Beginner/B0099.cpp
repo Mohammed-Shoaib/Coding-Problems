@@ -16,5 +16,5 @@ int main() {
 		cin >> N >> M;
 		cout << oneMoreWeirdGame(N, M) << endl;
 	}
-    return 0;
+	return 0;
 }

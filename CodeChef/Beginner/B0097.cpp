@@ -20,5 +20,5 @@ int main() {
 		cin >> N >> V1 >> V2;
 		cout << elevatorOrStairs(N, V1, V2) << endl;
 	}
-    return 0;
+	return 0;
 }

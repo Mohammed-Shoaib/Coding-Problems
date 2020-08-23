@@ -19,5 +19,5 @@ int main() {
 		cin >> N;
 		cout << trainPartner(N) << endl;
 	}
-    return 0;
+	return 0;
 }

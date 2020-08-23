@@ -21,5 +21,5 @@ int main() {
 		cin >> S;
 		cout << processingAString(S) << endl;
 	}
-    return 0;
+	return 0;
 }

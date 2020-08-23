@@ -21,5 +21,5 @@ int main() {
 	int N;
 	cin >> N;
 	cout << howMany(N);
-    return 0;
+	return 0;
 }

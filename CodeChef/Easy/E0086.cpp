@@ -26,5 +26,5 @@ int main() {
 			cin >> l[i];
 		cout << johnnyAndTheBeanstalk(l) << endl;
 	}
-    return 0;
+	return 0;
 }

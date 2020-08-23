@@ -34,5 +34,5 @@ int main() {
 			A.push_back(token);
 		cout << maximumValue(A) << endl;		
 	}
-    return 0;
+	return 0;
 }

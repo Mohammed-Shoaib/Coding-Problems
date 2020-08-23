@@ -28,5 +28,5 @@ int main() {
 			cin >> x[i] >> l[i] >> f[i];
 		cout << theMorningCommute(n, x, l, f) << endl;
 	}
-    return 0;
+	return 0;
 }

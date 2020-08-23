@@ -25,5 +25,5 @@ int main() {
 	int L, B;
 	cin >> L >> B;
 	areaOrPerimeter(L, B);
-    return 0;
+	return 0;
 }
