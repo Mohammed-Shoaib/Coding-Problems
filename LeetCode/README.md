@@ -192,6 +192,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0918.cpp]     | [Maximum Sum Circular Subarray]                                                                      | Medium     |
 | [LC0922.cpp]     | [Sort Array By Parity II]                                                                            | Easy       |
 | [LC0957.cpp]     | [Prison Cells After N Days]                                                                          | Medium     |
+| [LC0967.cpp]     | [Numbers With Same Consecutive Differences]                                                          | Medium     |
 | [LC0973.cpp]     | [K Closest Points to Origin]                                                                         | Medium     |
 | [LC0986.cpp]     | [Interval List Intersections]                                                                        | Medium     |
 | [LC0987.cpp]     | [Vertical Order Traversal of a Binary Tree]                                                          | Medium     |
@@ -791,6 +792,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0957.cpp]: Solutions/LC0957.cpp?ts=4
 [Prison Cells After N Days]: https://leetcode.com/problems/prison-cells-after-n-days/
+
+[LC0967.cpp]: Solutions/LC0967.cpp?ts=4
+[Numbers With Same Consecutive Differences]: https://leetcode.com/problems/numbers-with-same-consecutive-differences/
 
 [LC0973.cpp]: Solutions/LC0973.cpp?ts=4
 [K Closest Points to Origin]: https://leetcode.com/problems/k-closest-points-to-origin/
