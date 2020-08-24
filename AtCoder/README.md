@@ -31,25 +31,25 @@ Solutions to some of the questions on the AtCoder [website](https://atcoder.jp/ 
 
 [//]: # (Solutions)
 
-[abc158_a.cpp]: Solutions/abc158_a.cpp
-[abc158_b.cpp]: Solutions/abc158_b.cpp
-[abc158_c.cpp]: Solutions/abc158_c.cpp
-[abc158_d.cpp]: Solutions/abc158_d.cpp
-[abc158_e.cpp]: Solutions/abc158_e.cpp
-[abc158_f.cpp]: Solutions/abc158_f.cpp
-[abc162_a.cpp]: Solutions/abc162_a.cpp
-[abc162_b.cpp]: Solutions/abc162_b.cpp
-[abc162_c.cpp]: Solutions/abc162_c.cpp
-[abc162_d.cpp]: Solutions/abc162_d.cpp
-[abc172_a.cpp]: Solutions/abc172_a.cpp
-[abc172_b.cpp]: Solutions/abc172_b.cpp
-[abc172_c.cpp]: Solutions/abc172_c.cpp
-[abc172_d.cpp]: Solutions/abc172_d.cpp
-[abc172_e.cpp]: Solutions/abc172_e.cpp
-[abc174_a.cpp]: Solutions/abc174_a.cpp
-[abc174_b.cpp]: Solutions/abc174_b.cpp
-[abc174_c.cpp]: Solutions/abc174_c.cpp
-[abc174_d.cpp]: Solutions/abc174_d.cpp
-[abc174_e.cpp]: Solutions/abc174_e.cpp
+[abc158_a.cpp]: Solutions/abc158_a.cpp?ts=4
+[abc158_b.cpp]: Solutions/abc158_b.cpp?ts=4
+[abc158_c.cpp]: Solutions/abc158_c.cpp?ts=4
+[abc158_d.cpp]: Solutions/abc158_d.cpp?ts=4
+[abc158_e.cpp]: Solutions/abc158_e.cpp?ts=4
+[abc158_f.cpp]: Solutions/abc158_f.cpp?ts=4
+[abc162_a.cpp]: Solutions/abc162_a.cpp?ts=4
+[abc162_b.cpp]: Solutions/abc162_b.cpp?ts=4
+[abc162_c.cpp]: Solutions/abc162_c.cpp?ts=4
+[abc162_d.cpp]: Solutions/abc162_d.cpp?ts=4
+[abc172_a.cpp]: Solutions/abc172_a.cpp?ts=4
+[abc172_b.cpp]: Solutions/abc172_b.cpp?ts=4
+[abc172_c.cpp]: Solutions/abc172_c.cpp?ts=4
+[abc172_d.cpp]: Solutions/abc172_d.cpp?ts=4
+[abc172_e.cpp]: Solutions/abc172_e.cpp?ts=4
+[abc174_a.cpp]: Solutions/abc174_a.cpp?ts=4
+[abc174_b.cpp]: Solutions/abc174_b.cpp?ts=4
+[abc174_c.cpp]: Solutions/abc174_c.cpp?ts=4
+[abc174_d.cpp]: Solutions/abc174_d.cpp?ts=4
+[abc174_e.cpp]: Solutions/abc174_e.cpp?ts=4
 
 [//]: # (EOF)
