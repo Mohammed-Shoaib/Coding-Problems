@@ -37,6 +37,7 @@
 |Problem Solution|Problem Statement|
 |:--------------:|-----------------|
 |[M0001]|[Inherited Code]|
+|[M0002]|[Exceptional Server]|
 
 [//]: # (Easy)
 
@@ -125,5 +126,8 @@
 
 [M0001]: Medium/M0001.cpp?ts=4
 [Inherited Code]: https://www.hackerrank.com/challenges/inherited-code/problem
+
+[M0002]: Medium/M0002.cpp?ts=4
+[Exceptional Server]: https://www.hackerrank.com/challenges/exceptional-server/problem
 
 [//]: # (EOF)
