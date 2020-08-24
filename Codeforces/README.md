@@ -25,19 +25,19 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 
 [//]: # (Solutions)
 
-[1A.cpp]: Solutions/1A.cpp
-[4A.cpp]: Solutions/4A.cpp
-[50A.cpp]: Solutions/50A.cpp
-[71A.cpp]: Solutions/71A.cpp
-[1374A.cpp]: Solutions/1374A.cpp
-[1374B.cpp]: Solutions/1374B.cpp
-[1374C.cpp]: Solutions/1374C.cpp
-[1398C.cpp]: Solutions/1398C.cpp
-[1399A.cpp]: Solutions/1399A.cpp
-[1399B.cpp]: Solutions/1399B.cpp
-[1399C.cpp]: Solutions/1399C.cpp
-[1399D.cpp]: Solutions/1399D.cpp
-[1399E1.cpp]: Solutions/1399E1.cpp
-[1399E2.cpp]: Solutions/1399E2.cpp
+[1A.cpp]: Solutions/1A.cpp?ts=4
+[4A.cpp]: Solutions/4A.cpp?ts=4
+[50A.cpp]: Solutions/50A.cpp?ts=4
+[71A.cpp]: Solutions/71A.cpp?ts=4
+[1374A.cpp]: Solutions/1374A.cpp?ts=4
+[1374B.cpp]: Solutions/1374B.cpp?ts=4
+[1374C.cpp]: Solutions/1374C.cpp?ts=4
+[1398C.cpp]: Solutions/1398C.cpp?ts=4
+[1399A.cpp]: Solutions/1399A.cpp?ts=4
+[1399B.cpp]: Solutions/1399B.cpp?ts=4
+[1399C.cpp]: Solutions/1399C.cpp?ts=4
+[1399D.cpp]: Solutions/1399D.cpp?ts=4
+[1399E1.cpp]: Solutions/1399E1.cpp?ts=4
+[1399E2.cpp]: Solutions/1399E2.cpp?ts=4
 
 [//]: # (EOF)
