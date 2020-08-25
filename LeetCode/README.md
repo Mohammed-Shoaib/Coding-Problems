@@ -146,6 +146,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0387.cpp]     | [First Unique Character in a String]                                                                 | Easy       |
 | [LC0392.cpp]     | [Is Subsequence]                                                                                     | Easy       |
 | [LC0402.cpp]     | [Remove K Digits]                                                                                    | Medium     |
+| [LC0404.cpp]     | [Sum of Left Leaves]                                                                                 | Easy       |
 | [LC0406.cpp]     | [Queue Reconstruction by Height]                                                                     | Medium     |
 | [LC0409.cpp]     | [Longest Palindrome]                                                                                 | Easy       |
 | [LC0430.cpp]     | [Flatten a Multilevel Doubly Linked List]                                                            | Medium     |
@@ -655,6 +656,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0402.cpp]: Solutions/LC0402.cpp?ts=4
 [Remove K Digits]: https://leetcode.com/problems/remove-k-digits/
+
+[LC0404.cpp]: Solutions/LC0404.cpp?ts=4
+[Sum of Left Leaves]: https://leetcode.com/problems/sum-of-left-leaves/
 
 [LC0406.cpp]: Solutions/LC0406.cpp?ts=4
 [Queue Reconstruction by Height]: https://leetcode.com/problems/queue-reconstruction-by-height/
