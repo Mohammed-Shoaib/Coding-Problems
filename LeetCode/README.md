@@ -80,6 +80,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0139.cpp]     | [Word Break]                                                                                         | Medium     |
 | [LC0140.cpp]     | [Word Break II]                                                                                      | Hard       |
 | [LC0142.cpp]     | [Linked List Cycle II]                                                                               | Medium     |
+| [LC0143.cpp]     | [Reorder List]                                                                                       | Medium     |
 | [LC0144.cpp]     | [Binary Tree Preorder Traversal]                                                                     | Medium     |
 | [LC0146.cpp]     | [LRU Cache]                                                                                          | Medium     |
 | [LC0151.cpp]     | [Reverse Words in a String]                                                                          | Medium     |
@@ -458,6 +459,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0142.cpp]: Solutions/LC0142.cpp?ts=4
 [Linked List Cycle II]: https://leetcode.com/problems/linked-list-cycle-ii/
+
+[LC0143.cpp]: Solutions/LC0143.cpp?ts=4
+[Reorder List]: https://leetcode.com/problems/reorder-list/
 
 [LC0144.cpp]: Solutions/LC0144.cpp?ts=4
 [Binary Tree Preorder Traversal]: https://leetcode.com/problems/binary-tree-preorder-traversal/
