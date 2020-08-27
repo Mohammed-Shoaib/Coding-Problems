@@ -197,6 +197,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0957.cpp]     | [Prison Cells After N Days]                                                                          | Medium     |
 | [LC0967.cpp]     | [Numbers With Same Consecutive Differences]                                                          | Medium     |
 | [LC0973.cpp]     | [K Closest Points to Origin]                                                                         | Medium     |
+| [LC0983.cpp]     | [Minimum Cost For Tickets]                                                                           | Medium     |
 | [LC0986.cpp]     | [Interval List Intersections]                                                                        | Medium     |
 | [LC0987.cpp]     | [Vertical Order Traversal of a Binary Tree]                                                          | Medium     |
 | [LC0993.cpp]     | [Cousins in Binary Tree]                                                                             | Easy       |
@@ -810,6 +811,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0973.cpp]: Solutions/LC0973.cpp?ts=4
 [K Closest Points to Origin]: https://leetcode.com/problems/k-closest-points-to-origin/
+
+[LC0983.cpp]: Solutions/LC0983.cpp?ts=4
+[Minimum Cost For Tickets]: https://leetcode.com/problems/minimum-cost-for-tickets/
 
 [LC0986.cpp]: Solutions/LC0986.cpp?ts=4
 [Interval List Intersections]: https://leetcode.com/problems/interval-list-intersections/
