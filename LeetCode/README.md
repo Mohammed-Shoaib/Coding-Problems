@@ -150,6 +150,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0404.cpp]     | [Sum of Left Leaves]                                                                                 | Easy       |
 | [LC0406.cpp]     | [Queue Reconstruction by Height]                                                                     | Medium     |
 | [LC0409.cpp]     | [Longest Palindrome]                                                                                 | Easy       |
+| [LC0412.cpp]     | [Fizz Buzz]                                                                                          | Easy       |
 | [LC0430.cpp]     | [Flatten a Multilevel Doubly Linked List]                                                            | Medium     |
 | [LC0435.cpp]     | [Non-overlapping Intervals]                                                                          | Medium     |
 | [LC0437.cpp]     | [Path Sum III]                                                                                       | Medium     |
@@ -670,6 +671,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0409.cpp]: Solutions/LC0409.cpp?ts=4
 [Longest Palindrome]: https://leetcode.com/problems/longest-palindrome/
+
+[LC0412.cpp]: Solutions/LC0412.cpp?ts=4
+[Fizz Buzz]: https://leetcode.com/problems/fizz-buzz/
 
 [LC0430.cpp]: Solutions/LC0430.cpp?ts=4
 [Flatten a Multilevel Doubly Linked List]: https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
