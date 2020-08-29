@@ -154,6 +154,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0412.cpp]     | [Fizz Buzz]                                                                                          | Easy       |
 | [LC0430.cpp]     | [Flatten a Multilevel Doubly Linked List]                                                            | Medium     |
 | [LC0435.cpp]     | [Non-overlapping Intervals]                                                                          | Medium     |
+| [LC0436.cpp]     | [Find Right Interval]                                                                                | Medium     |
 | [LC0437.cpp]     | [Path Sum III]                                                                                       | Medium     |
 | [LC0438.cpp]     | [Find All Anagrams in a String]                                                                      | Medium     |
 | [LC0441.cpp]     | [Arranging Coins]                                                                                    | Easy       |
@@ -684,6 +685,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0435.cpp]: Solutions/LC0435.cpp?ts=4
 [Non-overlapping Intervals]: https://leetcode.com/problems/non-overlapping-intervals/
+
+[LC0436.cpp]: Solutions/LC0436.cpp?ts=4
+[Find Right Interval]: https://leetcode.com/problems/find-right-interval/
 
 [LC0437.cpp]: Solutions/LC0437.cpp?ts=4
 [Path Sum III]: https://leetcode.com/problems/path-sum-iii/
