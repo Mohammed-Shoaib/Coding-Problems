@@ -163,6 +163,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0461.cpp]     | [Hamming Distance]                                                                                   | Easy       |
 | [LC0463.cpp]     | [Island Perimeter]                                                                                   | Easy       |
 | [LC0468.cpp]     | [Validate IP Address]                                                                                | Medium     |
+| [LC0470.cpp]     | [Implement Rand10() Using Rand7()]                                                                   | Medium     |
 | [LC0476.cpp]     | [Number Complement]                                                                                  | Easy       |
 | [LC0515.cpp]     | [Find Largest Value in Each Tree Row]                                                                | Medium     |
 | [LC0518.cpp]     | [Coin Change 2]                                                                                      | Medium     |
@@ -712,6 +713,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0468.cpp]: Solutions/LC0468.cpp?ts=4
 [Validate IP Address]: https://leetcode.com/problems/validate-ip-address
+
+[LC0470.cpp]: Solutions/LC0470.cpp?ts=4
+[Implement Rand10() Using Rand7()]: https://leetcode.com/problems/implement-rand10-using-rand7/
 
 [LC0476.cpp]: Solutions/LC0476.cpp?ts=4
 [Number Complement]: https://leetcode.com/problems/number-complement/
