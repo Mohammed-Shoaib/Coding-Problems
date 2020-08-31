@@ -200,6 +200,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0922.cpp]     | [Sort Array By Parity II]                                                                            | Easy       |
 | [LC0957.cpp]     | [Prison Cells After N Days]                                                                          | Medium     |
 | [LC0967.cpp]     | [Numbers With Same Consecutive Differences]                                                          | Medium     |
+| [LC0969.cpp]     | [Pancake Sorting]                                                                                    | Medium     |
 | [LC0973.cpp]     | [K Closest Points to Origin]                                                                         | Medium     |
 | [LC0983.cpp]     | [Minimum Cost For Tickets]                                                                           | Medium     |
 | [LC0986.cpp]     | [Interval List Intersections]                                                                        | Medium     |
@@ -824,6 +825,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0967.cpp]: Solutions/LC0967.cpp?ts=4
 [Numbers With Same Consecutive Differences]: https://leetcode.com/problems/numbers-with-same-consecutive-differences/
+
+[LC0969.cpp]: Solutions/LC0969.cpp?ts=4
+[Pancake Sorting]: https://leetcode.com/problems/pancake-sorting/
 
 [LC0973.cpp]: Solutions/LC0973.cpp?ts=4
 [K Closest Points to Origin]: https://leetcode.com/problems/k-closest-points-to-origin/
