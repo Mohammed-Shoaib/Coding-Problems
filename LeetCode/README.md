@@ -166,6 +166,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0468.cpp]     | [Validate IP Address]                                                                                | Medium     |
 | [LC0470.cpp]     | [Implement Rand10() Using Rand7()]                                                                   | Medium     |
 | [LC0476.cpp]     | [Number Complement]                                                                                  | Easy       |
+| [LC0497.cpp]     | [Random Point in Non-overlapping Rectangles]                                                         | Medium     |
 | [LC0515.cpp]     | [Find Largest Value in Each Tree Row]                                                                | Medium     |
 | [LC0518.cpp]     | [Coin Change 2]                                                                                      | Medium     |
 | [LC0520.cpp]     | [Detect Capital]                                                                                     | Easy       |
@@ -725,6 +726,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0476.cpp]: Solutions/LC0476.cpp?ts=4
 [Number Complement]: https://leetcode.com/problems/number-complement/
+
+[LC0497.cpp]: Solutions/LC0497.cpp?ts=4
+[Random Point in Non-overlapping Rectangles]: https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
 
 [LC0515.cpp]: Solutions/LC0515.cpp?ts=4
 [Find Largest Value in Each Tree Row]: https://leetcode.com/problems/find-largest-value-in-each-tree-row/
