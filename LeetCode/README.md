@@ -200,6 +200,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0905.cpp]     | [Sort Array By Parity]                                                                               | Easy       |
 | [LC0918.cpp]     | [Maximum Sum Circular Subarray]                                                                      | Medium     |
 | [LC0922.cpp]     | [Sort Array By Parity II]                                                                            | Easy       |
+| [LC0949.cpp]     | [Largest Time for Given Digits]                                                                      | Easy       |
 | [LC0952.cpp]     | [Largest Component Size by Common Factor]                                                            | Hard       |
 | [LC0957.cpp]     | [Prison Cells After N Days]                                                                          | Medium     |
 | [LC0967.cpp]     | [Numbers With Same Consecutive Differences]                                                          | Medium     |
@@ -828,6 +829,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0922.cpp]: Solutions/LC0922.cpp?ts=4
 [Sort Array By Parity II]: https://leetcode.com/problems/sort-array-by-parity-ii/
+
+[LC0949.cpp]: Solutions/LC0949.cpp?ts=4
+[Largest Time for Given Digits]: https://leetcode.com/problems/largest-time-for-given-digits/
 
 [LC0952.cpp]: Solutions/LC0952.cpp?ts=4
 [Largest Component Size by Common Factor]: https://leetcode.com/problems/largest-component-size-by-common-factor/
