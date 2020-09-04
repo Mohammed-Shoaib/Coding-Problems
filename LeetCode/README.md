@@ -161,6 +161,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0442.cpp]     | [Find All Duplicates in an Array]                                                                    | Medium     |
 | [LC0450.cpp]     | [Delete Node in a BST]                                                                               | Medium     |
 | [LC0451.cpp]     | [Sort Characters By Frequency]                                                                       | Medium     |
+| [LC0459.cpp]     | [Repeated Substring Pattern]                                                                         | Easy       |
 | [LC0461.cpp]     | [Hamming Distance]                                                                                   | Easy       |
 | [LC0463.cpp]     | [Island Perimeter]                                                                                   | Easy       |
 | [LC0468.cpp]     | [Validate IP Address]                                                                                | Medium     |
@@ -712,6 +713,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0451.cpp]: Solutions/LC0451.cpp?ts=4
 [Sort Characters By Frequency]: https://leetcode.com/problems/sort-characters-by-frequency/
+
+[LC0459.cpp]: Solutions/LC0459.cpp?ts=4
+[Repeated Substring Pattern]: https://leetcode.com/problems/repeated-substring-pattern/
 
 [LC0461.cpp]: Solutions/LC0461.cpp?ts=4
 [Hamming Distance]: https://leetcode.com/problems/hamming-distance/
