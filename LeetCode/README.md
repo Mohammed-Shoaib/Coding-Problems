@@ -110,6 +110,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0215.cpp]     | [Kth Largest Element in an Array]                                                                    | Medium     |
 | [LC0217.cpp]     | [Contains Duplicate]                                                                                 | Easy       |
 | [LC0219.cpp]     | [Contains Duplicate II]                                                                              | Easy       |
+| [LC0220.cpp]     | [Contains Duplicate III]                                                                             | Medium     |
 | [LC0221.cpp]     | [Maximal Square]                                                                                     | Medium     |
 | [LC0222.cpp]     | [Count Complete Tree Nodes]                                                                          | Medium     |
 | [LC0226.cpp]     | [Invert Binary Tree]                                                                                 | Easy       |
@@ -561,6 +562,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0219.cpp]: Solutions/LC0219.cpp?ts=4
 [Contains Duplicate II]: https://leetcode.com/problems/contains-duplicate-ii/
+
+[LC0220.cpp]: Solutions/LC0220.cpp?ts=4
+[Contains Duplicate III]: https://leetcode.com/problems/contains-duplicate-iii/
 
 [LC0221.cpp]: Solutions/LC0221.cpp?ts=4
 [Maximal Square]: https://leetcode.com/problems/maximal-square/
