@@ -191,6 +191,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0714.cpp]     | [Best Time to Buy and Sell Stock with Transaction Fee]                                               | Medium     |
 | [LC0718.cpp]     | [Maximum Length of Repeated Subarray]                                                                | Medium     |
 | [LC0733.cpp]     | [Flood Fill]                                                                                         | Easy       |
+| [LC0763.cpp]     | [Partition Labels]                                                                                   | Medium     |
 | [LC0771.cpp]     | [Jewels and Stones]                                                                                  | Easy       |
 | [LC0787.cpp]     | [Cheapest Flights Within K Stops]                                                                    | Medium     |
 | [LC0797.cpp]     | [All Paths From Source to Target]                                                                    | Medium     |
@@ -805,6 +806,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0733.cpp]: Solutions/LC0733.cpp?ts=4
 [Flood Fill]: https://leetcode.com/problems/flood-fill/
+
+[LC0763.cpp]: Solutions/LC0763.cpp?ts=4
+[Partition Labels]: https://leetcode.com/problems/partition-labels/
 
 [LC0771.cpp]: Solutions/LC0771.cpp?ts=4
 [Jewels and Stones]: https://leetcode.com/problems/jewels-and-stones/
