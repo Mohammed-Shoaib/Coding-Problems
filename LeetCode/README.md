@@ -196,6 +196,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0787.cpp]     | [Cheapest Flights Within K Stops]                                                                    | Medium     |
 | [LC0797.cpp]     | [All Paths From Source to Target]                                                                    | Medium     |
 | [LC0824.cpp]     | [Goat Latin]                                                                                         | Easy       |
+| [LC0835.cpp]     | [Image Overlap]                                                                                      | Medium     |
 | [LC0844.cpp]     | [Backspace String Compare]                                                                           | Easy       |
 | [LC0876.cpp]     | [Middle of the Linked List]                                                                          | Easy       |
 | [LC0886.cpp]     | [Possible Bipartition]                                                                               | Medium     |
@@ -823,6 +824,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0824.cpp]: Solutions/LC0824.cpp?ts=4
 [Goat Latin]: https://leetcode.com/problems/goat-latin/
+
+[LC0835.cpp]: Solutions/LC0835.cpp?ts=4
+[Image Overlap]: https://leetcode.com/problems/image-overlap/
 
 [LC0844.cpp]: Solutions/LC0844.cpp?ts=4
 [Backspace String Compare]: https://leetcode.com/problems/backspace-string-compare/
