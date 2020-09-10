@@ -88,6 +88,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0153.cpp]     | [Find Minimum in Rotated Sorted Array]                                                               | Medium     |
 | [LC0154.cpp]     | [Find Minimum in Rotated Sorted Array II]                                                            | Hard       |
 | [LC0155.cpp]     | [Min Stack]                                                                                          | Easy       |
+| [LC0165.cpp]     | [Compare Version Numbers]                                                                            | Medium     |
 | [LC0167.cpp]     | [Two Sum II - Input array is sorted]                                                                 | Easy       |
 | [LC0168.cpp]     | [Excel Sheet Column Title]                                                                           | Easy       |
 | [LC0169.cpp]     | [Majority Element]                                                                                   | Easy       |
@@ -501,6 +502,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0155.cpp]: Solutions/LC0155.cpp?ts=4
 [Min Stack]: https://leetcode.com/problems/min-stack/
+
+[LC0165.cpp]: Solutions/LC0165.cpp?ts=4
+[Compare Version Numbers]: https://leetcode.com/problems/compare-version-numbers/
 
 [LC0167.cpp]: Solutions/LC0167.cpp?ts=4
 [Two Sum II - Input array is sorted]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
