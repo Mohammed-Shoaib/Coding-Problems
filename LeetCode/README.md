@@ -221,6 +221,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0997.cpp]     | [Find the Town Judge]                                                                                | Easy       |
 | [LC1008.cpp]     | [Construct Binary Search Tree from Preorder Traversal]                                               | Medium     |
 | [LC1009.cpp]     | [Complement of Base 10 Integer]                                                                      | Easy       |
+| [LC1022.cpp]     | [Sum of Root To Leaf Binary Numbers]                                                                 | Easy       |
 | [LC1029.cpp]     | [Two City Scheduling]                                                                                | Easy       |
 | [LC1035.cpp]     | [Uncrossed Lines]                                                                                    | Medium     |
 | [LC1044.cpp]     | [Longest Duplicate Substring]                                                                        | Hard       |
@@ -901,6 +902,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1009.cpp]: Solutions/LC1009.cpp?ts=4
 [Complement of Base 10 Integer]: https://leetcode.com/problems/complement-of-base-10-integer/
+
+[LC1022.cpp]: Solutions/LC1022.cpp?ts=4
+[Sum of Root To Leaf Binary Numbers]: https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 
 [LC1029.cpp]: Solutions/LC1029.cpp?ts=4
 [Two City Scheduling]: https://leetcode.com/problems/two-city-scheduling/
