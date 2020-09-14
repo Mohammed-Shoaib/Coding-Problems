@@ -33,6 +33,7 @@ Solutions to some of the questions on the AtCoder [website](https://atcoder.jp/ 
 | [abc174_c.cpp]                 | [Repsept](https://atcoder.jp/contests/abc174/tasks/abc174_c)                                         | 300   |
 | [abc174_d.cpp]                 | [Alter Altar](https://atcoder.jp/contests/abc174/tasks/abc174_d)                                     | 400   |
 | [abc174_e.cpp]                 | [Logs](https://atcoder.jp/contests/abc174/tasks/abc174_e)                                            | 500   |
+| [abc176_a.cpp]                 | [Takoyaki](https://atcoder.jp/contests/abc176/tasks/abc176_a)                                        | 100   |
 | [abc177_a.cpp]                 | [Don't be late](https://atcoder.jp/contests/abc177/tasks/abc177_a)                                   | 100   |
 | [abc177_b.cpp]                 | [Substring](https://atcoder.jp/contests/abc177/tasks/abc177_b)                                       | 200   |
 | [abc177_c.cpp]                 | [Sum of product of pairs](https://atcoder.jp/contests/abc177/tasks/abc177_c)                         | 300   |
@@ -66,6 +67,7 @@ Solutions to some of the questions on the AtCoder [website](https://atcoder.jp/ 
 [abc174_c.cpp]: Solutions/abc174_c.cpp?ts=4
 [abc174_d.cpp]: Solutions/abc174_d.cpp?ts=4
 [abc174_e.cpp]: Solutions/abc174_e.cpp?ts=4
+[abc176_a.cpp]: Solutions/abc176_a.cpp?ts=4
 [abc177_a.cpp]: Solutions/abc177_a.cpp?ts=4
 [abc177_b.cpp]: Solutions/abc177_b.cpp?ts=4
 [abc177_c.cpp]: Solutions/abc177_c.cpp?ts=4
