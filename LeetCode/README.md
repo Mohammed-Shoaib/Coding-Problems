@@ -108,6 +108,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0210.cpp]     | [Course Schedule II]                                                                                 | Medium     |
 | [LC0211.cpp]     | [Add and Search Word - Data structure design]                                                        | Medium     |
 | [LC0212.cpp]     | [Word Search II]                                                                                     | Hard       |
+| [LC0213.cpp]     | [House Robber II]                                                                                    | Medium     |
 | [LC0215.cpp]     | [Kth Largest Element in an Array]                                                                    | Medium     |
 | [LC0217.cpp]     | [Contains Duplicate]                                                                                 | Easy       |
 | [LC0219.cpp]     | [Contains Duplicate II]                                                                              | Easy       |
@@ -564,6 +565,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0212.cpp]: Solutions/LC0212.cpp?ts=4
 [Word Search II]: https://leetcode.com/problems/word-search-ii/
+
+[LC0213.cpp]: Solutions/LC0213.cpp?ts=4
+[House Robber II]: https://leetcode.com/problems/house-robber-ii/
 
 [LC0215.cpp]: Solutions/LC0215.cpp?ts=4
 [Kth Largest Element in an Array]: https://leetcode.com/problems/kth-largest-element-in-an-array/
