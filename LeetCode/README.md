@@ -85,6 +85,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0143.cpp]     | [Reorder List]                                                                                       | Medium     |
 | [LC0144.cpp]     | [Binary Tree Preorder Traversal]                                                                     | Medium     |
 | [LC0146.cpp]     | [LRU Cache]                                                                                          | Medium     |
+| [LC0147.cpp]     | [Insertion Sort List]                                                                                | Medium     |
 | [LC0151.cpp]     | [Reverse Words in a String]                                                                          | Medium     |
 | [LC0153.cpp]     | [Find Minimum in Rotated Sorted Array]                                                               | Medium     |
 | [LC0154.cpp]     | [Find Minimum in Rotated Sorted Array II]                                                            | Hard       |
@@ -499,6 +500,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0146.cpp]: Solutions/LC0146.cpp?ts=4
 [LRU Cache]: https://leetcode.com/problems/lru-cache/
+
+[LC0147.cpp]: Solutions/LC0147.cpp?ts=4
+[Insertion Sort List]: https://leetcode.com/problems/insertion-sort-list/
 
 [LC0151.cpp]: Solutions/LC0151.cpp?ts=4
 [Reverse Words in a String]: https://leetcode.com/problems/reverse-words-in-a-string/
