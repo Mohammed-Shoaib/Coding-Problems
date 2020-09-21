@@ -141,6 +141,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0287.cpp]     | [Find the Duplicate Number]                                                                          | Medium     |
 | [LC0290.cpp]     | [Word Pattern]                                                                                       | Easy       |
 | [LC0299.cpp]     | [Bulls and Cows]                                                                                     | Easy       |
+| [LC0300.cpp]     | [Longest Increasing Subsequence]                                                                     | Medium     |
 | [LC0303.cpp]     | [Range Sum Query - Immutable]                                                                        | Easy       |
 | [LC0307.cpp]     | [Range Sum Query - Mutable]                                                                          | Medium     |
 | [LC0309.cpp]     | [Best Time to Buy and Sell Stock with Cooldown]                                                      | Medium     |
@@ -669,6 +670,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0299.cpp]: Solutions/LC0299.cpp?ts=4
 [Bulls and Cows]: https://leetcode.com/problems/bulls-and-cows/
+
+[LC0300.cpp]: Solutions/LC0300.cpp?ts=4
+[Longest Increasing Subsequence]: https://leetcode.com/problems/longest-increasing-subsequence/
 
 [LC0303.cpp]: Solutions/LC0303.cpp?ts=4
 [Range Sum Query - Immutable]: https://leetcode.com/problems/range-sum-query-immutable/
