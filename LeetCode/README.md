@@ -87,6 +87,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0146.cpp]     | [LRU Cache]                                                                                          | Medium     |
 | [LC0147.cpp]     | [Insertion Sort List]                                                                                | Medium     |
 | [LC0151.cpp]     | [Reverse Words in a String]                                                                          | Medium     |
+| [LC0152.cpp]     | [Maximum Product Subarray]                                                                           | Medium     |
 | [LC0153.cpp]     | [Find Minimum in Rotated Sorted Array]                                                               | Medium     |
 | [LC0154.cpp]     | [Find Minimum in Rotated Sorted Array II]                                                            | Hard       |
 | [LC0155.cpp]     | [Min Stack]                                                                                          | Easy       |
@@ -508,6 +509,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0151.cpp]: Solutions/LC0151.cpp?ts=4
 [Reverse Words in a String]: https://leetcode.com/problems/reverse-words-in-a-string/
+
+[LC0152.cpp]: Solutions/LC0152.cpp?ts=4
+[Maximum Product Subarray]: https://leetcode.com/problems/maximum-product-subarray/
 
 [LC0153.cpp]: Solutions/LC0153.cpp?ts=4
 [Find Minimum in Rotated Sorted Array]: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
