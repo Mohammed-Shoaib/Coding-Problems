@@ -115,6 +115,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0212.cpp]     | [Word Search II]                                                                                     | Hard       |
 | [LC0213.cpp]     | [House Robber II]                                                                                    | Medium     |
 | [LC0215.cpp]     | [Kth Largest Element in an Array]                                                                    | Medium     |
+| [LC0216.cpp]     | [Combination Sum III]                                                                                | Medium     |
 | [LC0217.cpp]     | [Contains Duplicate]                                                                                 | Easy       |
 | [LC0219.cpp]     | [Contains Duplicate II]                                                                              | Easy       |
 | [LC0220.cpp]     | [Contains Duplicate III]                                                                             | Medium     |
@@ -593,6 +594,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0215.cpp]: Solutions/LC0215.cpp?ts=4
 [Kth Largest Element in an Array]: https://leetcode.com/problems/kth-largest-element-in-an-array/
+
+[LC0216.cpp]: Solutions/LC0216.cpp?ts=4
+[Combination Sum III]: https://leetcode.com/problems/combination-sum-iii/
 
 [LC0217.cpp]: Solutions/LC0217.cpp?ts=4
 [Contains Duplicate]: https://leetcode.com/problems/contains-duplicate/
