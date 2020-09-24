@@ -33,6 +33,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0050.cpp]     | [Pow(x, n)]                                                                                          | Medium     |
 | [LC0053.cpp]     | [Maximum Subarray]                                                                                   | Easy       |
 | [LC0055.cpp]     | [Jump Game]                                                                                          | Medium     |
+| [LC0057.cpp]     | [Insert Interval]                                                                                    | Medium     |
 | [LC0058.cpp]     | [Length of Last Word]                                                                                | Easy       |
 | [LC0060.cpp]     | [Permutation Sequence]                                                                               | Medium     |
 | [LC0062.cpp]     | [Unique Paths]                                                                                       | Medium     |
@@ -348,6 +349,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0055.cpp]: Solutions/LC0055.cpp?ts=4
 [Jump Game]: https://leetcode.com/problems/jump-game/
+
+[LC0057.cpp]: Solutions/LC0057.cpp?ts=4
+[Insert Interval]: https://leetcode.com/problems/insert-interval/
 
 [LC0058.cpp]: Solutions/LC0058.cpp?ts=4
 [Length of Last Word]: https://leetcode.com/problems/length-of-last-word/
