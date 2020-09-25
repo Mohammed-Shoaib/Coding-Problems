@@ -235,6 +235,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1022.cpp]     | [Sum of Root To Leaf Binary Numbers]                                                                 | Easy       |
 | [LC1029.cpp]     | [Two City Scheduling]                                                                                | Easy       |
 | [LC1035.cpp]     | [Uncrossed Lines]                                                                                    | Medium     |
+| [LC1041.cpp]     | [Robot Bounded In Circle]                                                                            | Medium     |
 | [LC1044.cpp]     | [Longest Duplicate Substring]                                                                        | Hard       |
 | [LC1046.cpp]     | [Last Stone Weight]                                                                                  | Easy       |
 | [LC1103.cpp]     | [Distribute Candies to People]                                                                       | Easy       |
@@ -955,6 +956,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1035.cpp]: Solutions/LC1035.cpp?ts=4
 [Uncrossed Lines]: https://leetcode.com/problems/uncrossed-lines/
+
+[LC1041.cpp]: Solutions/LC1041.cpp?ts=4
+[Robot Bounded In Circle]: https://leetcode.com/problems/robot-bounded-in-circle/
 
 [LC1044.cpp]: Solutions/LC1044.cpp?ts=4
 [Longest Duplicate Substring]: https://leetcode.com/problems/longest-duplicate-substring/
