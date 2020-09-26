@@ -8,11 +8,12 @@ Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 class Solution {
 public:
 	int majorityElement(vector<int>& nums) {
-		int m, counter = 0;
-		for (auto num: nums) {
-			if (!counter)
-				m = num;
-			counter += (m == num) ? 1 : -1;
+		// Boyer–Moore majority vote
+		int m, cnt = 0;
+		for (int& x: nums) {
+			if (cnt == 0)
+				m = x;
+			cnt += 2 * (m == x) - 1;
 		}
 		return m;
 	}
