@@ -239,6 +239,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1041.cpp]     | [Robot Bounded In Circle]                                                                            | Medium     |
 | [LC1044.cpp]     | [Longest Duplicate Substring]                                                                        | Hard       |
 | [LC1046.cpp]     | [Last Stone Weight]                                                                                  | Easy       |
+| [LC1094.cpp]     | [Car Pooling]                                                                                        | Medium     |
 | [LC1103.cpp]     | [Distribute Candies to People]                                                                       | Easy       |
 | [LC1143.cpp]     | [Longest Common Subsequence]                                                                         | Medium     |
 | [LC1190.cpp]     | [Reverse Substrings Between Each Pair of Parentheses]                                                | Medium     |
@@ -969,6 +970,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1046.cpp]: Solutions/LC1046.cpp?ts=4
 [Last Stone Weight]: https://leetcode.com/problems/last-stone-weight/
+
+[LC1094.cpp]: Solutions/LC1094.cpp?ts=4
+[Car Pooling]: https://leetcode.com/problems/car-pooling/
 
 [LC1103.cpp]: Solutions/LC1103.cpp?ts=4
 [Distribute Candies to People]: https://leetcode.com/problems/distribute-candies-to-people/
