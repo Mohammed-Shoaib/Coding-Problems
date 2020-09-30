@@ -183,6 +183,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0468.cpp]     | [Validate IP Address]                                                                                | Medium     |
 | [LC0470.cpp]     | [Implement Rand10() Using Rand7()]                                                                   | Medium     |
 | [LC0476.cpp]     | [Number Complement]                                                                                  | Easy       |
+| [LC0495.cpp]     | [Teemo Attacking]                                                                                    | Medium     |
 | [LC0497.cpp]     | [Random Point in Non-overlapping Rectangles]                                                         | Medium     |
 | [LC0515.cpp]     | [Find Largest Value in Each Tree Row]                                                                | Medium     |
 | [LC0518.cpp]     | [Coin Change 2]                                                                                      | Medium     |
@@ -803,6 +804,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0476.cpp]: Solutions/LC0476.cpp?ts=4
 [Number Complement]: https://leetcode.com/problems/number-complement/
+
+[LC0495.cpp]: Solutions/LC0495.cpp?ts=4
+[Teemo Attacking]: https://leetcode.com/problems/teemo-attacking/
 
 [LC0497.cpp]: Solutions/LC0497.cpp?ts=4
 [Random Point in Non-overlapping Rectangles]: https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
