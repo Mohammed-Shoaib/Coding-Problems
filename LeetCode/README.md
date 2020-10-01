@@ -162,6 +162,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0383.cpp]     | [Ransom Note]                                                                                        | Easy       |
 | [LC0387.cpp]     | [First Unique Character in a String]                                                                 | Easy       |
 | [LC0392.cpp]     | [Is Subsequence]                                                                                     | Easy       |
+| [LC0399.cpp]     | [Evaluate Division]                                                                                  | Medium     |
 | [LC0402.cpp]     | [Remove K Digits]                                                                                    | Medium     |
 | [LC0404.cpp]     | [Sum of Left Leaves]                                                                                 | Easy       |
 | [LC0406.cpp]     | [Queue Reconstruction by Height]                                                                     | Medium     |
@@ -741,6 +742,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0392.cpp]: Solutions/LC0392.cpp?ts=4
 [Is Subsequence]: https://leetcode.com/problems/is-subsequence/
+
+[LC0399.cpp]: Solutions/LC0399.cpp?ts=4
+[Evaluate Division]: https://leetcode.com/problems/evaluate-division/
 
 [LC0402.cpp]: Solutions/LC0402.cpp?ts=4
 [Remove K Digits]: https://leetcode.com/problems/remove-k-digits/
