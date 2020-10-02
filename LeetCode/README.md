@@ -161,6 +161,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0380.cpp]     | [Insert Delete GetRandom O(1)]                                                                       | Medium     |
 | [LC0383.cpp]     | [Ransom Note]                                                                                        | Easy       |
 | [LC0387.cpp]     | [First Unique Character in a String]                                                                 | Easy       |
+| [LC0389.cpp]     | [Find the Difference]                                                                                | Easy       |
 | [LC0392.cpp]     | [Is Subsequence]                                                                                     | Easy       |
 | [LC0399.cpp]     | [Evaluate Division]                                                                                  | Medium     |
 | [LC0402.cpp]     | [Remove K Digits]                                                                                    | Medium     |
@@ -739,6 +740,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0387.cpp]: Solutions/LC0387.cpp?ts=4
 [First Unique Character in a String]: https://leetcode.com/problems/first-unique-character-in-a-string/
+
+[LC0389.cpp]: Solutions/LC0389.cpp?ts=4
+[Find the Difference]: https://leetcode.com/problems/find-the-difference/
 
 [LC0392.cpp]: Solutions/LC0392.cpp?ts=4
 [Is Subsequence]: https://leetcode.com/problems/is-subsequence/
