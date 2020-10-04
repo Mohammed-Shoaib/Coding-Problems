@@ -27,6 +27,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0031.cpp]     | [Next Permutation]                                                                                   | Medium     |
 | [LC0033.cpp]     | [Search in Rotated Sorted Array]                                                                     | Medium     |
 | [LC0035.cpp]     | [Search Insert Position]                                                                             | Easy       |
+| [LC0039.cpp]     | [Combination Sum]                                                                                    | Medium     |
 | [LC0046.cpp]     | [Permutations]                                                                                       | Medium     |
 | [LC0047.cpp]     | [Permutations II]                                                                                    | Medium     |
 | [LC0049.cpp]     | [Group Anagrams]                                                                                     | Medium     |
@@ -340,6 +341,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0035.cpp]: Solutions/LC0035.cpp?ts=4
 [Search Insert Position]: https://leetcode.com/problems/search-insert-position/
+
+[LC0039.cpp]: Solutions/LC0039.cpp?ts=4
+[Combination Sum]: https://leetcode.com/problems/combination-sum/
 
 [LC0046.cpp]: Solutions/LC0046.cpp?ts=4
 [Permutations]: https://leetcode.com/problems/permutations/
