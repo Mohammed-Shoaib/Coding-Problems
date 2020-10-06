@@ -193,6 +193,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0520.cpp]     | [Detect Capital]                                                                                     | Easy       |
 | [LC0525.cpp]     | [Contiguous Array]                                                                                   | Medium     |
 | [LC0528.cpp]     | [Random Pick with Weight]                                                                            | Medium     |
+| [LC0532.cpp]     | [K-diff Pairs in an Array]                                                                           | Medium     |
 | [LC0540.cpp]     | [Single Element in a Sorted Array]                                                                   | Medium     |
 | [LC0543.cpp]     | [Diameter of Binary Tree]                                                                            | Easy       |
 | [LC0560.cpp]     | [Subarray Sum Equals K]                                                                              | Medium     |
@@ -839,6 +840,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0528.cpp]: Solutions/LC0528.cpp?ts=4
 [Random Pick with Weight]: https://leetcode.com/problems/random-pick-with-weight/
+
+[LC0532.cpp]: Solutions/LC0532.cpp?ts=4
+[K-diff Pairs in an Array]: https://leetcode.com/problems/k-diff-pairs-in-an-array/
 
 [LC0540.cpp]: Solutions/LC0540.cpp?ts=4
 [Single Element in a Sorted Array]: https://leetcode.com/problems/single-element-in-a-sorted-array/
