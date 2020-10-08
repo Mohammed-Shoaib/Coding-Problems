@@ -90,6 +90,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0144.cpp]     | [Binary Tree Preorder Traversal]                                                                     | Medium     |
 | [LC0146.cpp]     | [LRU Cache]                                                                                          | Medium     |
 | [LC0147.cpp]     | [Insertion Sort List]                                                                                | Medium     |
+| [LC0150.cpp]     | [Evaluate Reverse Polish Notation]                                                                   | Medium     |
 | [LC0151.cpp]     | [Reverse Words in a String]                                                                          | Medium     |
 | [LC0152.cpp]     | [Maximum Product Subarray]                                                                           | Medium     |
 | [LC0153.cpp]     | [Find Minimum in Rotated Sorted Array]                                                               | Medium     |
@@ -532,6 +533,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0147.cpp]: Solutions/LC0147.cpp?ts=4
 [Insertion Sort List]: https://leetcode.com/problems/insertion-sort-list/
+
+[LC0150.cpp]: Solutions/LC0150.cpp?ts=4
+[Evaluate Reverse Polish Notation]: https://leetcode.com/problems/evaluate-reverse-polish-notation/
 
 [LC0151.cpp]: Solutions/LC0151.cpp?ts=4
 [Reverse Words in a String]: https://leetcode.com/problems/reverse-words-in-a-string/
