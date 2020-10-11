@@ -156,6 +156,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0322.cpp]     | [Coin Change]                                                                                        | Medium     |
 | [LC0328.cpp]     | [Odd Even Linked List]                                                                               | Medium     |
 | [LC0332.cpp]     | [Reconstruct Itinerary]                                                                              | Medium     |
+| [LC0337.cpp]     | [House Robber III]                                                                                   | Medium     |
 | [LC0338.cpp]     | [Counting Bits]                                                                                      | Medium     |
 | [LC0342.cpp]     | [Power of Four]                                                                                      | Easy       |
 | [LC0344.cpp]     | [Reverse String]                                                                                     | Easy       |
@@ -732,6 +733,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0332.cpp]: Solutions/LC0332.cpp?ts=4
 [Reconstruct Itinerary]: https://leetcode.com/problems/reconstruct-itinerary/
+
+[LC0337.cpp]: Solutions/LC0337.cpp?ts=4
+[House Robber III]: https://leetcode.com/problems/house-robber-iii/
 
 [LC0338.cpp]: Solutions/LC0338.cpp?ts=4
 [Counting Bits]: https://leetcode.com/problems/counting-bits/
