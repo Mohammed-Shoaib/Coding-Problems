@@ -163,6 +163,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0347.cpp]     | [Top K Frequent Elements]                                                                            | Medium     |
 | [LC0367.cpp]     | [Valid Perfect Square]                                                                               | Easy       |
 | [LC0368.cpp]     | [Largest Divisible Subset]                                                                           | Medium     |
+| [LC0377.cpp]     | [Combination Sum IV]                                                                                 | Medium     |
 | [LC0380.cpp]     | [Insert Delete GetRandom O(1)]                                                                       | Medium     |
 | [LC0383.cpp]     | [Ransom Note]                                                                                        | Easy       |
 | [LC0387.cpp]     | [First Unique Character in a String]                                                                 | Easy       |
@@ -754,6 +755,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0368.cpp]: Solutions/LC0368.cpp?ts=4
 [Largest Divisible Subset]: https://leetcode.com/problems/largest-divisible-subset/
+
+[LC0377.cpp]: Solutions/LC0377.cpp?ts=4
+[Combination Sum IV]: https://leetcode.com/problems/combination-sum-iv/
 
 [LC0380.cpp]: Solutions/LC0380.cpp?ts=4
 [Insert Delete GetRandom O(1)]: https://leetcode.com/problems/insert-delete-getrandom-o1/
