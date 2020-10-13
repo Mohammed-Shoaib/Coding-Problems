@@ -176,6 +176,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0409.cpp]     | [Longest Palindrome]                                                                                 | Easy       |
 | [LC0412.cpp]     | [Fizz Buzz]                                                                                          | Easy       |
 | [LC0421.cpp]     | [Maximum XOR of Two Numbers in an Array]                                                             | Medium     |
+| [LC0429.cpp]     | [N-ary Tree Level Order Traversal]                                                                   | Medium     |
 | [LC0430.cpp]     | [Flatten a Multilevel Doubly Linked List]                                                            | Medium     |
 | [LC0435.cpp]     | [Non-overlapping Intervals]                                                                          | Medium     |
 | [LC0436.cpp]     | [Find Right Interval]                                                                                | Medium     |
@@ -794,6 +795,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0421.cpp]: Solutions/LC0421.cpp?ts=4
 [Maximum XOR of Two Numbers in an Array]: https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+
+[LC0429.cpp]: Solutions/LC0429.cpp?ts=4
+[N-ary Tree Level Order Traversal]: https://leetcode.com/problems/n-ary-tree-level-order-traversal/
 
 [LC0430.cpp]: Solutions/LC0430.cpp?ts=4
 [Flatten a Multilevel Doubly Linked List]: https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
