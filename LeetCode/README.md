@@ -184,6 +184,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0438.cpp]     | [Find All Anagrams in a String]                                                                      | Medium     |
 | [LC0441.cpp]     | [Arranging Coins]                                                                                    | Easy       |
 | [LC0442.cpp]     | [Find All Duplicates in an Array]                                                                    | Medium     |
+| [LC0442.cpp]     | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)    | Medium     |
 | [LC0450.cpp]     | [Delete Node in a BST]                                                                               | Medium     |
 | [LC0451.cpp]     | [Sort Characters By Frequency]                                                                       | Medium     |
 | [LC0459.cpp]     | [Repeated Substring Pattern]                                                                         | Easy       |
@@ -819,6 +820,8 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0442.cpp]: Solutions/LC0442.cpp?ts=4
 [Find All Duplicates in an Array]: https://leetcode.com/problems/find-all-duplicates-in-an-array/
+
+[LC0442.cpp]: Solutions/LC0442.cpp?ts=4
 
 [LC0450.cpp]: Solutions/LC0450.cpp?ts=4
 [Delete Node in a BST]: https://leetcode.com/problems/delete-node-in-a-bst/
