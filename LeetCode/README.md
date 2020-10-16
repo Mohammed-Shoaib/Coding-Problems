@@ -204,6 +204,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0532.cpp]     | [K-diff Pairs in an Array]                                                                           | Medium     |
 | [LC0540.cpp]     | [Single Element in a Sorted Array]                                                                   | Medium     |
 | [LC0543.cpp]     | [Diameter of Binary Tree]                                                                            | Easy       |
+| [LC0556.cpp]     | [Next Greater Element III]                                                                           | Medium     |
 | [LC0560.cpp]     | [Subarray Sum Equals K]                                                                              | Medium     |
 | [LC0567.cpp]     | [Permutation in String]                                                                              | Medium     |
 | [LC0575.cpp]     | [Distribute Candies]                                                                                 | Easy       |
@@ -880,6 +881,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0543.cpp]: Solutions/LC0543.cpp?ts=4
 [Diameter of Binary Tree]: https://leetcode.com/problems/diameter-of-binary-tree/
+
+[LC0556.cpp]: Solutions/LC0556.cpp?ts=4
+[Next Greater Element III]: https://leetcode.com/problems/next-greater-element-iii/
 
 [LC0560.cpp]: Solutions/LC0560.cpp?ts=4
 [Subarray Sum Equals K]: https://leetcode.com/problems/subarray-sum-equals-k/
