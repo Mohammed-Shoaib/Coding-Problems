@@ -29,6 +29,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0035.cpp]     | [Search Insert Position]                                                                             | Easy       |
 | [LC0039.cpp]     | [Combination Sum]                                                                                    | Medium     |
 | [LC0040.cpp]     | [Combination Sum II]                                                                                 | Medium     |
+| [LC0041.cpp]     | [First Missing Positive]                                                                             | Hard       |
 | [LC0046.cpp]     | [Permutations]                                                                                       | Medium     |
 | [LC0047.cpp]     | [Permutations II]                                                                                    | Medium     |
 | [LC0049.cpp]     | [Group Anagrams]                                                                                     | Medium     |
@@ -358,6 +359,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0040.cpp]: Solutions/LC0040.cpp?ts=4
 [Combination Sum II]: https://leetcode.com/problems/combination-sum-ii/
+
+[LC0041.cpp]: Solutions/LC0041.cpp?ts=4
+[First Missing Positive]: https://leetcode.com/problems/first-missing-positive/
 
 [LC0046.cpp]: Solutions/LC0046.cpp?ts=4
 [Permutations]: https://leetcode.com/problems/permutations/
