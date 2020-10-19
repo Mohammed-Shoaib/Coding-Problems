@@ -26,6 +26,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0021.cpp]     | [Merge Two Sorted Lists]                                                                             | Easy       |
 | [LC0031.cpp]     | [Next Permutation]                                                                                   | Medium     |
 | [LC0033.cpp]     | [Search in Rotated Sorted Array]                                                                     | Medium     |
+| [LC0034.cpp]     | [Find First and Last Position of Element in Sorted Array]                                            | Medium     |
 | [LC0035.cpp]     | [Search Insert Position]                                                                             | Easy       |
 | [LC0039.cpp]     | [Combination Sum]                                                                                    | Medium     |
 | [LC0040.cpp]     | [Combination Sum II]                                                                                 | Medium     |
@@ -350,6 +351,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0033.cpp]: Solutions/LC0033.cpp?ts=4
 [Search in Rotated Sorted Array]: https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+[LC0034.cpp]: Solutions/LC0034.cpp?ts=4
+[Find First and Last Position of Element in Sorted Array]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
 [LC0035.cpp]: Solutions/LC0035.cpp?ts=4
 [Search Insert Position]: https://leetcode.com/problems/search-insert-position/
