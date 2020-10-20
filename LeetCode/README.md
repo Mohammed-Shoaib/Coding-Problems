@@ -33,6 +33,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0041.cpp]     | [First Missing Positive]                                                                             | Hard       |
 | [LC0046.cpp]     | [Permutations]                                                                                       | Medium     |
 | [LC0047.cpp]     | [Permutations II]                                                                                    | Medium     |
+| [LC0048.cpp]     | [Rotate Image]                                                                                       | Medium     |
 | [LC0049.cpp]     | [Group Anagrams]                                                                                     | Medium     |
 | [LC0050.cpp]     | [Pow(x, n)]                                                                                          | Medium     |
 | [LC0053.cpp]     | [Maximum Subarray]                                                                                   | Easy       |
@@ -372,6 +373,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0047.cpp]: Solutions/LC0047.cpp?ts=4
 [Permutations II]: https://leetcode.com/problems/permutations-ii/
+
+[LC0048.cpp]: Solutions/LC0048.cpp?ts=4
+[Rotate Image]: https://leetcode.com/problems/rotate-image/
 
 [LC0049.cpp]: Solutions/LC0049.cpp?ts=4
 [Group Anagrams]: https://leetcode.com/problems/group-anagrams/
