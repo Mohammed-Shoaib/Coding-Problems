@@ -238,6 +238,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0901.cpp]     | [Online Stock Span]                                                                                  | Medium     |
 | [LC0905.cpp]     | [Sort Array By Parity]                                                                               | Easy       |
 | [LC0918.cpp]     | [Maximum Sum Circular Subarray]                                                                      | Medium     |
+| [LC0921.cpp]     | [Minimum Add to Make Parentheses Valid]                                                              | Medium     |
 | [LC0922.cpp]     | [Sort Array By Parity II]                                                                            | Easy       |
 | [LC0933.cpp]     | [Number of Recent Calls]                                                                             | Easy       |
 | [LC0949.cpp]     | [Largest Time for Given Digits]                                                                      | Easy       |
@@ -988,6 +989,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0918.cpp]: Solutions/LC0918.cpp?ts=4
 [Maximum Sum Circular Subarray]: https://leetcode.com/problems/maximum-sum-circular-subarray/
+
+[LC0921.cpp]: Solutions/LC0921.cpp?ts=4
+[Minimum Add to Make Parentheses Valid]: https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 
 [LC0922.cpp]: Solutions/LC0922.cpp?ts=4
 [Sort Array By Parity II]: https://leetcode.com/problems/sort-array-by-parity-ii/
