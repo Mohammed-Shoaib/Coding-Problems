@@ -307,6 +307,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1318.cpp]     | [Minimum Flips to Make a OR b Equal to c]                                                            | Medium     |
 | [LC1319.cpp]     | [Number of Operations to Make Network Connected]                                                     | Medium     |
 | [LC1324.cpp]     | [Print Words Vertically]                                                                             | Medium     |
+| [LC1328.cpp]     | [Break a Palindrome]                                                                                 | Medium     |
 | [LC1344.cpp]     | [Angle Between Hands of a Clock]                                                                     | Medium     |
 | [LC1426.cpp]     | [Counting Elements]                                                                                  | Easy       |
 | [LC1427.cpp]     | [Perform String Shifts]                                                                              | Easy       |
@@ -1196,6 +1197,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1324.cpp]: Solutions/LC1324.cpp?ts=4
 [Print Words Vertically]: https://leetcode.com/problems/print-words-vertically/
+
+[LC1328.cpp]: Solutions/LC1328.cpp?ts=4
+[Break a Palindrome]: https://leetcode.com/problems/break-a-palindrome/
 
 [LC1344.cpp]: Solutions/LC1344.cpp?ts=4
 [Angle Between Hands of a Clock]: https://leetcode.com/problems/angle-between-hands-of-a-clock/
