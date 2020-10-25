@@ -78,6 +78,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0122.cpp]     | [Best Time to Buy and Sell Stock II]                                                                 | Easy       |
 | [LC0123.cpp]     | [Best Time to Buy and Sell Stock III]                                                                | Hard       |
 | [LC0124.cpp]     | [Binary Tree Maximum Path Sum]                                                                       | Hard       |
+| [LC0125.cpp]     | [Valid Palindrome]                                                                                   | Easy       |
 | [LC0126.cpp]     | [Word Ladder II]                                                                                     | Hard       |
 | [LC0127.cpp]     | [Word Ladder]                                                                                        | Medium     |
 | [LC0129.cpp]     | [Sum Root to Leaf Numbers]                                                                           | Medium     |
@@ -512,6 +513,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0124.cpp]: Solutions/LC0124.cpp?ts=4
 [Binary Tree Maximum Path Sum]: https://leetcode.com/problems/binary-tree-maximum-path-sum/
+
+[LC0125.cpp]: Solutions/LC0125.cpp?ts=4
+[Valid Palindrome]: https://leetcode.com/problems/valid-palindrome/
 
 [LC0126.cpp]: Solutions/LC0126.cpp?ts=4
 [Word Ladder II]: https://leetcode.com/problems/word-ladder-ii/
