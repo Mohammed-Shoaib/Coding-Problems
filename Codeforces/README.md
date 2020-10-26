@@ -12,6 +12,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [4A.cpp]         | [Watermelon](https://codeforces.com/problemset/problem/4/A)                                          | 800        |
 | [50A.cpp]        | [Domino piling](https://codeforces.com/problemset/problem/50/A)                                      | 800        |
 | [71A.cpp]        | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A)                                 | 800        |
+| [1056A.cpp]      | [Determine Line](https://codeforces.com/problemset/problem/1056/A)                                   | 800        |
 | [1201B.cpp]      | [Zero Array](https://codeforces.com/problemset/problem/1201/B)                                       | 1500       |
 | [1374A.cpp]      | [Required Remainder](https://codeforces.com/problemset/problem/1374/A)                               | 800        |
 | [1374B.cpp]      | [Multiply by 2, divide by 6](https://codeforces.com/problemset/problem/1374/B)                       | 900        |
@@ -30,6 +31,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [4A.cpp]: Solutions/4A.cpp?ts=4
 [50A.cpp]: Solutions/50A.cpp?ts=4
 [71A.cpp]: Solutions/71A.cpp?ts=4
+[1056A.cpp]: Solutions/1056A.cpp?ts=4
 [1201B.cpp]: Solutions/1201B.cpp?ts=4
 [1374A.cpp]: Solutions/1374A.cpp?ts=4
 [1374B.cpp]: Solutions/1374B.cpp?ts=4
