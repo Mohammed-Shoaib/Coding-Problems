@@ -38,6 +38,7 @@
 |:--------------:|-----------------|
 |[M0001]|[Inherited Code]|
 |[M0002]|[Exceptional Server]|
+|[M0003]|[Virtual Functions]|
 
 [//]: # (Easy)
 
@@ -129,5 +130,8 @@
 
 [M0002]: Medium/M0002.cpp?ts=4
 [Exceptional Server]: https://www.hackerrank.com/challenges/exceptional-server/problem
+
+[M0003]: Medium/M0003.cpp?ts=4
+[Exceptional Server]: https://www.hackerrank.com/challenges/virtual-functions/problem
 
 [//]: # (EOF)
