@@ -310,6 +310,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1324.cpp]     | [Print Words Vertically]                                                                             | Medium     |
 | [LC1328.cpp]     | [Break a Palindrome]                                                                                 | Medium     |
 | [LC1329.cpp]     | [Sort the Matrix Diagonally]                                                                         | Medium     |
+| [LC1343.cpp]     | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold]                      | Medium     |
 | [LC1344.cpp]     | [Angle Between Hands of a Clock]                                                                     | Medium     |
 | [LC1426.cpp]     | [Counting Elements]                                                                                  | Easy       |
 | [LC1427.cpp]     | [Perform String Shifts]                                                                              | Easy       |
@@ -1208,6 +1209,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1329.cpp]: Solutions/LC1329.cpp?ts=4
 [Sort the Matrix Diagonally]: https://leetcode.com/problems/sort-the-matrix-diagonally/
+
+[LC1343.cpp]: Solutions/LC1343.cpp?ts=4
+[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold]: https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/
 
 [LC1344.cpp]: Solutions/LC1344.cpp?ts=4
 [Angle Between Hands of a Clock]: https://leetcode.com/problems/angle-between-hands-of-a-clock/
