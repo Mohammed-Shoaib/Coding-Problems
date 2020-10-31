@@ -312,6 +312,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1329.cpp]     | [Sort the Matrix Diagonally]                                                                         | Medium     |
 | [LC1343.cpp]     | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold]                      | Medium     |
 | [LC1344.cpp]     | [Angle Between Hands of a Clock]                                                                     | Medium     |
+| [LC1357.cpp]     | [Apply Discount Every n Orders]                                                                      | Medium     |
 | [LC1426.cpp]     | [Counting Elements]                                                                                  | Easy       |
 | [LC1427.cpp]     | [Perform String Shifts]                                                                              | Easy       |
 | [LC1428.cpp]     | [Leftmost Column with at Least a One]                                                                | Medium     |
@@ -1215,6 +1216,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1344.cpp]: Solutions/LC1344.cpp?ts=4
 [Angle Between Hands of a Clock]: https://leetcode.com/problems/angle-between-hands-of-a-clock/
+
+[LC1357.cpp]: Solutions/LC1357.cpp?ts=4
+[Apply Discount Every n Orders]: https://leetcode.com/problems/apply-discount-every-n-orders/
 
 [LC1426.cpp]: Solutions/LC1426.cpp?ts=4
 [Counting Elements]: https://leetcode.com/problems/counting-elements/
