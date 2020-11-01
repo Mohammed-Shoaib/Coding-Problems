@@ -313,6 +313,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1343.cpp]     | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold]                      | Medium     |
 | [LC1344.cpp]     | [Angle Between Hands of a Clock]                                                                     | Medium     |
 | [LC1357.cpp]     | [Apply Discount Every n Orders]                                                                      | Medium     |
+| [LC1358.cpp]     | [Number of Substrings Containing All Three Characters]                                               | Medium     |
 | [LC1426.cpp]     | [Counting Elements]                                                                                  | Easy       |
 | [LC1427.cpp]     | [Perform String Shifts]                                                                              | Easy       |
 | [LC1428.cpp]     | [Leftmost Column with at Least a One]                                                                | Medium     |
@@ -1219,6 +1220,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1357.cpp]: Solutions/LC1357.cpp?ts=4
 [Apply Discount Every n Orders]: https://leetcode.com/problems/apply-discount-every-n-orders/
+
+[LC1358.cpp]: Solutions/LC1358.cpp?ts=4
+[Number of Substrings Containing All Three Characters]: https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 
 [LC1426.cpp]: Solutions/LC1426.cpp?ts=4
 [Counting Elements]: https://leetcode.com/problems/counting-elements/
