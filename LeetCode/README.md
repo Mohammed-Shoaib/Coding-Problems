@@ -314,6 +314,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1344.cpp]     | [Angle Between Hands of a Clock]                                                                     | Medium     |
 | [LC1357.cpp]     | [Apply Discount Every n Orders]                                                                      | Medium     |
 | [LC1358.cpp]     | [Number of Substrings Containing All Three Characters]                                               | Medium     |
+| [LC1371.cpp]     | [Find the Longest Substring Containing Vowels in Even Counts]                                        | Medium     |
 | [LC1426.cpp]     | [Counting Elements]                                                                                  | Easy       |
 | [LC1427.cpp]     | [Perform String Shifts]                                                                              | Easy       |
 | [LC1428.cpp]     | [Leftmost Column with at Least a One]                                                                | Medium     |
@@ -1223,6 +1224,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1358.cpp]: Solutions/LC1358.cpp?ts=4
 [Number of Substrings Containing All Three Characters]: https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+
+[LC1371.cpp]: Solutions/LC1371.cpp?ts=4
+[Find the Longest Substring Containing Vowels in Even Counts]: https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
 
 [LC1426.cpp]: Solutions/LC1426.cpp?ts=4
 [Counting Elements]: https://leetcode.com/problems/counting-elements/
