@@ -316,6 +316,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1358.cpp]     | [Number of Substrings Containing All Three Characters]                                               | Medium     |
 | [LC1371.cpp]     | [Find the Longest Substring Containing Vowels in Even Counts]                                        | Medium     |
 | [LC1372.cpp]     | [Longest ZigZag Path in a Binary Tree]                                                               | Medium     |
+| [LC1375.cpp]     | [Bulb Switcher III]                                                                                  | Medium     |
 | [LC1426.cpp]     | [Counting Elements]                                                                                  | Easy       |
 | [LC1427.cpp]     | [Perform String Shifts]                                                                              | Easy       |
 | [LC1428.cpp]     | [Leftmost Column with at Least a One]                                                                | Medium     |
@@ -1231,6 +1232,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1372.cpp]: Solutions/LC1372.cpp?ts=4
 [Longest ZigZag Path in a Binary Tree]: https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
+
+[LC1375.cpp]: Solutions/LC1375.cpp?ts=4
+[Bulb Switcher III]: https://leetcode.com/problems/bulb-switcher-iii/
 
 [LC1426.cpp]: Solutions/LC1426.cpp?ts=4
 [Counting Elements]: https://leetcode.com/problems/counting-elements/
