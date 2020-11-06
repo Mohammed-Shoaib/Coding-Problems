@@ -318,6 +318,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1372.cpp]     | [Longest ZigZag Path in a Binary Tree]                                                               | Medium     |
 | [LC1375.cpp]     | [Bulb Switcher III]                                                                                  | Medium     |
 | [LC1381.cpp]     | [Design a Stack With Increment Operation]                                                            | Medium     |
+| [LC1382.cpp]     | [Balance a Binary Search Tree]                                                                       | Medium     |
 | [LC1426.cpp]     | [Counting Elements]                                                                                  | Easy       |
 | [LC1427.cpp]     | [Perform String Shifts]                                                                              | Easy       |
 | [LC1428.cpp]     | [Leftmost Column with at Least a One]                                                                | Medium     |
@@ -1239,6 +1240,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1381.cpp]: Solutions/LC1381.cpp?ts=4
 [Design a Stack With Increment Operation]: https://leetcode.com/problems/design-a-stack-with-increment-operation/
+
+[LC1382.cpp]: Solutions/LC1382.cpp?ts=4
+[Balance a Binary Search Tree]: https://leetcode.com/problems/balance-a-binary-search-tree/
 
 [LC1426.cpp]: Solutions/LC1426.cpp?ts=4
 [Counting Elements]: https://leetcode.com/problems/counting-elements/
