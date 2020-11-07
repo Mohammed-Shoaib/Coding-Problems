@@ -319,6 +319,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1375.cpp]     | [Bulb Switcher III]                                                                                  | Medium     |
 | [LC1381.cpp]     | [Design a Stack With Increment Operation]                                                            | Medium     |
 | [LC1382.cpp]     | [Balance a Binary Search Tree]                                                                       | Medium     |
+| [LC1386.cpp]     | [Cinema Seat Allocation]                                                                             | Medium     |
 | [LC1426.cpp]     | [Counting Elements]                                                                                  | Easy       |
 | [LC1427.cpp]     | [Perform String Shifts]                                                                              | Easy       |
 | [LC1428.cpp]     | [Leftmost Column with at Least a One]                                                                | Medium     |
@@ -1243,6 +1244,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1382.cpp]: Solutions/LC1382.cpp?ts=4
 [Balance a Binary Search Tree]: https://leetcode.com/problems/balance-a-binary-search-tree/
+
+[LC1386.cpp]: Solutions/LC1386.cpp?ts=4
+[Cinema Seat Allocation]: https://leetcode.com/problems/cinema-seat-allocation/
 
 [LC1426.cpp]: Solutions/LC1426.cpp?ts=4
 [Counting Elements]: https://leetcode.com/problems/counting-elements/
