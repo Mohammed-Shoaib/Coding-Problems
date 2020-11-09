@@ -321,6 +321,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1382.cpp]     | [Balance a Binary Search Tree]                                                                       | Medium     |
 | [LC1386.cpp]     | [Cinema Seat Allocation]                                                                             | Medium     |
 | [LC1387.cpp]     | [Sort Integers by The Power Value]                                                                   | Medium     |
+| [LC1390.cpp]     | [Four Divisors]                                                                                      | Medium     |
 | [LC1426.cpp]     | [Counting Elements]                                                                                  | Easy       |
 | [LC1427.cpp]     | [Perform String Shifts]                                                                              | Easy       |
 | [LC1428.cpp]     | [Leftmost Column with at Least a One]                                                                | Medium     |
@@ -1251,6 +1252,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1387.cpp]: Solutions/LC1387.cpp?ts=4
 [Sort Integers by The Power Value]: https://leetcode.com/problems/sort-integers-by-the-power-value/
+
+[LC1390.cpp]: Solutions/LC1390.cpp?ts=4
+[Four Divisors]: https://leetcode.com/problems/four-divisors/
 
 [LC1426.cpp]: Solutions/LC1426.cpp?ts=4
 [Counting Elements]: https://leetcode.com/problems/counting-elements/
