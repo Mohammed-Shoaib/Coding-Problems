@@ -323,6 +323,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1387.cpp]     | [Sort Integers by The Power Value]                                                                   | Medium     |
 | [LC1390.cpp]     | [Four Divisors]                                                                                      | Medium     |
 | [LC1391.cpp]     | [Check if There is a Valid Path in a Grid]                                                           | Medium     |
+| [LC1395.cpp]     | [Count Number of Teams]                                                                              | Medium     |
 | [LC1426.cpp]     | [Counting Elements]                                                                                  | Easy       |
 | [LC1427.cpp]     | [Perform String Shifts]                                                                              | Easy       |
 | [LC1428.cpp]     | [Leftmost Column with at Least a One]                                                                | Medium     |
@@ -1259,6 +1260,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1391.cpp]: Solutions/LC1391.cpp?ts=4
 [Check if There is a Valid Path in a Grid]: https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
+
+[LC1395.cpp]: Solutions/LC1395.cpp?ts=4
+[Count Number of Teams]: https://leetcode.com/problems/count-number-of-teams/
 
 [LC1426.cpp]: Solutions/LC1426.cpp?ts=4
 [Counting Elements]: https://leetcode.com/problems/counting-elements/
