@@ -326,6 +326,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1395.cpp]     | [Count Number of Teams]                                                                              | Medium     |
 | [LC1396.cpp]     | [Design Underground System]                                                                          | Medium     |
 | [LC1400.cpp]     | [Construct K Palindrome Strings]                                                                     | Medium     |
+| [LC1401.cpp]     | [Circle and Rectangle Overlapping]                                                                   | Medium     |
 | [LC1426.cpp]     | [Counting Elements]                                                                                  | Easy       |
 | [LC1427.cpp]     | [Perform String Shifts]                                                                              | Easy       |
 | [LC1428.cpp]     | [Leftmost Column with at Least a One]                                                                | Medium     |
@@ -1271,6 +1272,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1400.cpp]: Solutions/LC1400.cpp?ts=4
 [Construct K Palindrome Strings]: https://leetcode.com/problems/construct-k-palindrome-strings/
+
+[LC1401.cpp]: Solutions/LC1401.cpp?ts=4
+[Circle and Rectangle Overlapping]: https://leetcode.com/problems/circle-and-rectangle-overlapping/
 
 [LC1426.cpp]: Solutions/LC1426.cpp?ts=4
 [Counting Elements]: https://leetcode.com/problems/counting-elements/
