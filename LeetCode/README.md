@@ -328,6 +328,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1400.cpp]     | [Construct K Palindrome Strings]                                                                     | Medium     |
 | [LC1401.cpp]     | [Circle and Rectangle Overlapping]                                                                   | Medium     |
 | [LC1409.cpp]     | [Queries on a Permutation With Key]                                                                  | Medium     |
+| [LC1410.cpp]     | [HTML Entity Parser]                                                                                 | Medium     |
 | [LC1426.cpp]     | [Counting Elements]                                                                                  | Easy       |
 | [LC1427.cpp]     | [Perform String Shifts]                                                                              | Easy       |
 | [LC1428.cpp]     | [Leftmost Column with at Least a One]                                                                | Medium     |
@@ -1279,6 +1280,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1409.cpp]: Solutions/LC1409.cpp?ts=4
 [Queries on a Permutation With Key]: https://leetcode.com/problems/queries-on-a-permutation-with-key/
+
+[LC1410.cpp]: Solutions/LC1410.cpp?ts=4
+[HTML Entity Parser]: https://leetcode.com/problems/html-entity-parser/
 
 [LC1426.cpp]: Solutions/LC1426.cpp?ts=4
 [Counting Elements]: https://leetcode.com/problems/counting-elements/
