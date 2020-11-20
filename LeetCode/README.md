@@ -337,6 +337,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1461.cpp]     | [Check If a String Contains All Binary Codes of Size K]                                              | Medium     |
 | [LC1462.cpp]     | [Course Schedule IV]                                                                                 | Medium     |
 | [LC1465.cpp]     | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts]                                 | Medium     |
+| [LC1466.cpp]     | [Reorder Routes to Make All Paths Lead to the City Zero]                                             | Medium     |
 | [LC1467.cpp]     | [Probability of a Two Boxes Having The Same Number of Distinct Balls]                                | Hard       |
 | [LC1566.cpp]     | [Detect Pattern of Length M Repeated K or More Times]                                                | Easy       |
 | [LC1567.cpp]     | [Maximum Length of Subarray With Positive Product]                                                   | Medium     |
@@ -1310,6 +1311,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1465.cpp]: Solutions/LC1465.cpp?ts=4
 [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts]: https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
+
+[LC1466.cpp]: Solutions/LC1466.cpp?ts=4
+[Reorder Routes to Make All Paths Lead to the City Zero]: https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 
 [LC1467.cpp]: Solutions/LC1467.cpp?ts=4
 [Probability of a Two Boxes Having The Same Number of Distinct Balls]: https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/
