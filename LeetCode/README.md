@@ -339,6 +339,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1465.cpp]     | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts]                                 | Medium     |
 | [LC1466.cpp]     | [Reorder Routes to Make All Paths Lead to the City Zero]                                             | Medium     |
 | [LC1467.cpp]     | [Probability of a Two Boxes Having The Same Number of Distinct Balls]                                | Hard       |
+| [LC1476.cpp]     | [Subrectangle Queries]                                                                               | Medium     |
 | [LC1566.cpp]     | [Detect Pattern of Length M Repeated K or More Times]                                                | Easy       |
 | [LC1567.cpp]     | [Maximum Length of Subarray With Positive Product]                                                   | Medium     |
 
@@ -1317,6 +1318,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1467.cpp]: Solutions/LC1467.cpp?ts=4
 [Probability of a Two Boxes Having The Same Number of Distinct Balls]: https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/
+
+[LC1476.cpp]: Solutions/LC1476.cpp?ts=4
+[Subrectangle Queries]: https://leetcode.com/problems/subrectangle-queries/
 
 [LC1566.cpp]: Solutions/LC1566.cpp?ts=4
 [Detect Pattern of Length M Repeated K or More Times]: https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/
