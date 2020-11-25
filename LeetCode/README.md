@@ -343,6 +343,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1481.cpp]     | [Least Number of Unique Integers after K Removals]                                                   | Medium     |
 | [LC1482.cpp]     | [Minimum Number of Days to Make m Bouquets]                                                          | Medium     |
 | [LC1535.cpp]     | [Find the Winner of an Array Game]                                                                   | Medium     |
+| [LC1536.cpp]     | [Minimum Swaps to Arrange a Binary Grid]                                                             | Medium     |
 | [LC1566.cpp]     | [Detect Pattern of Length M Repeated K or More Times]                                                | Easy       |
 | [LC1567.cpp]     | [Maximum Length of Subarray With Positive Product]                                                   | Medium     |
 
@@ -1333,6 +1334,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1535.cpp]: Solutions/LC1535.cpp?ts=4
 [Find the Winner of an Array Game]: https://leetcode.com/problems/find-the-winner-of-an-array-game/
+
+[LC1536.cpp]: Solutions/LC1536.cpp?ts=4
+[Minimum Swaps to Arrange a Binary Grid]: https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/
 
 [LC1566.cpp]: Solutions/LC1566.cpp?ts=4
 [Detect Pattern of Length M Repeated K or More Times]: https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/
