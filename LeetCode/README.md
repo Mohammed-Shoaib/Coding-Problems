@@ -346,6 +346,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1536.cpp]     | [Minimum Swaps to Arrange a Binary Grid]                                                             | Medium     |
 | [LC1540.cpp]     | [Can Convert String in K Moves]                                                                      | Medium     |
 | [LC1541.cpp]     | [Minimum Insertions to Balance a Parentheses String]                                                 | Medium     |
+| [LC1545.cpp]     | [Find Kth Bit in Nth Binary String]                                                                  | Medium     |
 | [LC1566.cpp]     | [Detect Pattern of Length M Repeated K or More Times]                                                | Easy       |
 | [LC1567.cpp]     | [Maximum Length of Subarray With Positive Product]                                                   | Medium     |
 
@@ -1345,6 +1346,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1541.cpp]: Solutions/LC1541.cpp?ts=4
 [Minimum Insertions to Balance a Parentheses String]: https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
+
+[LC1545.cpp]: Solutions/LC1545.cpp?ts=4
+[Find Kth Bit in Nth Binary String]: https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/
 
 [LC1566.cpp]: Solutions/LC1566.cpp?ts=4
 [Detect Pattern of Length M Repeated K or More Times]: https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/
