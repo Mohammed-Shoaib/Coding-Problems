@@ -347,6 +347,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1540.cpp]     | [Can Convert String in K Moves]                                                                      | Medium     |
 | [LC1541.cpp]     | [Minimum Insertions to Balance a Parentheses String]                                                 | Medium     |
 | [LC1545.cpp]     | [Find Kth Bit in Nth Binary String]                                                                  | Medium     |
+| [LC1546.cpp]     | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target]                                 | Medium     |
 | [LC1566.cpp]     | [Detect Pattern of Length M Repeated K or More Times]                                                | Easy       |
 | [LC1567.cpp]     | [Maximum Length of Subarray With Positive Product]                                                   | Medium     |
 
@@ -1349,6 +1350,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1545.cpp]: Solutions/LC1545.cpp?ts=4
 [Find Kth Bit in Nth Binary String]: https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/
+
+[LC1546.cpp]: Solutions/LC1546.cpp?ts=4
+[Maximum Number of Non-Overlapping Subarrays With Sum Equals Target]: https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
 
 [LC1566.cpp]: Solutions/LC1566.cpp?ts=4
 [Detect Pattern of Length M Repeated K or More Times]: https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/
