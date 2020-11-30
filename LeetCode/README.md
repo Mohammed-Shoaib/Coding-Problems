@@ -350,6 +350,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1546.cpp]     | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target]                                 | Medium     |
 | [LC1566.cpp]     | [Detect Pattern of Length M Repeated K or More Times]                                                | Easy       |
 | [LC1567.cpp]     | [Maximum Length of Subarray With Positive Product]                                                   | Medium     |
+| [LC1577.cpp]     | [Number of Ways Where Square of Number Is Equal to Product of Two Numbers]                           | Medium     |
 
 [//]: # (Solutions)
 
@@ -1359,6 +1360,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1567.cpp]: Solutions/LC1567.cpp?ts=4
 [Maximum Length of Subarray With Positive Product]: https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/
+
+[LC1577.cpp]: Solutions/LC1577.cpp?ts=4
+[Number of Ways Where Square of Number Is Equal to Product of Two Numbers]: https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
 
 
 [//]: # (EOF)
