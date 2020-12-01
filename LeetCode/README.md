@@ -351,6 +351,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1566.cpp]     | [Detect Pattern of Length M Repeated K or More Times]                                                | Easy       |
 | [LC1567.cpp]     | [Maximum Length of Subarray With Positive Product]                                                   | Medium     |
 | [LC1577.cpp]     | [Number of Ways Where Square of Number Is Equal to Product of Two Numbers]                           | Medium     |
+| [LC1578.cpp]     | [Minimum Deletion Cost to Avoid Repeating Letters]                                                   | Medium     |
 
 [//]: # (Solutions)
 
@@ -1363,6 +1364,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1577.cpp]: Solutions/LC1577.cpp?ts=4
 [Number of Ways Where Square of Number Is Equal to Product of Two Numbers]: https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
+
+[LC1578.cpp]: Solutions/LC1578.cpp?ts=4
+[Minimum Deletion Cost to Avoid Repeating Letters]: https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
 
 
 [//]: # (EOF)
