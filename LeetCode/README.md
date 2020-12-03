@@ -161,6 +161,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0307.cpp]     | [Range Sum Query - Mutable]                                                                          | Medium     |
 | [LC0309.cpp]     | [Best Time to Buy and Sell Stock with Cooldown]                                                      | Medium     |
 | [LC0322.cpp]     | [Coin Change]                                                                                        | Medium     |
+| [LC0326.cpp]     | [Power of Three]                                                                                     | Easy       |
 | [LC0328.cpp]     | [Odd Even Linked List]                                                                               | Medium     |
 | [LC0332.cpp]     | [Reconstruct Itinerary]                                                                              | Medium     |
 | [LC0337.cpp]     | [House Robber III]                                                                                   | Medium     |
@@ -798,6 +799,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0322.cpp]: Solutions/LC0322.cpp?ts=4
 [Coin Change]: https://leetcode.com/problems/coin-change/
+
+[LC0326.cpp]: Solutions/LC0326.cpp?ts=4
+[Power of Three]: https://leetcode.com/problems/power-of-three/
 
 [LC0328.cpp]: Solutions/LC0328.cpp?ts=4
 [Odd Even Linked List]: https://leetcode.com/problems/odd-even-linked-list/
