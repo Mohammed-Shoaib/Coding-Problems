@@ -184,6 +184,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0406.cpp]     | [Queue Reconstruction by Height]                                                                     | Medium     |
 | [LC0409.cpp]     | [Longest Palindrome]                                                                                 | Easy       |
 | [LC0412.cpp]     | [Fizz Buzz]                                                                                          | Easy       |
+| [LC0415.cpp]     | [Add Strings]                                                                                        | Easy       |
 | [LC0421.cpp]     | [Maximum XOR of Two Numbers in an Array]                                                             | Medium     |
 | [LC0429.cpp]     | [N-ary Tree Level Order Traversal]                                                                   | Medium     |
 | [LC0430.cpp]     | [Flatten a Multilevel Doubly Linked List]                                                            | Medium     |
@@ -868,6 +869,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0412.cpp]: Solutions/LC0412.cpp?ts=4
 [Fizz Buzz]: https://leetcode.com/problems/fizz-buzz/
+
+[LC0415.cpp]: Solutions/LC0415.cpp?ts=4
+[Add Strings]: https://leetcode.com/problems/add-strings/
 
 [LC0421.cpp]: Solutions/LC0421.cpp?ts=4
 [Maximum XOR of Two Numbers in an Array]: https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
