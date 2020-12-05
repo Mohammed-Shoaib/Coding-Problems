@@ -207,6 +207,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0495.cpp]     | [Teemo Attacking]                                                                                    | Medium     |
 | [LC0496.cpp]     | [Next Greater Element I]                                                                             | Easy       |
 | [LC0497.cpp]     | [Random Point in Non-overlapping Rectangles]                                                         | Medium     |
+| [LC0500.cpp]     | [Keyboard Row]                                                                                       | Easy       |
 | [LC0503.cpp]     | [Next Greater Element II]                                                                            | Medium     |
 | [LC0515.cpp]     | [Find Largest Value in Each Tree Row]                                                                | Medium     |
 | [LC0518.cpp]     | [Coin Change 2]                                                                                      | Medium     |
@@ -939,6 +940,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0497.cpp]: Solutions/LC0497.cpp?ts=4
 [Random Point in Non-overlapping Rectangles]: https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
+
+[LC0500.cpp]: Solutions/LC0500.cpp?ts=4
+[Keyboard Row]: https://leetcode.com/problems/keyboard-row/
 
 [LC0503.cpp]: Solutions/LC0503.cpp?ts=4
 [Next Greater Element II]: https://leetcode.com/problems/next-greater-element-ii/
