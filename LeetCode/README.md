@@ -205,6 +205,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0470.cpp]     | [Implement Rand10() Using Rand7()]                                                                   | Medium     |
 | [LC0476.cpp]     | [Number Complement]                                                                                  | Easy       |
 | [LC0495.cpp]     | [Teemo Attacking]                                                                                    | Medium     |
+| [LC0496.cpp]     | [Next Greater Element I]                                                                             | Easy       |
 | [LC0497.cpp]     | [Random Point in Non-overlapping Rectangles]                                                         | Medium     |
 | [LC0503.cpp]     | [Next Greater Element II]                                                                            | Medium     |
 | [LC0515.cpp]     | [Find Largest Value in Each Tree Row]                                                                | Medium     |
@@ -932,6 +933,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0495.cpp]: Solutions/LC0495.cpp?ts=4
 [Teemo Attacking]: https://leetcode.com/problems/teemo-attacking/
+
+[LC0496.cpp]: Solutions/LC0496.cpp?ts=4
+[Next Greater Element I]: https://leetcode.com/problems/next-greater-element-i/
 
 [LC0497.cpp]: Solutions/LC0497.cpp?ts=4
 [Random Point in Non-overlapping Rectangles]: https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
