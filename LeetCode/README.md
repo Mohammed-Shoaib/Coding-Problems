@@ -217,6 +217,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0528.cpp]     | [Random Pick with Weight]                                                                            | Medium     |
 | [LC0532.cpp]     | [K-diff Pairs in an Array]                                                                           | Medium     |
 | [LC0540.cpp]     | [Single Element in a Sorted Array]                                                                   | Medium     |
+| [LC0541.cpp]     | [Reverse String II]                                                                                  | Easy       |
 | [LC0543.cpp]     | [Diameter of Binary Tree]                                                                            | Easy       |
 | [LC0556.cpp]     | [Next Greater Element III]                                                                           | Medium     |
 | [LC0560.cpp]     | [Subarray Sum Equals K]                                                                              | Medium     |
@@ -971,6 +972,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0540.cpp]: Solutions/LC0540.cpp?ts=4
 [Single Element in a Sorted Array]: https://leetcode.com/problems/single-element-in-a-sorted-array/
+
+[LC0541.cpp]: Solutions/LC0541.cpp?ts=4
+[Reverse String II]: https://leetcode.com/problems/reverse-string-ii/
 
 [LC0543.cpp]: Solutions/LC0543.cpp?ts=4
 [Diameter of Binary Tree]: https://leetcode.com/problems/diameter-of-binary-tree/
