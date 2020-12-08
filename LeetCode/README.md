@@ -221,6 +221,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0543.cpp]     | [Diameter of Binary Tree]                                                                            | Easy       |
 | [LC0556.cpp]     | [Next Greater Element III]                                                                           | Medium     |
 | [LC0557.cpp]     | [Reverse Words in a String III]                                                                      | Easy       |
+| [LC0559.cpp]     | [Maximum Depth of N-ary Tree]                                                                        | Easy       |
 | [LC0560.cpp]     | [Subarray Sum Equals K]                                                                              | Medium     |
 | [LC0567.cpp]     | [Permutation in String]                                                                              | Medium     |
 | [LC0575.cpp]     | [Distribute Candies]                                                                                 | Easy       |
@@ -985,6 +986,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0557.cpp]: Solutions/LC0557.cpp?ts=4
 [Reverse Words in a String III]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
+
+[LC0559.cpp]: Solutions/LC0559.cpp?ts=4
+[Maximum Depth of N-ary Tree]: https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
 
 [LC0560.cpp]: Solutions/LC0560.cpp?ts=4
 [Subarray Sum Equals K]: https://leetcode.com/problems/subarray-sum-equals-k/
