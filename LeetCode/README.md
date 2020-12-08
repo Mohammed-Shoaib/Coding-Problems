@@ -223,6 +223,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0557.cpp]     | [Reverse Words in a String III]                                                                      | Easy       |
 | [LC0559.cpp]     | [Maximum Depth of N-ary Tree]                                                                        | Easy       |
 | [LC0560.cpp]     | [Subarray Sum Equals K]                                                                              | Medium     |
+| [LC0561.cpp]     | [Array Partition I]                                                                                  | Easy       |
 | [LC0567.cpp]     | [Permutation in String]                                                                              | Medium     |
 | [LC0575.cpp]     | [Distribute Candies]                                                                                 | Easy       |
 | [LC0621.cpp]     | [Task Scheduler]                                                                                     | Medium     |
@@ -992,6 +993,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0560.cpp]: Solutions/LC0560.cpp?ts=4
 [Subarray Sum Equals K]: https://leetcode.com/problems/subarray-sum-equals-k/
+
+[LC0561.cpp]: Solutions/LC0561.cpp?ts=4
+[Array Partition I]: https://leetcode.com/problems/array-partition-i/
 
 [LC0567.cpp]: Solutions/LC0567.cpp?ts=4
 [Permutation in String]: https://leetcode.com/problems/permutation-in-string/
