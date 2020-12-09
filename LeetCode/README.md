@@ -227,6 +227,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0567.cpp]     | [Permutation in String]                                                                              | Medium     |
 | [LC0572.cpp]     | [Subtree of Another Tree]                                                                            | Easy       |
 | [LC0575.cpp]     | [Distribute Candies]                                                                                 | Easy       |
+| [LC0590.cpp]     | [Binary Tree Postorder Traversal]                                                                    | Easy       |
 | [LC0621.cpp]     | [Task Scheduler]                                                                                     | Medium     |
 | [LC0662.cpp]     | [Maximum Width of Binary Tree]                                                                       | Medium     |
 | [LC0678.cpp]     | [Valid Parenthesis String]                                                                           | Medium     |
@@ -1006,6 +1007,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0575.cpp]: Solutions/LC0575.cpp?ts=4
 [Distribute Candies]: https://leetcode.com/problems/distribute-candies/
+
+[LC0590.cpp]: Solutions/LC0590.cpp?ts=4
+[Binary Tree Postorder Traversal]: https://leetcode.com/problems/binary-tree-postorder-traversal/
 
 [LC0621.cpp]: Solutions/LC0621.cpp?ts=4
 [Task Scheduler]: https://leetcode.com/problems/task-scheduler/
