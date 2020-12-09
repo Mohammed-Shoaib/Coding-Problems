@@ -225,6 +225,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0560.cpp]     | [Subarray Sum Equals K]                                                                              | Medium     |
 | [LC0561.cpp]     | [Array Partition I]                                                                                  | Easy       |
 | [LC0567.cpp]     | [Permutation in String]                                                                              | Medium     |
+| [LC0572.cpp]     | [Subtree of Another Tree]                                                                            | Easy       |
 | [LC0575.cpp]     | [Distribute Candies]                                                                                 | Easy       |
 | [LC0621.cpp]     | [Task Scheduler]                                                                                     | Medium     |
 | [LC0662.cpp]     | [Maximum Width of Binary Tree]                                                                       | Medium     |
@@ -999,6 +1000,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0567.cpp]: Solutions/LC0567.cpp?ts=4
 [Permutation in String]: https://leetcode.com/problems/permutation-in-string/
+
+[LC0572.cpp]: Solutions/LC0572.cpp?ts=4
+[Subtree of Another Tree]: https://leetcode.com/problems/subtree-of-another-tree/
 
 [LC0575.cpp]: Solutions/LC0575.cpp?ts=4
 [Distribute Candies]: https://leetcode.com/problems/distribute-candies/
