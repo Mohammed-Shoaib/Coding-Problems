@@ -228,6 +228,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0572.cpp]     | [Subtree of Another Tree]                                                                            | Easy       |
 | [LC0575.cpp]     | [Distribute Candies]                                                                                 | Easy       |
 | [LC0590.cpp]     | [Binary Tree Postorder Traversal]                                                                    | Easy       |
+| [LC0617.cpp]     | [Merge Two Binary Trees]                                                                             | Easy       |
 | [LC0621.cpp]     | [Task Scheduler]                                                                                     | Medium     |
 | [LC0662.cpp]     | [Maximum Width of Binary Tree]                                                                       | Medium     |
 | [LC0678.cpp]     | [Valid Parenthesis String]                                                                           | Medium     |
@@ -1010,6 +1011,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0590.cpp]: Solutions/LC0590.cpp?ts=4
 [Binary Tree Postorder Traversal]: https://leetcode.com/problems/binary-tree-postorder-traversal/
+
+[LC0617.cpp]: Solutions/LC0617.cpp?ts=4
+[Merge Two Binary Trees]: https://leetcode.com/problems/merge-two-binary-trees/
 
 [LC0621.cpp]: Solutions/LC0621.cpp?ts=4
 [Task Scheduler]: https://leetcode.com/problems/task-scheduler/
