@@ -231,6 +231,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0617.cpp]     | [Merge Two Binary Trees]                                                                             | Easy       |
 | [LC0621.cpp]     | [Task Scheduler]                                                                                     | Medium     |
 | [LC0637.cpp]     | [Average of Levels in Binary Tree]                                                                   | Easy       |
+| [LC0643.cpp]     | [Maximum Average Subarray I]                                                                         | Easy       |
 | [LC0662.cpp]     | [Maximum Width of Binary Tree]                                                                       | Medium     |
 | [LC0678.cpp]     | [Valid Parenthesis String]                                                                           | Medium     |
 | [LC0692.cpp]     | [Top K Frequent Words]                                                                               | Medium     |
@@ -1021,6 +1022,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0637.cpp]: Solutions/LC0637.cpp?ts=4
 [Average of Levels in Binary Tree]: https://leetcode.com/problems/average-of-levels-in-binary-tree/
+
+[LC0643.cpp]: Solutions/LC0643.cpp?ts=4
+[Maximum Average Subarray I]: https://leetcode.com/problems/maximum-average-subarray-i/
 
 [LC0662.cpp]: Solutions/LC0662.cpp?ts=4
 [Maximum Width of Binary Tree]: https://leetcode.com/problems/maximum-width-of-binary-tree/
