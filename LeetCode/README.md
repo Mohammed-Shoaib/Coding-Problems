@@ -234,6 +234,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0643.cpp]     | [Maximum Average Subarray I]                                                                         | Easy       |
 | [LC0657.cpp]     | [DI String Match]                                                                                    | Easy       |
 | [LC0662.cpp]     | [Maximum Width of Binary Tree]                                                                       | Medium     |
+| [LC0665.cpp]     | [Non-decreasing Array]                                                                               | Easy       |
 | [LC0678.cpp]     | [Valid Parenthesis String]                                                                           | Medium     |
 | [LC0692.cpp]     | [Top K Frequent Words]                                                                               | Medium     |
 | [LC0700.cpp]     | [Search in a Binary Search Tree]                                                                     | Easy       |
@@ -1032,6 +1033,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0662.cpp]: Solutions/LC0662.cpp?ts=4
 [Maximum Width of Binary Tree]: https://leetcode.com/problems/maximum-width-of-binary-tree/
+
+[LC0665.cpp]: Solutions/LC0665.cpp?ts=4
+[Non-decreasing Array]: https://leetcode.com/problems/non-decreasing-array/
 
 [LC0678.cpp]: Solutions/LC0678.cpp?ts=4
 [Valid Parenthesis String]: https://leetcode.com/problems/valid-parenthesis-string/
