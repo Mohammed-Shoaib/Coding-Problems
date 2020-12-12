@@ -232,6 +232,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0621.cpp]     | [Task Scheduler]                                                                                     | Medium     |
 | [LC0637.cpp]     | [Average of Levels in Binary Tree]                                                                   | Easy       |
 | [LC0643.cpp]     | [Maximum Average Subarray I]                                                                         | Easy       |
+| [LC0657.cpp]     | [DI String Match]                                                                                    | Easy       |
 | [LC0662.cpp]     | [Maximum Width of Binary Tree]                                                                       | Medium     |
 | [LC0678.cpp]     | [Valid Parenthesis String]                                                                           | Medium     |
 | [LC0692.cpp]     | [Top K Frequent Words]                                                                               | Medium     |
@@ -1025,6 +1026,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0643.cpp]: Solutions/LC0643.cpp?ts=4
 [Maximum Average Subarray I]: https://leetcode.com/problems/maximum-average-subarray-i/
+
+[LC0657.cpp]: Solutions/LC0657.cpp?ts=4
+[DI String Match]: https://leetcode.com/problems/di-string-match/
 
 [LC0662.cpp]: Solutions/LC0662.cpp?ts=4
 [Maximum Width of Binary Tree]: https://leetcode.com/problems/maximum-width-of-binary-tree/
