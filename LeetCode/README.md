@@ -238,6 +238,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0669.cpp]     | [Trim a Binary Search Tree]                                                                          | Easy       |
 | [LC0678.cpp]     | [Valid Parenthesis String]                                                                           | Medium     |
 | [LC0680.cpp]     | [Valid Palindrome II]                                                                                | Easy       |
+| [LC0682.cpp]     | [Baseball Game]                                                                                      | Easy       |
 | [LC0692.cpp]     | [Top K Frequent Words]                                                                               | Medium     |
 | [LC0700.cpp]     | [Search in a Binary Search Tree]                                                                     | Easy       |
 | [LC0701.cpp]     | [Insert into a Binary Search Tree]                                                                   | Medium     |
@@ -1047,6 +1048,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0680.cpp]: Solutions/LC0680.cpp?ts=4
 [Valid Palindrome II]: https://leetcode.com/problems/valid-palindrome-ii/
+
+[LC0682.cpp]: Solutions/LC0682.cpp?ts=4
+[Baseball Game]: https://leetcode.com/problems/baseball-game/
 
 [LC0692.cpp]: Solutions/LC0692.cpp?ts=4
 [Top K Frequent Words]: https://leetcode.com/problems/top-k-frequent-words/
