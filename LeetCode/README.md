@@ -246,6 +246,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0704.cpp]     | [Binary Search]                                                                                      | Easy       |
 | [LC0705.cpp]     | [Design HashSet]                                                                                     | Easy       |
 | [LC0706.cpp]     | [Design HashMap]                                                                                     | Easy       |
+| [LC0709.cpp]     | [To Lower Case]                                                                                      | Easy       |
 | [LC0713.cpp]     | [Subarray Product Less Than K]                                                                       | Medium     |
 | [LC0714.cpp]     | [Best Time to Buy and Sell Stock with Transaction Fee]                                               | Medium     |
 | [LC0718.cpp]     | [Maximum Length of Repeated Subarray]                                                                | Medium     |
@@ -1073,6 +1074,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0706.cpp]: Solutions/LC0706.cpp?ts=4
 [Design HashMap]: https://leetcode.com/problems/design-hashmap/
+
+[LC0709.cpp]: Solutions/LC0709.cpp?ts=4
+[To Lower Case]: https://leetcode.com/problems/to-lower-case/
 
 [LC0713.cpp]: Solutions/LC0713.cpp?ts=4
 [Subarray Product Less Than K]: https://leetcode.com/problems/subarray-product-less-than-k/
