@@ -243,6 +243,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0693.cpp]     | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)                | Easy       |
 | [LC0700.cpp]     | [Search in a Binary Search Tree]                                                                     | Easy       |
 | [LC0701.cpp]     | [Insert into a Binary Search Tree]                                                                   | Medium     |
+| [LC0704.cpp]     | [Binary Search]                                                                                      | Easy       |
 | [LC0705.cpp]     | [Design HashSet]                                                                                     | Easy       |
 | [LC0706.cpp]     | [Design HashMap]                                                                                     | Easy       |
 | [LC0713.cpp]     | [Subarray Product Less Than K]                                                                       | Medium     |
@@ -1063,6 +1064,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0701.cpp]: Solutions/LC0701.cpp?ts=4
 [Insert into a Binary Search Tree]: https://leetcode.com/problems/insert-into-a-binary-search-tree/
+
+[LC0704.cpp]: Solutions/LC0704.cpp?ts=4
+[Binary Search]: https://leetcode.com/problems/binary-search/
 
 [LC0705.cpp]: Solutions/LC0705.cpp?ts=4
 [Design HashSet]: https://leetcode.com/problems/design-hashset/
