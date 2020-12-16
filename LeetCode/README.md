@@ -250,6 +250,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0713.cpp]     | [Subarray Product Less Than K]                                                                       | Medium     |
 | [LC0714.cpp]     | [Best Time to Buy and Sell Stock with Transaction Fee]                                               | Medium     |
 | [LC0718.cpp]     | [Maximum Length of Repeated Subarray]                                                                | Medium     |
+| [LC0728.cpp]     | [Self Dividing Numbers]                                                                              | Easy       |
 | [LC0733.cpp]     | [Flood Fill]                                                                                         | Easy       |
 | [LC0739.cpp]     | [Daily Temperatures]                                                                                 | Medium     |
 | [LC0763.cpp]     | [Partition Labels]                                                                                   | Medium     |
@@ -1086,6 +1087,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0718.cpp]: Solutions/LC0718.cpp?ts=4
 [Maximum Length of Repeated Subarray]: https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+
+[LC0728.cpp]: Solutions/LC0728.cpp?ts=4
+[Self Dividing Numbers]: https://leetcode.com/problems/self-dividing-numbers/
 
 [LC0733.cpp]: Solutions/LC0733.cpp?ts=4
 [Flood Fill]: https://leetcode.com/problems/flood-fill/
