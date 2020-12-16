@@ -254,6 +254,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0733.cpp]     | [Flood Fill]                                                                                         | Easy       |
 | [LC0739.cpp]     | [Daily Temperatures]                                                                                 | Medium     |
 | [LC0763.cpp]     | [Partition Labels]                                                                                   | Medium     |
+| [LC0766.cpp]     | [Toeplitz Matrix]                                                                                    | Easy       |
 | [LC0771.cpp]     | [Jewels and Stones]                                                                                  | Easy       |
 | [LC0787.cpp]     | [Cheapest Flights Within K Stops]                                                                    | Medium     |
 | [LC0797.cpp]     | [All Paths From Source to Target]                                                                    | Medium     |
@@ -1099,6 +1100,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0763.cpp]: Solutions/LC0763.cpp?ts=4
 [Partition Labels]: https://leetcode.com/problems/partition-labels/
+
+[LC0766.cpp]: Solutions/LC0766.cpp?ts=4
+[Toeplitz Matrix]: https://leetcode.com/problems/toeplitz-matrix/
 
 [LC0771.cpp]: Solutions/LC0771.cpp?ts=4
 [Jewels and Stones]: https://leetcode.com/problems/jewels-and-stones/
