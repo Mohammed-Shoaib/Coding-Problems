@@ -257,6 +257,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0766.cpp]     | [Toeplitz Matrix]                                                                                    | Easy       |
 | [LC0771.cpp]     | [Jewels and Stones]                                                                                  | Easy       |
 | [LC0787.cpp]     | [Cheapest Flights Within K Stops]                                                                    | Medium     |
+| [LC0788.cpp]     | [Rotated Digits]                                                                                     | Easy       |
 | [LC0797.cpp]     | [All Paths From Source to Target]                                                                    | Medium     |
 | [LC0824.cpp]     | [Goat Latin]                                                                                         | Easy       |
 | [LC0835.cpp]     | [Image Overlap]                                                                                      | Medium     |
@@ -1109,6 +1110,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0787.cpp]: Solutions/LC0787.cpp?ts=4
 [Cheapest Flights Within K Stops]: https://leetcode.com/problems/cheapest-flights-within-k-stops/
+
+[LC0788.cpp]: Solutions/LC0788.cpp?ts=4
+[Rotated Digits]: https://leetcode.com/problems/rotated-digits/
 
 [LC0797.cpp]: Solutions/LC0797.cpp?ts=4
 [All Paths From Source to Target]: https://leetcode.com/problems/all-paths-from-source-to-target/
