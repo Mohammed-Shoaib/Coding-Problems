@@ -262,6 +262,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0797.cpp]     | [All Paths From Source to Target]                                                                    | Medium     |
 | [LC0804.cpp]     | [Unique Morse Code Words]                                                                            | Easy       |
 | [LC0812.cpp]     | [Largest Triangle Area]                                                                              | Easy       |
+| [LC0821.cpp]     | [Shortest Distance to a Character]                                                                   | Easy       |
 | [LC0824.cpp]     | [Goat Latin]                                                                                         | Easy       |
 | [LC0835.cpp]     | [Image Overlap]                                                                                      | Medium     |
 | [LC0844.cpp]     | [Backspace String Compare]                                                                           | Easy       |
@@ -1128,6 +1129,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0812.cpp]: Solutions/LC0812.cpp?ts=4
 [Largest Triangle Area]: https://leetcode.com/problems/largest-triangle-area/
+
+[LC0821.cpp]: Solutions/LC0821.cpp?ts=4
+[Shortest Distance to a Character]: https://leetcode.com/problems/shortest-distance-to-a-character/
 
 [LC0824.cpp]: Solutions/LC0824.cpp?ts=4
 [Goat Latin]: https://leetcode.com/problems/goat-latin/
