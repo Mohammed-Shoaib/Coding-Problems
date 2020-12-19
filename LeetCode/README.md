@@ -261,6 +261,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0796.cpp]     | [Rotate String]                                                                                      | Easy       |
 | [LC0797.cpp]     | [All Paths From Source to Target]                                                                    | Medium     |
 | [LC0804.cpp]     | [Unique Morse Code Words]                                                                            | Easy       |
+| [LC0812.cpp]     | [Largest Triangle Area]                                                                              | Easy       |
 | [LC0824.cpp]     | [Goat Latin]                                                                                         | Easy       |
 | [LC0835.cpp]     | [Image Overlap]                                                                                      | Medium     |
 | [LC0844.cpp]     | [Backspace String Compare]                                                                           | Easy       |
@@ -1124,6 +1125,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0804.cpp]: Solutions/LC0804.cpp?ts=4
 [Unique Morse Code Words]: https://leetcode.com/problems/unique-morse-code-words/
+
+[LC0812.cpp]: Solutions/LC0812.cpp?ts=4
+[Largest Triangle Area]: https://leetcode.com/problems/largest-triangle-area/
 
 [LC0824.cpp]: Solutions/LC0824.cpp?ts=4
 [Goat Latin]: https://leetcode.com/problems/goat-latin/
