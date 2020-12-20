@@ -267,6 +267,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0832.cpp]     | [Flipping an Image]                                                                                  | Easy       |
 | [LC0835.cpp]     | [Image Overlap]                                                                                      | Medium     |
 | [LC0844.cpp]     | [Backspace String Compare]                                                                           | Easy       |
+| [LC0852.cpp]     | [Peak Index in a Mountain Array]                                                                     | Easy       |
 | [LC0876.cpp]     | [Middle of the Linked List]                                                                          | Easy       |
 | [LC0886.cpp]     | [Possible Bipartition]                                                                               | Medium     |
 | [LC0889.cpp]     | [Construct Binary Tree from Preorder and Postorder Traversal]                                        | Medium     |
@@ -1145,6 +1146,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0844.cpp]: Solutions/LC0844.cpp?ts=4
 [Backspace String Compare]: https://leetcode.com/problems/backspace-string-compare/
+
+[LC0852.cpp]: Solutions/LC0852.cpp?ts=4
+[Peak Index in a Mountain Array]: https://leetcode.com/problems/peak-index-in-a-mountain-array/
 
 [LC0876.cpp]: Solutions/LC0876.cpp?ts=4
 [Middle of the Linked List]: https://leetcode.com/problems/middle-of-the-linked-list/
