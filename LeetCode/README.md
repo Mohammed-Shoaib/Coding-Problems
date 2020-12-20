@@ -264,6 +264,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0812.cpp]     | [Largest Triangle Area]                                                                              | Easy       |
 | [LC0821.cpp]     | [Shortest Distance to a Character]                                                                   | Easy       |
 | [LC0824.cpp]     | [Goat Latin]                                                                                         | Easy       |
+| [LC0832.cpp]     | [Flipping an Image]                                                                                  | Easy       |
 | [LC0835.cpp]     | [Image Overlap]                                                                                      | Medium     |
 | [LC0844.cpp]     | [Backspace String Compare]                                                                           | Easy       |
 | [LC0876.cpp]     | [Middle of the Linked List]                                                                          | Easy       |
@@ -1135,6 +1136,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0824.cpp]: Solutions/LC0824.cpp?ts=4
 [Goat Latin]: https://leetcode.com/problems/goat-latin/
+
+[LC0832.cpp]: Solutions/LC0832.cpp?ts=4
+[Flipping an Image]: https://leetcode.com/problems/flipping-an-image/
 
 [LC0835.cpp]: Solutions/LC0835.cpp?ts=4
 [Image Overlap]: https://leetcode.com/problems/image-overlap/
