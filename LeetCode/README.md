@@ -269,6 +269,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0844.cpp]     | [Backspace String Compare]                                                                           | Easy       |
 | [LC0852.cpp]     | [Peak Index in a Mountain Array]                                                                     | Easy       |
 | [LC0859.cpp]     | [Buddy Strings]                                                                                      | Easy       |
+| [LC0860.cpp]     | [Lemonade Change]                                                                                    | Easy       |
 | [LC0876.cpp]     | [Middle of the Linked List]                                                                          | Easy       |
 | [LC0886.cpp]     | [Possible Bipartition]                                                                               | Medium     |
 | [LC0889.cpp]     | [Construct Binary Tree from Preorder and Postorder Traversal]                                        | Medium     |
@@ -1153,6 +1154,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0859.cpp]: Solutions/LC0859.cpp?ts=4
 [Buddy Strings]: https://leetcode.com/problems/buddy-strings/
+
+[LC0860.cpp]: Solutions/LC0860.cpp?ts=4
+[Lemonade Change]: https://leetcode.com/problems/lemonade-change/
 
 [LC0876.cpp]: Solutions/LC0876.cpp?ts=4
 [Middle of the Linked List]: https://leetcode.com/problems/middle-of-the-linked-list/
