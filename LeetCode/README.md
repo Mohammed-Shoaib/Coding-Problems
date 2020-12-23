@@ -282,6 +282,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0922.cpp]     | [Sort Array By Parity II]                                                                            | Easy       |
 | [LC0929.cpp]     | [Unique Email Addresses]                                                                             | Easy       |
 | [LC0933.cpp]     | [Number of Recent Calls]                                                                             | Easy       |
+| [LC0938.cpp]     | [Range Sum of BST]                                                                                   | Easy       |
 | [LC0949.cpp]     | [Largest Time for Given Digits]                                                                      | Easy       |
 | [LC0952.cpp]     | [Largest Component Size by Common Factor]                                                            | Hard       |
 | [LC0957.cpp]     | [Prison Cells After N Days]                                                                          | Medium     |
@@ -1196,6 +1197,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0933.cpp]: Solutions/LC0933.cpp?ts=4
 [Number of Recent Calls]: https://leetcode.com/problems/number-of-recent-calls/
+
+[LC0938.cpp]: Solutions/LC0938.cpp?ts=4
+[Range Sum of BST]: https://leetcode.com/problems/range-sum-of-bst/
 
 [LC0949.cpp]: Solutions/LC0949.cpp?ts=4
 [Largest Time for Given Digits]: https://leetcode.com/problems/largest-time-for-given-digits/
