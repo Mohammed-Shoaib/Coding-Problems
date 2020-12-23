@@ -280,6 +280,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0918.cpp]     | [Maximum Sum Circular Subarray]                                                                      | Medium     |
 | [LC0921.cpp]     | [Minimum Add to Make Parentheses Valid]                                                              | Medium     |
 | [LC0922.cpp]     | [Sort Array By Parity II]                                                                            | Easy       |
+| [LC0929.cpp]     | [Unique Email Addresses]                                                                             | Easy       |
 | [LC0933.cpp]     | [Number of Recent Calls]                                                                             | Easy       |
 | [LC0949.cpp]     | [Largest Time for Given Digits]                                                                      | Easy       |
 | [LC0952.cpp]     | [Largest Component Size by Common Factor]                                                            | Hard       |
@@ -1189,6 +1190,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0922.cpp]: Solutions/LC0922.cpp?ts=4
 [Sort Array By Parity II]: https://leetcode.com/problems/sort-array-by-parity-ii/
+
+[LC0929.cpp]: Solutions/LC0929.cpp?ts=4
+[Unique Email Addresses]: https://leetcode.com/problems/unique-email-addresses/
 
 [LC0933.cpp]: Solutions/LC0933.cpp?ts=4
 [Number of Recent Calls]: https://leetcode.com/problems/number-of-recent-calls/
