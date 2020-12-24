@@ -287,6 +287,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0949.cpp]     | [Largest Time for Given Digits]                                                                      | Easy       |
 | [LC0952.cpp]     | [Largest Component Size by Common Factor]                                                            | Hard       |
 | [LC0957.cpp]     | [Prison Cells After N Days]                                                                          | Medium     |
+| [LC0965.cpp]     | [Univalued Binary Tree]                                                                              | Easy       |
 | [LC0967.cpp]     | [Numbers With Same Consecutive Differences]                                                          | Medium     |
 | [LC0969.cpp]     | [Pancake Sorting]                                                                                    | Medium     |
 | [LC0973.cpp]     | [K Closest Points to Origin]                                                                         | Medium     |
@@ -1213,6 +1214,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0957.cpp]: Solutions/LC0957.cpp?ts=4
 [Prison Cells After N Days]: https://leetcode.com/problems/prison-cells-after-n-days/
+
+[LC0965.cpp]: Solutions/LC0965.cpp?ts=4
+[Univalued Binary Tree]: https://leetcode.com/problems/univalued-binary-tree/
 
 [LC0967.cpp]: Solutions/LC0967.cpp?ts=4
 [Numbers With Same Consecutive Differences]: https://leetcode.com/problems/numbers-with-same-consecutive-differences/
