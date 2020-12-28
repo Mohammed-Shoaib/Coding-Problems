@@ -295,6 +295,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0967.cpp]     | [Numbers With Same Consecutive Differences]                                                          | Medium     |
 | [LC0969.cpp]     | [Pancake Sorting]                                                                                    | Medium     |
 | [LC0973.cpp]     | [K Closest Points to Origin]                                                                         | Medium     |
+| [LC0977.cpp]     | [Squares of a Sorted Array]                                                                          | Easy       |
 | [LC0980.cpp]     | [Unique Paths III]                                                                                   | Hard       |
 | [LC0983.cpp]     | [Minimum Cost For Tickets]                                                                           | Medium     |
 | [LC0986.cpp]     | [Interval List Intersections]                                                                        | Medium     |
@@ -1242,6 +1243,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0973.cpp]: Solutions/LC0973.cpp?ts=4
 [K Closest Points to Origin]: https://leetcode.com/problems/k-closest-points-to-origin/
+
+[LC0977.cpp]: Solutions/LC0977.cpp?ts=4
+[Squares of a Sorted Array]: https://leetcode.com/problems/squares-of-a-sorted-array/
 
 [LC0980.cpp]: Solutions/LC0980.cpp?ts=4
 [Unique Paths III]: https://leetcode.com/problems/unique-paths-iii/
