@@ -306,6 +306,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1002.cpp]     | [Find Common Characters]                                                                             | Easy       |
 | [LC1008.cpp]     | [Construct Binary Search Tree from Preorder Traversal]                                               | Medium     |
 | [LC1009.cpp]     | [Complement of Base 10 Integer]                                                                      | Easy       |
+| [LC1021.cpp]     | [Remove Outermost Parentheses]                                                                       | Easy       |
 | [LC1022.cpp]     | [Sum of Root To Leaf Binary Numbers]                                                                 | Easy       |
 | [LC1029.cpp]     | [Two City Scheduling]                                                                                | Easy       |
 | [LC1035.cpp]     | [Uncrossed Lines]                                                                                    | Medium     |
@@ -1277,6 +1278,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1009.cpp]: Solutions/LC1009.cpp?ts=4
 [Complement of Base 10 Integer]: https://leetcode.com/problems/complement-of-base-10-integer/
+
+[LC1021.cpp]: Solutions/LC1021.cpp?ts=4
+[Remove Outermost Parentheses]: https://leetcode.com/problems/remove-outermost-parentheses/
 
 [LC1022.cpp]: Solutions/LC1022.cpp?ts=4
 [Sum of Root To Leaf Binary Numbers]: https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
