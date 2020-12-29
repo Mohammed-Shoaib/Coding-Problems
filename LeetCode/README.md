@@ -303,6 +303,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0993.cpp]     | [Cousins in Binary Tree]                                                                             | Easy       |
 | [LC0994.cpp]     | [Rotting Oranges]                                                                                    | Medium     |
 | [LC0997.cpp]     | [Find the Town Judge]                                                                                | Easy       |
+| [LC1002.cpp]     | [Find Common Characters]                                                                             | Easy       |
 | [LC1008.cpp]     | [Construct Binary Search Tree from Preorder Traversal]                                               | Medium     |
 | [LC1009.cpp]     | [Complement of Base 10 Integer]                                                                      | Easy       |
 | [LC1022.cpp]     | [Sum of Root To Leaf Binary Numbers]                                                                 | Easy       |
@@ -1267,6 +1268,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0997.cpp]: Solutions/LC0997.cpp?ts=4
 [Find the Town Judge]: https://leetcode.com/problems/find-the-town-judge/
+
+[LC1002.cpp]: Solutions/LC1002.cpp?ts=4
+[Find Common Characters]: https://leetcode.com/problems/find-common-characters/
 
 [LC1008.cpp]: Solutions/LC1008.cpp?ts=4
 [Construct Binary Search Tree from Preorder Traversal]: https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
