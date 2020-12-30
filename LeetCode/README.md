@@ -308,7 +308,9 @@ The questions are divided into 3 levels of difficulty:
 | [LC1009.cpp]     | [Complement of Base 10 Integer]                                                                      | Easy       |
 | [LC1021.cpp]     | [Remove Outermost Parentheses]                                                                       | Easy       |
 | [LC1022.cpp]     | [Sum of Root To Leaf Binary Numbers]                                                                 | Easy       |
+| [LC1025.cpp]     | [Divisor Game]                                                                                       | Easy       |
 | [LC1029.cpp]     | [Two City Scheduling]                                                                                | Easy       |
+| [LC1030.cpp]     | [Matrix Cells in Distance Order]                                                                     | Easy       |
 | [LC1035.cpp]     | [Uncrossed Lines]                                                                                    | Medium     |
 | [LC1041.cpp]     | [Robot Bounded In Circle]                                                                            | Medium     |
 | [LC1044.cpp]     | [Longest Duplicate Substring]                                                                        | Hard       |
@@ -1285,8 +1287,14 @@ The questions are divided into 3 levels of difficulty:
 [LC1022.cpp]: Solutions/LC1022.cpp?ts=4
 [Sum of Root To Leaf Binary Numbers]: https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 
+[LC1025.cpp]: Solutions/LC1025.cpp?ts=4
+[Divisor Game]: https://leetcode.com/problems/divisor-game/
+
 [LC1029.cpp]: Solutions/LC1029.cpp?ts=4
 [Two City Scheduling]: https://leetcode.com/problems/two-city-scheduling/
+
+[LC1030.cpp]: Solutions/LC1030.cpp?ts=4
+[Matrix Cells in Distance Order]: https://leetcode.com/problems/matrix-cells-in-distance-order/
 
 [LC1035.cpp]: Solutions/LC1035.cpp?ts=4
 [Uncrossed Lines]: https://leetcode.com/problems/uncrossed-lines/
