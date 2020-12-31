@@ -316,6 +316,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1044.cpp]     | [Longest Duplicate Substring]                                                                        | Hard       |
 | [LC1046.cpp]     | [Last Stone Weight]                                                                                  | Easy       |
 | [LC1047.cpp]     | [Remove All Adjacent Duplicates In String]                                                           | Easy       |
+| [LC1051.cpp]     | [Height Checker]                                                                                     | Easy       |
 | [LC1094.cpp]     | [Car Pooling]                                                                                        | Medium     |
 | [LC1103.cpp]     | [Distribute Candies to People]                                                                       | Easy       |
 | [LC1143.cpp]     | [Longest Common Subsequence]                                                                         | Medium     |
@@ -1311,6 +1312,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1047.cpp]: Solutions/LC1047.cpp?ts=4
 [Remove All Adjacent Duplicates In String]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+
+[LC1051.cpp]: Solutions/LC1051.cpp?ts=4
+[Height Checker]: https://leetcode.com/problems/height-checker/
 
 [LC1094.cpp]: Solutions/LC1094.cpp?ts=4
 [Car Pooling]: https://leetcode.com/problems/car-pooling/
