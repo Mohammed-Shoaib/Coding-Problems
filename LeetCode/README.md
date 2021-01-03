@@ -324,6 +324,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1122.cpp]     | [Relative Sort Array]                                                                                | Easy       |
 | [LC1143.cpp]     | [Longest Common Subsequence]                                                                         | Medium     |
 | [LC1160.cpp]     | [Find Words That Can Be Formed by Characters]                                                        | Easy       |
+| [LC1189.cpp]     | [Maximum Number of Balloons]                                                                         | Easy       |
 | [LC1190.cpp]     | [Reverse Substrings Between Each Pair of Parentheses]                                                | Medium     |
 | [LC1191.cpp]     | [K-Concatenation Maximum Sum]                                                                        | Medium     |
 | [LC1201.cpp]     | [Ugly Number III]                                                                                    | Medium     |
@@ -1340,6 +1341,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1160.cpp]: Solutions/LC1160.cpp?ts=4
 [Find Words That Can Be Formed by Characters]: https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
+
+[LC1189.cpp]: Solutions/LC1189.cpp?ts=4
+[Maximum Number of Balloons]: https://leetcode.com/problems/maximum-number-of-balloons/
 
 [LC1190.cpp]: Solutions/LC1190.cpp?ts=4
 [Reverse Substrings Between Each Pair of Parentheses]: https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
