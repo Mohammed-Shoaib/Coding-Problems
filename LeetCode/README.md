@@ -333,6 +333,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1207.cpp]     | [Unique Number of Occurrences]                                                                       | Easy       |
 | [LC1208.cpp]     | [Get Equal Substrings Within Budget]                                                                 | Medium     |
 | [LC1209.cpp]     | [Remove All Adjacent Duplicates in String II]                                                        | Medium     |
+| [LC1217.cpp]     | [Minimum Cost to Move Chips to The Same Position]                                                    | Easy       |
 | [LC1218.cpp]     | [Longest Arithmetic Subsequence of Given Difference]                                                 | Medium     |
 | [LC1219.cpp]     | [Path with Maximum Gold]                                                                             | Medium     |
 | [LC1222.cpp]     | [Queens That Can Attack the King]                                                                    | Medium     |
@@ -1370,6 +1371,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1209.cpp]: Solutions/LC1209.cpp?ts=4
 [Remove All Adjacent Duplicates in String II]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
+
+[LC1217.cpp]: Solutions/LC1217.cpp?ts=4
+[Minimum Cost to Move Chips to The Same Position]: https://leetcode.com/problems/play-with-chips/
 
 [LC1218.cpp]: Solutions/LC1218.cpp?ts=4
 [Longest Arithmetic Subsequence of Given Difference]: https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/
