@@ -330,6 +330,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1200.cpp]     | [Minimum Absolute Difference]                                                                        | Easy       |
 | [LC1201.cpp]     | [Ugly Number III]                                                                                    | Medium     |
 | [LC1202.cpp]     | [Smallest String With Swaps]                                                                         | Medium     |
+| [LC1207.cpp]     | [Unique Number of Occurrences]                                                                       | Easy       |
 | [LC1208.cpp]     | [Get Equal Substrings Within Budget]                                                                 | Medium     |
 | [LC1209.cpp]     | [Remove All Adjacent Duplicates in String II]                                                        | Medium     |
 | [LC1218.cpp]     | [Longest Arithmetic Subsequence of Given Difference]                                                 | Medium     |
@@ -1360,6 +1361,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1202.cpp]: Solutions/LC1202.cpp?ts=4
 [Smallest String With Swaps]: https://leetcode.com/problems/smallest-string-with-swaps/
+
+[LC1207.cpp]: Solutions/LC1207.cpp?ts=4
+[Unique Number of Occurrences]: https://leetcode.com/problems/unique-number-of-occurrences/
 
 [LC1208.cpp]: Solutions/LC1208.cpp?ts=4
 [Get Equal Substrings Within Budget]: https://leetcode.com/problems/get-equal-substrings-within-budget/
