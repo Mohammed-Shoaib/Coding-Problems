@@ -29,6 +29,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0033.cpp]     | [Search in Rotated Sorted Array]                                                                     | Medium     |
 | [LC0034.cpp]     | [Find First and Last Position of Element in Sorted Array]                                            | Medium     |
 | [LC0035.cpp]     | [Search Insert Position]                                                                             | Easy       |
+| [LC0036.cpp]     | [Valid Sudoku]                                                                                       | Medium     |
 | [LC0039.cpp]     | [Combination Sum]                                                                                    | Medium     |
 | [LC0040.cpp]     | [Combination Sum II]                                                                                 | Medium     |
 | [LC0041.cpp]     | [First Missing Positive]                                                                             | Hard       |
@@ -461,6 +462,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0035.cpp]: Solutions/LC0035.cpp?ts=4
 [Search Insert Position]: https://leetcode.com/problems/search-insert-position/
+
+[LC0036.cpp]: Solutions/LC0036.cpp?ts=4
+[Valid Sudoku]: https://leetcode.com/problems/valid-sudoku/
 
 [LC0039.cpp]: Solutions/LC0039.cpp?ts=4
 [Combination Sum]: https://leetcode.com/problems/combination-sum/
