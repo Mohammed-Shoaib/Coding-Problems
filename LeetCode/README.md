@@ -20,6 +20,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0007.cpp]     | [Reverse Integer]                                                                                    | Easy       |
 | [LC0009.cpp]     | [Palindrome Number]                                                                                  | Easy       |
 | [LC0011.cpp]     | [Container With Most Water]                                                                          | Medium     |
+| [LC0013.cpp]     | [Roman to Integer]                                                                                   | Easy       |
 | [LC0014.cpp]     | [Longest Common Prefix]                                                                              | Easy       |
 | [LC0015.cpp]     | [3Sum]                                                                                               | Medium     |
 | [LC0020.cpp]     | [Valid Parentheses]                                                                                  | Easy       |
@@ -435,6 +436,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0011.cpp]: Solutions/LC0011.cpp?ts=4
 [Container With Most Water]: https://leetcode.com/problems/container-with-most-water/
+
+[LC0013.cpp]: Solutions/LC0013.cpp?ts=4
+[Roman to Integer]: https://leetcode.com/problems/roman-to-integer/
 
 [LC0014.cpp]: Solutions/LC0014.cpp?ts=4
 [Longest Common Prefix]: https://leetcode.com/problems/longest-common-prefix/
