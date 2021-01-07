@@ -174,6 +174,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0342.cpp]     | [Power of Four]                                                                                      | Easy       |
 | [LC0344.cpp]     | [Reverse String]                                                                                     | Easy       |
 | [LC0347.cpp]     | [Top K Frequent Elements]                                                                            | Medium     |
+| [LC0350.cpp]     | [Intersection of Two Arrays II]                                                                      | Easy       |
 | [LC0367.cpp]     | [Valid Perfect Square]                                                                               | Easy       |
 | [LC0368.cpp]     | [Largest Divisible Subset]                                                                           | Medium     |
 | [LC0377.cpp]     | [Combination Sum IV]                                                                                 | Medium     |
@@ -898,6 +899,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0347.cpp]: Solutions/LC0347.cpp?ts=4
 [Top K Frequent Elements]: https://leetcode.com/problems/top-k-frequent-elements/
+
+[LC0350.cpp]: Solutions/LC0350.cpp?ts=4
+[Intersection of Two Arrays II]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 
 [LC0367.cpp]: Solutions/LC0367.cpp?ts=4
 [Valid Perfect Square]: https://leetcode.com/problems/valid-perfect-square/
