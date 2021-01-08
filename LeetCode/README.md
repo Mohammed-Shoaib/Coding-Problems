@@ -158,6 +158,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0279.cpp]     | [Perfect Squares]                                                                                    | Medium     |
 | [LC0283.cpp]     | [Move Zeroes]                                                                                        | Easy       |
 | [LC0287.cpp]     | [Find the Duplicate Number]                                                                          | Medium     |
+| [LC0289.cpp]     | [Game of Life]                                                                                       | Medium     |
 | [LC0290.cpp]     | [Word Pattern]                                                                                       | Easy       |
 | [LC0297.cpp]     | [Serialize and Deserialize Binary Tree]                                                              | Hard       |
 | [LC0299.cpp]     | [Bulls and Cows]                                                                                     | Easy       |
@@ -851,6 +852,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0287.cpp]: Solutions/LC0287.cpp?ts=4
 [Find the Duplicate Number]: https://leetcode.com/problems/find-the-duplicate-number/
+
+[LC0289.cpp]: Solutions/LC0289.cpp?ts=4
+[Game of Life]: https://leetcode.com/problems/game-of-life/
 
 [LC0290.cpp]: Solutions/LC0290.cpp?ts=4
 [Word Pattern]: https://leetcode.com/problems/word-pattern/
