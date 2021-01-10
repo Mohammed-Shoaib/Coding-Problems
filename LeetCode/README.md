@@ -212,6 +212,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0468.cpp]     | [Validate IP Address]                                                                                | Medium     |
 | [LC0470.cpp]     | [Implement Rand10() Using Rand7()]                                                                   | Medium     |
 | [LC0476.cpp]     | [Number Complement]                                                                                  | Easy       |
+| [LC0494.cpp]     | [Target Sum]                                                                                         | Medium     |
 | [LC0495.cpp]     | [Teemo Attacking]                                                                                    | Medium     |
 | [LC0496.cpp]     | [Next Greater Element I]                                                                             | Easy       |
 | [LC0497.cpp]     | [Random Point in Non-overlapping Rectangles]                                                         | Medium     |
@@ -1014,6 +1015,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0476.cpp]: Solutions/LC0476.cpp?ts=4
 [Number Complement]: https://leetcode.com/problems/number-complement/
+
+[LC0494.cpp]: Solutions/LC0494.cpp?ts=4
+[Target Sum]: https://leetcode.com/problems/target-sum/
 
 [LC0495.cpp]: Solutions/LC0495.cpp?ts=4
 [Teemo Attacking]: https://leetcode.com/problems/teemo-attacking/
