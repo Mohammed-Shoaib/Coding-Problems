@@ -344,6 +344,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1217.cpp]     | [Minimum Cost to Move Chips to The Same Position]                                                    | Easy       |
 | [LC1218.cpp]     | [Longest Arithmetic Subsequence of Given Difference]                                                 | Medium     |
 | [LC1219.cpp]     | [Path with Maximum Gold]                                                                             | Medium     |
+| [LC1221.cpp]     | [Split a String in Balanced Strings]                                                                 | Easy       |
 | [LC1222.cpp]     | [Queens That Can Attack the King]                                                                    | Medium     |
 | [LC1229.cpp]     | [Meeting Scheduler]                                                                                  | Medium     |
 | [LC1230.cpp]     | [Toss Strange Coins]                                                                                 | Medium     |
@@ -1412,6 +1413,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1219.cpp]: Solutions/LC1219.cpp?ts=4
 [Path with Maximum Gold]: https://leetcode.com/problems/path-with-maximum-gold/
+
+[LC1221.cpp]: Solutions/LC1221.cpp?ts=4
+[Split a String in Balanced Strings]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
 
 [LC1222.cpp]: Solutions/LC1222.cpp?ts=4
 [Queens That Can Attack the King]: https://leetcode.com/problems/queens-that-can-attack-the-king/
