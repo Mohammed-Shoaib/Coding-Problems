@@ -107,6 +107,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0153.cpp]     | [Find Minimum in Rotated Sorted Array]                                                               | Medium     |
 | [LC0154.cpp]     | [Find Minimum in Rotated Sorted Array II]                                                            | Hard       |
 | [LC0155.cpp]     | [Min Stack]                                                                                          | Easy       |
+| [LC0160.cpp]     | [Intersection of Two Linked Lists]                                                                   | Easy       |
 | [LC0162.cpp]     | [Find Peak Element]                                                                                  | Medium     |
 | [LC0165.cpp]     | [Compare Version Numbers]                                                                            | Medium     |
 | [LC0167.cpp]     | [Two Sum II - Input array is sorted]                                                                 | Easy       |
@@ -702,6 +703,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0155.cpp]: Solutions/LC0155.cpp?ts=4
 [Min Stack]: https://leetcode.com/problems/min-stack/
+
+[LC0160.cpp]: Solutions/LC0160.cpp?ts=4
+[Intersection of Two Linked Lists]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 
 [LC0162.cpp]: Solutions/LC0162.cpp?ts=4
 [Find Peak Element]: https://leetcode.com/problems/find-peak-element/
