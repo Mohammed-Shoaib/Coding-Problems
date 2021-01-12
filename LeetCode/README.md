@@ -353,6 +353,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1237.cpp]     | [Find Positive Integer Solution for a Given Equation]                                                | Easy       |
 | [LC1238.cpp]     | [Circular Permutation in Binary Representation]                                                      | Medium     |
 | [LC1239.cpp]     | [Maximum Length of a Concatenated String with Unique Characters]                                     | Medium     |
+| [LC1247.cpp]     | [Minimum Swaps to Make Strings Equal]                                                                | Easy       |
 | [LC1248.cpp]     | [Count Number of Nice Subarrays]                                                                     | Medium     |
 | [LC1249.cpp]     | [Minimum Remove to Make Valid Parentheses]                                                           | Medium     |
 | [LC1261.cpp]     | [Find Elements in a Contaminated Binary Tree]                                                        | Medium     |
@@ -1441,6 +1442,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1239.cpp]: Solutions/LC1239.cpp?ts=4
 [Maximum Length of a Concatenated String with Unique Characters]: https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
+
+[LC1247.cpp]: Solutions/LC1247.cpp?ts=4
+[Minimum Swaps to Make Strings Equal]: https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
 
 [LC1248.cpp]: Solutions/LC1248.cpp?ts=4
 [Count Number of Nice Subarrays]: https://leetcode.com/problems/count-number-of-nice-subarrays/
