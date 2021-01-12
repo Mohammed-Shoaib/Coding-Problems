@@ -350,6 +350,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1230.cpp]     | [Toss Strange Coins]                                                                                 | Medium     |
 | [LC1232.cpp]     | [Check If It Is a Straight Line]                                                                     | Easy       |
 | [LC1233.cpp]     | [Remove Sub-Folders from the Filesystem]                                                             | Medium     |
+| [LC1237.cpp]     | [Find Positive Integer Solution for a Given Equation]                                                | Easy       |
 | [LC1238.cpp]     | [Circular Permutation in Binary Representation]                                                      | Medium     |
 | [LC1239.cpp]     | [Maximum Length of a Concatenated String with Unique Characters]                                     | Medium     |
 | [LC1248.cpp]     | [Count Number of Nice Subarrays]                                                                     | Medium     |
@@ -1431,6 +1432,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1233.cpp]: Solutions/LC1233.cpp?ts=4
 [Remove Sub-Folders from the Filesystem]: https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
+
+[LC1237.cpp]: Solutions/LC1237.cpp?ts=4
+[Find Positive Integer Solution for a Given Equation]: https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
 
 [LC1238.cpp]: Solutions/LC1238.cpp?ts=4
 [Circular Permutation in Binary Representation]: https://leetcode.com/problems/circular-permutation-in-binary-representation/
