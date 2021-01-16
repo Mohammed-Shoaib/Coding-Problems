@@ -46,6 +46,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [D.cpp](Kick%20Start/2020/Round%20D/D.cpp?ts=4) | [Locked Doors]                          | Round D | 2020 |
 | [A.cpp](Kick%20Start/2020/Round%20E/A.cpp?ts=4) | [Longest Arithmetic]                    | Round E | 2020 |
 | [B.cpp](Kick%20Start/2020/Round%20E/B.cpp?ts=4) | [High Buildings]                        | Round E | 2020 |
+| [C.cpp](Kick%20Start/2020/Round%20E/C.cpp?ts=4) | [Toys]                                  | Round E | 2020 |
 
 [//]: # (Code Jam)
 
@@ -89,5 +90,6 @@ Solutions to some of the questions from coding competitions by [Google](https://
 
 [Longest Arithmetic]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff47/00000000003bf4ed
 [High Buildings]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff47/00000000003bef73
+[Toys]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff47/00000000003bede9
 
 [//]: # (EOF)
