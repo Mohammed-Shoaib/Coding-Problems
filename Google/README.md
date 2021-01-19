@@ -49,6 +49,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [C.cpp](Kick%20Start/2020/Round%20E/C.cpp?ts=4) | [Toys]                                  | Round E | 2020 |
 | [A.cpp](Kick%20Start/2020/Round%20F/A.cpp?ts=4) | [ATM Queue]                             | Round F | 2020 |
 | [B.cpp](Kick%20Start/2020/Round%20F/B.cpp?ts=4) | [Metal Harvest]                         | Round F | 2020 |
+| [A.cpp](Kick%20Start/2020/Round%20G/A.cpp?ts=4) | [Kick_Start]                            | Round G | 2020 |
 
 [//]: # (Code Jam)
 
@@ -96,5 +97,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 
 [ATM Queue]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff48/00000000003f4ed8
 [Metal Harvest]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff48/00000000003f4b8b
+
+[Kick_Start]: https://codingcompetitions.withgoogle.com/kickstart/round/00000000001a0069/0000000000414bfb
 
 [//]: # (EOF)
