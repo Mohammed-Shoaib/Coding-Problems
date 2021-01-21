@@ -51,6 +51,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [B.cpp](Kick%20Start/2020/Round%20F/B.cpp?ts=4) | [Metal Harvest]                         | Round F | 2020 |
 | [A.cpp](Kick%20Start/2020/Round%20G/A.cpp?ts=4) | [Kick_Start]                            | Round G | 2020 |
 | [B.cpp](Kick%20Start/2020/Round%20G/B.cpp?ts=4) | [Maximum Coins]                         | Round G | 2020 |
+| [A.cpp](Kick%20Start/2020/Round%20H/A.cpp?ts=4) | [Retype]                                | Round H | 2020 |
 
 [//]: # (Code Jam)
 
@@ -101,5 +102,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 
 [Kick_Start]: https://codingcompetitions.withgoogle.com/kickstart/round/00000000001a0069/0000000000414bfb
 [Maximum Coins]: https://codingcompetitions.withgoogle.com/kickstart/round/00000000001a0069/0000000000414a23
+
+[Retype]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043adc7
 
 [//]: # (EOF)
