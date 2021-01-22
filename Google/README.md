@@ -52,6 +52,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [A.cpp](Kick%20Start/2020/Round%20G/A.cpp?ts=4) | [Kick_Start]                            | Round G | 2020 |
 | [B.cpp](Kick%20Start/2020/Round%20G/B.cpp?ts=4) | [Maximum Coins]                         | Round G | 2020 |
 | [A.cpp](Kick%20Start/2020/Round%20H/A.cpp?ts=4) | [Retype]                                | Round H | 2020 |
+| [B.cpp](Kick%20Start/2020/Round%20H/B.cpp?ts=4) | [Boring Numbers]                        | Round H | 2020 |
 
 [//]: # (Code Jam)
 
@@ -104,5 +105,6 @@ Solutions to some of the questions from coding competitions by [Google](https://
 [Maximum Coins]: https://codingcompetitions.withgoogle.com/kickstart/round/00000000001a0069/0000000000414a23
 
 [Retype]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043adc7
+[Boring Numbers]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043b0c6
 
 [//]: # (EOF)
