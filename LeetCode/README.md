@@ -357,6 +357,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1248.cpp]     | [Count Number of Nice Subarrays]                                                                     | Medium     |
 | [LC1249.cpp]     | [Minimum Remove to Make Valid Parentheses]                                                           | Medium     |
 | [LC1252.cpp]     | [Cells with Odd Values in a Matrix]                                                                  | Easy       |
+| [LC1260.cpp]     | [Shift 2D Grid]                                                                                      | Easy       |
 | [LC1261.cpp]     | [Find Elements in a Contaminated Binary Tree]                                                        | Medium     |
 | [LC1262.cpp]     | [Greatest Sum Divisible by Three]                                                                    | Medium     |
 | [LC1267.cpp]     | [Count Servers that Communicate]                                                                     | Medium     |
@@ -1455,6 +1456,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1252.cpp]: Solutions/LC1252.cpp?ts=4
 [Cells with Odd Values in a Matrix]: https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
+
+[LC1260.cpp]: Solutions/LC1260.cpp?ts=4
+[Shift 2D Grid]: https://leetcode.com/problems/shift-2d-grid/
 
 [LC1261.cpp]: Solutions/LC1261.cpp?ts=4
 [Find Elements in a Contaminated Binary Tree]: https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
