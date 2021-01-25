@@ -360,6 +360,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1260.cpp]     | [Shift 2D Grid]                                                                                      | Easy       |
 | [LC1261.cpp]     | [Find Elements in a Contaminated Binary Tree]                                                        | Medium     |
 | [LC1262.cpp]     | [Greatest Sum Divisible by Three]                                                                    | Medium     |
+| [LC1266.cpp]     | [Minimum Time Visiting All Points]                                                                   | Easy       |
 | [LC1267.cpp]     | [Count Servers that Communicate]                                                                     | Medium     |
 | [LC1268.cpp]     | [Search Suggestions System]                                                                          | Medium     |
 | [LC1276.cpp]     | [Number of Burgers with No Waste of Ingredients]                                                     | Medium     |
@@ -1465,6 +1466,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1262.cpp]: Solutions/LC1262.cpp?ts=4
 [Greatest Sum Divisible by Three]: https://leetcode.com/problems/greatest-sum-divisible-by-three/
+
+[LC1266.cpp]: Solutions/LC1266.cpp?ts=4
+[Minimum Time Visiting All Points]: https://leetcode.com/problems/minimum-time-visiting-all-points/
 
 [LC1267.cpp]: Solutions/LC1267.cpp?ts=4
 [Count Servers that Communicate]: https://leetcode.com/problems/count-servers-that-communicate/
