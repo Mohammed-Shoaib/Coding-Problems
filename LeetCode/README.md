@@ -363,6 +363,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1266.cpp]     | [Minimum Time Visiting All Points]                                                                   | Easy       |
 | [LC1267.cpp]     | [Count Servers that Communicate]                                                                     | Medium     |
 | [LC1268.cpp]     | [Search Suggestions System]                                                                          | Medium     |
+| [LC1275.cpp]     | [Find Winner on a Tic Tac Toe Game]                                                                  | Easy       |
 | [LC1276.cpp]     | [Number of Burgers with No Waste of Ingredients]                                                     | Medium     |
 | [LC1277.cpp]     | [Count Square Submatrices with All Ones]                                                             | Medium     |
 | [LC1282.cpp]     | [Group the People Given the Group Size They Belong To]                                               | Medium     |
@@ -1475,6 +1476,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1268.cpp]: Solutions/LC1268.cpp?ts=4
 [Search Suggestions System]: https://leetcode.com/problems/search-suggestions-system/
+
+[LC1275.cpp]: Solutions/LC1275.cpp?ts=4
+[Find Winner on a Tic Tac Toe Game]: https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
 
 [LC1276.cpp]: Solutions/LC1276.cpp?ts=4
 [Number of Burgers with No Waste of Ingredients]: https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/
