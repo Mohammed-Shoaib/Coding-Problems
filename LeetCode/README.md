@@ -119,6 +119,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0188.cpp]     | [Best Time to Buy and Sell Stock IV]                                                                 | Hard       |
 | [LC0189.cpp]     | [Rotate Array]                                                                                       | Easy       |
 | [LC0190.cpp]     | [Reverse Bits]                                                                                       | Easy       |
+| [LC0191.cpp]     | [Number of 1 Bits]                                                                                   | Easy       |
 | [LC0198.cpp]     | [House Robber]                                                                                       | Easy       |
 | [LC0199.cpp]     | [Binary Tree Right Side View]                                                                        | Medium     |
 | [LC0200.cpp]     | [Number of Islands]                                                                                  | Medium     |
@@ -746,6 +747,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0190.cpp]: Solutions/LC0190.cpp?ts=4
 [Reverse Bits]: https://leetcode.com/problems/reverse-bits/
+
+[LC0191.cpp]: Solutions/LC0191.cpp?ts=4
+[Number of 1 Bits]: https://leetcode.com/problems/number-of-1-bits/
 
 [LC0198.cpp]: Solutions/LC0198.cpp?ts=4
 [House Robber]: https://leetcode.com/problems/house-robber/
