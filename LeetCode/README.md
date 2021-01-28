@@ -367,6 +367,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1275.cpp]     | [Find Winner on a Tic Tac Toe Game]                                                                  | Easy       |
 | [LC1276.cpp]     | [Number of Burgers with No Waste of Ingredients]                                                     | Medium     |
 | [LC1277.cpp]     | [Count Square Submatrices with All Ones]                                                             | Medium     |
+| [LC1281.cpp]     | [Subtract the Product and Sum of Digits of an Integer]                                               | Easy       |
 | [LC1282.cpp]     | [Group the People Given the Group Size They Belong To]                                               | Medium     |
 | [LC1283.cpp]     | [Find the Smallest Divisor Given a Threshold]                                                        | Medium     |
 | [LC1286.cpp]     | [Iterator for Combination]                                                                           | Medium     |
@@ -1489,6 +1490,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1277.cpp]: Solutions/LC1277.cpp?ts=4
 [Count Square Submatrices with All Ones]: https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+
+[LC1281.cpp]: Solutions/LC1281.cpp?ts=4
+[Subtract the Product and Sum of Digits of an Integer]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 
 [LC1282.cpp]: Solutions/LC1282.cpp?ts=4
 [Group the People Given the Group Size They Belong To]: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
