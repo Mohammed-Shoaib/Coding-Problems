@@ -371,6 +371,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1282.cpp]     | [Group the People Given the Group Size They Belong To]                                               | Medium     |
 | [LC1283.cpp]     | [Find the Smallest Divisor Given a Threshold]                                                        | Medium     |
 | [LC1286.cpp]     | [Iterator for Combination]                                                                           | Medium     |
+| [LC1287.cpp]     | [Element Appearing More Than 25% In Sorted Array]                                                    | Easy       |
 | [LC1288.cpp]     | [Remove Covered Intervals]                                                                           | Medium     |
 | [LC1291.cpp]     | [Sequential Digits]                                                                                  | Medium     |
 | [LC1292.cpp]     | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold]                           | Medium     |
@@ -1502,6 +1503,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1286.cpp]: Solutions/LC1286.cpp?ts=4
 [Iterator for Combination]: https://leetcode.com/problems/iterator-for-combination/
+
+[LC1287.cpp]: Solutions/LC1287.cpp?ts=4
+[Element Appearing More Than 25% In Sorted Array]: https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
 
 [LC1288.cpp]: Solutions/LC1288.cpp?ts=4
 [Remove Covered Intervals]: https://leetcode.com/problems/remove-covered-intervals/
