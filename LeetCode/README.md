@@ -373,6 +373,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1286.cpp]     | [Iterator for Combination]                                                                           | Medium     |
 | [LC1287.cpp]     | [Element Appearing More Than 25% In Sorted Array]                                                    | Easy       |
 | [LC1288.cpp]     | [Remove Covered Intervals]                                                                           | Medium     |
+| [LC1290.cpp]     | [Convert Binary Number in a Linked List to Integer]                                                  | Easy       |
 | [LC1291.cpp]     | [Sequential Digits]                                                                                  | Medium     |
 | [LC1292.cpp]     | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold]                           | Medium     |
 | [LC1296.cpp]     | [Divide Array in Sets of K Consecutive Numbers]                                                      | Medium     |
@@ -1509,6 +1510,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1288.cpp]: Solutions/LC1288.cpp?ts=4
 [Remove Covered Intervals]: https://leetcode.com/problems/remove-covered-intervals/
+
+[LC1290.cpp]: Solutions/LC1290.cpp?ts=4
+[Convert Binary Number in a Linked List to Integer]: https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 
 [LC1291.cpp]: Solutions/LC1291.cpp?ts=4
 [Sequential Digits]: https://leetcode.com/problems/sequential-digits/
