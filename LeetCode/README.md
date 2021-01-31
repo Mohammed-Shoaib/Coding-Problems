@@ -376,6 +376,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1290.cpp]     | [Convert Binary Number in a Linked List to Integer]                                                  | Easy       |
 | [LC1291.cpp]     | [Sequential Digits]                                                                                  | Medium     |
 | [LC1292.cpp]     | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold]                           | Medium     |
+| [LC1295.cpp]     | [Find Numbers with Even Number of Digits]                                                            | Easy       |
 | [LC1296.cpp]     | [Divide Array in Sets of K Consecutive Numbers]                                                      | Medium     |
 | [LC1297.cpp]     | [Maximum Number of Occurrences of a Substring]                                                       | Medium     |
 | [LC1300.cpp]     | [Sum of Mutated Array Closest to Target]                                                             | Medium     |
@@ -1519,6 +1520,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1292.cpp]: Solutions/LC1292.cpp?ts=4
 [Maximum Side Length of a Square with Sum Less than or Equal to Threshold]: https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
+
+[LC1295.cpp]: Solutions/LC1295.cpp?ts=4
+[Find Numbers with Even Number of Digits]: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 
 [LC1296.cpp]: Solutions/LC1296.cpp?ts=4
 [Divide Array in Sets of K Consecutive Numbers]: https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
