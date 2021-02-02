@@ -382,6 +382,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1299.cpp]     | [Replace Elements with Greatest Element on Right Side]                                               | Easy       |
 | [LC1300.cpp]     | [Sum of Mutated Array Closest to Target]                                                             | Medium     |
 | [LC1302.cpp]     | [Deepest Leaves Sum]                                                                                 | Medium     |
+| [LC1304.cpp]     | [Find N Unique Integers Sum up to Zero]                                                              | Easy       |
 | [LC1305.cpp]     | [All Elements in Two Binary Search Trees]                                                            | Medium     |
 | [LC1306.cpp]     | [Jump Game III]                                                                                      | Medium     |
 | [LC1310.cpp]     | [XOR Queries of a Subarray]                                                                          | Medium     |
@@ -1539,6 +1540,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1302.cpp]: Solutions/LC1302.cpp?ts=4
 [Deepest Leaves Sum]: https://leetcode.com/problems/deepest-leaves-sum/
+
+[LC1304.cpp]: Solutions/LC1304.cpp?ts=4
+[Find N Unique Integers Sum up to Zero]: https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
 
 [LC1305.cpp]: Solutions/LC1305.cpp?ts=4
 [All Elements in Two Binary Search Trees]: https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
