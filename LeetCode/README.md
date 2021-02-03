@@ -385,6 +385,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1304.cpp]     | [Find N Unique Integers Sum up to Zero]                                                              | Easy       |
 | [LC1305.cpp]     | [All Elements in Two Binary Search Trees]                                                            | Medium     |
 | [LC1306.cpp]     | [Jump Game III]                                                                                      | Medium     |
+| [LC1309.cpp]     | [Decrypt String from Alphabet to Integer Mapping]                                                    | Easy       |
 | [LC1310.cpp]     | [XOR Queries of a Subarray]                                                                          | Medium     |
 | [LC1311.cpp]     | [Get Watched Videos by Your Friends]                                                                 | Medium     |
 | [LC1314.cpp]     | [Matrix Block Sum]                                                                                   | Medium     |
@@ -1549,6 +1550,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1306.cpp]: Solutions/LC1306.cpp?ts=4
 [Jump Game III]: https://leetcode.com/problems/jump-game-iii/
+
+[LC1309.cpp]: Solutions/LC1309.cpp?ts=4
+[Decrypt String from Alphabet to Integer Mapping]: https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 
 [LC1310.cpp]: Solutions/LC1310.cpp?ts=4
 [XOR Queries of a Subarray]: https://leetcode.com/problems/xor-queries-of-a-subarray/
