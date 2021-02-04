@@ -27,6 +27,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0020.cpp]     | [Valid Parentheses]                                                                                  | Easy       |
 | [LC0021.cpp]     | [Merge Two Sorted Lists]                                                                             | Easy       |
 | [LC0022.cpp]     | [Generate Parentheses]                                                                               | Medium     |
+| [LC0026.cpp]     | [Remove Duplicates from Sorted Array]                                                                | Easy       |
 | [LC0031.cpp]     | [Next Permutation]                                                                                   | Medium     |
 | [LC0033.cpp]     | [Search in Rotated Sorted Array]                                                                     | Medium     |
 | [LC0034.cpp]     | [Find First and Last Position of Element in Sorted Array]                                            | Medium     |
@@ -478,6 +479,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0022.cpp]: Solutions/LC0022.cpp?ts=4
 [Generate Parentheses]: https://leetcode.com/problems/generate-parentheses/
+
+[LC0026.cpp]: Solutions/LC0026.cpp?ts=4
+[Remove Duplicates from Sorted Array]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 [LC0031.cpp]: Solutions/LC0031.cpp?ts=4
 [Next Permutation]: https://leetcode.com/problems/next-permutation/
