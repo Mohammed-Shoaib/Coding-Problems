@@ -242,6 +242,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0572.cpp]     | [Subtree of Another Tree]                                                                            | Easy       |
 | [LC0575.cpp]     | [Distribute Candies]                                                                                 | Easy       |
 | [LC0590.cpp]     | [Binary Tree Postorder Traversal]                                                                    | Easy       |
+| [LC0594.cpp]     | [Longest Harmonious Subsequence]                                                                     | Easy       |
 | [LC0617.cpp]     | [Merge Two Binary Trees]                                                                             | Easy       |
 | [LC0621.cpp]     | [Task Scheduler]                                                                                     | Medium     |
 | [LC0637.cpp]     | [Average of Levels in Binary Tree]                                                                   | Easy       |
@@ -1124,6 +1125,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0590.cpp]: Solutions/LC0590.cpp?ts=4
 [Binary Tree Postorder Traversal]: https://leetcode.com/problems/binary-tree-postorder-traversal/
+
+[LC0594.cpp]: Solutions/LC0594.cpp?ts=4
+[Longest Harmonious Subsequence]: https://leetcode.com/problems/longest-harmonious-subsequence/
 
 [LC0617.cpp]: Solutions/LC0617.cpp?ts=4
 [Merge Two Binary Trees]: https://leetcode.com/problems/merge-two-binary-trees/
