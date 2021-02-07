@@ -8,26 +8,24 @@ Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 class Solution {
 public:
 	vector<int> rightSideView(TreeNode* root) {
-		int size, level = 0;
 		queue<TreeNode*> q;
 		vector<int> values;
 		
 		if (root)
 			q.push(root);
-			
+		
+		// level order traversal
 		while (!q.empty()) {
-			size = q.size();
+			int size = q.size();
+			values.push_back(q.front()->val);
 			while (size--) {
 				root = q.front();
 				q.pop();
-				if (level == values.size())
-					values.push_back(root->val);
 				if (root->right)
 					q.push(root->right);
 				if (root->left)
 					q.push(root->left);
 			}
-			level++;
 		}
 		
 		return values;     

@@ -391,6 +391,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1309.cpp]     | [Decrypt String from Alphabet to Integer Mapping]                                                    | Easy       |
 | [LC1310.cpp]     | [XOR Queries of a Subarray]                                                                          | Medium     |
 | [LC1311.cpp]     | [Get Watched Videos by Your Friends]                                                                 | Medium     |
+| [LC1313.cpp]     | [Decompress Run-Length Encoded List]                                                                 | Easy       |
 | [LC1314.cpp]     | [Matrix Block Sum]                                                                                   | Medium     |
 | [LC1315.cpp]     | [Sum of Nodes with Even-Valued Grandparent]                                                          | Medium     |
 | [LC1318.cpp]     | [Minimum Flips to Make a OR b Equal to c]                                                            | Medium     |
@@ -1571,6 +1572,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1311.cpp]: Solutions/LC1311.cpp?ts=4
 [Get Watched Videos by Your Friends]: https://leetcode.com/problems/get-watched-videos-by-your-friends/
+
+[LC1313.cpp]: Solutions/LC1313.cpp?ts=4
+[Decompress Run-Length Encoded List]: https://leetcode.com/problems/decompress-run-length-encoded-list/
 
 [LC1314.cpp]: Solutions/LC1314.cpp?ts=4
 [Matrix Block Sum]: https://leetcode.com/problems/matrix-block-sum/
