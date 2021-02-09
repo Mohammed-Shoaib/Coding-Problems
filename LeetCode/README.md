@@ -395,6 +395,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1313.cpp]     | [Decompress Run-Length Encoded List]                                                                 | Easy       |
 | [LC1314.cpp]     | [Matrix Block Sum]                                                                                   | Medium     |
 | [LC1315.cpp]     | [Sum of Nodes with Even-Valued Grandparent]                                                          | Medium     |
+| [LC1317.cpp]     | [Convert Integer to the Sum of Two No-Zero Integers]                                                 | Easy       |
 | [LC1318.cpp]     | [Minimum Flips to Make a OR b Equal to c]                                                            | Medium     |
 | [LC1319.cpp]     | [Number of Operations to Make Network Connected]                                                     | Medium     |
 | [LC1324.cpp]     | [Print Words Vertically]                                                                             | Medium     |
@@ -1585,6 +1586,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1315.cpp]: Solutions/LC1315.cpp?ts=4
 [Sum of Nodes with Even-Valued Grandparent]: https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
+
+[LC1317.cpp]: Solutions/LC1317.cpp?ts=4
+[Convert Integer to the Sum of Two No-Zero Integers]: https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/
 
 [LC1318.cpp]: Solutions/LC1318.cpp?ts=4
 [Minimum Flips to Make a OR b Equal to c]: https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
