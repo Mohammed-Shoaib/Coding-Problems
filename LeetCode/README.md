@@ -401,6 +401,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1324.cpp]     | [Print Words Vertically]                                                                             | Medium     |
 | [LC1328.cpp]     | [Break a Palindrome]                                                                                 | Medium     |
 | [LC1329.cpp]     | [Sort the Matrix Diagonally]                                                                         | Medium     |
+| [LC1331.cpp]     | [Rank Transform of an Array]                                                                         | Easy       |
 | [LC1343.cpp]     | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold]                      | Medium     |
 | [LC1344.cpp]     | [Angle Between Hands of a Clock]                                                                     | Medium     |
 | [LC1357.cpp]     | [Apply Discount Every n Orders]                                                                      | Medium     |
@@ -1604,6 +1605,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1329.cpp]: Solutions/LC1329.cpp?ts=4
 [Sort the Matrix Diagonally]: https://leetcode.com/problems/sort-the-matrix-diagonally/
+
+[LC1331.cpp]: Solutions/LC1331.cpp?ts=4
+[Rank Transform of an Array]: https://leetcode.com/problems/rank-transform-of-an-array/
 
 [LC1343.cpp]: Solutions/LC1343.cpp?ts=4
 [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold]: https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/
