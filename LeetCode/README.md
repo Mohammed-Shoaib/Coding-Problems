@@ -406,6 +406,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1343.cpp]     | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold]                      | Medium     |
 | [LC1344.cpp]     | [Angle Between Hands of a Clock]                                                                     | Medium     |
 | [LC1346.cpp]     | [Check If N and Its Double Exist]                                                                    | Easy       |
+| [LC1356.cpp]     | [Sort Integers by The Number of 1 Bits]                                                              | Easy       |
 | [LC1357.cpp]     | [Apply Discount Every n Orders]                                                                      | Medium     |
 | [LC1358.cpp]     | [Number of Substrings Containing All Three Characters]                                               | Medium     |
 | [LC1371.cpp]     | [Find the Longest Substring Containing Vowels in Even Counts]                                        | Medium     |
@@ -1622,6 +1623,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1346.cpp]: Solutions/LC1346.cpp?ts=4
 [Check If N and Its Double Exist]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
+
+[LC1356.cpp]: Solutions/LC1356.cpp?ts=4
+[Sort Integers by The Number of 1 Bits]: https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
 
 [LC1357.cpp]: Solutions/LC1357.cpp?ts=4
 [Apply Discount Every n Orders]: https://leetcode.com/problems/apply-discount-every-n-orders/
