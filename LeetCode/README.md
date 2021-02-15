@@ -409,6 +409,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1356.cpp]     | [Sort Integers by The Number of 1 Bits]                                                              | Easy       |
 | [LC1357.cpp]     | [Apply Discount Every n Orders]                                                                      | Medium     |
 | [LC1358.cpp]     | [Number of Substrings Containing All Three Characters]                                               | Medium     |
+| [LC1370.cpp]     | [Increasing Decreasing String]                                                                       | Easy       |
 | [LC1371.cpp]     | [Find the Longest Substring Containing Vowels in Even Counts]                                        | Medium     |
 | [LC1372.cpp]     | [Longest ZigZag Path in a Binary Tree]                                                               | Medium     |
 | [LC1375.cpp]     | [Bulb Switcher III]                                                                                  | Medium     |
@@ -1632,6 +1633,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1358.cpp]: Solutions/LC1358.cpp?ts=4
 [Number of Substrings Containing All Three Characters]: https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+
+[LC1370.cpp]: Solutions/LC1370.cpp?ts=4
+[Increasing Decreasing String]: https://leetcode.com/problems/increasing-decreasing-string/
 
 [LC1371.cpp]: Solutions/LC1371.cpp?ts=4
 [Find the Longest Substring Containing Vowels in Even Counts]: https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
