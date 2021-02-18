@@ -415,6 +415,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1372.cpp]     | [Longest ZigZag Path in a Binary Tree]                                                               | Medium     |
 | [LC1374.cpp]     | [Generate a String With Characters That Have Odd Counts]                                             | Easy       |
 | [LC1375.cpp]     | [Bulb Switcher III]                                                                                  | Medium     |
+| [LC1380.cpp]     | [Lucky Numbers in a Matrix]                                                                          | Easy       |
 | [LC1381.cpp]     | [Design a Stack With Increment Operation]                                                            | Medium     |
 | [LC1382.cpp]     | [Balance a Binary Search Tree]                                                                       | Medium     |
 | [LC1386.cpp]     | [Cinema Seat Allocation]                                                                             | Medium     |
@@ -1653,6 +1654,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1375.cpp]: Solutions/LC1375.cpp?ts=4
 [Bulb Switcher III]: https://leetcode.com/problems/bulb-switcher-iii/
+
+[LC1380.cpp]: Solutions/LC1380.cpp?ts=4
+[Lucky Numbers in a Matrix]: https://leetcode.com/problems/lucky-numbers-in-a-matrix/
 
 [LC1381.cpp]: Solutions/LC1381.cpp?ts=4
 [Design a Stack With Increment Operation]: https://leetcode.com/problems/design-a-stack-with-increment-operation/
