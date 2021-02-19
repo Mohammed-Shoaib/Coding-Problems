@@ -418,6 +418,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1380.cpp]     | [Lucky Numbers in a Matrix]                                                                          | Easy       |
 | [LC1381.cpp]     | [Design a Stack With Increment Operation]                                                            | Medium     |
 | [LC1382.cpp]     | [Balance a Binary Search Tree]                                                                       | Medium     |
+| [LC1385.cpp]     | [Find the Distance Value Between Two Arrays]                                                         | Easy       |
 | [LC1386.cpp]     | [Cinema Seat Allocation]                                                                             | Medium     |
 | [LC1387.cpp]     | [Sort Integers by The Power Value]                                                                   | Medium     |
 | [LC1390.cpp]     | [Four Divisors]                                                                                      | Medium     |
@@ -1663,6 +1664,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1382.cpp]: Solutions/LC1382.cpp?ts=4
 [Balance a Binary Search Tree]: https://leetcode.com/problems/balance-a-binary-search-tree/
+
+[LC1385.cpp]: Solutions/LC1385.cpp?ts=4
+[Find the Distance Value Between Two Arrays]: https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 
 [LC1386.cpp]: Solutions/LC1386.cpp?ts=4
 [Cinema Seat Allocation]: https://leetcode.com/problems/cinema-seat-allocation/
