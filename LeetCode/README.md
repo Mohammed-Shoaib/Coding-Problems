@@ -421,6 +421,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1385.cpp]     | [Find the Distance Value Between Two Arrays]                                                         | Easy       |
 | [LC1386.cpp]     | [Cinema Seat Allocation]                                                                             | Medium     |
 | [LC1387.cpp]     | [Sort Integers by The Power Value]                                                                   | Medium     |
+| [LC1389.cpp]     | [Create Target Array in the Given Order]                                                             | Easy       |
 | [LC1390.cpp]     | [Four Divisors]                                                                                      | Medium     |
 | [LC1391.cpp]     | [Check if There is a Valid Path in a Grid]                                                           | Medium     |
 | [LC1395.cpp]     | [Count Number of Teams]                                                                              | Medium     |
@@ -1673,6 +1674,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1387.cpp]: Solutions/LC1387.cpp?ts=4
 [Sort Integers by The Power Value]: https://leetcode.com/problems/sort-integers-by-the-power-value/
+
+[LC1389.cpp]: Solutions/LC1389.cpp?ts=4
+[Create Target Array in the Given Order]: https://leetcode.com/problems/create-target-array-in-the-given-order/
 
 [LC1390.cpp]: Solutions/LC1390.cpp?ts=4
 [Four Divisors]: https://leetcode.com/problems/four-divisors/
