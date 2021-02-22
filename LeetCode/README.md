@@ -427,6 +427,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1394.cpp]     | [Find Lucky Integer in an Array]                                                                     | Easy       |
 | [LC1395.cpp]     | [Count Number of Teams]                                                                              | Medium     |
 | [LC1396.cpp]     | [Design Underground System]                                                                          | Medium     |
+| [LC1399.cpp]     | [Count Largest Group]                                                                                | Easy       |
 | [LC1400.cpp]     | [Construct K Palindrome Strings]                                                                     | Medium     |
 | [LC1401.cpp]     | [Circle and Rectangle Overlapping]                                                                   | Medium     |
 | [LC1409.cpp]     | [Queries on a Permutation With Key]                                                                  | Medium     |
@@ -1693,6 +1694,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1396.cpp]: Solutions/LC1396.cpp?ts=4
 [Design Underground System]: https://leetcode.com/problems/design-underground-system/
+
+[LC1399.cpp]: Solutions/LC1399.cpp?ts=4
+[Count Largest Group]: https://leetcode.com/problems/count-largest-group/
 
 [LC1400.cpp]: Solutions/LC1400.cpp?ts=4
 [Construct K Palindrome Strings]: https://leetcode.com/problems/construct-k-palindrome-strings/
