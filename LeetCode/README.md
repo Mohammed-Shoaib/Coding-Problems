@@ -424,6 +424,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1389.cpp]     | [Create Target Array in the Given Order]                                                             | Easy       |
 | [LC1390.cpp]     | [Four Divisors]                                                                                      | Medium     |
 | [LC1391.cpp]     | [Check if There is a Valid Path in a Grid]                                                           | Medium     |
+| [LC1394.cpp]     | [Find Lucky Integer in an Array]                                                                     | Easy       |
 | [LC1395.cpp]     | [Count Number of Teams]                                                                              | Medium     |
 | [LC1396.cpp]     | [Design Underground System]                                                                          | Medium     |
 | [LC1400.cpp]     | [Construct K Palindrome Strings]                                                                     | Medium     |
@@ -1683,6 +1684,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1391.cpp]: Solutions/LC1391.cpp?ts=4
 [Check if There is a Valid Path in a Grid]: https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
+
+[LC1394.cpp]: Solutions/LC1394.cpp?ts=4
+[Find Lucky Integer in an Array]: https://leetcode.com/problems/find-lucky-integer-in-an-array/
 
 [LC1395.cpp]: Solutions/LC1395.cpp?ts=4
 [Count Number of Teams]: https://leetcode.com/problems/count-number-of-teams/
