@@ -431,6 +431,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1399.cpp]     | [Count Largest Group]                                                                                | Easy       |
 | [LC1400.cpp]     | [Construct K Palindrome Strings]                                                                     | Medium     |
 | [LC1401.cpp]     | [Circle and Rectangle Overlapping]                                                                   | Medium     |
+| [LC1408.cpp]     | [String Matching in an Array]                                                                        | Easy       |
 | [LC1409.cpp]     | [Queries on a Permutation With Key]                                                                  | Medium     |
 | [LC1410.cpp]     | [HTML Entity Parser]                                                                                 | Medium     |
 | [LC1426.cpp]     | [Counting Elements]                                                                                  | Easy       |
@@ -1707,6 +1708,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1401.cpp]: Solutions/LC1401.cpp?ts=4
 [Circle and Rectangle Overlapping]: https://leetcode.com/problems/circle-and-rectangle-overlapping/
+
+[LC1408.cpp]: Solutions/LC1408.cpp?ts=4
+[String Matching in an Array]: https://leetcode.com/problems/string-matching-in-an-array/
 
 [LC1409.cpp]: Solutions/LC1409.cpp?ts=4
 [Queries on a Permutation With Key]: https://leetcode.com/problems/queries-on-a-permutation-with-key/
