@@ -439,6 +439,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1428.cpp]     | [Leftmost Column with at Least a One]                                                                | Medium     |
 | [LC1429.cpp]     | [First Unique Number]                                                                                | Medium     |
 | [LC1430.cpp]     | [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree]                    | Medium     |
+| [LC1431.cpp]     | [Kids With the Greatest Number of Candies]                                                           | Easy       |
 | [LC1461.cpp]     | [Check If a String Contains All Binary Codes of Size K]                                              | Medium     |
 | [LC1462.cpp]     | [Course Schedule IV]                                                                                 | Medium     |
 | [LC1465.cpp]     | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts]                                 | Medium     |
@@ -1732,6 +1733,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1430.cpp]: Solutions/LC1430.cpp?ts=4
 [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree]: https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/
+
+[LC1431.cpp]: Solutions/LC1431.cpp?ts=4
+[Kids With the Greatest Number of Candies]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 
 [LC1461.cpp]: Solutions/LC1461.cpp?ts=4
 [Check If a String Contains All Binary Codes of Size K]: https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
