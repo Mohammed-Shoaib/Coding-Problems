@@ -442,6 +442,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1431.cpp]     | [Kids With the Greatest Number of Candies]                                                           | Easy       |
 | [LC1436.cpp]     | [Destination City]                                                                                   | Easy       |
 | [LC1450.cpp]     | [Number of Students Doing Homework at a Given Time]                                                  | Easy       |
+| [LC1460.cpp]     | [Make Two Arrays Equal by Reversing Sub-arrays]                                                      | Easy       |
 | [LC1461.cpp]     | [Check If a String Contains All Binary Codes of Size K]                                              | Medium     |
 | [LC1462.cpp]     | [Course Schedule IV]                                                                                 | Medium     |
 | [LC1465.cpp]     | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts]                                 | Medium     |
@@ -1744,6 +1745,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1450.cpp]: Solutions/LC1450.cpp?ts=4
 [Number of Students Doing Homework at a Given Time]: https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
+
+[LC1460.cpp]: Solutions/LC1460.cpp?ts=4
+[Make Two Arrays Equal by Reversing Sub-arrays]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 
 [LC1461.cpp]: Solutions/LC1461.cpp?ts=4
 [Check If a String Contains All Binary Codes of Size K]: https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
