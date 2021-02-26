@@ -445,6 +445,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1460.cpp]     | [Make Two Arrays Equal by Reversing Sub-arrays]                                                      | Easy       |
 | [LC1461.cpp]     | [Check If a String Contains All Binary Codes of Size K]                                              | Medium     |
 | [LC1462.cpp]     | [Course Schedule IV]                                                                                 | Medium     |
+| [LC1464.cpp]     | [Maximum Product of Two Elements in an Array]                                                        | Easy       |
 | [LC1465.cpp]     | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts]                                 | Medium     |
 | [LC1466.cpp]     | [Reorder Routes to Make All Paths Lead to the City Zero]                                             | Medium     |
 | [LC1467.cpp]     | [Probability of a Two Boxes Having The Same Number of Distinct Balls]                                | Hard       |
@@ -1754,6 +1755,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1462.cpp]: Solutions/LC1462.cpp?ts=4
 [Course Schedule IV]: https://leetcode.com/problems/course-schedule-iv/
+
+[LC1464.cpp]: Solutions/LC1464.cpp?ts=4
+[Maximum Product of Two Elements in an Array]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 
 [LC1465.cpp]: Solutions/LC1465.cpp?ts=4
 [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts]: https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
