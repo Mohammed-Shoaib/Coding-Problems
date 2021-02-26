@@ -449,6 +449,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1465.cpp]     | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts]                                 | Medium     |
 | [LC1466.cpp]     | [Reorder Routes to Make All Paths Lead to the City Zero]                                             | Medium     |
 | [LC1467.cpp]     | [Probability of a Two Boxes Having The Same Number of Distinct Balls]                                | Hard       |
+| [LC1470.cpp]     | [Shuffle the Array]                                                                                  | Easy       |
 | [LC1476.cpp]     | [Subrectangle Queries]                                                                               | Medium     |
 | [LC1481.cpp]     | [Least Number of Unique Integers after K Removals]                                                   | Medium     |
 | [LC1482.cpp]     | [Minimum Number of Days to Make m Bouquets]                                                          | Medium     |
@@ -1767,6 +1768,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1467.cpp]: Solutions/LC1467.cpp?ts=4
 [Probability of a Two Boxes Having The Same Number of Distinct Balls]: https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/
+
+[LC1470.cpp]: Solutions/LC1470.cpp?ts=4
+[Shuffle the Array]: https://leetcode.com/problems/shuffle-the-array/
 
 [LC1476.cpp]: Solutions/LC1476.cpp?ts=4
 [Subrectangle Queries]: https://leetcode.com/problems/subrectangle-queries/
