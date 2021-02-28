@@ -452,6 +452,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1470.cpp]     | [Shuffle the Array]                                                                                  | Easy       |
 | [LC1475.cpp]     | [Final Prices With a Special Discount in a Shop]                                                     | Easy       |
 | [LC1476.cpp]     | [Subrectangle Queries]                                                                               | Medium     |
+| [LC1480.cpp]     | [Running Sum of 1d Array]                                                                            | Easy       |
 | [LC1481.cpp]     | [Least Number of Unique Integers after K Removals]                                                   | Medium     |
 | [LC1482.cpp]     | [Minimum Number of Days to Make m Bouquets]                                                          | Medium     |
 | [LC1535.cpp]     | [Find the Winner of an Array Game]                                                                   | Medium     |
@@ -1778,6 +1779,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1476.cpp]: Solutions/LC1476.cpp?ts=4
 [Subrectangle Queries]: https://leetcode.com/problems/subrectangle-queries/
+
+[LC1480.cpp]: Solutions/LC1480.cpp?ts=4
+[Running Sum of 1d Array]: https://leetcode.com/problems/running-sum-of-1d-array/
 
 [LC1481.cpp]: Solutions/LC1481.cpp?ts=4
 [Least Number of Unique Integers after K Removals]: https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
