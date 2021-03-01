@@ -456,6 +456,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1481.cpp]     | [Least Number of Unique Integers after K Removals]                                                   | Medium     |
 | [LC1482.cpp]     | [Minimum Number of Days to Make m Bouquets]                                                          | Medium     |
 | [LC1512.cpp]     | [Number of Good Pairs]                                                                               | Easy       |
+| [LC1528.cpp]     | [Shuffle String]                                                                                     | Easy       |
 | [LC1535.cpp]     | [Find the Winner of an Array Game]                                                                   | Medium     |
 | [LC1536.cpp]     | [Minimum Swaps to Arrange a Binary Grid]                                                             | Medium     |
 | [LC1540.cpp]     | [Can Convert String in K Moves]                                                                      | Medium     |
@@ -1792,6 +1793,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1512.cpp]: Solutions/LC1512.cpp?ts=4
 [Number of Good Pairs]: https://leetcode.com/problems/number-of-good-pairs/
+
+[LC1528.cpp]: Solutions/LC1528.cpp?ts=4
+[Shuffle String]: https://leetcode.com/problems/shuffle-string/
 
 [LC1535.cpp]: Solutions/LC1535.cpp?ts=4
 [Find the Winner of an Array Game]: https://leetcode.com/problems/find-the-winner-of-an-array-game/
