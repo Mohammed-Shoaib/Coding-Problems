@@ -455,6 +455,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1480.cpp]     | [Running Sum of 1d Array]                                                                            | Easy       |
 | [LC1481.cpp]     | [Least Number of Unique Integers after K Removals]                                                   | Medium     |
 | [LC1482.cpp]     | [Minimum Number of Days to Make m Bouquets]                                                          | Medium     |
+| [LC1504.cpp]     | [Count Submatrices With All Ones]                                                                    | Medium     |
 | [LC1512.cpp]     | [Number of Good Pairs]                                                                               | Easy       |
 | [LC1528.cpp]     | [Shuffle String]                                                                                     | Easy       |
 | [LC1535.cpp]     | [Find the Winner of an Array Game]                                                                   | Medium     |
@@ -1790,6 +1791,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1482.cpp]: Solutions/LC1482.cpp?ts=4
 [Minimum Number of Days to Make m Bouquets]: https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+
+[LC1504.cpp]: Solutions/LC1504.cpp?ts=4
+[Count Submatrices With All Ones]: https://leetcode.com/problems/count-submatrices-with-all-ones/
 
 [LC1512.cpp]: Solutions/LC1512.cpp?ts=4
 [Number of Good Pairs]: https://leetcode.com/problems/number-of-good-pairs/
