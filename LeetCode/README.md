@@ -248,6 +248,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0621.cpp]     | [Task Scheduler]                                                                                     | Medium     |
 | [LC0637.cpp]     | [Average of Levels in Binary Tree]                                                                   | Easy       |
 | [LC0643.cpp]     | [Maximum Average Subarray I]                                                                         | Easy       |
+| [LC0645.cpp]     | [Set Mismatch]                                                                                       | Easy       |
 | [LC0647.cpp]     | [Palindromic Substrings]                                                                             | Medium     |
 | [LC0657.cpp]     | [DI String Match]                                                                                    | Easy       |
 | [LC0662.cpp]     | [Maximum Width of Binary Tree]                                                                       | Medium     |
@@ -1171,6 +1172,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0643.cpp]: Solutions/LC0643.cpp?ts=4
 [Maximum Average Subarray I]: https://leetcode.com/problems/maximum-average-subarray-i/
+
+[LC0645.cpp]: Solutions/LC0645.cpp?ts=4
+[Set Mismatch]: https://leetcode.com/problems/set-mismatch/
 
 [LC0647.cpp]: Solutions/LC0647.cpp?ts=4
 [Palindromic Substrings]: https://leetcode.com/problems/palindromic-substrings/
