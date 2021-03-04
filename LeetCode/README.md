@@ -465,6 +465,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1539.cpp]     | [Kth Missing Positive Number]                                                                        | Easy       |
 | [LC1540.cpp]     | [Can Convert String in K Moves]                                                                      | Medium     |
 | [LC1541.cpp]     | [Minimum Insertions to Balance a Parentheses String]                                                 | Medium     |
+| [LC1544.cpp]     | [Make The String Great]                                                                              | Easy       |
 | [LC1545.cpp]     | [Find Kth Bit in Nth Binary String]                                                                  | Medium     |
 | [LC1546.cpp]     | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target]                                 | Medium     |
 | [LC1566.cpp]     | [Detect Pattern of Length M Repeated K or More Times]                                                | Easy       |
@@ -1824,6 +1825,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1541.cpp]: Solutions/LC1541.cpp?ts=4
 [Minimum Insertions to Balance a Parentheses String]: https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
+
+[LC1544.cpp]: Solutions/LC1544.cpp?ts=4
+[Make The String Great]: https://leetcode.com/problems/make-the-string-great/
 
 [LC1545.cpp]: Solutions/LC1545.cpp?ts=4
 [Find Kth Bit in Nth Binary String]: https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/
