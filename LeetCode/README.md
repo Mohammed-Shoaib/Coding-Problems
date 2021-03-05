@@ -468,6 +468,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1544.cpp]     | [Make The String Great]                                                                              | Easy       |
 | [LC1545.cpp]     | [Find Kth Bit in Nth Binary String]                                                                  | Medium     |
 | [LC1546.cpp]     | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target]                                 | Medium     |
+| [LC1550.cpp]     | [Three Consecutive Odds]                                                                             | Easy       |
 | [LC1566.cpp]     | [Detect Pattern of Length M Repeated K or More Times]                                                | Easy       |
 | [LC1567.cpp]     | [Maximum Length of Subarray With Positive Product]                                                   | Medium     |
 | [LC1577.cpp]     | [Number of Ways Where Square of Number Is Equal to Product of Two Numbers]                           | Medium     |
@@ -1834,6 +1835,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1546.cpp]: Solutions/LC1546.cpp?ts=4
 [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target]: https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
+
+[LC1550.cpp]: Solutions/LC1550.cpp?ts=4
+[Three Consecutive Odds]: https://leetcode.com/problems/three-consecutive-odds/
 
 [LC1566.cpp]: Solutions/LC1566.cpp?ts=4
 [Detect Pattern of Length M Repeated K or More Times]: https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/
