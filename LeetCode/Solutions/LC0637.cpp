@@ -1,21 +1,22 @@
 /*
 Problem Statement: https://leetcode.com/problems/average-of-levels-in-binary-tree/
+Time: O(n)
+Space: O(n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
 	vector<double> averageOfLevels(TreeNode* root) {
-		int size;
-		double sum;
 		queue<TreeNode*> q;
 		vector<double> averages;
-
+		
 		if (root)
 			q.push(root);
 		
 		while (!q.empty()) {
-			sum = 0;
-			size = q.size();
+			double sum = 0;
+			int size = q.size();
 			for (int i = 0; i < size; i++) {
 				root = q.front();
 				q.pop();
@@ -27,7 +28,7 @@ public:
 			}
 			averages.push_back(sum / size);
 		}
-
+		
 		return averages;
 	}
 };
