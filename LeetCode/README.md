@@ -472,6 +472,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1566.cpp]     | [Detect Pattern of Length M Repeated K or More Times]                                                | Easy       |
 | [LC1567.cpp]     | [Maximum Length of Subarray With Positive Product]                                                   | Medium     |
 | [LC1572.cpp]     | [Matrix Diagonal Sum]                                                                                | Easy       |
+| [LC1576.cpp]     | [Replace All ?'s to Avoid Consecutive Repeating Characters]                                          | Easy       |
 | [LC1577.cpp]     | [Number of Ways Where Square of Number Is Equal to Product of Two Numbers]                           | Medium     |
 | [LC1578.cpp]     | [Minimum Deletion Cost to Avoid Repeating Letters]                                                   | Medium     |
 
@@ -1848,6 +1849,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1572.cpp]: Solutions/LC1572.cpp?ts=4
 [Matrix Diagonal Sum]: https://leetcode.com/problems/matrix-diagonal-sum/
+
+[LC1576.cpp]: Solutions/LC1576.cpp?ts=4
+[Replace All ?'s to Avoid Consecutive Repeating Characters]: https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
 
 [LC1577.cpp]: Solutions/LC1577.cpp?ts=4
 [Number of Ways Where Square of Number Is Equal to Product of Two Numbers]: https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
