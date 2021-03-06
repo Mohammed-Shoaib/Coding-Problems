@@ -476,6 +476,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1577.cpp]     | [Number of Ways Where Square of Number Is Equal to Product of Two Numbers]                           | Medium     |
 | [LC1578.cpp]     | [Minimum Deletion Cost to Avoid Repeating Letters]                                                   | Medium     |
 | [LC1588.cpp]     | [Sum of All Odd Length Subarrays]                                                                    | Easy       |
+| [LC1603.cpp]     | [Design Parking System]                                                                              | Easy       |
 
 [//]: # (Solutions)
 
@@ -1862,6 +1863,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1588.cpp]: Solutions/LC1588.cpp?ts=4
 [Sum of All Odd Length Subarrays]: https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
+
+[LC1603.cpp]: Solutions/LC1603.cpp?ts=4
+[Design Parking System]: https://leetcode.com/problems/design-parking-system/
 
 
 [//]: # (EOF)
