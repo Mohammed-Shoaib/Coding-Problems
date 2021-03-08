@@ -23,6 +23,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | Problem Solution        | Problem Statement    | Round               | Year |
 |:-----------------------:|----------------------|:-------------------:|:----:|
 | [book_scanning.cpp]     | [Book scanning]      | Qualification Round | 2020 |
+| [traffic_signaling.cpp] | [Traffic signaling]  | Qualification Round | 2021 |
 
 ## Kick Start
 
@@ -54,6 +55,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [A.cpp](Kick%20Start/2020/Round%20H/A.cpp?ts=4) | [Retype]                                | Round H | 2020 |
 | [B.cpp](Kick%20Start/2020/Round%20H/B.cpp?ts=4) | [Boring Numbers]                        | Round H | 2020 |
 
+
 [//]: # (Code Jam)
 
 [Vestigium]: https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c
@@ -67,10 +69,15 @@ Solutions to some of the questions from coding competitions by [Google](https://
 [Tidy Numbers]: https://code.google.com/codejam/contest/3264486/dashboard#s=p1
 [Alphabet Cake]: https://code.google.com/codejam/contest/5304486/dashboard#s=p0
 
+
 [//]: # (Hash Code)
 
 [book_scanning.cpp]: Hash%20Code/2020/book_scanning.cpp?ts=4
 [Book scanning]: Hash%20Code/2020/Book%20scanning.pdf
+
+[traffic_signaling.cpp]: Hash%20Code/2021/traffic_signaling.cpp?ts=4
+[Traffic signaling]: Hash%20Code/2021/Traffic%20signaling.pdf
+
 
 [//]: # (Kick Start)
 
