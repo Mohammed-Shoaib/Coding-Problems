@@ -1,8 +1,16 @@
 /*
 Problem Statement: https://leetcode.com/problems/design-hashset/
-Time: O(n), average O(1)
 Space: O(n)
 Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
+
+|---------------|--------------------|-------|
+| Operations    | Time               | Space |
+|---------------|--------------------|-------|
+| MyHashSet()   | O(1)               | O(1)  |
+| add(key)      | O(n), average O(1) | O(1)  |
+| remove(key)   | O(n), average O(1) | O(1)  |
+| contains(key) | O(n), average O(1) | O(1)  |
+|---------------|--------------------|-------|
 */
 
 class MyHashSet {
