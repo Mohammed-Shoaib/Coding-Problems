@@ -1,8 +1,16 @@
 /*
 Problem Statement: https://leetcode.com/problems/design-hashmap/
-Time: O(n), average O(1)
 Space: O(n)
 Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
+
+|-----------------|--------------------|-------|
+| Operations      | Time               | Space |
+|-----------------|--------------------|-------|
+| MyHashMap()     | O(1)               | O(1)  |
+| put(key, value) | O(n), average O(1) | O(1)  |
+| get(key)        | O(n), average O(1) | O(1)  |
+| remove(key)     | O(n), average O(1) | O(1)  |
+|-----------------|--------------------|-------|
 */
 
 class MyHashMap {
