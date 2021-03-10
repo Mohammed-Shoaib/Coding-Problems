@@ -478,6 +478,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1588.cpp]     | [Sum of All Odd Length Subarrays]                                                                    | Easy       |
 | [LC1603.cpp]     | [Design Parking System]                                                                              | Easy       |
 | [LC1614.cpp]     | [Maximum Nesting Depth of the Parentheses]                                                           | Easy       |
+| [LC1619.cpp]     | [Mean of Array After Removing Some Elements]                                                         | Easy       |
 
 [//]: # (Solutions)
 
@@ -1870,6 +1871,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1614.cpp]: Solutions/LC1614.cpp?ts=4
 [Maximum Nesting Depth of the Parentheses]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+
+[LC1619.cpp]: Solutions/LC1619.cpp?ts=4
+[Mean of Array After Removing Some Elements]: https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 
 
 [//]: # (EOF)
