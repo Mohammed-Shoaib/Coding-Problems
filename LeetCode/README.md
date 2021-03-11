@@ -479,6 +479,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1603.cpp]     | [Design Parking System]                                                                              | Easy       |
 | [LC1614.cpp]     | [Maximum Nesting Depth of the Parentheses]                                                           | Easy       |
 | [LC1619.cpp]     | [Mean of Array After Removing Some Elements]                                                         | Easy       |
+| [LC1636.cpp]     | [Sort Array by Increasing Frequency]                                                                 | Easy       |
 
 [//]: # (Solutions)
 
@@ -1874,6 +1875,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1619.cpp]: Solutions/LC1619.cpp?ts=4
 [Mean of Array After Removing Some Elements]: https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
+
+[LC1636.cpp]: Solutions/LC1636.cpp?ts=4
+[Sort Array by Increasing Frequency]: https://leetcode.com/problems/sort-array-by-increasing-frequency/
 
 
 [//]: # (EOF)
