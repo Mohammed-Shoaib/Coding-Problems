@@ -481,6 +481,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1619.cpp]     | [Mean of Array After Removing Some Elements]                                                         | Easy       |
 | [LC1636.cpp]     | [Sort Array by Increasing Frequency]                                                                 | Easy       |
 | [LC1640.cpp]     | [Check Array Formation Through Concatenation]                                                        | Easy       |
+| [LC1656.cpp]     | [Design an Ordered Stream]                                                                           | Easy       |
 
 [//]: # (Solutions)
 
@@ -1882,6 +1883,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1640.cpp]: Solutions/LC1640.cpp?ts=4
 [Check Array Formation Through Concatenation]: https://leetcode.com/problems/check-array-formation-through-concatenation/
+
+[LC1656.cpp]: Solutions/LC1656.cpp?ts=4
+[Design an Ordered Stream]: https://leetcode.com/problems/design-an-ordered-stream/
 
 
 [//]: # (EOF)
