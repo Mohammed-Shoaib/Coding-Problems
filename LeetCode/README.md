@@ -480,6 +480,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1614.cpp]     | [Maximum Nesting Depth of the Parentheses]                                                           | Easy       |
 | [LC1619.cpp]     | [Mean of Array After Removing Some Elements]                                                         | Easy       |
 | [LC1636.cpp]     | [Sort Array by Increasing Frequency]                                                                 | Easy       |
+| [LC1640.cpp]     | [Check Array Formation Through Concatenation]                                                        | Easy       |
 
 [//]: # (Solutions)
 
@@ -1878,6 +1879,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1636.cpp]: Solutions/LC1636.cpp?ts=4
 [Sort Array by Increasing Frequency]: https://leetcode.com/problems/sort-array-by-increasing-frequency/
+
+[LC1640.cpp]: Solutions/LC1640.cpp?ts=4
+[Check Array Formation Through Concatenation]: https://leetcode.com/problems/check-array-formation-through-concatenation/
 
 
 [//]: # (EOF)
