@@ -483,6 +483,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1640.cpp]     | [Check Array Formation Through Concatenation]                                                        | Easy       |
 | [LC1656.cpp]     | [Design an Ordered Stream]                                                                           | Easy       |
 | [LC1662.cpp]     | [Check If Two String Arrays are Equivalent]                                                          | Easy       |
+| [LC1672.cpp]     | [Richest Customer Wealth]                                                                            | Easy       |
 | [LC1721.cpp]     | [Swapping Nodes in a Linked List]                                                                    | Medium     |
 
 [//]: # (Solutions)
@@ -1891,6 +1892,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1662.cpp]: Solutions/LC1662.cpp?ts=4
 [Check If Two String Arrays are Equivalent]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+
+[LC1672.cpp]: Solutions/LC1672.cpp?ts=4
+[Richest Customer Wealth]: https://leetcode.com/problems/richest-customer-wealth/
 
 [LC1721.cpp]: Solutions/LC1721.cpp?ts=4
 [Swapping Nodes in a Linked List]: https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
