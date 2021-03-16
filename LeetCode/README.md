@@ -485,6 +485,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1662.cpp]     | [Check If Two String Arrays are Equivalent]                                                          | Easy       |
 | [LC1672.cpp]     | [Richest Customer Wealth]                                                                            | Easy       |
 | [LC1678.cpp]     | [Goal Parser Interpretation]                                                                         | Easy       |
+| [LC1684.cpp]     | [Count the Number of Consistent Strings]                                                             | Easy       |
 | [LC1721.cpp]     | [Swapping Nodes in a Linked List]                                                                    | Medium     |
 
 [//]: # (Solutions)
@@ -1899,6 +1900,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1678.cpp]: Solutions/LC1678.cpp?ts=4
 [Goal Parser Interpretation]: https://leetcode.com/problems/goal-parser-interpretation/
+
+[LC1684.cpp]: Solutions/LC1684.cpp?ts=4
+[Count the Number of Consistent Strings]: https://leetcode.com/problems/count-the-number-of-consistent-strings/
 
 [LC1721.cpp]: Solutions/LC1721.cpp?ts=4
 [Swapping Nodes in a Linked List]: https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
