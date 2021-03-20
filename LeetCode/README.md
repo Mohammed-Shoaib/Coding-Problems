@@ -57,6 +57,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0067.cpp]     | [Add Binary]                                                                                         | Easy       |
 | [LC0069.cpp]     | [Sqrt(x)]                                                                                            | Easy       |
 | [LC0070.cpp]     | [Climbing Stairs]                                                                                    | Easy       |
+| [LC0071.cpp]     | [Set Matrix Zeroes]                                                                                  | Medium     |
 | [LC0072.cpp]     | [Edit Distance]                                                                                      | Hard       |
 | [LC0074.cpp]     | [Search a 2D Matrix]                                                                                 | Medium     |
 | [LC0075.cpp]     | [Sort Colors]                                                                                        | Medium     |
@@ -621,6 +622,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0070.cpp]: Solutions/LC0070.cpp?ts=4
 [Climbing Stairs]: https://leetcode.com/problems/climbing-stairs/
+
+[LC0071.cpp]: Solutions/LC0071.cpp?ts=4
+[Set Matrix Zeroes]: https://leetcode.com/problems/set-matrix-zeroes/
 
 [LC0072.cpp]: Solutions/LC0072.cpp?ts=4
 [Edit Distance]: https://leetcode.com/problems/edit-distance/
