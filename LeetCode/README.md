@@ -84,6 +84,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0108.cpp]     | [Convert Sorted Array to Binary Search Tree]                                                         | Easy       |
 | [LC0112.cpp]     | [Path Sum]                                                                                           | Easy       |
 | [LC0114.cpp]     | [Flatten Binary Tree to Linked List]                                                                 | Medium     |
+| [LC0116.cpp]     | [Populating Next Right Pointers in Each Node]                                                        | Medium     |
 | [LC0118.cpp]     | [Pascal's Triangle]                                                                                  | Easy       |
 | [LC0119.cpp]     | [Pascal's Triangle II]                                                                               | Easy       |
 | [LC0121.cpp]     | [Best Time to Buy and Sell Stock]                                                                    | Easy       |
@@ -703,6 +704,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0114.cpp]: Solutions/LC0114.cpp?ts=4
 [Flatten Binary Tree to Linked List]: https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+
+[LC0116.cpp]: Solutions/LC0116.cpp?ts=4
+[Populating Next Right Pointers in Each Node]: https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 
 [LC0118.cpp]: Solutions/LC0118.cpp?ts=4
 [Pascal's Triangle]: https://leetcode.com/problems/pascals-triangle/
