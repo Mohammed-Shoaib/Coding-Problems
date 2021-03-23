@@ -96,6 +96,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0127.cpp]     | [Word Ladder]                                                                                        | Medium     |
 | [LC0129.cpp]     | [Sum Root to Leaf Numbers]                                                                           | Medium     |
 | [LC0130.cpp]     | [Surrounded Regions]                                                                                 | Medium     |
+| [LC0131.cpp]     | [Palindrome Partitioning]                                                                            | Medium     |
 | [LC0134.cpp]     | [Gas Station]                                                                                        | Medium     |
 | [LC0136.cpp]     | [Single Number]                                                                                      | Easy       |
 | [LC0137.cpp]     | [Single Number II]                                                                                   | Medium     |
@@ -740,6 +741,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0130.cpp]: Solutions/LC0130.cpp?ts=4
 [Surrounded Regions]: https://leetcode.com/problems/surrounded-regions/
+
+[LC0131.cpp]: Solutions/LC0131.cpp?ts=4
+[Palindrome Partitioning]: https://leetcode.com/problems/palindrome-partitioning/
 
 [LC0134.cpp]: Solutions/LC0134.cpp?ts=4
 [Gas Station]: https://leetcode.com/problems/gas-station/
