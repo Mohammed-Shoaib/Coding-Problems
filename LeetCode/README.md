@@ -495,6 +495,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1688.cpp]     | [Count of Matches in Tournament]                                                                     | Easy       |
 | [LC1720.cpp]     | [Decode XORed Array]                                                                                 | Easy       |
 | [LC1721.cpp]     | [Swapping Nodes in a Linked List]                                                                    | Medium     |
+| [LC1732.cpp]     | [Find the Highest Altitude]                                                                          | Easy       |
 
 [//]: # (Solutions)
 
@@ -1937,6 +1938,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1721.cpp]: Solutions/LC1721.cpp?ts=4
 [Swapping Nodes in a Linked List]: https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
+
+[LC1732.cpp]: Solutions/LC1732.cpp?ts=4
+[Find the Highest Altitude]: https://leetcode.com/problems/find-the-highest-altitude/
 
 
 [//]: # (EOF)
