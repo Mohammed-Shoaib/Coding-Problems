@@ -157,6 +157,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0236.cpp]     | [Lowest Common Ancestor of a Binary Tree]                                                            | Medium     |
 | [LC0237.cpp]     | [Delete Node in a Linked List]                                                                       | Easy       |
 | [LC0238.cpp]     | [Product of Array Except Self]                                                                       | Medium     |
+| [LC0240.cpp]     | [Search a 2D Matrix II]                                                                              | Medium     |
 | [LC0242.cpp]     | [Valid Anagram]                                                                                      | Easy       |
 | [LC0258.cpp]     | [Add Digits]                                                                                         | Easy       |
 | [LC0260.cpp]     | [Single Number III]                                                                                  | Medium     |
@@ -926,6 +927,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0238.cpp]: Solutions/LC0238.cpp?ts=4
 [Product of Array Except Self]: https://leetcode.com/problems/product-of-array-except-self/
+
+[LC0240.cpp]: Solutions/LC0240.cpp?ts=4
+[Search a 2D Matrix II]: https://leetcode.com/problems/search-a-2d-matrix-ii/
 
 [LC0242.cpp]: Solutions/LC0242.cpp?ts=4
 [Valid Anagram]: https://leetcode.com/problems/valid-anagram/
