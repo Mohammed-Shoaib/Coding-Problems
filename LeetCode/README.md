@@ -169,6 +169,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0278.cpp]     | [First Bad Version]                                                                                  | Easy       |
 | [LC0279.cpp]     | [Perfect Squares]                                                                                    | Medium     |
 | [LC0283.cpp]     | [Move Zeroes]                                                                                        | Easy       |
+| [LC0284.cpp]     | [Peeking Iterator]                                                                                   | Medium     |
 | [LC0287.cpp]     | [Find the Duplicate Number]                                                                          | Medium     |
 | [LC0289.cpp]     | [Game of Life]                                                                                       | Medium     |
 | [LC0290.cpp]     | [Word Pattern]                                                                                       | Easy       |
@@ -963,6 +964,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0283.cpp]: Solutions/LC0283.cpp?ts=4
 [Move Zeroes]: https://leetcode.com/problems/move-zeroes/
+
+[LC0284.cpp]: Solutions/LC0284.cpp?ts=4
+[Peeking Iterator]: https://leetcode.com/problems/peeking-iterator/
 
 [LC0287.cpp]: Solutions/LC0287.cpp?ts=4
 [Find the Duplicate Number]: https://leetcode.com/problems/find-the-duplicate-number/
