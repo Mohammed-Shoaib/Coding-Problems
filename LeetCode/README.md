@@ -177,6 +177,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0299.cpp]     | [Bulls and Cows]                                                                                     | Easy       |
 | [LC0300.cpp]     | [Longest Increasing Subsequence]                                                                     | Medium     |
 | [LC0303.cpp]     | [Range Sum Query - Immutable]                                                                        | Easy       |
+| [LC0304.cpp]     | [Range Sum Query 2D - Immutable]                                                                     | Medium     |
 | [LC0307.cpp]     | [Range Sum Query - Mutable]                                                                          | Medium     |
 | [LC0309.cpp]     | [Best Time to Buy and Sell Stock with Cooldown]                                                      | Medium     |
 | [LC0322.cpp]     | [Coin Change]                                                                                        | Medium     |
@@ -988,6 +989,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0303.cpp]: Solutions/LC0303.cpp?ts=4
 [Range Sum Query - Immutable]: https://leetcode.com/problems/range-sum-query-immutable/
+
+[LC0304.cpp]: Solutions/LC0304.cpp?ts=4
+[Range Sum Query 2D - Immutable]: https://leetcode.com/problems/range-sum-query-2d-immutable/
 
 [LC0307.cpp]: Solutions/LC0307.cpp?ts=4
 [Range Sum Query - Mutable]: https://leetcode.com/problems/range-sum-query-mutable/
