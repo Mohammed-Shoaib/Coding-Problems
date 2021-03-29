@@ -192,6 +192,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0350.cpp]     | [Intersection of Two Arrays II]                                                                      | Easy       |
 | [LC0367.cpp]     | [Valid Perfect Square]                                                                               | Easy       |
 | [LC0368.cpp]     | [Largest Divisible Subset]                                                                           | Medium     |
+| [LC0371.cpp]     | [Sum of Two Integers]                                                                                | Medium     |
 | [LC0377.cpp]     | [Combination Sum IV]                                                                                 | Medium     |
 | [LC0380.cpp]     | [Insert Delete GetRandom O(1)]                                                                       | Medium     |
 | [LC0383.cpp]     | [Ransom Note]                                                                                        | Easy       |
@@ -1034,6 +1035,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0368.cpp]: Solutions/LC0368.cpp?ts=4
 [Largest Divisible Subset]: https://leetcode.com/problems/largest-divisible-subset/
+
+[LC0371.cpp]: Solutions/LC0371.cpp?ts=4
+[Sum of Two Integers]: https://leetcode.com/problems/sum-of-two-integers/
 
 [LC0377.cpp]: Solutions/LC0377.cpp?ts=4
 [Combination Sum IV]: https://leetcode.com/problems/combination-sum-iv/
