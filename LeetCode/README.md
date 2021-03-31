@@ -197,6 +197,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0378.cpp]     | [Kth Smallest Element in a Sorted Matrix]                                                            | Medium     |
 | [LC0380.cpp]     | [Insert Delete GetRandom O(1)]                                                                       | Medium     |
 | [LC0383.cpp]     | [Ransom Note]                                                                                        | Easy       |
+| [LC0384.cpp]     | [Shuffle an Array]                                                                                   | Medium     |
 | [LC0387.cpp]     | [First Unique Character in a String]                                                                 | Easy       |
 | [LC0389.cpp]     | [Find the Difference]                                                                                | Easy       |
 | [LC0392.cpp]     | [Is Subsequence]                                                                                     | Easy       |
@@ -1051,6 +1052,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0383.cpp]: Solutions/LC0383.cpp?ts=4
 [Ransom Note]: https://leetcode.com/problems/ransom-note/
+
+[LC0384.cpp]: Solutions/LC0384.cpp?ts=4
+[Shuffle an Array]: https://leetcode.com/problems/shuffle-an-array/
 
 [LC0387.cpp]: Solutions/LC0387.cpp?ts=4
 [First Unique Character in a String]: https://leetcode.com/problems/first-unique-character-in-a-string/
