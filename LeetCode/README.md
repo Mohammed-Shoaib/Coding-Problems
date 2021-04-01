@@ -201,6 +201,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0387.cpp]     | [First Unique Character in a String]                                                                 | Easy       |
 | [LC0389.cpp]     | [Find the Difference]                                                                                | Easy       |
 | [LC0392.cpp]     | [Is Subsequence]                                                                                     | Easy       |
+| [LC0395.cpp]     | [Longest Substring with At Least K Repeating Characters]                                             | Medium     |
 | [LC0396.cpp]     | [Rotate Function]                                                                                    | Medium     |
 | [LC0399.cpp]     | [Evaluate Division]                                                                                  | Medium     |
 | [LC0402.cpp]     | [Remove K Digits]                                                                                    | Medium     |
@@ -1064,6 +1065,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0392.cpp]: Solutions/LC0392.cpp?ts=4
 [Is Subsequence]: https://leetcode.com/problems/is-subsequence/
+
+[LC0395.cpp]: Solutions/LC0395.cpp?ts=4
+[Longest Substring with At Least K Repeating Characters]: https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
 
 [LC0396.cpp]: Solutions/LC0396.cpp?ts=4
 [Rotate Function]: https://leetcode.com/problems/rotate-function/
