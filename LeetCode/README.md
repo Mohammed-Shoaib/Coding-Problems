@@ -209,6 +209,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0406.cpp]     | [Queue Reconstruction by Height]                                                                     | Medium     |
 | [LC0409.cpp]     | [Longest Palindrome]                                                                                 | Easy       |
 | [LC0412.cpp]     | [Fizz Buzz]                                                                                          | Easy       |
+| [LC0413.cpp]     | [Arithmetic Slices]                                                                                  | Medium     |
 | [LC0415.cpp]     | [Add Strings]                                                                                        | Easy       |
 | [LC0416.cpp]     | [Partition Equal Subset Sum]                                                                         | Medium     |
 | [LC0421.cpp]     | [Maximum XOR of Two Numbers in an Array]                                                             | Medium     |
@@ -1089,6 +1090,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0412.cpp]: Solutions/LC0412.cpp?ts=4
 [Fizz Buzz]: https://leetcode.com/problems/fizz-buzz/
+
+[LC0413.cpp]: Solutions/LC0413.cpp?ts=4
+[Arithmetic Slices]: https://leetcode.com/problems/arithmetic-slices/
 
 [LC0415.cpp]: Solutions/LC0415.cpp?ts=4
 [Add Strings]: https://leetcode.com/problems/add-strings/
