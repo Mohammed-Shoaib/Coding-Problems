@@ -4,6 +4,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 
 <p align="center"><img src="../assets/google.png"></p>
 
+
 ## Code Jam
 
 | Problem Solution                                          | Problem Statement                              | Round               | Year |
@@ -19,18 +20,21 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [B.cpp](Code%20Jam/2017/Qualification%20Round/B.cpp?ts=4) | [Tidy Numbers]                                 | Qualification Round | 2017 |
 | [A.cpp](Code%20Jam/2017/Round%201A/A.cpp?ts=4)            | [Alphabet Cake]                                | Round 1A            | 2017 |
 
+
 ## Hash Code
 
 | Problem Solution        | Problem Statement    | Round               | Year |
 |:-----------------------:|----------------------|:-------------------:|:----:|
-| [book_scanning.cpp]     | [Book scanning]      | Qualification Round | 2020 |
 | [traffic_signaling.cpp] | [Traffic signaling]  | Qualification Round | 2021 |
+| [book_scanning.cpp]     | [Book scanning]      | Qualification Round | 2020 |
+
 
 ## Kick Start
 
 | Problem Solution                                | Problem Statement                       | Round   | Year |
 |:-----------------------------------------------:|-----------------------------------------|:-------:|:----:|
 | [A.cpp](Kick%20Start/2021/Round%20A/A.cpp?ts=4) | [K-Goodness String]                     | Round A | 2021 |
+| [B.cpp](Kick%20Start/2021/Round%20A/B.cpp?ts=4) | [L Shaped Plots]                        | Round A | 2021 |
 | [A.cpp](Kick%20Start/2020/Round%20A/A.cpp?ts=4) | [Allocation]                            | Round A | 2020 |
 | [B.cpp](Kick%20Start/2020/Round%20A/B.cpp?ts=4) | [Plates]                                | Round A | 2020 |
 | [C.cpp](Kick%20Start/2020/Round%20A/C.cpp?ts=4) | [Workout]                               | Round A | 2020 |
@@ -76,16 +80,17 @@ Solutions to some of the questions from coding competitions by [Google](https://
 
 [//]: # (Hash Code)
 
-[book_scanning.cpp]: Hash%20Code/2020/book_scanning.cpp?ts=4
-[Book scanning]: Hash%20Code/2020/Book%20scanning.pdf
-
 [traffic_signaling.cpp]: Hash%20Code/2021/traffic_signaling.cpp?ts=4
 [Traffic signaling]: Hash%20Code/2021/Traffic%20signaling.pdf
+
+[book_scanning.cpp]: Hash%20Code/2020/book_scanning.cpp?ts=4
+[Book scanning]: Hash%20Code/2020/Book%20scanning.pdf
 
 
 [//]: # (Kick Start)
 
 [K-Goodness String]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068cca3
+[L Shaped Plots]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068c509
 
 [Allocation]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f56
 [Plates]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d40bb
@@ -119,5 +124,6 @@ Solutions to some of the questions from coding competitions by [Google](https://
 
 [Retype]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043adc7
 [Boring Numbers]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043b0c6
+
 
 [//]: # (EOF)
