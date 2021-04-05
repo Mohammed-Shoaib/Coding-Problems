@@ -10,6 +10,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | Problem Solution                                          | Problem Statement                              | Round               | Year |
 |:---------------------------------------------------------:|------------------------------------------------|:-------------------:|:----:|
 | [A.cpp](Code%20Jam/2021/Qualification%20Round/A.cpp?ts=4) | [Reversort]                                    | Qualification Round | 2021 |
+| [B.cpp](Code%20Jam/2021/Qualification%20Round/B.cpp?ts=4) | [Moons and Umbrellas]                          | Qualification Round | 2021 |
 | [A.cpp](Code%20Jam/2020/Qualification%20Round/A.cpp?ts=4) | [Vestigium]                                    | Qualification Round | 2020 |
 | [B.cpp](Code%20Jam/2020/Qualification%20Round/B.cpp?ts=4) | [Nesting Depth]                                | Qualification Round | 2020 |
 | [C.cpp](Code%20Jam/2020/Qualification%20Round/C.cpp?ts=4) | [Parenting Partnering Returns]                 | Qualification Round | 2020 |
@@ -66,6 +67,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 [//]: # (Code Jam)
 
 [Reversort]: https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d0a5c
+[Moons and Umbrellas]: https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1145
 
 [Vestigium]: https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c
 [Nesting Depth]: https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f
