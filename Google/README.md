@@ -65,6 +65,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [B.cpp](Kick%20Start/2020/Round%20G/B.cpp?ts=4) | [Maximum Coins]                         | Round G | 2020 |
 | [A.cpp](Kick%20Start/2020/Round%20H/A.cpp?ts=4) | [Retype]                                | Round H | 2020 |
 | [B.cpp](Kick%20Start/2020/Round%20H/B.cpp?ts=4) | [Boring Numbers]                        | Round H | 2020 |
+| [A.cpp](Kick%20Start/2019/Round%20A/A.cpp?ts=4) | [Training]                              | Round A | 2019 |
 | [A.cpp](Kick%20Start/2019/Round%20E/A.cpp?ts=4) | [Cherries Mesh]                         | Round E | 2019 |
 | [A.cpp](Kick%20Start/2019/Round%20G/A.cpp?ts=4) | [Book Reading]                          | Round G | 2019 |
 | [A.cpp](Kick%20Start/2019/Round%20H/A.cpp?ts=4) | [H-index]                               | Round H | 2019 |
@@ -138,6 +139,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 [Retype]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043adc7
 [Boring Numbers]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043b0c6
 
+[Training]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01/00000000000698d6
 [Cherries Mesh]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edb/0000000000170721
 [Book Reading]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e02/000000000018fd0d
 [H-index]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edd/00000000001a274e
