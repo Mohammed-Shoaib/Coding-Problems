@@ -34,43 +34,44 @@ Solutions to some of the questions from coding competitions by [Google](https://
 
 ## Kick Start
 
-| Problem Solution                                | Problem Statement                       | Round   | Year |
-|:-----------------------------------------------:|-----------------------------------------|:-------:|:----:|
-| [A.cpp](Kick%20Start/2021/Round%20A/A.cpp?ts=4) | [K-Goodness String]                     | Round A | 2021 |
-| [B.cpp](Kick%20Start/2021/Round%20A/B.cpp?ts=4) | [L Shaped Plots]                        | Round A | 2021 |
-| [C.cpp](Kick%20Start/2021/Round%20A/C.cpp?ts=4) | [Rabbit House]                          | Round A | 2021 |
-| [A.cpp](Kick%20Start/2020/Round%20A/A.cpp?ts=4) | [Allocation]                            | Round A | 2020 |
-| [B.cpp](Kick%20Start/2020/Round%20A/B.cpp?ts=4) | [Plates]                                | Round A | 2020 |
-| [C.cpp](Kick%20Start/2020/Round%20A/C.cpp?ts=4) | [Workout]                               | Round A | 2020 |
-| [D.cpp](Kick%20Start/2020/Round%20A/D.cpp?ts=4) | [Bundling]                              | Round A | 2020 |
-| [A.cpp](Kick%20Start/2020/Round%20B/A.cpp?ts=4) | [Bike Tour]                             | Round B | 2020 |
-| [B.cpp](Kick%20Start/2020/Round%20B/B.cpp?ts=4) | [Bus Routes]                            | Round B | 2020 |
-| [C.cpp](Kick%20Start/2020/Round%20B/C.cpp?ts=4) | [Robot Path Decoding]                   | Round B | 2020 |
-| [D.cpp](Kick%20Start/2020/Round%20B/D.cpp?ts=4) | [Wandering Robot]                       | Round B | 2020 |
-| [A.cpp](Kick%20Start/2020/Round%20C/A.cpp?ts=4) | [Countdown]                             | Round C | 2020 |
-| [B.cpp](Kick%20Start/2020/Round%20C/B.cpp?ts=4) | [Stable Wall]                           | Round C | 2020 |
-| [C.cpp](Kick%20Start/2020/Round%20C/C.cpp?ts=4) | [Perfect Subarray]                      | Round C | 2020 |
-| [D.cpp](Kick%20Start/2020/Round%20C/D.cpp?ts=4) | [Candies]                               | Round C | 2020 |
-| [A.cpp](Kick%20Start/2020/Round%20D/A.cpp?ts=4) | [Record Breaker]                        | Round D | 2020 |
-| [B.cpp](Kick%20Start/2020/Round%20D/B.cpp?ts=4) | [Alien Piano]                           | Round D | 2020 |
-| [C.cpp](Kick%20Start/2020/Round%20D/C.cpp?ts=4) | [Beauty of tree]                        | Round D | 2020 |
-| [D.cpp](Kick%20Start/2020/Round%20D/D.cpp?ts=4) | [Locked Doors]                          | Round D | 2020 |
-| [A.cpp](Kick%20Start/2020/Round%20E/A.cpp?ts=4) | [Longest Arithmetic]                    | Round E | 2020 |
-| [B.cpp](Kick%20Start/2020/Round%20E/B.cpp?ts=4) | [High Buildings]                        | Round E | 2020 |
-| [C.cpp](Kick%20Start/2020/Round%20E/C.cpp?ts=4) | [Toys]                                  | Round E | 2020 |
-| [A.cpp](Kick%20Start/2020/Round%20F/A.cpp?ts=4) | [ATM Queue]                             | Round F | 2020 |
-| [B.cpp](Kick%20Start/2020/Round%20F/B.cpp?ts=4) | [Metal Harvest]                         | Round F | 2020 |
-| [C.cpp](Kick%20Start/2020/Round%20F/C.cpp?ts=4) | [Painters' Duel]                        | Round F | 2020 |
-| [A.cpp](Kick%20Start/2020/Round%20G/A.cpp?ts=4) | [Kick_Start]                            | Round G | 2020 |
-| [B.cpp](Kick%20Start/2020/Round%20G/B.cpp?ts=4) | [Maximum Coins]                         | Round G | 2020 |
-| [A.cpp](Kick%20Start/2020/Round%20H/A.cpp?ts=4) | [Retype]                                | Round H | 2020 |
-| [B.cpp](Kick%20Start/2020/Round%20H/B.cpp?ts=4) | [Boring Numbers]                        | Round H | 2020 |
-| [A.cpp](Kick%20Start/2019/Round%20A/A.cpp?ts=4) | [Training]                              | Round A | 2019 |
-| [A.cpp](Kick%20Start/2019/Round%20B/A.cpp?ts=4) | [Building Palindromes]                  | Round B | 2019 |
-| [A.cpp](Kick%20Start/2019/Round%20C/A.cpp?ts=4) | [Wiggle Walk]                           | Round C | 2019 |
-| [A.cpp](Kick%20Start/2019/Round%20E/A.cpp?ts=4) | [Cherries Mesh]                         | Round E | 2019 |
-| [A.cpp](Kick%20Start/2019/Round%20G/A.cpp?ts=4) | [Book Reading]                          | Round G | 2019 |
-| [A.cpp](Kick%20Start/2019/Round%20H/A.cpp?ts=4) | [H-index]                               | Round H | 2019 |
+| Problem Solution                                       | Problem Statement                       | Round          | Year |
+|:------------------------------------------------------:|-----------------------------------------|:--------------:|:----:|
+| [A.cpp](Kick%20Start/2021/Round%20A/A.cpp?ts=4)        | [K-Goodness String]                     | Round A        | 2021 |
+| [B.cpp](Kick%20Start/2021/Round%20A/B.cpp?ts=4)        | [L Shaped Plots]                        | Round A        | 2021 |
+| [C.cpp](Kick%20Start/2021/Round%20A/C.cpp?ts=4)        | [Rabbit House]                          | Round A        | 2021 |
+| [A.cpp](Kick%20Start/2020/Round%20A/A.cpp?ts=4)        | [Allocation]                            | Round A        | 2020 |
+| [B.cpp](Kick%20Start/2020/Round%20A/B.cpp?ts=4)        | [Plates]                                | Round A        | 2020 |
+| [C.cpp](Kick%20Start/2020/Round%20A/C.cpp?ts=4)        | [Workout]                               | Round A        | 2020 |
+| [D.cpp](Kick%20Start/2020/Round%20A/D.cpp?ts=4)        | [Bundling]                              | Round A        | 2020 |
+| [A.cpp](Kick%20Start/2020/Round%20B/A.cpp?ts=4)        | [Bike Tour]                             | Round B        | 2020 |
+| [B.cpp](Kick%20Start/2020/Round%20B/B.cpp?ts=4)        | [Bus Routes]                            | Round B        | 2020 |
+| [C.cpp](Kick%20Start/2020/Round%20B/C.cpp?ts=4)        | [Robot Path Decoding]                   | Round B        | 2020 |
+| [D.cpp](Kick%20Start/2020/Round%20B/D.cpp?ts=4)        | [Wandering Robot]                       | Round B        | 2020 |
+| [A.cpp](Kick%20Start/2020/Round%20C/A.cpp?ts=4)        | [Countdown]                             | Round C        | 2020 |
+| [B.cpp](Kick%20Start/2020/Round%20C/B.cpp?ts=4)        | [Stable Wall]                           | Round C        | 2020 |
+| [C.cpp](Kick%20Start/2020/Round%20C/C.cpp?ts=4)        | [Perfect Subarray]                      | Round C        | 2020 |
+| [D.cpp](Kick%20Start/2020/Round%20C/D.cpp?ts=4)        | [Candies]                               | Round C        | 2020 |
+| [A.cpp](Kick%20Start/2020/Round%20D/A.cpp?ts=4)        | [Record Breaker]                        | Round D        | 2020 |
+| [B.cpp](Kick%20Start/2020/Round%20D/B.cpp?ts=4)        | [Alien Piano]                           | Round D        | 2020 |
+| [C.cpp](Kick%20Start/2020/Round%20D/C.cpp?ts=4)        | [Beauty of tree]                        | Round D        | 2020 |
+| [D.cpp](Kick%20Start/2020/Round%20D/D.cpp?ts=4)        | [Locked Doors]                          | Round D        | 2020 |
+| [A.cpp](Kick%20Start/2020/Round%20E/A.cpp?ts=4)        | [Longest Arithmetic]                    | Round E        | 2020 |
+| [B.cpp](Kick%20Start/2020/Round%20E/B.cpp?ts=4)        | [High Buildings]                        | Round E        | 2020 |
+| [C.cpp](Kick%20Start/2020/Round%20E/C.cpp?ts=4)        | [Toys]                                  | Round E        | 2020 |
+| [A.cpp](Kick%20Start/2020/Round%20F/A.cpp?ts=4)        | [ATM Queue]                             | Round F        | 2020 |
+| [B.cpp](Kick%20Start/2020/Round%20F/B.cpp?ts=4)        | [Metal Harvest]                         | Round F        | 2020 |
+| [C.cpp](Kick%20Start/2020/Round%20F/C.cpp?ts=4)        | [Painters' Duel]                        | Round F        | 2020 |
+| [A.cpp](Kick%20Start/2020/Round%20G/A.cpp?ts=4)        | [Kick_Start]                            | Round G        | 2020 |
+| [B.cpp](Kick%20Start/2020/Round%20G/B.cpp?ts=4)        | [Maximum Coins]                         | Round G        | 2020 |
+| [A.cpp](Kick%20Start/2020/Round%20H/A.cpp?ts=4)        | [Retype]                                | Round H        | 2020 |
+| [B.cpp](Kick%20Start/2020/Round%20H/B.cpp?ts=4)        | [Boring Numbers]                        | Round H        | 2020 |
+| [A.cpp](Kick%20Start/2019/Practice%20Round/A.cpp?ts=4) | [Number Guessing]                       | Practice Round | 2019 |
+| [A.cpp](Kick%20Start/2019/Round%20A/A.cpp?ts=4)        | [Training]                              | Round A        | 2019 |
+| [A.cpp](Kick%20Start/2019/Round%20B/A.cpp?ts=4)        | [Building Palindromes]                  | Round B        | 2019 |
+| [A.cpp](Kick%20Start/2019/Round%20C/A.cpp?ts=4)        | [Wiggle Walk]                           | Round C        | 2019 |
+| [A.cpp](Kick%20Start/2019/Round%20E/A.cpp?ts=4)        | [Cherries Mesh]                         | Round E        | 2019 |
+| [A.cpp](Kick%20Start/2019/Round%20G/A.cpp?ts=4)        | [Book Reading]                          | Round G        | 2019 |
+| [A.cpp](Kick%20Start/2019/Round%20H/A.cpp?ts=4)        | [H-index]                               | Round H        | 2019 |
 
 
 [//]: # (Code Jam)
@@ -141,6 +142,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 [Retype]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043adc7
 [Boring Numbers]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043b0c6
 
+[Number Guessing]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051060/00000000000588f4
 [Training]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01/00000000000698d6
 [Building Palindromes]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050eda/0000000000119866
 [Wiggle Walk]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ff2/0000000000150aac
