@@ -66,6 +66,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [A.cpp](Kick%20Start/2020/Round%20H/A.cpp?ts=4)        | [Retype]                                | Round H        | 2020 |
 | [B.cpp](Kick%20Start/2020/Round%20H/B.cpp?ts=4)        | [Boring Numbers]                        | Round H        | 2020 |
 | [A.cpp](Kick%20Start/2019/Practice%20Round/A.cpp?ts=4) | [Number Guessing]                       | Practice Round | 2019 |
+| [B.cpp](Kick%20Start/2019/Practice%20Round/B.cpp?ts=4) | [Mural]                                 | Practice Round | 2019 |
 | [A.cpp](Kick%20Start/2019/Round%20A/A.cpp?ts=4)        | [Training]                              | Round A        | 2019 |
 | [A.cpp](Kick%20Start/2019/Round%20B/A.cpp?ts=4)        | [Building Palindromes]                  | Round B        | 2019 |
 | [A.cpp](Kick%20Start/2019/Round%20C/A.cpp?ts=4)        | [Wiggle Walk]                           | Round C        | 2019 |
@@ -143,6 +144,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 [Boring Numbers]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043b0c6
 
 [Number Guessing]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051060/00000000000588f4
+[Mural]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051060/0000000000058b89
 [Training]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01/00000000000698d6
 [Building Palindromes]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050eda/0000000000119866
 [Wiggle Walk]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ff2/0000000000150aac
