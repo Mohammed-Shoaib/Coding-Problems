@@ -20,6 +20,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [A.cpp](Code%20Jam/2020/Round%201A/A.cpp?ts=4)            | [Pattern Matching]                             | Round 1A            | 2020 |
 | [B.cpp](Code%20Jam/2020/Round%201A/B.cpp?ts=4)            | [Pascal Walk]                                  | Round 1A            | 2020 |
 | [C.cpp](Code%20Jam/2020/Round%201A/C.cpp?ts=4)            | [Square Dance]                                 | Round 1A            | 2020 |
+| [A.cpp](Code%20Jam/2020/Round%201A/A.cpp?ts=4)            | [Waffle Choppers]                              | Round 1A            | 2018 |
 | [A.cpp](Code%20Jam/2017/Qualification%20Round/A.cpp?ts=4) | [Oversized Pancake Flipper]                    | Qualification Round | 2017 |
 | [B.cpp](Code%20Jam/2017/Qualification%20Round/B.cpp?ts=4) | [Tidy Numbers]                                 | Qualification Round | 2017 |
 | [A.cpp](Code%20Jam/2017/Round%201A/A.cpp?ts=4)            | [Alphabet Cake]                                | Round 1A            | 2017 |
@@ -90,6 +91,8 @@ Solutions to some of the questions from coding competitions by [Google](https://
 [Pattern Matching]: https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b3034
 [Pascal Walk]: https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1353
 [Square Dance]: https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1355
+
+[Waffle Choppers]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000007883/000000000003005a
 
 [Oversized Pancake Flipper]: https://codingcompetitions.withgoogle.com/codejam/round/00000000002017f7/0000000000201847
 [Tidy Numbers]: https://code.google.com/codejam/contest/3264486/dashboard#s=p1
