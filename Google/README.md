@@ -98,8 +98,8 @@ Solutions to some of the questions from coding competitions by [Google](https://
 [Waffle Choppers]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000007883/000000000003005a
 
 [Oversized Pancake Flipper]: https://codingcompetitions.withgoogle.com/codejam/round/00000000002017f7/0000000000201847
-[Tidy Numbers]: https://code.google.com/codejam/contest/3264486/dashboard#s=p1
-[Alphabet Cake]: https://code.google.com/codejam/contest/5304486/dashboard#s=p0
+[Tidy Numbers]: https://codingcompetitions.withgoogle.com/codejam/round/00000000002017f7/0000000000201878
+[Alphabet Cake]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000201843/0000000000201875
 
 
 [//]: # (Hash Code)
