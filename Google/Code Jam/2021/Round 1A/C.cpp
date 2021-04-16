@@ -1,61 +1,26 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include <numeric>
+#include <iterator>
+#include <algorithm>
 
 using namespace std;
 
 void hacked_exam(int N, int Q, vector<int>& S, vector<string>& A) {
-	int max_score = 0, limit = 1 << Q;
-	vector<int> consistent;
-	string hacked(Q, 'F');
-	
-	for (int b = 0; b < limit; b++) {
-		bool ok = true;
-		string answer(Q, 'F');
-		
-		for (int j = 0; j < Q; j++)
-			if ((b >> j) & 1)
-				answer[j] = 'T';
-		
-		for (int i = 0; i < N && ok; i++) {
-			int score = 0;
-			for (int j = 0; j < Q; j++)
-				score += A[i][j] == answer[j];
-			ok &= score == S[i];
-		}
-		
-		if (ok)
-			consistent.push_back(b);
-	}
-	
-	for (int b = 0; b < limit; b++) {
-		int score = 0;
-		for (int& answer: consistent)
-			for (int j = 0; j < Q; j++)
-				if (((b >> j) & 1) == ((answer >> j) & 1))
-					score++;
-		if (score <= max_score)
+	for (int i = 0; i < N; i++) {
+		if (2 * S[i] >= Q)
 			continue;
-		
-		max_score = score;
-		hacked = string(Q, 'F');
-		for (int j = 0; j < Q; j++)
-			if ((b >> j) & 1)
-				hacked[j] = 'T';
+		S[i] = Q - S[i];
+		for (int j = 0; j < Q; j++) {
+			if (A[i][j] == 'T')
+				A[i][j] = 'F';
+			else
+				A[i][j] = 'T';
+		}
 	}
+	int pos = distance(S.begin(), max_element(S.begin(), S.end()));
 	
-	int x, y, g;
-	g = gcd(max_score, (int) consistent.size());
-	if (g) {
-		x = max_score / g;
-		y = consistent.size() / g;
-	} else {
-		x = max_score;
-		y = consistent.size();
-	}
-	
-	cout << hacked << " " << x << "/" << y << endl;
+	cout << A[pos] << " " << S[pos] << "/1" << endl;
 }
 
 int main() {
