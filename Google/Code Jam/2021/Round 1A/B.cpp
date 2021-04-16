@@ -1,32 +1,26 @@
 #include <iostream>
-#include <numeric>
-#include <functional>
+#include <vector>
+#include <cmath>
 
 using namespace std;
 
 int prime_time(int M, vector<int>& P, vector<int>& N) {
-	int score = 0;
-	vector<int> nums;
+	int score, max_sum;
+	score = max_sum = 0;
 	
 	for (int i = 0; i < M; i++)
-		for (int j = 0; j < N[i]; j++)
-			nums.push_back(P[i]);
+		max_sum += P[i] * N[i];
 	
-	int L = nums.size();
-	for (int b = 0; b < (1 << L); b++) {
-		vector<int> A, B;
-		for (int i = 0; i < L; i++) {
-			if ((b >> i) & 1)
-				A.push_back(nums[i]);
-			else
-				B.push_back(nums[i]);
-		}
-		if (A.empty() || B.empty())
-			continue;
-		int sum = accumulate(A.begin(), A.end(), 0);
-		int64_t prod = accumulate(B.begin(), B.end(), 1LL, multiplies<int64_t>());
+	for (int x = 2; x <= max_sum; x++) {
+		int prod = 1, sum = max_sum, num = x;
+		for (int i = 0; i < M; i++)
+			for (int j = 0; j < N[i] && num % P[i] == 0; j++) {
+				sum -= P[i];
+				num /= P[i];
+				prod *= P[i];
+			}
 		if (sum == prod)
-			score = max(sum, score);
+			score = max(score, sum);
 	}
 	
 	return score;
