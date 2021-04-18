@@ -25,6 +25,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0015.cpp]     | [3Sum]                                                                                               | Medium     |
 | [LC0017.cpp]     | [Letter Combinations of a Phone Number]                                                              | Medium     |
 | [LC0018.cpp]     | [4Sum]                                                                                               | Medium     |
+| [LC0019.cpp]     | [Remove Nth Node From End of List]                                                                   | Medium     |
 | [LC0020.cpp]     | [Valid Parentheses]                                                                                  | Easy       |
 | [LC0021.cpp]     | [Merge Two Sorted Lists]                                                                             | Easy       |
 | [LC0022.cpp]     | [Generate Parentheses]                                                                               | Medium     |
@@ -540,6 +541,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0018.cpp]: Solutions/LC0018.cpp?ts=4
 [4Sum]: https://leetcode.com/problems/4sum/
+
+[LC0019.cpp]: Solutions/LC0019.cpp?ts=4
+[Remove Nth Node From End of List]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
 [LC0020.cpp]: Solutions/LC0020.cpp?ts=4
 [Valid Parentheses]: https://leetcode.com/problems/valid-parentheses/
