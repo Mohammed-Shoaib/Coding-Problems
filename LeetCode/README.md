@@ -30,6 +30,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0022.cpp]     | [Generate Parentheses]                                                                               | Medium     |
 | [LC0026.cpp]     | [Remove Duplicates from Sorted Array]                                                                | Easy       |
 | [LC0031.cpp]     | [Next Permutation]                                                                                   | Medium     |
+| [LC0032.cpp]     | [Longest Valid Parentheses]                                                                          | Hard       |
 | [LC0033.cpp]     | [Search in Rotated Sorted Array]                                                                     | Medium     |
 | [LC0034.cpp]     | [Find First and Last Position of Element in Sorted Array]                                            | Medium     |
 | [LC0035.cpp]     | [Search Insert Position]                                                                             | Easy       |
@@ -554,6 +555,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0031.cpp]: Solutions/LC0031.cpp?ts=4
 [Next Permutation]: https://leetcode.com/problems/next-permutation/
+
+[LC0032.cpp]: Solutions/LC0032.cpp?ts=4
+[Longest Valid Parentheses]: https://leetcode.com/problems/longest-valid-parentheses/
 
 [LC0033.cpp]: Solutions/LC0033.cpp?ts=4
 [Search in Rotated Sorted Array]: https://leetcode.com/problems/search-in-rotated-sorted-array/
