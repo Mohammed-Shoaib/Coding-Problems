@@ -1237,7 +1237,7 @@ The questions are divided into 3 levels of difficulty:
 [Distribute Candies]: https://leetcode.com/problems/distribute-candies/
 
 [LC0590.cpp]: Solutions/LC0590.cpp?ts=4
-[Binary Tree Postorder Traversal]: https://leetcode.com/problems/binary-tree-postorder-traversal/
+[Binary Tree Postorder Traversal]: https://leetcode.com/problems/n-ary-tree-postorder-traversal/
 
 [LC0594.cpp]: Solutions/LC0594.cpp?ts=4
 [Longest Harmonious Subsequence]: https://leetcode.com/problems/longest-harmonious-subsequence/
