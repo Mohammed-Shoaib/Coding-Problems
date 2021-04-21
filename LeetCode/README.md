@@ -257,6 +257,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0567.cpp]     | [Permutation in String]                                                                              | Medium     |
 | [LC0572.cpp]     | [Subtree of Another Tree]                                                                            | Easy       |
 | [LC0575.cpp]     | [Distribute Candies]                                                                                 | Easy       |
+| [LC0589.cpp]     | [N-ary Tree Preorder Traversal]                                                                      | Medium     |
 | [LC0590.cpp]     | [Binary Tree Postorder Traversal]                                                                    | Easy       |
 | [LC0594.cpp]     | [Longest Harmonious Subsequence]                                                                     | Easy       |
 | [LC0617.cpp]     | [Merge Two Binary Trees]                                                                             | Easy       |
@@ -1235,6 +1236,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0575.cpp]: Solutions/LC0575.cpp?ts=4
 [Distribute Candies]: https://leetcode.com/problems/distribute-candies/
+
+[LC0589.cpp]: Solutions/LC0589.cpp?ts=4
+[N-ary Tree Preorder Traversal]: https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 
 [LC0590.cpp]: Solutions/LC0590.cpp?ts=4
 [Binary Tree Postorder Traversal]: https://leetcode.com/problems/n-ary-tree-postorder-traversal/
