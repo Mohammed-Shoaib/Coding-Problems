@@ -47,6 +47,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [B.cpp](Kick%20Start/2021/Round%20A/B.cpp?ts=4)        | [L Shaped Plots]                        | Round A        | 2021 |
 | [C.cpp](Kick%20Start/2021/Round%20A/C.cpp?ts=4)        | [Rabbit House]                          | Round A        | 2021 |
 | [D.cpp](Kick%20Start/2021/Round%20A/D.cpp?ts=4)        | [Checksum]                              | Round A        | 2021 |
+| [A.cpp](Kick%20Start/2021/Round%20B/A.cpp?ts=4)        | [Increasing Substring]                  | Round B        | 2021 |
 | [A.cpp](Kick%20Start/2020/Round%20A/A.cpp?ts=4)        | [Allocation]                            | Round A        | 2020 |
 | [B.cpp](Kick%20Start/2020/Round%20A/B.cpp?ts=4)        | [Plates]                                | Round A        | 2020 |
 | [C.cpp](Kick%20Start/2020/Round%20A/C.cpp?ts=4)        | [Workout]                               | Round A        | 2020 |
@@ -126,6 +127,8 @@ Solutions to some of the questions from coding competitions by [Google](https://
 [L Shaped Plots]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068c509
 [Rabbit House]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068cb14
 [Checksum]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068c2c3
+
+[Increasing Substring]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a882
 
 [Allocation]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f56
 [Plates]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d40bb
