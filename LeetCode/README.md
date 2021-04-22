@@ -109,6 +109,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0142.cpp]     | [Linked List Cycle II]                                                                               | Medium     |
 | [LC0143.cpp]     | [Reorder List]                                                                                       | Medium     |
 | [LC0144.cpp]     | [Binary Tree Preorder Traversal]                                                                     | Medium     |
+| [LC0145.cpp]     | [Binary Tree Postorder Traversal]                                                                    | Hard       |
 | [LC0146.cpp]     | [LRU Cache]                                                                                          | Medium     |
 | [LC0147.cpp]     | [Insertion Sort List]                                                                                | Medium     |
 | [LC0150.cpp]     | [Evaluate Reverse Polish Notation]                                                                   | Medium     |
@@ -258,7 +259,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0572.cpp]     | [Subtree of Another Tree]                                                                            | Easy       |
 | [LC0575.cpp]     | [Distribute Candies]                                                                                 | Easy       |
 | [LC0589.cpp]     | [N-ary Tree Preorder Traversal]                                                                      | Medium     |
-| [LC0590.cpp]     | [Binary Tree Postorder Traversal]                                                                    | Easy       |
+| [LC0590.cpp]     | [Binary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)     | Easy       |
 | [LC0594.cpp]     | [Longest Harmonious Subsequence]                                                                     | Easy       |
 | [LC0617.cpp]     | [Merge Two Binary Trees]                                                                             | Easy       |
 | [LC0621.cpp]     | [Task Scheduler]                                                                                     | Medium     |
@@ -794,6 +795,9 @@ The questions are divided into 3 levels of difficulty:
 [LC0144.cpp]: Solutions/LC0144.cpp?ts=4
 [Binary Tree Preorder Traversal]: https://leetcode.com/problems/binary-tree-preorder-traversal/
 
+[LC0145.cpp]: Solutions/LC0145.cpp?ts=4
+[Binary Tree Postorder Traversal]: https://leetcode.com/problems/binary-tree-postorder-traversal/
+
 [LC0146.cpp]: Solutions/LC0146.cpp?ts=4
 [LRU Cache]: https://leetcode.com/problems/lru-cache/
 
@@ -1241,7 +1245,6 @@ The questions are divided into 3 levels of difficulty:
 [N-ary Tree Preorder Traversal]: https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 
 [LC0590.cpp]: Solutions/LC0590.cpp?ts=4
-[Binary Tree Postorder Traversal]: https://leetcode.com/problems/n-ary-tree-postorder-traversal/
 
 [LC0594.cpp]: Solutions/LC0594.cpp?ts=4
 [Longest Harmonious Subsequence]: https://leetcode.com/problems/longest-harmonious-subsequence/
