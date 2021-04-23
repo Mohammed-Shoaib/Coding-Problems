@@ -250,6 +250,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0540.cpp]     | [Single Element in a Sorted Array]                                                                   | Medium     |
 | [LC0541.cpp]     | [Reverse String II]                                                                                  | Easy       |
 | [LC0543.cpp]     | [Diameter of Binary Tree]                                                                            | Easy       |
+| [LC0554.cpp]     | [Brick Wall]                                                                                         | Medium     |
 | [LC0556.cpp]     | [Next Greater Element III]                                                                           | Medium     |
 | [LC0557.cpp]     | [Reverse Words in a String III]                                                                      | Easy       |
 | [LC0559.cpp]     | [Maximum Depth of N-ary Tree]                                                                        | Easy       |
@@ -1216,6 +1217,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0543.cpp]: Solutions/LC0543.cpp?ts=4
 [Diameter of Binary Tree]: https://leetcode.com/problems/diameter-of-binary-tree/
+
+[LC0554.cpp]: Solutions/LC0554.cpp?ts=4
+[Brick Wall]: https://leetcode.com/problems/brick-wall/
 
 [LC0556.cpp]: Solutions/LC0556.cpp?ts=4
 [Next Greater Element III]: https://leetcode.com/problems/next-greater-element-iii/
