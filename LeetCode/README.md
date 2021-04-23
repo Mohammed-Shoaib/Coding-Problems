@@ -324,6 +324,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0941.cpp]     | [Valid Mountain Array]                                                                               | Easy       |
 | [LC0949.cpp]     | [Largest Time for Given Digits]                                                                      | Easy       |
 | [LC0952.cpp]     | [Largest Component Size by Common Factor]                                                            | Hard       |
+| [LC0953.cpp]     | [Verifying an Alien Dictionary]                                                                      | Easy       |
 | [LC0957.cpp]     | [Prison Cells After N Days]                                                                          | Medium     |
 | [LC0965.cpp]     | [Univalued Binary Tree]                                                                              | Easy       |
 | [LC0967.cpp]     | [Numbers With Same Consecutive Differences]                                                          | Medium     |
@@ -1438,6 +1439,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0952.cpp]: Solutions/LC0952.cpp?ts=4
 [Largest Component Size by Common Factor]: https://leetcode.com/problems/largest-component-size-by-common-factor/
+
+[LC0953.cpp]: Solutions/LC0953.cpp?ts=4
+[Verifying an Alien Dictionary]: https://leetcode.com/problems/verifying-an-alien-dictionary/
 
 [LC0957.cpp]: Solutions/LC0957.cpp?ts=4
 [Prison Cells After N Days]: https://leetcode.com/problems/prison-cells-after-n-days/
