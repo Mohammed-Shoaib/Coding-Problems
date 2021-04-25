@@ -1,6 +1,6 @@
 /*
 Problem Statement: https://leetcode.com/problems/rotate-image/
-Time: O(n • n)
+Time: O(n²)
 Space: O(1)
 Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
