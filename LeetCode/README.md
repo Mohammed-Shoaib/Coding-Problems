@@ -89,6 +89,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0116.cpp]     | [Populating Next Right Pointers in Each Node]                                                        | Medium     |
 | [LC0118.cpp]     | [Pascal's Triangle]                                                                                  | Easy       |
 | [LC0119.cpp]     | [Pascal's Triangle II]                                                                               | Easy       |
+| [LC0120.cpp]     | [Triangle]                                                                                           | Medium     |
 | [LC0121.cpp]     | [Best Time to Buy and Sell Stock]                                                                    | Easy       |
 | [LC0122.cpp]     | [Best Time to Buy and Sell Stock II]                                                                 | Easy       |
 | [LC0123.cpp]     | [Best Time to Buy and Sell Stock III]                                                                | Hard       |
@@ -737,6 +738,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0119.cpp]: Solutions/LC0119.cpp?ts=4
 [Pascal's Triangle II]: https://leetcode.com/problems/pascals-triangle-ii/
+
+[LC0120.cpp]: Solutions/LC0120.cpp?ts=4
+[Triangle]: https://leetcode.com/problems/triangle/
 
 [LC0121.cpp]: Solutions/LC0121.cpp?ts=4
 [Best Time to Buy and Sell Stock]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
