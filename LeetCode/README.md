@@ -67,6 +67,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0078.cpp]     | [Subsets]                                                                                            | Medium     |
 | [LC0079.cpp]     | [Word Search]                                                                                        | Medium     |
 | [LC0081.cpp]     | [Search in Rotated Sorted Array II]                                                                  | Medium     |
+| [LC0086.cpp]     | [Partition List]                                                                                     | Medium     |
 | [LC0088.cpp]     | [Merge Sorted Array]                                                                                 | Easy       |
 | [LC0089.cpp]     | [Gray Code]                                                                                          | Medium     |
 | [LC0090.cpp]     | [Subsets II]                                                                                         | Medium     |
@@ -673,6 +674,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0081.cpp]: Solutions/LC0081.cpp?ts=4
 [Search in Rotated Sorted Array II]: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+
+[LC0086.cpp]: Solutions/LC0086.cpp?ts=4
+[Partition List]: https://leetcode.com/problems/partition-list/
 
 [LC0088.cpp]: Solutions/LC0088.cpp?ts=4
 [Merge Sorted Array]: https://leetcode.com/problems/merge-sorted-array/
