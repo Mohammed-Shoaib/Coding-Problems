@@ -273,6 +273,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0657.cpp]     | [DI String Match]                                                                                    | Easy       |
 | [LC0662.cpp]     | [Maximum Width of Binary Tree]                                                                       | Medium     |
 | [LC0665.cpp]     | [Non-decreasing Array]                                                                               | Easy       |
+| [LC0667.cpp]     | [Beautiful Arrangement II]                                                                           | Medium     |
 | [LC0669.cpp]     | [Trim a Binary Search Tree]                                                                          | Easy       |
 | [LC0678.cpp]     | [Valid Parenthesis String]                                                                           | Medium     |
 | [LC0680.cpp]     | [Valid Palindrome II]                                                                                | Easy       |
@@ -1290,6 +1291,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0665.cpp]: Solutions/LC0665.cpp?ts=4
 [Non-decreasing Array]: https://leetcode.com/problems/non-decreasing-array/
+
+[LC0667.cpp]: Solutions/LC0667.cpp?ts=4
+[Beautiful Arrangement II]: https://leetcode.com/problems/beautiful-arrangement-ii/
 
 [LC0669.cpp]: Solutions/LC0669.cpp?ts=4
 [Trim a Binary Search Tree]: https://leetcode.com/problems/trim-a-binary-search-tree/
