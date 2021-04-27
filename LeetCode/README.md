@@ -247,6 +247,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0518.cpp]     | [Coin Change 2]                                                                                      | Medium     |
 | [LC0520.cpp]     | [Detect Capital]                                                                                     | Easy       |
 | [LC0525.cpp]     | [Contiguous Array]                                                                                   | Medium     |
+| [LC0526.cpp]     | [Beautiful Arrangement]                                                                              | Medium     |
 | [LC0528.cpp]     | [Random Pick with Weight]                                                                            | Medium     |
 | [LC0532.cpp]     | [K-diff Pairs in an Array]                                                                           | Medium     |
 | [LC0540.cpp]     | [Single Element in a Sorted Array]                                                                   | Medium     |
@@ -1214,6 +1215,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0525.cpp]: Solutions/LC0525.cpp?ts=4
 [Contiguous Array]: https://leetcode.com/problems/contiguous-array/
+
+[LC0526.cpp]: Solutions/LC0526.cpp?ts=4
+[Beautiful Arrangement]: https://leetcode.com/problems/beautiful-arrangement/
 
 [LC0528.cpp]: Solutions/LC0528.cpp?ts=4
 [Random Pick with Weight]: https://leetcode.com/problems/random-pick-with-weight/
