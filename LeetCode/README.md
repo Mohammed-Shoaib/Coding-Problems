@@ -188,6 +188,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0322.cpp]     | [Coin Change]                                                                                        | Medium     |
 | [LC0326.cpp]     | [Power of Three]                                                                                     | Easy       |
 | [LC0328.cpp]     | [Odd Even Linked List]                                                                               | Medium     |
+| [LC0329.cpp]     | [Longest Increasing Path in a Matrix]                                                                | Hard       |
 | [LC0332.cpp]     | [Reconstruct Itinerary]                                                                              | Medium     |
 | [LC0337.cpp]     | [House Robber III]                                                                                   | Medium     |
 | [LC0338.cpp]     | [Counting Bits]                                                                                      | Medium     |
@@ -1039,6 +1040,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0328.cpp]: Solutions/LC0328.cpp?ts=4
 [Odd Even Linked List]: https://leetcode.com/problems/odd-even-linked-list/
+
+[LC0329.cpp]: Solutions/LC0329.cpp?ts=4
+[Longest Increasing Path in a Matrix]: https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
 
 [LC0332.cpp]: Solutions/LC0332.cpp?ts=4
 [Reconstruct Itinerary]: https://leetcode.com/problems/reconstruct-itinerary/
