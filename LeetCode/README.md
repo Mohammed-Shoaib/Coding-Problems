@@ -295,6 +295,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0728.cpp]     | [Self Dividing Numbers]                                                                              | Easy       |
 | [LC0733.cpp]     | [Flood Fill]                                                                                         | Easy       |
 | [LC0739.cpp]     | [Daily Temperatures]                                                                                 | Medium     |
+| [LC0745.cpp]     | [Prefix and Suffix Search]                                                                           | Hard       |
 | [LC0748.cpp]     | [Shortest Completing Word]                                                                           | Easy       |
 | [LC0763.cpp]     | [Partition Labels]                                                                                   | Medium     |
 | [LC0766.cpp]     | [Toeplitz Matrix]                                                                                    | Easy       |
@@ -1358,6 +1359,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0739.cpp]: Solutions/LC0739.cpp?ts=4
 [Daily Temperatures]: https://leetcode.com/problems/daily-temperatures/
+
+[LC0745.cpp]: Solutions/LC0745.cpp?ts=4
+[Prefix and Suffix Search]: https://leetcode.com/problems/prefix-and-suffix-search/
 
 [LC0748.cpp]: Solutions/LC0748.cpp?ts=4
 [Shortest Completing Word]: https://leetcode.com/problems/shortest-completing-word/
