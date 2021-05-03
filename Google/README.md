@@ -49,6 +49,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [D.cpp](Kick%20Start/2021/Round%20A/D.cpp?ts=4)        | [Checksum]                              | Round A        | 2021 |
 | [A.cpp](Kick%20Start/2021/Round%20B/A.cpp?ts=4)        | [Increasing Substring]                  | Round B        | 2021 |
 | [B.cpp](Kick%20Start/2021/Round%20B/B.cpp?ts=4)        | [Longest Progression]                   | Round B        | 2021 |
+| [C.cpp](Kick%20Start/2021/Round%20B/C.cpp?ts=4)        | [Consecutive Primes]                    | Round B        | 2021 |
 | [A.cpp](Kick%20Start/2020/Round%20A/A.cpp?ts=4)        | [Allocation]                            | Round A        | 2020 |
 | [B.cpp](Kick%20Start/2020/Round%20A/B.cpp?ts=4)        | [Plates]                                | Round A        | 2020 |
 | [C.cpp](Kick%20Start/2020/Round%20A/C.cpp?ts=4)        | [Workout]                               | Round A        | 2020 |
@@ -131,6 +132,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 
 [Increasing Substring]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a882
 [Longest Progression]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a3a5
+[Consecutive Primes]: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a8e6
 
 [Allocation]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f56
 [Plates]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d40bb
