@@ -7,27 +7,52 @@ Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 
 class Solution {
 private:
-	bool is_palindrome(int64_t num) {
-		string s = to_string(num);
-		int n = s.length();
-		return equal(s.begin(), s.begin() + n / 2, s.rbegin());
+	int64_t reverse(int64_t num) {
+		int64_t rev = 0;
+		while (num) {
+			rev = 10 * rev + num % 10;
+			num /= 10;
+		}
+		return rev;
+	}
+	
+	int64_t generate_palindrome(int64_t prefix, int64_t suffix) {
+		while (suffix) {
+			prefix = 10 * prefix + suffix % 10;
+			suffix /= 10;
+		}
+		return prefix;
 	}
 	
 public:
 	int superpalindromesInRange(string left, string right) {
+		int64_t num, l, r;
 		int cnt = 0, limit = 50'000;
-		int64_t l = stoll(left), r = stoll(right);
+		l = sqrt(stoll(left));
+		r = sqrt(stoll(right));
 		
-		for (int64_t i = 1; i <= limit; i++) {
-			string s, t;
-			s = t = to_string(i);
-			reverse(t.begin(), t.end());
-			int64_t x = stoll(s + t.substr(1));
-			if (x <= 1e9 && x * x >= l && x * x <= r && is_palindrome(x) && is_palindrome(x * x))
-				cnt++;
-			x = stoll(s + t);
-			if (x <= 1e9 && x * x >= l && x * x <= r && is_palindrome(x) && is_palindrome(x * x))
-				cnt++;
+		// helper functions
+		auto is_super_palindrome = [&](int64_t num) {
+			if (num < l || num > r)
+				return false;
+			num *= num;
+			return num == reverse(num);
+		};
+		
+		// even length palindromes
+		for (int i = 1; i <= limit; i++) {
+			int64_t num = generate_palindrome(i, i);
+			if (num > r)
+				break;
+			cnt += is_super_palindrome(num);
+		}
+		
+		// odd length palindromes
+		for (int i = 1; i <= limit; i++) {
+			num = generate_palindrome(i, i / 10);
+			if (num > r)
+				break;
+			cnt += is_super_palindrome(num);
 		}
 		
 		return cnt;
