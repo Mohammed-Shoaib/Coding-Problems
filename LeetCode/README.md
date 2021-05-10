@@ -439,6 +439,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1343.cpp]     | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold]                      | Medium     |
 | [LC1344.cpp]     | [Angle Between Hands of a Clock]                                                                     | Medium     |
 | [LC1346.cpp]     | [Check If N and Its Double Exist]                                                                    | Easy       |
+| [LC1354.cpp]     | [Construct Target Array With Multiple Sums]                                                          | Hard       |
 | [LC1356.cpp]     | [Sort Integers by The Number of 1 Bits]                                                              | Easy       |
 | [LC1357.cpp]     | [Apply Discount Every n Orders]                                                                      | Medium     |
 | [LC1358.cpp]     | [Number of Substrings Containing All Three Characters]                                               | Medium     |
@@ -1793,6 +1794,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1346.cpp]: Solutions/LC1346.cpp?ts=4
 [Check If N and Its Double Exist]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
+
+[LC1354.cpp]: Solutions/LC1354.cpp?ts=4
+[Construct Target Array With Multiple Sums]: https://leetcode.com/problems/construct-target-array-with-multiple-sums/
 
 [LC1356.cpp]: Solutions/LC1356.cpp?ts=4
 [Sort Integers by The Number of 1 Bits]: https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
