@@ -321,6 +321,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0889.cpp]     | [Construct Binary Tree from Preorder and Postorder Traversal]                                        | Medium     |
 | [LC0901.cpp]     | [Online Stock Span]                                                                                  | Medium     |
 | [LC0905.cpp]     | [Sort Array By Parity]                                                                               | Easy       |
+| [LC0906.cpp]     | [Super Palindromes]                                                                                  | Hard       |
 | [LC0914.cpp]     | [X of a Kind in a Deck of Cards]                                                                     | Easy       |
 | [LC0918.cpp]     | [Maximum Sum Circular Subarray]                                                                      | Medium     |
 | [LC0921.cpp]     | [Minimum Add to Make Parentheses Valid]                                                              | Medium     |
@@ -1438,6 +1439,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0905.cpp]: Solutions/LC0905.cpp?ts=4
 [Sort Array By Parity]: https://leetcode.com/problems/sort-array-by-parity/
+
+[LC0906.cpp]: Solutions/LC0906.cpp?ts=4
+[Super Palindromes]: https://leetcode.com/problems/super-palindromes/
 
 [LC0914.cpp]: Solutions/LC0914.cpp?ts=4
 [X of a Kind in a Deck of Cards]: https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/
