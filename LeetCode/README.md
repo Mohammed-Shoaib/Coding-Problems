@@ -466,6 +466,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1408.cpp]     | [String Matching in an Array]                                                                        | Easy       |
 | [LC1409.cpp]     | [Queries on a Permutation With Key]                                                                  | Medium     |
 | [LC1410.cpp]     | [HTML Entity Parser]                                                                                 | Medium     |
+| [LC1423.cpp]     | [Maximum Points You Can Obtain from Cards]                                                           | Medium     |
 | [LC1426.cpp]     | [Counting Elements]                                                                                  | Easy       |
 | [LC1427.cpp]     | [Perform String Shifts]                                                                              | Easy       |
 | [LC1428.cpp]     | [Leftmost Column with at Least a One]                                                                | Medium     |
@@ -1875,6 +1876,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1410.cpp]: Solutions/LC1410.cpp?ts=4
 [HTML Entity Parser]: https://leetcode.com/problems/html-entity-parser/
+
+[LC1423.cpp]: Solutions/LC1423.cpp?ts=4
+[Maximum Points You Can Obtain from Cards]: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 
 [LC1426.cpp]: Solutions/LC1426.cpp?ts=4
 [Counting Elements]: https://leetcode.com/problems/counting-elements/
