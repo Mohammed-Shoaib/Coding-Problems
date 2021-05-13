@@ -140,6 +140,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0201.cpp]     | [Bitwise AND of Numbers Range]                                                                       | Medium     |
 | [LC0202.cpp]     | [Happy Number]                                                                                       | Easy       |
 | [LC0203.cpp]     | [Remove Linked List Elements]                                                                        | Easy       |
+| [LC0204.cpp]     | [Count Primes]                                                                                       | Easy       |
 | [LC0206.cpp]     | [Reverse Linked List]                                                                                | Easy       |
 | [LC0207.cpp]     | [Course Schedule]                                                                                    | Medium     |
 | [LC0208.cpp]     | [Implement Trie (Prefix Tree)]                                                                       | Medium     |
@@ -901,6 +902,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0203.cpp]: Solutions/LC0203.cpp?ts=4
 [Remove Linked List Elements]: https://leetcode.com/problems/remove-linked-list-elements/
+
+[LC0204.cpp]: Solutions/LC0204.cpp?ts=4
+[Count Primes]: https://leetcode.com/problems/count-primes/
 
 [LC0206.cpp]: Solutions/LC0206.cpp?ts=4
 [Reverse Linked List]: https://leetcode.com/problems/reverse-linked-list/
