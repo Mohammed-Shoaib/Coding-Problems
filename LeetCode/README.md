@@ -265,6 +265,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0567.cpp]     | [Permutation in String]                                                                              | Medium     |
 | [LC0572.cpp]     | [Subtree of Another Tree]                                                                            | Easy       |
 | [LC0575.cpp]     | [Distribute Candies]                                                                                 | Easy       |
+| [LC0583.cpp]     | [Delete Operation for Two Strings]                                                                   | Medium     |
 | [LC0589.cpp]     | [N-ary Tree Preorder Traversal]                                                                      | Medium     |
 | [LC0590.cpp]     | [Binary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)     | Easy       |
 | [LC0594.cpp]     | [Longest Harmonious Subsequence]                                                                     | Easy       |
@@ -1276,6 +1277,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0575.cpp]: Solutions/LC0575.cpp?ts=4
 [Distribute Candies]: https://leetcode.com/problems/distribute-candies/
+
+[LC0583.cpp]: Solutions/LC0583.cpp?ts=4
+[Delete Operation for Two Strings]: https://leetcode.com/problems/delete-operation-for-two-strings/
 
 [LC0589.cpp]: Solutions/LC0589.cpp?ts=4
 [N-ary Tree Preorder Traversal]: https://leetcode.com/problems/n-ary-tree-preorder-traversal/
