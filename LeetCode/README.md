@@ -40,6 +40,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0039.cpp]     | [Combination Sum]                                                                                    | Medium     |
 | [LC0040.cpp]     | [Combination Sum II]                                                                                 | Medium     |
 | [LC0041.cpp]     | [First Missing Positive]                                                                             | Hard       |
+| [LC0045.cpp]     | [Jump Game II]                                                                                       | Medium     |
 | [LC0046.cpp]     | [Permutations]                                                                                       | Medium     |
 | [LC0047.cpp]     | [Permutations II]                                                                                    | Medium     |
 | [LC0048.cpp]     | [Rotate Image]                                                                                       | Medium     |
@@ -604,6 +605,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0041.cpp]: Solutions/LC0041.cpp?ts=4
 [First Missing Positive]: https://leetcode.com/problems/first-missing-positive/
+
+[LC0045.cpp]: Solutions/LC0045.cpp?ts=4
+[Jump Game II]: https://leetcode.com/problems/jump-game-ii/
 
 [LC0046.cpp]: Solutions/LC0046.cpp?ts=4
 [Permutations]: https://leetcode.com/problems/permutations/
