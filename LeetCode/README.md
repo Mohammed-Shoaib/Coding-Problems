@@ -272,6 +272,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0594.cpp]     | [Longest Harmonious Subsequence]                                                                     | Easy       |
 | [LC0617.cpp]     | [Merge Two Binary Trees]                                                                             | Easy       |
 | [LC0621.cpp]     | [Task Scheduler]                                                                                     | Medium     |
+| [LC0630.cpp]     | [Course Schedule III]                                                                                | Hard       |
 | [LC0637.cpp]     | [Average of Levels in Binary Tree]                                                                   | Easy       |
 | [LC0643.cpp]     | [Maximum Average Subarray I]                                                                         | Easy       |
 | [LC0645.cpp]     | [Set Mismatch]                                                                                       | Easy       |
@@ -1298,6 +1299,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0621.cpp]: Solutions/LC0621.cpp?ts=4
 [Task Scheduler]: https://leetcode.com/problems/task-scheduler/
+
+[LC0630.cpp]: Solutions/LC0630.cpp?ts=4
+[Course Schedule III]: https://leetcode.com/problems/course-schedule-iii/
 
 [LC0637.cpp]: Solutions/LC0637.cpp?ts=4
 [Average of Levels in Binary Tree]: https://leetcode.com/problems/average-of-levels-in-binary-tree/
