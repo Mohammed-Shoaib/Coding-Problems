@@ -340,6 +340,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0957.cpp]     | [Prison Cells After N Days]                                                                          | Medium     |
 | [LC0965.cpp]     | [Univalued Binary Tree]                                                                              | Easy       |
 | [LC0967.cpp]     | [Numbers With Same Consecutive Differences]                                                          | Medium     |
+| [LC0968.cpp]     | [Binary Tree Cameras]                                                                                | Hard       |
 | [LC0969.cpp]     | [Pancake Sorting]                                                                                    | Medium     |
 | [LC0973.cpp]     | [K Closest Points to Origin]                                                                         | Medium     |
 | [LC0977.cpp]     | [Squares of a Sorted Array]                                                                          | Easy       |
@@ -1502,6 +1503,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0967.cpp]: Solutions/LC0967.cpp?ts=4
 [Numbers With Same Consecutive Differences]: https://leetcode.com/problems/numbers-with-same-consecutive-differences/
+
+[LC0968.cpp]: Solutions/LC0968.cpp?ts=4
+[Binary Tree Cameras]: https://leetcode.com/problems/binary-tree-cameras/
 
 [LC0969.cpp]: Solutions/LC0969.cpp?ts=4
 [Pancake Sorting]: https://leetcode.com/problems/pancake-sorting/
