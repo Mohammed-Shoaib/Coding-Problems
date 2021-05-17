@@ -365,6 +365,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1044.cpp]     | [Longest Duplicate Substring]                                                                        | Hard       |
 | [LC1046.cpp]     | [Last Stone Weight]                                                                                  | Easy       |
 | [LC1047.cpp]     | [Remove All Adjacent Duplicates In String]                                                           | Easy       |
+| [LC1048.cpp]     | [Longest String Chain]                                                                               | Medium     |
 | [LC1051.cpp]     | [Height Checker]                                                                                     | Easy       |
 | [LC1071.cpp]     | [Greatest Common Divisor of Strings]                                                                 | Easy       |
 | [LC1074.cpp]     | [Number of Submatrices That Sum to Target]                                                           | Hard       |
@@ -1578,6 +1579,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1047.cpp]: Solutions/LC1047.cpp?ts=4
 [Remove All Adjacent Duplicates In String]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+
+[LC1048.cpp]: Solutions/LC1048.cpp?ts=4
+[Longest String Chain]: https://leetcode.com/problems/longest-string-chain/
 
 [LC1051.cpp]: Solutions/LC1051.cpp?ts=4
 [Height Checker]: https://leetcode.com/problems/height-checker/
