@@ -234,6 +234,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0448.cpp]     | [Find All Numbers Disappeared in an Array]                                                           | Easy       |
 | [LC0450.cpp]     | [Delete Node in a BST]                                                                               | Medium     |
 | [LC0451.cpp]     | [Sort Characters By Frequency]                                                                       | Medium     |
+| [LC0453.cpp]     | [Minimum Moves to Equal Array Elements]                                                              | Easy       |
 | [LC0459.cpp]     | [Repeated Substring Pattern]                                                                         | Easy       |
 | [LC0461.cpp]     | [Hamming Distance]                                                                                   | Easy       |
 | [LC0463.cpp]     | [Island Perimeter]                                                                                   | Easy       |
@@ -1189,6 +1190,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0451.cpp]: Solutions/LC0451.cpp?ts=4
 [Sort Characters By Frequency]: https://leetcode.com/problems/sort-characters-by-frequency/
+
+[LC0453.cpp]: Solutions/LC0453.cpp?ts=4
+[Minimum Moves to Equal Array Elements]: https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 
 [LC0459.cpp]: Solutions/LC0459.cpp?ts=4
 [Repeated Substring Pattern]: https://leetcode.com/problems/repeated-substring-pattern/
