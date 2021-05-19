@@ -21,6 +21,7 @@ Solutions to some of the questions from coding competitions by [Google](https://
 | [C.cpp](Code%20Jam/2021/Round%201B/C.cpp?ts=4)            | [Digit Blocks]                                 | Round 1B            | 2021 |
 | [A.cpp](Code%20Jam/2021/Round%201C/A.cpp?ts=4)            | [Closest Pick]                                 | Round 1C            | 2021 |
 | [B.cpp](Code%20Jam/2021/Round%201C/B.cpp?ts=4)            | [Roaring Years]                                | Round 1C            | 2021 |
+| [A.cpp](Code%20Jam/2021/Round%202/A.cpp?ts=4)             | [Minimum Sort]                                 | Round 2             | 2021 |
 | [A.cpp](Code%20Jam/2020/Qualification%20Round/A.cpp?ts=4) | [Vestigium]                                    | Qualification Round | 2020 |
 | [B.cpp](Code%20Jam/2020/Qualification%20Round/B.cpp?ts=4) | [Nesting Depth]                                | Qualification Round | 2020 |
 | [C.cpp](Code%20Jam/2020/Qualification%20Round/C.cpp?ts=4) | [Parenting Partnering Returns]                 | Qualification Round | 2020 |
@@ -101,6 +102,8 @@ Solutions to some of the questions from coding competitions by [Google](https://
 
 [Closest Pick]: https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c0f00
 [Roaring Years]: https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c0f01
+
+[Minimum Sort]: https://codingcompetitions.withgoogle.com/codejam/round/0000000000435915/00000000007dc51c
 
 [Reversort]: https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d0a5c
 [Moons and Umbrellas]: https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1145

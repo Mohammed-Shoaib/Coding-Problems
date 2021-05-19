@@ -13,7 +13,7 @@ Solutions to some of the coding problems from popular websites. Currently, there
 
 ## Stats
 
-Number of problems solved: **1342**
+Number of problems solved: **1343**
 
 ### LeetCode
 
@@ -37,10 +37,10 @@ Number of problems solved: **1342**
 
 | Type       | Solved |
 |:----------:|:------:|
-| Code Jam   | 24     |
+| Code Jam   | 25     |
 | Hash Code  | 2      |
 | Kick Start | 41     |
-| Total      | 67     |
+| Total      | 68     |
 
 ### CodeChef
 
