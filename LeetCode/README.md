@@ -326,6 +326,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0876.cpp]     | [Middle of the Linked List]                                                                          | Easy       |
 | [LC0886.cpp]     | [Possible Bipartition]                                                                               | Medium     |
 | [LC0889.cpp]     | [Construct Binary Tree from Preorder and Postorder Traversal]                                        | Medium     |
+| [LC0890.cpp]     | [Find and Replace Pattern]                                                                           | Medium     |
 | [LC0901.cpp]     | [Online Stock Span]                                                                                  | Medium     |
 | [LC0905.cpp]     | [Sort Array By Parity]                                                                               | Easy       |
 | [LC0906.cpp]     | [Super Palindromes]                                                                                  | Hard       |
@@ -1465,6 +1466,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0889.cpp]: Solutions/LC0889.cpp?ts=4
 [Construct Binary Tree from Preorder and Postorder Traversal]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
+
+[LC0890.cpp]: Solutions/LC0890.cpp?ts=4
+[Find and Replace Pattern]: https://leetcode.com/problems/find-and-replace-pattern/
 
 [LC0901.cpp]: Solutions/LC0901.cpp?ts=4
 [Online Stock Span]: https://leetcode.com/problems/online-stock-span/
