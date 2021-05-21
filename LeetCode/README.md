@@ -237,6 +237,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0453.cpp]     | [Minimum Moves to Equal Array Elements]                                                              | Easy       |
 | [LC0459.cpp]     | [Repeated Substring Pattern]                                                                         | Easy       |
 | [LC0461.cpp]     | [Hamming Distance]                                                                                   | Easy       |
+| [LC0462.cpp]     | [Minimum Moves to Equal Array Elements II]                                                           | Medium     |
 | [LC0463.cpp]     | [Island Perimeter]                                                                                   | Easy       |
 | [LC0468.cpp]     | [Validate IP Address]                                                                                | Medium     |
 | [LC0470.cpp]     | [Implement Rand10() Using Rand7()]                                                                   | Medium     |
@@ -1199,6 +1200,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0461.cpp]: Solutions/LC0461.cpp?ts=4
 [Hamming Distance]: https://leetcode.com/problems/hamming-distance/
+
+[LC0462.cpp]: Solutions/LC0462.cpp?ts=4
+[Minimum Moves to Equal Array Elements II]: https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
 
 [LC0463.cpp]: Solutions/LC0463.cpp?ts=4
 [Island Perimeter]: https://leetcode.com/problems/island-perimeter/
