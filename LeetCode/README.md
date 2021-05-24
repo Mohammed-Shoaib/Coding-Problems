@@ -46,6 +46,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0048.cpp]     | [Rotate Image]                                                                                       | Medium     |
 | [LC0049.cpp]     | [Group Anagrams]                                                                                     | Medium     |
 | [LC0050.cpp]     | [Pow(x, n)]                                                                                          | Medium     |
+| [LC0051.cpp]     | [N-Queens]                                                                                           | Hard       |
 | [LC0053.cpp]     | [Maximum Subarray]                                                                                   | Easy       |
 | [LC0055.cpp]     | [Jump Game]                                                                                          | Medium     |
 | [LC0056.cpp]     | [Merge Intervals]                                                                                    | Medium     |
@@ -631,6 +632,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0050.cpp]: Solutions/LC0050.cpp?ts=4
 [Pow(x, n)]: https://leetcode.com/problems/powx-n/
+
+[LC0051.cpp]: Solutions/LC0051.cpp?ts=4
+[N-Queens]: https://leetcode.com/problems/n-queens/
 
 [LC0053.cpp]: Solutions/LC0053.cpp?ts=4
 [Maximum Subarray]: https://leetcode.com/problems/maximum-subarray/
