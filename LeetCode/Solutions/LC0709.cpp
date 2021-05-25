@@ -9,7 +9,8 @@ class Solution {
 public:
 	string toLowerCase(string str) {
 		for (char& c: str)
-			c += (c >= 'A' && c <= 'Z') ? 32 : 0;
+			if (c >= 'A' && c <= 'Z')
+				c += 32;
 		return str;
 	}
 };
