@@ -190,6 +190,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0304.cpp]     | [Range Sum Query 2D - Immutable]                                                                     | Medium     |
 | [LC0307.cpp]     | [Range Sum Query - Mutable]                                                                          | Medium     |
 | [LC0309.cpp]     | [Best Time to Buy and Sell Stock with Cooldown]                                                      | Medium     |
+| [LC0318.cpp]     | [Maximum Product of Word Lengths]                                                                    | Medium     |
 | [LC0322.cpp]     | [Coin Change]                                                                                        | Medium     |
 | [LC0326.cpp]     | [Power of Three]                                                                                     | Easy       |
 | [LC0328.cpp]     | [Odd Even Linked List]                                                                               | Medium     |
@@ -1065,6 +1066,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0309.cpp]: Solutions/LC0309.cpp?ts=4
 [Best Time to Buy and Sell Stock with Cooldown]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+
+[LC0318.cpp]: Solutions/LC0318.cpp?ts=4
+[Maximum Product of Word Lengths]: https://leetcode.com/problems/maximum-product-of-word-lengths/
 
 [LC0322.cpp]: Solutions/LC0322.cpp?ts=4
 [Coin Change]: https://leetcode.com/problems/coin-change/
