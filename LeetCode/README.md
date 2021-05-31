@@ -126,6 +126,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0155.cpp]     | [Min Stack]                                                                                          | Easy       |
 | [LC0160.cpp]     | [Intersection of Two Linked Lists]                                                                   | Easy       |
 | [LC0162.cpp]     | [Find Peak Element]                                                                                  | Medium     |
+| [LC0164.cpp]     | [Maximum Gap]                                                                                        | Hard       |
 | [LC0165.cpp]     | [Compare Version Numbers]                                                                            | Medium     |
 | [LC0167.cpp]     | [Two Sum II - Input array is sorted]                                                                 | Easy       |
 | [LC0168.cpp]     | [Excel Sheet Column Title]                                                                           | Easy       |
@@ -875,6 +876,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0162.cpp]: Solutions/LC0162.cpp?ts=4
 [Find Peak Element]: https://leetcode.com/problems/find-peak-element/
+
+[LC0164.cpp]: Solutions/LC0164.cpp?ts=4
+[Maximum Gap]: https://leetcode.com/problems/maximum-gap/
 
 [LC0165.cpp]: Solutions/LC0165.cpp?ts=4
 [Compare Version Numbers]: https://leetcode.com/problems/compare-version-numbers/
