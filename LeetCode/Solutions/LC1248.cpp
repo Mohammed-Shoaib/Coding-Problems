@@ -1,5 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/count-number-of-nice-subarrays/
+Time: O(n)
+Space: O(n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
