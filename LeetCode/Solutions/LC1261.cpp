@@ -1,5 +1,15 @@
 /*
 Problem Statement: https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
+Space: O(n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
+
+|--------------------|------|-------|
+| Operations         | Time | Space |
+|--------------------|------|-------|
+| FindElements(root) | O(n) | O(n)  |
+| fix(val, node)     | O(n) | O(n)  |
+| find(target)       | O(1) | O(1)  |
+|--------------------|------|-------|
 */
 
 class FindElements {
