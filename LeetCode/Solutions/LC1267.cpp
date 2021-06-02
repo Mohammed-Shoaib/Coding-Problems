@@ -1,10 +1,13 @@
 /*
 Problem Statement: https://leetcode.com/problems/count-servers-that-communicate/
+Time: O(m • n)
+Space: O(m + n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
-	int countServers(vector< vector<int> >& grid) {
+	int countServers(vector<vector<int>>& grid) {
 		int servers, m, n;
 		servers = 0;
 		m = grid.size();
