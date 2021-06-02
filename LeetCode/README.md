@@ -294,6 +294,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0682.cpp]     | [Baseball Game]                                                                                      | Easy       |
 | [LC0692.cpp]     | [Top K Frequent Words]                                                                               | Medium     |
 | [LC0693.cpp]     | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)                | Easy       |
+| [LC0695.cpp]     | [Max Area of Island]                                                                                 | Medium     |
 | [LC0696.cpp]     | [Count Binary Substrings]                                                                            | Easy       |
 | [LC0700.cpp]     | [Search in a Binary Search Tree]                                                                     | Easy       |
 | [LC0701.cpp]     | [Insert into a Binary Search Tree]                                                                   | Medium     |
@@ -1377,6 +1378,9 @@ The questions are divided into 3 levels of difficulty:
 [Top K Frequent Words]: https://leetcode.com/problems/top-k-frequent-words/
 
 [LC0693.cpp]: Solutions/LC0693.cpp?ts=4
+
+[LC0695.cpp]: Solutions/LC0695.cpp?ts=4
+[Max Area of Island]: https://leetcode.com/problems/max-area-of-island/
 
 [LC0696.cpp]: Solutions/LC0696.cpp?ts=4
 [Count Binary Substrings]: https://leetcode.com/problems/count-binary-substrings/
