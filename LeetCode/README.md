@@ -311,6 +311,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0739.cpp]     | [Daily Temperatures]                                                                                 | Medium     |
 | [LC0745.cpp]     | [Prefix and Suffix Search]                                                                           | Hard       |
 | [LC0748.cpp]     | [Shortest Completing Word]                                                                           | Easy       |
+| [LC0752.cpp]     | [Open the Lock]                                                                                      | Medium     |
 | [LC0763.cpp]     | [Partition Labels]                                                                                   | Medium     |
 | [LC0766.cpp]     | [Toeplitz Matrix]                                                                                    | Easy       |
 | [LC0771.cpp]     | [Jewels and Stones]                                                                                  | Easy       |
@@ -1430,6 +1431,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0748.cpp]: Solutions/LC0748.cpp?ts=4
 [Shortest Completing Word]: https://leetcode.com/problems/shortest-completing-word/
+
+[LC0752.cpp]: Solutions/LC0752.cpp?ts=4
+[Open the Lock]: https://leetcode.com/problems/open-the-lock/
 
 [LC0763.cpp]: Solutions/LC0763.cpp?ts=4
 [Partition Labels]: https://leetcode.com/problems/partition-labels/
