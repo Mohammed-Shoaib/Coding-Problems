@@ -103,6 +103,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0125.cpp]     | [Valid Palindrome]                                                                                   | Easy       |
 | [LC0126.cpp]     | [Word Ladder II]                                                                                     | Hard       |
 | [LC0127.cpp]     | [Word Ladder]                                                                                        | Medium     |
+| [LC0128.cpp]     | [Longest Consecutive Sequence]                                                                       | Medium     |
 | [LC0129.cpp]     | [Sum Root to Leaf Numbers]                                                                           | Medium     |
 | [LC0130.cpp]     | [Surrounded Regions]                                                                                 | Medium     |
 | [LC0131.cpp]     | [Palindrome Partitioning]                                                                            | Medium     |
@@ -811,6 +812,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0127.cpp]: Solutions/LC0127.cpp?ts=4
 [Word Ladder]: https://leetcode.com/problems/word-ladder/
+
+[LC0128.cpp]: Solutions/LC0128.cpp?ts=4
+[Longest Consecutive Sequence]: https://leetcode.com/problems/longest-consecutive-sequence/
 
 [LC0129.cpp]: Solutions/LC0129.cpp?ts=4
 [Sum Root to Leaf Numbers]: https://leetcode.com/problems/sum-root-to-leaf-numbers/
