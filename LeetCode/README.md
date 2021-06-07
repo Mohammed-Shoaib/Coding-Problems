@@ -89,6 +89,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0107.cpp]     | [Binary Tree Level Order Traversal II]                                                               | Easy       |
 | [LC0108.cpp]     | [Convert Sorted Array to Binary Search Tree]                                                         | Easy       |
 | [LC0109.cpp]     | [Convert Sorted List to Binary Search Tree]                                                          | Medium     |
+| [LC0110.cpp]     | [Balanced Binary Tree]                                                                               | Easy       |
 | [LC0112.cpp]     | [Path Sum]                                                                                           | Easy       |
 | [LC0113.cpp]     | [Path Sum II]                                                                                        | Medium     |
 | [LC0114.cpp]     | [Flatten Binary Tree to Linked List]                                                                 | Medium     |
@@ -771,6 +772,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0109.cpp]: Solutions/LC0109.cpp?ts=4
 [Convert Sorted List to Binary Search Tree]: https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+
+[LC0110.cpp]: Solutions/LC0110.cpp?ts=4
+[Balanced Binary Tree]: https://leetcode.com/problems/balanced-binary-tree/
 
 [LC0112.cpp]: Solutions/LC0112.cpp?ts=4
 [Path Sum]: https://leetcode.com/problems/path-sum/
