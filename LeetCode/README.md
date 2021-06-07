@@ -311,6 +311,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0733.cpp]     | [Flood Fill]                                                                                         | Easy       |
 | [LC0739.cpp]     | [Daily Temperatures]                                                                                 | Medium     |
 | [LC0745.cpp]     | [Prefix and Suffix Search]                                                                           | Hard       |
+| [LC0746.cpp]     | [Min Cost Climbing Stairs]                                                                           | Easy       |
 | [LC0748.cpp]     | [Shortest Completing Word]                                                                           | Easy       |
 | [LC0752.cpp]     | [Open the Lock]                                                                                      | Medium     |
 | [LC0763.cpp]     | [Partition Labels]                                                                                   | Medium     |
@@ -1433,6 +1434,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0745.cpp]: Solutions/LC0745.cpp?ts=4
 [Prefix and Suffix Search]: https://leetcode.com/problems/prefix-and-suffix-search/
+
+[LC0746.cpp]: Solutions/LC0746.cpp?ts=4
+[Min Cost Climbing Stairs]: https://leetcode.com/problems/min-cost-climbing-stairs/
 
 [LC0748.cpp]: Solutions/LC0748.cpp?ts=4
 [Shortest Completing Word]: https://leetcode.com/problems/shortest-completing-word/
