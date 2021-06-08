@@ -279,6 +279,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0589.cpp]     | [N-ary Tree Preorder Traversal]                                                                      | Medium     |
 | [LC0590.cpp]     | [Binary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)     | Easy       |
 | [LC0594.cpp]     | [Longest Harmonious Subsequence]                                                                     | Easy       |
+| [LC0606.cpp]     | [Construct String from Binary Tree]                                                                  | Easy       |
 | [LC0609.cpp]     | [Find Duplicate File in System]                                                                      | Medium     |
 | [LC0617.cpp]     | [Merge Two Binary Trees]                                                                             | Easy       |
 | [LC0621.cpp]     | [Task Scheduler]                                                                                     | Medium     |
@@ -1340,6 +1341,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0594.cpp]: Solutions/LC0594.cpp?ts=4
 [Longest Harmonious Subsequence]: https://leetcode.com/problems/longest-harmonious-subsequence/
+
+[LC0606.cpp]: Solutions/LC0606.cpp?ts=4
+[Construct String from Binary Tree]: https://leetcode.com/problems/construct-string-from-binary-tree/
 
 [LC0609.cpp]: Solutions/LC0609.cpp?ts=4
 [Find Duplicate File in System]: https://leetcode.com/problems/find-duplicate-file-in-system/
