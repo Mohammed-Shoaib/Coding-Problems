@@ -396,6 +396,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1189.cpp]     | [Maximum Number of Balloons]                                                                         | Easy       |
 | [LC1190.cpp]     | [Reverse Substrings Between Each Pair of Parentheses]                                                | Medium     |
 | [LC1191.cpp]     | [K-Concatenation Maximum Sum]                                                                        | Medium     |
+| [LC1192.cpp]     | [Critical Connections in a Network]                                                                  | Hard       |
 | [LC1200.cpp]     | [Minimum Absolute Difference]                                                                        | Easy       |
 | [LC1201.cpp]     | [Ugly Number III]                                                                                    | Medium     |
 | [LC1202.cpp]     | [Smallest String With Swaps]                                                                         | Medium     |
@@ -1694,6 +1695,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1191.cpp]: Solutions/LC1191.cpp?ts=4
 [K-Concatenation Maximum Sum]: https://leetcode.com/problems/k-concatenation-maximum-sum/
+
+[LC1192.cpp]: Solutions/LC1192.cpp?ts=4
+[Critical Connections in a Network]: https://leetcode.com/problems/critical-connections-in-a-network/
 
 [LC1200.cpp]: Solutions/LC1200.cpp?ts=4
 [Minimum Absolute Difference]: https://leetcode.com/problems/minimum-absolute-difference/
