@@ -338,6 +338,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0860.cpp]     | [Lemonade Change]                                                                                    | Easy       |
 | [LC0868.cpp]     | [Binary Gap]                                                                                         | Easy       |
 | [LC0876.cpp]     | [Middle of the Linked List]                                                                          | Easy       |
+| [LC0877.cpp]     | [Stone Game]                                                                                         | Medium     |
 | [LC0886.cpp]     | [Possible Bipartition]                                                                               | Medium     |
 | [LC0889.cpp]     | [Construct Binary Tree from Preorder and Postorder Traversal]                                        | Medium     |
 | [LC0890.cpp]     | [Find and Replace Pattern]                                                                           | Medium     |
@@ -1521,6 +1522,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0876.cpp]: Solutions/LC0876.cpp?ts=4
 [Middle of the Linked List]: https://leetcode.com/problems/middle-of-the-linked-list/
+
+[LC0877.cpp]: Solutions/LC0877.cpp?ts=4
+[Stone Game]: https://leetcode.com/problems/stone-game/
 
 [LC0886.cpp]: Solutions/LC0886.cpp?ts=4
 [Possible Bipartition]: https://leetcode.com/problems/possible-bipartition/
