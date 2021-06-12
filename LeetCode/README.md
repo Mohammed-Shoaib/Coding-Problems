@@ -67,6 +67,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0073.cpp]     | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                | Medium     |
 | [LC0074.cpp]     | [Search a 2D Matrix]                                                                                 | Medium     |
 | [LC0075.cpp]     | [Sort Colors]                                                                                        | Medium     |
+| [LC0076.cpp]     | [Minimum Window Substring]                                                                           | Hard       |
 | [LC0078.cpp]     | [Subsets]                                                                                            | Medium     |
 | [LC0079.cpp]     | [Word Search]                                                                                        | Medium     |
 | [LC0081.cpp]     | [Search in Rotated Sorted Array II]                                                                  | Medium     |
@@ -712,6 +713,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0075.cpp]: Solutions/LC0075.cpp?ts=4
 [Sort Colors]: https://leetcode.com/problems/sort-colors/
+
+[LC0076.cpp]: Solutions/LC0076.cpp?ts=4
+[Minimum Window Substring]: https://leetcode.com/problems/minimum-window-substring/
 
 [LC0078.cpp]: Solutions/LC0078.cpp?ts=4
 [Subsets]: https://leetcode.com/problems/subsets/
