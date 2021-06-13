@@ -176,6 +176,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0238.cpp]     | [Product of Array Except Self]                                                                       | Medium     |
 | [LC0240.cpp]     | [Search a 2D Matrix II]                                                                              | Medium     |
 | [LC0242.cpp]     | [Valid Anagram]                                                                                      | Easy       |
+| [LC0257.cpp]     | [Binary Tree Paths]                                                                                  | Easy       |
 | [LC0258.cpp]     | [Add Digits]                                                                                         | Easy       |
 | [LC0260.cpp]     | [Single Number III]                                                                                  | Medium     |
 | [LC0263.cpp]     | [Ugly Number]                                                                                        | Easy       |
@@ -1041,6 +1042,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0242.cpp]: Solutions/LC0242.cpp?ts=4
 [Valid Anagram]: https://leetcode.com/problems/valid-anagram/
+
+[LC0257.cpp]: Solutions/LC0257.cpp?ts=4
+[Binary Tree Paths]: https://leetcode.com/problems/binary-tree-paths/
 
 [LC0258.cpp]: Solutions/LC0258.cpp?ts=4
 [Add Digits]: https://leetcode.com/problems/add-digits/
