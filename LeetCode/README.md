@@ -165,6 +165,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0221.cpp]     | [Maximal Square]                                                                                     | Medium     |
 | [LC0222.cpp]     | [Count Complete Tree Nodes]                                                                          | Medium     |
 | [LC0226.cpp]     | [Invert Binary Tree]                                                                                 | Easy       |
+| [LC0228.cpp]     | [Summary Ranges]                                                                                     | Easy       |
 | [LC0229.cpp]     | [Majority Element II]                                                                                | Medium     |
 | [LC0230.cpp]     | [Kth Smallest Element in a BST]                                                                      | Medium     |
 | [LC0231.cpp]     | [Power of Two]                                                                                       | Easy       |
@@ -1007,6 +1008,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0226.cpp]: Solutions/LC0226.cpp?ts=4
 [Invert Binary Tree]: https://leetcode.com/problems/invert-binary-tree/
+
+[LC0228.cpp]: Solutions/LC0228.cpp?ts=4
+[Summary Ranges]: https://leetcode.com/problems/summary-ranges/
 
 [LC0229.cpp]: Solutions/LC0229.cpp?ts=4
 [Majority Element II]: https://leetcode.com/problems/majority-element-ii/
