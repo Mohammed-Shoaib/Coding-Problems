@@ -276,6 +276,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0559.cpp]     | [Maximum Depth of N-ary Tree]                                                                        | Easy       |
 | [LC0560.cpp]     | [Subarray Sum Equals K]                                                                              | Medium     |
 | [LC0561.cpp]     | [Array Partition I]                                                                                  | Easy       |
+| [LC0563.cpp]     | [Binary Tree Tilt]                                                                                   | Easy       |
 | [LC0567.cpp]     | [Permutation in String]                                                                              | Medium     |
 | [LC0572.cpp]     | [Subtree of Another Tree]                                                                            | Easy       |
 | [LC0575.cpp]     | [Distribute Candies]                                                                                 | Easy       |
@@ -1342,6 +1343,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0561.cpp]: Solutions/LC0561.cpp?ts=4
 [Array Partition I]: https://leetcode.com/problems/array-partition-i/
+
+[LC0563.cpp]: Solutions/LC0563.cpp?ts=4
+[Binary Tree Tilt]: https://leetcode.com/problems/binary-tree-tilt/
 
 [LC0567.cpp]: Solutions/LC0567.cpp?ts=4
 [Permutation in String]: https://leetcode.com/problems/permutation-in-string/
