@@ -552,6 +552,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1689.cpp]     | [Partitioning Into Minimum Number Of Deci-Binary Numbers]                                            | Medium     |
 | [LC1695.cpp]     | [Maximum Erasure Value]                                                                              | Medium     |
 | [LC1696.cpp]     | [Jump Game VI]                                                                                       | Medium     |
+| [LC1710.cpp]     | [Maximum Units on a Truck]                                                                           | Easy       |
 | [LC1720.cpp]     | [Decode XORed Array]                                                                                 | Easy       |
 | [LC1721.cpp]     | [Swapping Nodes in a Linked List]                                                                    | Medium     |
 | [LC1732.cpp]     | [Find the Highest Altitude]                                                                          | Easy       |
@@ -2167,6 +2168,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1696.cpp]: Solutions/LC1696.cpp?ts=4
 [Jump Game VI]: https://leetcode.com/problems/jump-game-vi/
+
+[LC1710.cpp]: Solutions/LC1710.cpp?ts=4
+[Maximum Units on a Truck]: https://leetcode.com/problems/maximum-units-on-a-truck/
 
 [LC1720.cpp]: Solutions/LC1720.cpp?ts=4
 [Decode XORed Array]: https://leetcode.com/problems/decode-xored-array/
