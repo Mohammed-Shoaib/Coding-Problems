@@ -295,6 +295,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0645.cpp]     | [Set Mismatch]                                                                                       | Easy       |
 | [LC0647.cpp]     | [Palindromic Substrings]                                                                             | Medium     |
 | [LC0657.cpp]     | [DI String Match]                                                                                    | Easy       |
+| [LC0661.cpp]     | [Image Smoother]                                                                                     | Easy       |
 | [LC0662.cpp]     | [Maximum Width of Binary Tree]                                                                       | Medium     |
 | [LC0665.cpp]     | [Non-decreasing Array]                                                                               | Easy       |
 | [LC0667.cpp]     | [Beautiful Arrangement II]                                                                           | Medium     |
@@ -1400,6 +1401,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0657.cpp]: Solutions/LC0657.cpp?ts=4
 [DI String Match]: https://leetcode.com/problems/di-string-match/
+
+[LC0661.cpp]: Solutions/LC0661.cpp?ts=4
+[Image Smoother]: https://leetcode.com/problems/image-smoother/
 
 [LC0662.cpp]: Solutions/LC0662.cpp?ts=4
 [Maximum Width of Binary Tree]: https://leetcode.com/problems/maximum-width-of-binary-tree/
