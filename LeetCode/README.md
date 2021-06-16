@@ -342,6 +342,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0852.cpp]     | [Peak Index in a Mountain Array]                                                                     | Easy       |
 | [LC0859.cpp]     | [Buddy Strings]                                                                                      | Easy       |
 | [LC0860.cpp]     | [Lemonade Change]                                                                                    | Easy       |
+| [LC0867.cpp]     | [Transpose Matrix]                                                                                   | Easy       |
 | [LC0868.cpp]     | [Binary Gap]                                                                                         | Easy       |
 | [LC0876.cpp]     | [Middle of the Linked List]                                                                          | Easy       |
 | [LC0877.cpp]     | [Stone Game]                                                                                         | Medium     |
@@ -1541,6 +1542,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0860.cpp]: Solutions/LC0860.cpp?ts=4
 [Lemonade Change]: https://leetcode.com/problems/lemonade-change/
+
+[LC0867.cpp]: Solutions/LC0867.cpp?ts=4
+[Transpose Matrix]: https://leetcode.com/problems/transpose-matrix/
 
 [LC0868.cpp]: Solutions/LC0868.cpp?ts=4
 [Binary Gap]: https://leetcode.com/problems/binary-gap/
