@@ -344,6 +344,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0860.cpp]     | [Lemonade Change]                                                                                    | Easy       |
 | [LC0867.cpp]     | [Transpose Matrix]                                                                                   | Easy       |
 | [LC0868.cpp]     | [Binary Gap]                                                                                         | Easy       |
+| [LC0872.cpp]     | [Leaf-Similar Trees]                                                                                 | Easy       |
 | [LC0876.cpp]     | [Middle of the Linked List]                                                                          | Easy       |
 | [LC0877.cpp]     | [Stone Game]                                                                                         | Medium     |
 | [LC0886.cpp]     | [Possible Bipartition]                                                                               | Medium     |
@@ -1548,6 +1549,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0868.cpp]: Solutions/LC0868.cpp?ts=4
 [Binary Gap]: https://leetcode.com/problems/binary-gap/
+
+[LC0872.cpp]: Solutions/LC0872.cpp?ts=4
+[Leaf-Similar Trees]: https://leetcode.com/problems/leaf-similar-trees/
 
 [LC0876.cpp]: Solutions/LC0876.cpp?ts=4
 [Middle of the Linked List]: https://leetcode.com/problems/middle-of-the-linked-list/
