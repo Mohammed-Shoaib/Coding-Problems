@@ -277,6 +277,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0560.cpp]     | [Subarray Sum Equals K]                                                                              | Medium     |
 | [LC0561.cpp]     | [Array Partition I]                                                                                  | Easy       |
 | [LC0563.cpp]     | [Binary Tree Tilt]                                                                                   | Easy       |
+| [LC0566.cpp]     | [Reshape the Matrix]                                                                                 | Easy       |
 | [LC0567.cpp]     | [Permutation in String]                                                                              | Medium     |
 | [LC0572.cpp]     | [Subtree of Another Tree]                                                                            | Easy       |
 | [LC0575.cpp]     | [Distribute Candies]                                                                                 | Easy       |
@@ -1346,6 +1347,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0563.cpp]: Solutions/LC0563.cpp?ts=4
 [Binary Tree Tilt]: https://leetcode.com/problems/binary-tree-tilt/
+
+[LC0566.cpp]: Solutions/LC0566.cpp?ts=4
+[Reshape the Matrix]: https://leetcode.com/problems/reshape-the-matrix/
 
 [LC0567.cpp]: Solutions/LC0567.cpp?ts=4
 [Permutation in String]: https://leetcode.com/problems/permutation-in-string/
