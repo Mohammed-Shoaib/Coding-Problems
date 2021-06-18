@@ -366,6 +366,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0952.cpp]     | [Largest Component Size by Common Factor]                                                            | Hard       |
 | [LC0953.cpp]     | [Verifying an Alien Dictionary]                                                                      | Easy       |
 | [LC0957.cpp]     | [Prison Cells After N Days]                                                                          | Medium     |
+| [LC0961.cpp]     | [N-Repeated Element in Size 2N Array]                                                                | Easy       |
 | [LC0965.cpp]     | [Univalued Binary Tree]                                                                              | Easy       |
 | [LC0967.cpp]     | [Numbers With Same Consecutive Differences]                                                          | Medium     |
 | [LC0968.cpp]     | [Binary Tree Cameras]                                                                                | Hard       |
@@ -1616,6 +1617,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0957.cpp]: Solutions/LC0957.cpp?ts=4
 [Prison Cells After N Days]: https://leetcode.com/problems/prison-cells-after-n-days/
+
+[LC0961.cpp]: Solutions/LC0961.cpp?ts=4
+[N-Repeated Element in Size 2N Array]: https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 
 [LC0965.cpp]: Solutions/LC0965.cpp?ts=4
 [Univalued Binary Tree]: https://leetcode.com/problems/univalued-binary-tree/
