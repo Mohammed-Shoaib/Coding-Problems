@@ -404,6 +404,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1103.cpp]     | [Distribute Candies to People]                                                                       | Easy       |
 | [LC1108.cpp]     | [Defanging an IP Address]                                                                            | Easy       |
 | [LC1122.cpp]     | [Relative Sort Array]                                                                                | Easy       |
+| [LC1137.cpp]     | [N-th Tribonacci Number]                                                                             | Easy       |
 | [LC1143.cpp]     | [Longest Common Subsequence]                                                                         | Medium     |
 | [LC1160.cpp]     | [Find Words That Can Be Formed by Characters]                                                        | Easy       |
 | [LC1189.cpp]     | [Maximum Number of Balloons]                                                                         | Easy       |
@@ -1733,6 +1734,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1122.cpp]: Solutions/LC1122.cpp?ts=4
 [Relative Sort Array]: https://leetcode.com/problems/relative-sort-array/
+
+[LC1137.cpp]: Solutions/LC1137.cpp?ts=4
+[N-th Tribonacci Number]: https://leetcode.com/problems/n-th-tribonacci-number/
 
 [LC1143.cpp]: Solutions/LC1143.cpp?ts=4
 [Longest Common Subsequence]: https://leetcode.com/problems/longest-common-subsequence/
