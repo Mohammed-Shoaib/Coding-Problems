@@ -372,6 +372,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0968.cpp]     | [Binary Tree Cameras]                                                                                | Hard       |
 | [LC0969.cpp]     | [Pancake Sorting]                                                                                    | Medium     |
 | [LC0973.cpp]     | [K Closest Points to Origin]                                                                         | Medium     |
+| [LC0976.cpp]     | [Largest Perimeter Triangle]                                                                         | Easy       |
 | [LC0977.cpp]     | [Squares of a Sorted Array]                                                                          | Easy       |
 | [LC0980.cpp]     | [Unique Paths III]                                                                                   | Hard       |
 | [LC0983.cpp]     | [Minimum Cost For Tickets]                                                                           | Medium     |
@@ -1635,6 +1636,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0973.cpp]: Solutions/LC0973.cpp?ts=4
 [K Closest Points to Origin]: https://leetcode.com/problems/k-closest-points-to-origin/
+
+[LC0976.cpp]: Solutions/LC0976.cpp?ts=4
+[Largest Perimeter Triangle]: https://leetcode.com/problems/largest-perimeter-triangle/
 
 [LC0977.cpp]: Solutions/LC0977.cpp?ts=4
 [Squares of a Sorted Array]: https://leetcode.com/problems/squares-of-a-sorted-array/
