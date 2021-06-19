@@ -399,6 +399,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1051.cpp]     | [Height Checker]                                                                                     | Easy       |
 | [LC1071.cpp]     | [Greatest Common Divisor of Strings]                                                                 | Easy       |
 | [LC1074.cpp]     | [Number of Submatrices That Sum to Target]                                                           | Hard       |
+| [LC1089.cpp]     | [Duplicate Zeros]                                                                                    | Easy       |
 | [LC1094.cpp]     | [Car Pooling]                                                                                        | Medium     |
 | [LC1103.cpp]     | [Distribute Candies to People]                                                                       | Easy       |
 | [LC1108.cpp]     | [Defanging an IP Address]                                                                            | Easy       |
@@ -1717,6 +1718,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1074.cpp]: Solutions/LC1074.cpp?ts=4
 [Number of Submatrices That Sum to Target]: https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
+
+[LC1089.cpp]: Solutions/LC1089.cpp?ts=4
+[Duplicate Zeros]: https://leetcode.com/problems/duplicate-zeros/
 
 [LC1094.cpp]: Solutions/LC1094.cpp?ts=4
 [Car Pooling]: https://leetcode.com/problems/car-pooling/
