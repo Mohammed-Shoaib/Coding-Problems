@@ -515,6 +515,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1430.cpp]     | [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree]                    | Medium     |
 | [LC1431.cpp]     | [Kids With the Greatest Number of Candies]                                                           | Easy       |
 | [LC1436.cpp]     | [Destination City]                                                                                   | Easy       |
+| [LC1446.cpp]     | [Consecutive Characters]                                                                             | Easy       |
 | [LC1450.cpp]     | [Number of Students Doing Homework at a Given Time]                                                  | Easy       |
 | [LC1460.cpp]     | [Make Two Arrays Equal by Reversing Sub-arrays]                                                      | Easy       |
 | [LC1461.cpp]     | [Check If a String Contains All Binary Codes of Size K]                                              | Medium     |
@@ -2068,6 +2069,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1436.cpp]: Solutions/LC1436.cpp?ts=4
 [Destination City]: https://leetcode.com/problems/destination-city/
+
+[LC1446.cpp]: Solutions/LC1446.cpp?ts=4
+[Consecutive Characters]: https://leetcode.com/problems/consecutive-characters/
 
 [LC1450.cpp]: Solutions/LC1450.cpp?ts=4
 [Number of Students Doing Homework at a Given Time]: https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
