@@ -557,6 +557,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1619.cpp]     | [Mean of Array After Removing Some Elements]                                                         | Easy       |
 | [LC1636.cpp]     | [Sort Array by Increasing Frequency]                                                                 | Easy       |
 | [LC1640.cpp]     | [Check Array Formation Through Concatenation]                                                        | Easy       |
+| [LC1646.cpp]     | [Get Maximum in Generated Array]                                                                     | Easy       |
 | [LC1656.cpp]     | [Design an Ordered Stream]                                                                           | Easy       |
 | [LC1662.cpp]     | [Check If Two String Arrays are Equivalent]                                                          | Easy       |
 | [LC1672.cpp]     | [Richest Customer Wealth]                                                                            | Easy       |
@@ -2197,6 +2198,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1640.cpp]: Solutions/LC1640.cpp?ts=4
 [Check Array Formation Through Concatenation]: https://leetcode.com/problems/check-array-formation-through-concatenation/
+
+[LC1646.cpp]: Solutions/LC1646.cpp?ts=4
+[Get Maximum in Generated Array]: https://leetcode.com/problems/get-maximum-in-generated-array/
 
 [LC1656.cpp]: Solutions/LC1656.cpp?ts=4
 [Design an Ordered Stream]: https://leetcode.com/problems/design-an-ordered-stream/
