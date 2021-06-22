@@ -552,6 +552,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1578.cpp]     | [Minimum Deletion Cost to Avoid Repeating Letters]                                                   | Medium     |
 | [LC1588.cpp]     | [Sum of All Odd Length Subarrays]                                                                    | Easy       |
 | [LC1603.cpp]     | [Design Parking System]                                                                              | Easy       |
+| [LC1608.cpp]     | [Special Array With X Elements Greater Than or Equal X]                                              | Easy       |
 | [LC1614.cpp]     | [Maximum Nesting Depth of the Parentheses]                                                           | Easy       |
 | [LC1619.cpp]     | [Mean of Array After Removing Some Elements]                                                         | Easy       |
 | [LC1636.cpp]     | [Sort Array by Increasing Frequency]                                                                 | Easy       |
@@ -2181,6 +2182,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1603.cpp]: Solutions/LC1603.cpp?ts=4
 [Design Parking System]: https://leetcode.com/problems/design-parking-system/
+
+[LC1608.cpp]: Solutions/LC1608.cpp?ts=4
+[Special Array With X Elements Greater Than or Equal X]: https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 
 [LC1614.cpp]: Solutions/LC1614.cpp?ts=4
 [Maximum Nesting Depth of the Parentheses]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
