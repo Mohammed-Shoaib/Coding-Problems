@@ -565,6 +565,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1684.cpp]     | [Count the Number of Consistent Strings]                                                             | Easy       |
 | [LC1688.cpp]     | [Count of Matches in Tournament]                                                                     | Easy       |
 | [LC1689.cpp]     | [Partitioning Into Minimum Number Of Deci-Binary Numbers]                                            | Medium     |
+| [LC1694.cpp]     | [Reformat Phone Number]                                                                              | Easy       |
 | [LC1695.cpp]     | [Maximum Erasure Value]                                                                              | Medium     |
 | [LC1696.cpp]     | [Jump Game VI]                                                                                       | Medium     |
 | [LC1710.cpp]     | [Maximum Units on a Truck]                                                                           | Easy       |
@@ -2222,6 +2223,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1689.cpp]: Solutions/LC1689.cpp?ts=4
 [Partitioning Into Minimum Number Of Deci-Binary Numbers]: https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+
+[LC1694.cpp]: Solutions/LC1694.cpp?ts=4
+[Reformat Phone Number]: https://leetcode.com/problems/reformat-phone-number/
 
 [LC1695.cpp]: Solutions/LC1695.cpp?ts=4
 [Maximum Erasure Value]: https://leetcode.com/problems/maximum-erasure-value/
