@@ -568,6 +568,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1694.cpp]     | [Reformat Phone Number]                                                                              | Easy       |
 | [LC1695.cpp]     | [Maximum Erasure Value]                                                                              | Medium     |
 | [LC1696.cpp]     | [Jump Game VI]                                                                                       | Medium     |
+| [LC1704.cpp]     | [Determine if String Halves Are Alike]                                                               | Easy       |
 | [LC1710.cpp]     | [Maximum Units on a Truck]                                                                           | Easy       |
 | [LC1720.cpp]     | [Decode XORed Array]                                                                                 | Easy       |
 | [LC1721.cpp]     | [Swapping Nodes in a Linked List]                                                                    | Medium     |
@@ -2232,6 +2233,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1696.cpp]: Solutions/LC1696.cpp?ts=4
 [Jump Game VI]: https://leetcode.com/problems/jump-game-vi/
+
+[LC1704.cpp]: Solutions/LC1704.cpp?ts=4
+[Determine if String Halves Are Alike]: https://leetcode.com/problems/determine-if-string-halves-are-alike/
 
 [LC1710.cpp]: Solutions/LC1710.cpp?ts=4
 [Maximum Units on a Truck]: https://leetcode.com/problems/maximum-units-on-a-truck/
