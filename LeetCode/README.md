@@ -573,6 +573,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1720.cpp]     | [Decode XORed Array]                                                                                 | Easy       |
 | [LC1721.cpp]     | [Swapping Nodes in a Linked List]                                                                    | Medium     |
 | [LC1732.cpp]     | [Find the Highest Altitude]                                                                          | Easy       |
+| [LC1748.cpp]     | [Sum of Unique Elements]                                                                             | Easy       |
 
 [//]: # (Solutions)
 
@@ -2248,6 +2249,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1732.cpp]: Solutions/LC1732.cpp?ts=4
 [Find the Highest Altitude]: https://leetcode.com/problems/find-the-highest-altitude/
+
+[LC1748.cpp]: Solutions/LC1748.cpp?ts=4
+[Sum of Unique Elements]: https://leetcode.com/problems/sum-of-unique-elements/
 
 
 [//]: # (EOF)
