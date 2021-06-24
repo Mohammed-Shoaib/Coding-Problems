@@ -574,6 +574,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1721.cpp]     | [Swapping Nodes in a Linked List]                                                                    | Medium     |
 | [LC1732.cpp]     | [Find the Highest Altitude]                                                                          | Easy       |
 | [LC1748.cpp]     | [Sum of Unique Elements]                                                                             | Easy       |
+| [LC1763.cpp]     | [Longest Nice Substring]                                                                             | Easy       |
 
 [//]: # (Solutions)
 
@@ -2252,6 +2253,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1748.cpp]: Solutions/LC1748.cpp?ts=4
 [Sum of Unique Elements]: https://leetcode.com/problems/sum-of-unique-elements/
+
+[LC1763.cpp]: Solutions/LC1763.cpp?ts=4
+[Longest Nice Substring]: https://leetcode.com/problems/longest-nice-substring/
 
 
 [//]: # (EOF)
