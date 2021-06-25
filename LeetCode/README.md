@@ -575,6 +575,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1732.cpp]     | [Find the Highest Altitude]                                                                          | Easy       |
 | [LC1748.cpp]     | [Sum of Unique Elements]                                                                             | Easy       |
 | [LC1763.cpp]     | [Longest Nice Substring]                                                                             | Easy       |
+| [LC1768.cpp]     | [Merge Strings Alternately]                                                                          | Easy       |
 
 [//]: # (Solutions)
 
@@ -2256,6 +2257,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1763.cpp]: Solutions/LC1763.cpp?ts=4
 [Longest Nice Substring]: https://leetcode.com/problems/longest-nice-substring/
+
+[LC1768.cpp]: Solutions/LC1768.cpp?ts=4
+[Merge Strings Alternately]: https://leetcode.com/problems/merge-strings-alternately/
 
 
 [//]: # (EOF)
