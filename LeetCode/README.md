@@ -580,6 +580,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1812.cpp]     | [Determine Color of a Chessboard Square]                                                             | Easy       |
 | [LC1816.cpp]     | [Truncate Sentence]                                                                                  | Easy       |
 | [LC1822.cpp]     | [Sign of the Product of an Array]                                                                    | Easy       |
+| [LC1827.cpp]     | [Minimum Operations to Make the Array Increasing]                                                    | Easy       |
 
 [//]: # (Solutions)
 
@@ -2276,6 +2277,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1822.cpp]: Solutions/LC1822.cpp?ts=4
 [Sign of the Product of an Array]: https://leetcode.com/problems/sign-of-the-product-of-an-array/
+
+[LC1827.cpp]: Solutions/LC1827.cpp?ts=4
+[Minimum Operations to Make the Array Increasing]: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
 
 
 [//]: # (EOF)
