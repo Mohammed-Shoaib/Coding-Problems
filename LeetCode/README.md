@@ -578,6 +578,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1763.cpp]     | [Longest Nice Substring]                                                                             | Easy       |
 | [LC1768.cpp]     | [Merge Strings Alternately]                                                                          | Easy       |
 | [LC1812.cpp]     | [Determine Color of a Chessboard Square]                                                             | Easy       |
+| [LC1816.cpp]     | [Truncate Sentence]                                                                                  | Easy       |
 
 [//]: # (Solutions)
 
@@ -2268,6 +2269,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1812.cpp]: Solutions/LC1812.cpp?ts=4
 [Determine Color of a Chessboard Square]: https://leetcode.com/problems/determine-color-of-a-chessboard-square/
+
+[LC1816.cpp]: Solutions/LC1816.cpp?ts=4
+[Truncate Sentence]: https://leetcode.com/problems/truncate-sentence/
 
 
 [//]: # (EOF)
