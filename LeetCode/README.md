@@ -579,6 +579,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1768.cpp]     | [Merge Strings Alternately]                                                                          | Easy       |
 | [LC1812.cpp]     | [Determine Color of a Chessboard Square]                                                             | Easy       |
 | [LC1816.cpp]     | [Truncate Sentence]                                                                                  | Easy       |
+| [LC1822.cpp]     | [Sign of the Product of an Array]                                                                    | Easy       |
 
 [//]: # (Solutions)
 
@@ -2272,6 +2273,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1816.cpp]: Solutions/LC1816.cpp?ts=4
 [Truncate Sentence]: https://leetcode.com/problems/truncate-sentence/
+
+[LC1822.cpp]: Solutions/LC1822.cpp?ts=4
+[Sign of the Product of an Array]: https://leetcode.com/problems/sign-of-the-product-of-an-array/
 
 
 [//]: # (EOF)
