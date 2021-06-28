@@ -581,6 +581,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1816.cpp]     | [Truncate Sentence]                                                                                  | Easy       |
 | [LC1822.cpp]     | [Sign of the Product of an Array]                                                                    | Easy       |
 | [LC1827.cpp]     | [Minimum Operations to Make the Array Increasing]                                                    | Easy       |
+| [LC1832.cpp]     | [Check if the Sentence Is Pangram]                                                                   | Easy       |
 
 [//]: # (Solutions)
 
@@ -2280,6 +2281,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1827.cpp]: Solutions/LC1827.cpp?ts=4
 [Minimum Operations to Make the Array Increasing]: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
+
+[LC1832.cpp]: Solutions/LC1832.cpp?ts=4
+[Check if the Sentence Is Pangram]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 
 
 [//]: # (EOF)
