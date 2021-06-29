@@ -1,5 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/binary-tree-postorder-traversal/
+Time: O(n)
+Space: O(n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
@@ -8,20 +11,27 @@ public:
 		vector<int> order;
 		stack<TreeNode*> st;
 		
-		if (root)
-			st.push(root);
-		
-		while (!st.empty()) {
+		while (!st.empty() || root) {
+			while (root) {
+				if (root->right)
+					st.push(root->right);
+				st.push(root);
+				root = root->left;
+			}
+			
 			root = st.top();
 			st.pop();
-			order.push_back(root->val);
-			if (root->left)
-				st.push(root->left);
-			if (root->right)
-				st.push(root->right);
+			
+			if (!st.empty() && root->right == st.top()) {
+				st.pop();
+				st.push(root);
+				root = root->right;
+			} else {
+				order.push_back(root->val);
+				root = nullptr;
+			}
 		}
 		
-		reverse(order.begin(), order.end());
 		return order;
 	}
 };
