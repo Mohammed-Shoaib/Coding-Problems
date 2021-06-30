@@ -584,6 +584,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1822.cpp]     | [Sign of the Product of an Array]                                                                    | Easy       |
 | [LC1827.cpp]     | [Minimum Operations to Make the Array Increasing]                                                    | Easy       |
 | [LC1832.cpp]     | [Check if the Sentence Is Pangram]                                                                   | Easy       |
+| [LC1837.cpp]     | [Sum of Digits in Base K]                                                                            | Easy       |
 
 [//]: # (Solutions)
 
@@ -2291,6 +2292,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1832.cpp]: Solutions/LC1832.cpp?ts=4
 [Check if the Sentence Is Pangram]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
+
+[LC1837.cpp]: Solutions/LC1837.cpp?ts=4
+[Sum of Digits in Base K]: https://leetcode.com/problems/sum-of-digits-in-base-k/
 
 
 [//]: # (EOF)
