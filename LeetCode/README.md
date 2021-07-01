@@ -585,6 +585,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1827.cpp]     | [Minimum Operations to Make the Array Increasing]                                                    | Easy       |
 | [LC1832.cpp]     | [Check if the Sentence Is Pangram]                                                                   | Easy       |
 | [LC1837.cpp]     | [Sum of Digits in Base K]                                                                            | Easy       |
+| [LC1844.cpp]     | [Replace All Digits with Characters]                                                                 | Easy       |
 
 [//]: # (Solutions)
 
@@ -2295,6 +2296,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1837.cpp]: Solutions/LC1837.cpp?ts=4
 [Sum of Digits in Base K]: https://leetcode.com/problems/sum-of-digits-in-base-k/
+
+[LC1844.cpp]: Solutions/LC1844.cpp?ts=4
+[Replace All Digits with Characters]: https://leetcode.com/problems/replace-all-digits-with-characters/
 
 
 [//]: # (EOF)
