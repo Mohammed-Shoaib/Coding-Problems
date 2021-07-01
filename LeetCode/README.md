@@ -586,6 +586,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1832.cpp]     | [Check if the Sentence Is Pangram]                                                                   | Easy       |
 | [LC1837.cpp]     | [Sum of Digits in Base K]                                                                            | Easy       |
 | [LC1844.cpp]     | [Replace All Digits with Characters]                                                                 | Easy       |
+| [LC1848.cpp]     | [Minimum Distance to the Target Element]                                                             | Easy       |
 
 [//]: # (Solutions)
 
@@ -2299,6 +2300,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1844.cpp]: Solutions/LC1844.cpp?ts=4
 [Replace All Digits with Characters]: https://leetcode.com/problems/replace-all-digits-with-characters/
+
+[LC1848.cpp]: Solutions/LC1848.cpp?ts=4
+[Minimum Distance to the Target Element]: https://leetcode.com/problems/minimum-distance-to-the-target-element/
 
 
 [//]: # (EOF)
