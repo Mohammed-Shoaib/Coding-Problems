@@ -234,6 +234,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0415.cpp]     | [Add Strings]                                                                                        | Easy       |
 | [LC0416.cpp]     | [Partition Equal Subset Sum]                                                                         | Medium     |
 | [LC0421.cpp]     | [Maximum XOR of Two Numbers in an Array]                                                             | Medium     |
+| [LC0423.cpp]     | [Reconstruct Original Digits from English]                                                           | Medium     |
 | [LC0429.cpp]     | [N-ary Tree Level Order Traversal]                                                                   | Medium     |
 | [LC0430.cpp]     | [Flatten a Multilevel Doubly Linked List]                                                            | Medium     |
 | [LC0435.cpp]     | [Non-overlapping Intervals]                                                                          | Medium     |
@@ -1247,6 +1248,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0421.cpp]: Solutions/LC0421.cpp?ts=4
 [Maximum XOR of Two Numbers in an Array]: https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+
+[LC0423.cpp]: Solutions/LC0423.cpp?ts=4
+[Reconstruct Original Digits from English]: https://leetcode.com/problems/reconstruct-original-digits-from-english/
 
 [LC0429.cpp]: Solutions/LC0429.cpp?ts=4
 [N-ary Tree Level Order Traversal]: https://leetcode.com/problems/n-ary-tree-level-order-traversal/
