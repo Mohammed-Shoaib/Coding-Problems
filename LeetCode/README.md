@@ -219,6 +219,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0377.cpp]     | [Combination Sum IV]                                                                                 | Medium     |
 | [LC0378.cpp]     | [Kth Smallest Element in a Sorted Matrix]                                                            | Medium     |
 | [LC0380.cpp]     | [Insert Delete GetRandom O(1)]                                                                       | Medium     |
+| [LC0381.cpp]     | [Insert Delete GetRandom O(1) - Duplicates allowed]                                                  | Hard       |
 | [LC0383.cpp]     | [Ransom Note]                                                                                        | Easy       |
 | [LC0384.cpp]     | [Shuffle an Array]                                                                                   | Medium     |
 | [LC0387.cpp]     | [First Unique Character in a String]                                                                 | Easy       |
@@ -1205,6 +1206,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0380.cpp]: Solutions/LC0380.cpp?ts=4
 [Insert Delete GetRandom O(1)]: https://leetcode.com/problems/insert-delete-getrandom-o1/
+
+[LC0381.cpp]: Solutions/LC0381.cpp?ts=4
+[Insert Delete GetRandom O(1) - Duplicates allowed]: https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
 
 [LC0383.cpp]: Solutions/LC0383.cpp?ts=4
 [Ransom Note]: https://leetcode.com/problems/ransom-note/
