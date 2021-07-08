@@ -398,6 +398,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1025.cpp]     | [Divisor Game]                                                                                       | Easy       |
 | [LC1029.cpp]     | [Two City Scheduling]                                                                                | Easy       |
 | [LC1030.cpp]     | [Matrix Cells in Distance Order]                                                                     | Easy       |
+| [LC1032.cpp]     | [Stream of Characters]                                                                               | Hard       |
 | [LC1035.cpp]     | [Uncrossed Lines]                                                                                    | Medium     |
 | [LC1041.cpp]     | [Robot Bounded In Circle]                                                                            | Medium     |
 | [LC1044.cpp]     | [Longest Duplicate Substring]                                                                        | Hard       |
@@ -1742,6 +1743,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1030.cpp]: Solutions/LC1030.cpp?ts=4
 [Matrix Cells in Distance Order]: https://leetcode.com/problems/matrix-cells-in-distance-order/
+
+[LC1032.cpp]: Solutions/LC1032.cpp?ts=4
+[Stream of Characters]: https://leetcode.com/problems/stream-of-characters/
 
 [LC1035.cpp]: Solutions/LC1035.cpp?ts=4
 [Uncrossed Lines]: https://leetcode.com/problems/uncrossed-lines/
