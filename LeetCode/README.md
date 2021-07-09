@@ -443,6 +443,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1247.cpp]     | [Minimum Swaps to Make Strings Equal]                                                                | Easy       |
 | [LC1248.cpp]     | [Count Number of Nice Subarrays]                                                                     | Medium     |
 | [LC1249.cpp]     | [Minimum Remove to Make Valid Parentheses]                                                           | Medium     |
+| [LC1250.cpp]     | [Check If It Is a Good Array]                                                                        | Hard       |
 | [LC1252.cpp]     | [Cells with Odd Values in a Matrix]                                                                  | Easy       |
 | [LC1260.cpp]     | [Shift 2D Grid]                                                                                      | Easy       |
 | [LC1261.cpp]     | [Find Elements in a Contaminated Binary Tree]                                                        | Medium     |
@@ -1879,6 +1880,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1249.cpp]: Solutions/LC1249.cpp?ts=4
 [Minimum Remove to Make Valid Parentheses]: https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+
+[LC1250.cpp]: Solutions/LC1250.cpp?ts=4
+[Check If It Is a Good Array]: https://leetcode.com/problems/check-if-it-is-a-good-array/
 
 [LC1252.cpp]: Solutions/LC1252.cpp?ts=4
 [Cells with Odd Values in a Matrix]: https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
