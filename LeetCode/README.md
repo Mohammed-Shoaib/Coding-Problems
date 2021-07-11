@@ -448,6 +448,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1260.cpp]     | [Shift 2D Grid]                                                                                      | Easy       |
 | [LC1261.cpp]     | [Find Elements in a Contaminated Binary Tree]                                                        | Medium     |
 | [LC1262.cpp]     | [Greatest Sum Divisible by Three]                                                                    | Medium     |
+| [LC1263.cpp]     | [Minimum Moves to Move a Box to Their Target Location]                                               | Hard       |
 | [LC1266.cpp]     | [Minimum Time Visiting All Points]                                                                   | Easy       |
 | [LC1267.cpp]     | [Count Servers that Communicate]                                                                     | Medium     |
 | [LC1268.cpp]     | [Search Suggestions System]                                                                          | Medium     |
@@ -1895,6 +1896,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1262.cpp]: Solutions/LC1262.cpp?ts=4
 [Greatest Sum Divisible by Three]: https://leetcode.com/problems/greatest-sum-divisible-by-three/
+
+[LC1263.cpp]: Solutions/LC1263.cpp?ts=4
+[Minimum Moves to Move a Box to Their Target Location]: https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/
 
 [LC1266.cpp]: Solutions/LC1266.cpp?ts=4
 [Minimum Time Visiting All Points]: https://leetcode.com/problems/minimum-time-visiting-all-points/
