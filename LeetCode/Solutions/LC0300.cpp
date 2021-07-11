@@ -1,5 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/longest-increasing-subsequence/
+Time: O(n • log n)
+Space: O(n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
