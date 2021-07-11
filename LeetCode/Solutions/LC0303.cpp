@@ -1,5 +1,8 @@
 /*
 Problem Statement: https://leetcode.com/problems/range-sum-query-immutable/
+Time: O(n • log n)
+Space: O(n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class NumArray {
