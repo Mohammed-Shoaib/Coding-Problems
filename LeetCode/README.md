@@ -452,6 +452,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1266.cpp]     | [Minimum Time Visiting All Points]                                                                   | Easy       |
 | [LC1267.cpp]     | [Count Servers that Communicate]                                                                     | Medium     |
 | [LC1268.cpp]     | [Search Suggestions System]                                                                          | Medium     |
+| [LC1269.cpp]     | [Number of Ways to Stay in the Same Place After Some Steps]                                          | Hard       |
 | [LC1275.cpp]     | [Find Winner on a Tic Tac Toe Game]                                                                  | Easy       |
 | [LC1276.cpp]     | [Number of Burgers with No Waste of Ingredients]                                                     | Medium     |
 | [LC1277.cpp]     | [Count Square Submatrices with All Ones]                                                             | Medium     |
@@ -1908,6 +1909,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1268.cpp]: Solutions/LC1268.cpp?ts=4
 [Search Suggestions System]: https://leetcode.com/problems/search-suggestions-system/
+
+[LC1269.cpp]: Solutions/LC1269.cpp?ts=4
+[Number of Ways to Stay in the Same Place After Some Steps]: https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/
 
 [LC1275.cpp]: Solutions/LC1275.cpp?ts=4
 [Find Winner on a Tic Tac Toe Game]: https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
