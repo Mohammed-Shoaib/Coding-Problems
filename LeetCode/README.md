@@ -460,6 +460,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1281.cpp]     | [Subtract the Product and Sum of Digits of an Integer]                                               | Easy       |
 | [LC1282.cpp]     | [Group the People Given the Group Size They Belong To]                                               | Medium     |
 | [LC1283.cpp]     | [Find the Smallest Divisor Given a Threshold]                                                        | Medium     |
+| [LC1284.cpp]     | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix]                                    | Hard       |
 | [LC1286.cpp]     | [Iterator for Combination]                                                                           | Medium     |
 | [LC1287.cpp]     | [Element Appearing More Than 25% In Sorted Array]                                                    | Easy       |
 | [LC1288.cpp]     | [Remove Covered Intervals]                                                                           | Medium     |
@@ -1934,6 +1935,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1283.cpp]: Solutions/LC1283.cpp?ts=4
 [Find the Smallest Divisor Given a Threshold]: https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
+
+[LC1284.cpp]: Solutions/LC1284.cpp?ts=4
+[Minimum Number of Flips to Convert Binary Matrix to Zero Matrix]: https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
 
 [LC1286.cpp]: Solutions/LC1286.cpp?ts=4
 [Iterator for Combination]: https://leetcode.com/problems/iterator-for-combination/
