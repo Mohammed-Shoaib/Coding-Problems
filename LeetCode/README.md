@@ -471,6 +471,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1295.cpp]     | [Find Numbers with Even Number of Digits]                                                            | Easy       |
 | [LC1296.cpp]     | [Divide Array in Sets of K Consecutive Numbers]                                                      | Medium     |
 | [LC1297.cpp]     | [Maximum Number of Occurrences of a Substring]                                                       | Medium     |
+| [LC1298.cpp]     | [Maximum Candies You Can Get from Boxes]                                                             | Hard       |
 | [LC1299.cpp]     | [Replace Elements with Greatest Element on Right Side]                                               | Easy       |
 | [LC1300.cpp]     | [Sum of Mutated Array Closest to Target]                                                             | Medium     |
 | [LC1302.cpp]     | [Deepest Leaves Sum]                                                                                 | Medium     |
@@ -1969,6 +1970,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1297.cpp]: Solutions/LC1297.cpp?ts=4
 [Maximum Number of Occurrences of a Substring]: https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
+
+[LC1298.cpp]: Solutions/LC1298.cpp?ts=4
+[Maximum Candies You Can Get from Boxes]: https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
 
 [LC1299.cpp]: Solutions/LC1299.cpp?ts=4
 [Replace Elements with Greatest Element on Right Side]: https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
