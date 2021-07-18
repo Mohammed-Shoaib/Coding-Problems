@@ -474,6 +474,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1298.cpp]     | [Maximum Candies You Can Get from Boxes]                                                             | Hard       |
 | [LC1299.cpp]     | [Replace Elements with Greatest Element on Right Side]                                               | Easy       |
 | [LC1300.cpp]     | [Sum of Mutated Array Closest to Target]                                                             | Medium     |
+| [LC1301.cpp]     | [Number of Paths with Max Score]                                                                     | Hard       |
 | [LC1302.cpp]     | [Deepest Leaves Sum]                                                                                 | Medium     |
 | [LC1304.cpp]     | [Find N Unique Integers Sum up to Zero]                                                              | Easy       |
 | [LC1305.cpp]     | [All Elements in Two Binary Search Trees]                                                            | Medium     |
@@ -1979,6 +1980,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1300.cpp]: Solutions/LC1300.cpp?ts=4
 [Sum of Mutated Array Closest to Target]: https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
+
+[LC1301.cpp]: Solutions/LC1301.cpp?ts=4
+[Number of Paths with Max Score]: https://leetcode.com/problems/number-of-paths-with-max-score/
 
 [LC1302.cpp]: Solutions/LC1302.cpp?ts=4
 [Deepest Leaves Sum]: https://leetcode.com/problems/deepest-leaves-sum/
