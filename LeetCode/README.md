@@ -482,6 +482,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1309.cpp]     | [Decrypt String from Alphabet to Integer Mapping]                                                    | Easy       |
 | [LC1310.cpp]     | [XOR Queries of a Subarray]                                                                          | Medium     |
 | [LC1311.cpp]     | [Get Watched Videos by Your Friends]                                                                 | Medium     |
+| [LC1312.cpp]     | [Minimum Insertion Steps to Make a String Palindrome]                                                | Hard       |
 | [LC1313.cpp]     | [Decompress Run-Length Encoded List]                                                                 | Easy       |
 | [LC1314.cpp]     | [Matrix Block Sum]                                                                                   | Medium     |
 | [LC1315.cpp]     | [Sum of Nodes with Even-Valued Grandparent]                                                          | Medium     |
@@ -501,6 +502,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1356.cpp]     | [Sort Integers by The Number of 1 Bits]                                                              | Easy       |
 | [LC1357.cpp]     | [Apply Discount Every n Orders]                                                                      | Medium     |
 | [LC1358.cpp]     | [Number of Substrings Containing All Three Characters]                                               | Medium     |
+| [LC1359.cpp]     | [Count All Valid Pickup and Delivery Options]                                                        | Hard       |
 | [LC1365.cpp]     | [How Many Numbers Are Smaller Than the Current Number]                                               | Easy       |
 | [LC1370.cpp]     | [Increasing Decreasing String]                                                                       | Easy       |
 | [LC1371.cpp]     | [Find the Longest Substring Containing Vowels in Even Counts]                                        | Medium     |
@@ -2005,6 +2007,9 @@ The questions are divided into 3 levels of difficulty:
 [LC1311.cpp]: Solutions/LC1311.cpp?ts=4
 [Get Watched Videos by Your Friends]: https://leetcode.com/problems/get-watched-videos-by-your-friends/
 
+[LC1312.cpp]: Solutions/LC1312.cpp?ts=4
+[Minimum Insertion Steps to Make a String Palindrome]: https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+
 [LC1313.cpp]: Solutions/LC1313.cpp?ts=4
 [Decompress Run-Length Encoded List]: https://leetcode.com/problems/decompress-run-length-encoded-list/
 
@@ -2061,6 +2066,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1358.cpp]: Solutions/LC1358.cpp?ts=4
 [Number of Substrings Containing All Three Characters]: https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+
+[LC1359.cpp]: Solutions/LC1359.cpp?ts=4
+[Count All Valid Pickup and Delivery Options]: https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/
 
 [LC1365.cpp]: Solutions/LC1365.cpp?ts=4
 [How Many Numbers Are Smaller Than the Current Number]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
