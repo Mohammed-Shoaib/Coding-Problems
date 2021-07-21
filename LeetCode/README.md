@@ -507,6 +507,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1370.cpp]     | [Increasing Decreasing String]                                                                       | Easy       |
 | [LC1371.cpp]     | [Find the Longest Substring Containing Vowels in Even Counts]                                        | Medium     |
 | [LC1372.cpp]     | [Longest ZigZag Path in a Binary Tree]                                                               | Medium     |
+| [LC1373.cpp]     | [Maximum Sum BST in Binary Tree]                                                                     | Hard       |
 | [LC1374.cpp]     | [Generate a String With Characters That Have Odd Counts]                                             | Easy       |
 | [LC1375.cpp]     | [Bulb Switcher III]                                                                                  | Medium     |
 | [LC1380.cpp]     | [Lucky Numbers in a Matrix]                                                                          | Easy       |
@@ -2081,6 +2082,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1372.cpp]: Solutions/LC1372.cpp?ts=4
 [Longest ZigZag Path in a Binary Tree]: https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
+
+[LC1373.cpp]: Solutions/LC1373.cpp?ts=4
+[Maximum Sum BST in Binary Tree]: https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
 
 [LC1374.cpp]: Solutions/LC1374.cpp?ts=4
 [Generate a String With Characters That Have Odd Counts]: https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
