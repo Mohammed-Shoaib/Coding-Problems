@@ -1,10 +1,13 @@
 /*
 Problem Statement: https://leetcode.com/problems/reducing-dishes/
+Time: O(n • log n)
+Space: O(n)
+Author: Mohammed Shoaib, github.com/Mohammed-Shoaib
 */
 
 class Solution {
 public:
-	int maxSatisfaction(vector<int>& sat) {
+	int maxSatisfaction(vector<int> sat) {
 		int n, sum, run_sum;
 		n = sat.size();
 		sum = run_sum = 0;
