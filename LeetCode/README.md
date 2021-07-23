@@ -531,6 +531,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1408.cpp]     | [String Matching in an Array]                                                                        | Easy       |
 | [LC1409.cpp]     | [Queries on a Permutation With Key]                                                                  | Medium     |
 | [LC1410.cpp]     | [HTML Entity Parser]                                                                                 | Medium     |
+| [LC1411.cpp]     | [Number of Ways to Paint N × 3 Grid]                                                                 | Hard       |
 | [LC1423.cpp]     | [Maximum Points You Can Obtain from Cards]                                                           | Medium     |
 | [LC1426.cpp]     | [Counting Elements]                                                                                  | Easy       |
 | [LC1427.cpp]     | [Perform String Shifts]                                                                              | Easy       |
@@ -2156,6 +2157,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1410.cpp]: Solutions/LC1410.cpp?ts=4
 [HTML Entity Parser]: https://leetcode.com/problems/html-entity-parser/
+
+[LC1411.cpp]: Solutions/LC1411.cpp?ts=4
+[Number of Ways to Paint N × 3 Grid]: https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/
 
 [LC1423.cpp]: Solutions/LC1423.cpp?ts=4
 [Maximum Points You Can Obtain from Cards]: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
