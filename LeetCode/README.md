@@ -564,6 +564,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1534.cpp]     | [Count Good Triplets]                                                                                | Easy       |
 | [LC1535.cpp]     | [Find the Winner of an Array Game]                                                                   | Medium     |
 | [LC1536.cpp]     | [Minimum Swaps to Arrange a Binary Grid]                                                             | Medium     |
+| [LC1537.cpp]     | [Get the Maximum Score]                                                                              | Hard       |
 | [LC1539.cpp]     | [Kth Missing Positive Number]                                                                        | Easy       |
 | [LC1540.cpp]     | [Can Convert String in K Moves]                                                                      | Medium     |
 | [LC1541.cpp]     | [Minimum Insertions to Balance a Parentheses String]                                                 | Medium     |
@@ -2258,6 +2259,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1536.cpp]: Solutions/LC1536.cpp?ts=4
 [Minimum Swaps to Arrange a Binary Grid]: https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/
+
+[LC1537.cpp]: Solutions/LC1537.cpp?ts=4
+[Get the Maximum Score]: https://leetcode.com/problems/get-the-maximum-score/
 
 [LC1539.cpp]: Solutions/LC1539.cpp?ts=4
 [Kth Missing Positive Number]: https://leetcode.com/problems/kth-missing-positive-number/
