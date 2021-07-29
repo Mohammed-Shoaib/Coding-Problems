@@ -576,6 +576,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1550.cpp]     | [Three Consecutive Odds]                                                                             | Easy       |
 | [LC1566.cpp]     | [Detect Pattern of Length M Repeated K or More Times]                                                | Easy       |
 | [LC1567.cpp]     | [Maximum Length of Subarray With Positive Product]                                                   | Medium     |
+| [LC1568.cpp]     | [Minimum Number of Days to Disconnect Island]                                                        | Hard       |
 | [LC1572.cpp]     | [Matrix Diagonal Sum]                                                                                | Easy       |
 | [LC1576.cpp]     | [Replace All ?'s to Avoid Consecutive Repeating Characters]                                          | Easy       |
 | [LC1577.cpp]     | [Number of Ways Where Square of Number Is Equal to Product of Two Numbers]                           | Medium     |
@@ -2297,6 +2298,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1567.cpp]: Solutions/LC1567.cpp?ts=4
 [Maximum Length of Subarray With Positive Product]: https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/
+
+[LC1568.cpp]: Solutions/LC1568.cpp?ts=4
+[Minimum Number of Days to Disconnect Island]: https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/
 
 [LC1572.cpp]: Solutions/LC1572.cpp?ts=4
 [Matrix Diagonal Sum]: https://leetcode.com/problems/matrix-diagonal-sum/
