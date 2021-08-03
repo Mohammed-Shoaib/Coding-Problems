@@ -23,6 +23,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0013.cpp]     | [Roman to Integer]                                                                                   | Easy       |
 | [LC0014.cpp]     | [Longest Common Prefix]                                                                              | Easy       |
 | [LC0015.cpp]     | [3Sum]                                                                                               | Medium     |
+| [LC0016.cpp]     | [3Sum Closest]                                                                                       | Medium     |
 | [LC0017.cpp]     | [Letter Combinations of a Phone Number]                                                              | Medium     |
 | [LC0018.cpp]     | [4Sum]                                                                                               | Medium     |
 | [LC0019.cpp]     | [Remove Nth Node From End of List]                                                                   | Medium     |
@@ -647,6 +648,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0015.cpp]: Solutions/LC0015.cpp?ts=4
 [3Sum]: https://leetcode.com/problems/3sum/
+
+[LC0016.cpp]: Solutions/LC0016.cpp?ts=4
+[3Sum Closest]: https://leetcode.com/problems/3sum-closest/
 
 [LC0017.cpp]: Solutions/LC0017.cpp?ts=4
 [Letter Combinations of a Phone Number]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
