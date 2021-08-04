@@ -76,6 +76,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0088.cpp]     | [Merge Sorted Array]                                                                                 | Easy       |
 | [LC0089.cpp]     | [Gray Code]                                                                                          | Medium     |
 | [LC0090.cpp]     | [Subsets II]                                                                                         | Medium     |
+| [LC0091.cpp]     | [Decode Ways]                                                                                        | Medium     |
 | [LC0092.cpp]     | [Reverse Linked List II]                                                                             | Medium     |
 | [LC0094.cpp]     | [Binary Tree Inorder Traversal]                                                                      | Medium     |
 | [LC0095.cpp]     | [Unique Binary Search Trees II]                                                                      | Medium     |
@@ -806,6 +807,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0090.cpp]: Solutions/LC0090.cpp?ts=4
 [Subsets II]: https://leetcode.com/problems/subsets-ii/
+
+[LC0091.cpp]: Solutions/LC0091.cpp?ts=4
+[Decode Ways]: https://leetcode.com/problems/decode-ways/
 
 [LC0092.cpp]: Solutions/LC0092.cpp?ts=4
 [Reverse Linked List II]: https://leetcode.com/problems/reverse-linked-list-ii/
