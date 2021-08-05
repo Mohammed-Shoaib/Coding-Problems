@@ -254,6 +254,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0450.cpp]     | [Delete Node in a BST]                                                                               | Medium     |
 | [LC0451.cpp]     | [Sort Characters By Frequency]                                                                       | Medium     |
 | [LC0453.cpp]     | [Minimum Moves to Equal Array Elements]                                                              | Easy       |
+| [LC0454.cpp]     | [4Sum II]                                                                                            | Medium     |
 | [LC0459.cpp]     | [Repeated Substring Pattern]                                                                         | Easy       |
 | [LC0460.cpp]     | [LFU Cache]                                                                                          | Hard       |
 | [LC0461.cpp]     | [Hamming Distance]                                                                                   | Easy       |
@@ -1339,6 +1340,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0453.cpp]: Solutions/LC0453.cpp?ts=4
 [Minimum Moves to Equal Array Elements]: https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
+
+[LC0454.cpp]: Solutions/LC0454.cpp?ts=4
+[4Sum II]: https://leetcode.com/problems/4sum-ii/
 
 [LC0459.cpp]: Solutions/LC0459.cpp?ts=4
 [Repeated Substring Pattern]: https://leetcode.com/problems/repeated-substring-pattern/
