@@ -263,6 +263,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0468.cpp]     | [Validate IP Address]                                                                                | Medium     |
 | [LC0470.cpp]     | [Implement Rand10() Using Rand7()]                                                                   | Medium     |
 | [LC0473.cpp]     | [Matchsticks to Square]                                                                              | Medium     |
+| [LC0474.cpp]     | [Ones and Zeroes]                                                                                    | Medium     |
 | [LC0476.cpp]     | [Number Complement]                                                                                  | Easy       |
 | [LC0485.cpp]     | [Max Consecutive Ones]                                                                               | Easy       |
 | [LC0494.cpp]     | [Target Sum]                                                                                         | Medium     |
@@ -1368,6 +1369,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0473.cpp]: Solutions/LC0473.cpp?ts=4
 [Matchsticks to Square]: https://leetcode.com/problems/matchsticks-to-square/
+
+[LC0474.cpp]: Solutions/LC0474.cpp?ts=4
+[Ones and Zeroes]: https://leetcode.com/problems/ones-and-zeroes/
 
 [LC0476.cpp]: Solutions/LC0476.cpp?ts=4
 [Number Complement]: https://leetcode.com/problems/number-complement/
