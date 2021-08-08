@@ -276,6 +276,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0515.cpp]     | [Find Largest Value in Each Tree Row]                                                                | Medium     |
 | [LC0518.cpp]     | [Coin Change 2]                                                                                      | Medium     |
 | [LC0520.cpp]     | [Detect Capital]                                                                                     | Easy       |
+| [LC0524.cpp]     | [Longest Word in Dictionary through Deleting]                                                        | Medium     |
 | [LC0525.cpp]     | [Contiguous Array]                                                                                   | Medium     |
 | [LC0526.cpp]     | [Beautiful Arrangement]                                                                              | Medium     |
 | [LC0528.cpp]     | [Random Pick with Weight]                                                                            | Medium     |
@@ -1408,6 +1409,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0520.cpp]: Solutions/LC0520.cpp?ts=4
 [Detect Capital]: https://leetcode.com/problems/detect-capital/
+
+[LC0524.cpp]: Solutions/LC0524.cpp?ts=4
+[Longest Word in Dictionary through Deleting]: https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
 
 [LC0525.cpp]: Solutions/LC0525.cpp?ts=4
 [Contiguous Array]: https://leetcode.com/problems/contiguous-array/
