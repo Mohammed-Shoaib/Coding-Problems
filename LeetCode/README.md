@@ -281,6 +281,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0526.cpp]     | [Beautiful Arrangement]                                                                              | Medium     |
 | [LC0528.cpp]     | [Random Pick with Weight]                                                                            | Medium     |
 | [LC0532.cpp]     | [K-diff Pairs in an Array]                                                                           | Medium     |
+| [LC0538.cpp]     | [Convert BST to Greater Tree]                                                                        | Medium     |
 | [LC0540.cpp]     | [Single Element in a Sorted Array]                                                                   | Medium     |
 | [LC0541.cpp]     | [Reverse String II]                                                                                  | Easy       |
 | [LC0543.cpp]     | [Diameter of Binary Tree]                                                                            | Easy       |
@@ -1424,6 +1425,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0532.cpp]: Solutions/LC0532.cpp?ts=4
 [K-diff Pairs in an Array]: https://leetcode.com/problems/k-diff-pairs-in-an-array/
+
+[LC0538.cpp]: Solutions/LC0538.cpp?ts=4
+[Convert BST to Greater Tree]: https://leetcode.com/problems/convert-bst-to-greater-tree/
 
 [LC0540.cpp]: Solutions/LC0540.cpp?ts=4
 [Single Element in a Sorted Array]: https://leetcode.com/problems/single-element-in-a-sorted-array/
