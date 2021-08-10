@@ -303,6 +303,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0594.cpp]     | [Longest Harmonious Subsequence]                                                                     | Easy       |
 | [LC0606.cpp]     | [Construct String from Binary Tree]                                                                  | Easy       |
 | [LC0609.cpp]     | [Find Duplicate File in System]                                                                      | Medium     |
+| [LC0611.cpp]     | [Valid Triangle Number]                                                                              | Medium     |
 | [LC0617.cpp]     | [Merge Two Binary Trees]                                                                             | Easy       |
 | [LC0621.cpp]     | [Task Scheduler]                                                                                     | Medium     |
 | [LC0630.cpp]     | [Course Schedule III]                                                                                | Hard       |
@@ -1491,6 +1492,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0609.cpp]: Solutions/LC0609.cpp?ts=4
 [Find Duplicate File in System]: https://leetcode.com/problems/find-duplicate-file-in-system/
+
+[LC0611.cpp]: Solutions/LC0611.cpp?ts=4
+[Valid Triangle Number]: https://leetcode.com/problems/valid-triangle-number/
 
 [LC0617.cpp]: Solutions/LC0617.cpp?ts=4
 [Merge Two Binary Trees]: https://leetcode.com/problems/merge-two-binary-trees/
