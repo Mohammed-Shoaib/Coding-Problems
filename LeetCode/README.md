@@ -284,6 +284,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0538.cpp]     | [Convert BST to Greater Tree]                                                                        | Medium     |
 | [LC0540.cpp]     | [Single Element in a Sorted Array]                                                                   | Medium     |
 | [LC0541.cpp]     | [Reverse String II]                                                                                  | Easy       |
+| [LC0542.cpp]     | [01 Matrix]                                                                                          | Medium     |
 | [LC0543.cpp]     | [Diameter of Binary Tree]                                                                            | Easy       |
 | [LC0554.cpp]     | [Brick Wall]                                                                                         | Medium     |
 | [LC0556.cpp]     | [Next Greater Element III]                                                                           | Medium     |
@@ -1434,6 +1435,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0541.cpp]: Solutions/LC0541.cpp?ts=4
 [Reverse String II]: https://leetcode.com/problems/reverse-string-ii/
+
+[LC0542.cpp]: Solutions/LC0542.cpp?ts=4
+[01 Matrix]: https://leetcode.com/problems/01-matrix/
 
 [LC0543.cpp]: Solutions/LC0543.cpp?ts=4
 [Diameter of Binary Tree]: https://leetcode.com/problems/diameter-of-binary-tree/
