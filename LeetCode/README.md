@@ -306,6 +306,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0611.cpp]     | [Valid Triangle Number]                                                                              | Medium     |
 | [LC0617.cpp]     | [Merge Two Binary Trees]                                                                             | Easy       |
 | [LC0621.cpp]     | [Task Scheduler]                                                                                     | Medium     |
+| [LC0622.cpp]     | [Design Circular Queue]                                                                              | Medium     |
 | [LC0630.cpp]     | [Course Schedule III]                                                                                | Hard       |
 | [LC0637.cpp]     | [Average of Levels in Binary Tree]                                                                   | Easy       |
 | [LC0643.cpp]     | [Maximum Average Subarray I]                                                                         | Easy       |
@@ -1501,6 +1502,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0621.cpp]: Solutions/LC0621.cpp?ts=4
 [Task Scheduler]: https://leetcode.com/problems/task-scheduler/
+
+[LC0622.cpp]: Solutions/LC0622.cpp?ts=4
+[Design Circular Queue]: https://leetcode.com/problems/design-circular-queue/
 
 [LC0630.cpp]: Solutions/LC0630.cpp?ts=4
 [Course Schedule III]: https://leetcode.com/problems/course-schedule-iii/
