@@ -309,6 +309,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0622.cpp]     | [Design Circular Queue]                                                                              | Medium     |
 | [LC0630.cpp]     | [Course Schedule III]                                                                                | Hard       |
 | [LC0637.cpp]     | [Average of Levels in Binary Tree]                                                                   | Easy       |
+| [LC0641.cpp]     | [Design Circular Deque]                                                                              | Medium     |
 | [LC0643.cpp]     | [Maximum Average Subarray I]                                                                         | Easy       |
 | [LC0645.cpp]     | [Set Mismatch]                                                                                       | Easy       |
 | [LC0647.cpp]     | [Palindromic Substrings]                                                                             | Medium     |
@@ -1511,6 +1512,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0637.cpp]: Solutions/LC0637.cpp?ts=4
 [Average of Levels in Binary Tree]: https://leetcode.com/problems/average-of-levels-in-binary-tree/
+
+[LC0641.cpp]: Solutions/LC0641.cpp?ts=4
+[Design Circular Deque]: https://leetcode.com/problems/design-circular-deque/
 
 [LC0643.cpp]: Solutions/LC0643.cpp?ts=4
 [Maximum Average Subarray I]: https://leetcode.com/problems/maximum-average-subarray-i/
