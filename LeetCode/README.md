@@ -314,6 +314,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0645.cpp]     | [Set Mismatch]                                                                                       | Easy       |
 | [LC0647.cpp]     | [Palindromic Substrings]                                                                             | Medium     |
 | [LC0657.cpp]     | [DI String Match]                                                                                    | Easy       |
+| [LC0658.cpp]     | [Find K Closest Elements]                                                                            | Medium     |
 | [LC0661.cpp]     | [Image Smoother]                                                                                     | Easy       |
 | [LC0662.cpp]     | [Maximum Width of Binary Tree]                                                                       | Medium     |
 | [LC0665.cpp]     | [Non-decreasing Array]                                                                               | Easy       |
@@ -1527,6 +1528,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0657.cpp]: Solutions/LC0657.cpp?ts=4
 [DI String Match]: https://leetcode.com/problems/di-string-match/
+
+[LC0658.cpp]: Solutions/LC0658.cpp?ts=4
+[Find K Closest Elements]: https://leetcode.com/problems/find-k-closest-elements/
 
 [LC0661.cpp]: Solutions/LC0661.cpp?ts=4
 [Image Smoother]: https://leetcode.com/problems/image-smoother/
