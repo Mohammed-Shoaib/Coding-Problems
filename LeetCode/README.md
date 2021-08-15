@@ -327,6 +327,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0693.cpp]     | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)                | Easy       |
 | [LC0695.cpp]     | [Max Area of Island]                                                                                 | Medium     |
 | [LC0696.cpp]     | [Count Binary Substrings]                                                                            | Easy       |
+| [LC0698.cpp]     | [Partition to K Equal Sum Subsets]                                                                   | Medium     |
 | [LC0700.cpp]     | [Search in a Binary Search Tree]                                                                     | Easy       |
 | [LC0701.cpp]     | [Insert into a Binary Search Tree]                                                                   | Medium     |
 | [LC0704.cpp]     | [Binary Search]                                                                                      | Easy       |
@@ -1566,6 +1567,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0696.cpp]: Solutions/LC0696.cpp?ts=4
 [Count Binary Substrings]: https://leetcode.com/problems/count-binary-substrings/
+
+[LC0698.cpp]: Solutions/LC0698.cpp?ts=4
+[Partition to K Equal Sum Subsets]: https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 
 [LC0700.cpp]: Solutions/LC0700.cpp?ts=4
 [Search in a Binary Search Tree]: https://leetcode.com/problems/search-in-a-binary-search-tree/
