@@ -338,6 +338,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0713.cpp]     | [Subarray Product Less Than K]                                                                       | Medium     |
 | [LC0714.cpp]     | [Best Time to Buy and Sell Stock with Transaction Fee]                                               | Medium     |
 | [LC0718.cpp]     | [Maximum Length of Repeated Subarray]                                                                | Medium     |
+| [LC0720.cpp]     | [Longest Word in Dictionary]                                                                         | Medium     |
 | [LC0728.cpp]     | [Self Dividing Numbers]                                                                              | Easy       |
 | [LC0729.cpp]     | [My Calendar I]                                                                                      | Medium     |
 | [LC0733.cpp]     | [Flood Fill]                                                                                         | Easy       |
@@ -1600,6 +1601,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0718.cpp]: Solutions/LC0718.cpp?ts=4
 [Maximum Length of Repeated Subarray]: https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+
+[LC0720.cpp]: Solutions/LC0720.cpp?ts=4
+[Longest Word in Dictionary]: https://leetcode.com/problems/longest-word-in-dictionary/
 
 [LC0728.cpp]: Solutions/LC0728.cpp?ts=4
 [Self Dividing Numbers]: https://leetcode.com/problems/self-dividing-numbers/
