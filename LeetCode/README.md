@@ -350,6 +350,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0763.cpp]     | [Partition Labels]                                                                                   | Medium     |
 | [LC0766.cpp]     | [Toeplitz Matrix]                                                                                    | Easy       |
 | [LC0771.cpp]     | [Jewels and Stones]                                                                                  | Easy       |
+| [LC0775.cpp]     | [Global and Local Inversions]                                                                        | Medium     |
 | [LC0778.cpp]     | [Swim in Rising Water]                                                                               | Hard       |
 | [LC0787.cpp]     | [Cheapest Flights Within K Stops]                                                                    | Medium     |
 | [LC0788.cpp]     | [Rotated Digits]                                                                                     | Easy       |
@@ -1637,6 +1638,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0771.cpp]: Solutions/LC0771.cpp?ts=4
 [Jewels and Stones]: https://leetcode.com/problems/jewels-and-stones/
+
+[LC0775.cpp]: Solutions/LC0775.cpp?ts=4
+[Global and Local Inversions]: https://leetcode.com/problems/global-and-local-inversions/
 
 [LC0778.cpp]: Solutions/LC0778.cpp?ts=4
 [Swim in Rising Water]: https://leetcode.com/problems/swim-in-rising-water/
