@@ -13,16 +13,16 @@ Solutions to some of the coding problems from popular websites. Currently, there
 
 ## Stats
 
-Number of problems solved: **1449**
+Number of problems solved: **1450**
 
 ### LeetCode
 
 | Type   | Solved |
 |:------:|:------:|
 | Easy   | 261    |
-| Medium | 299    |
+| Medium | 300    |
 | Hard   | 60     |
-| Total  | 620    |
+| Total  | 621    |
 
 ### HackerRank
 
