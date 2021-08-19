@@ -353,6 +353,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0775.cpp]     | [Global and Local Inversions]                                                                        | Medium     |
 | [LC0778.cpp]     | [Swim in Rising Water]                                                                               | Hard       |
 | [LC0784.cpp]     | [Letter Case Permutation]                                                                            | Medium     |
+| [LC0785.cpp]     | [Is Graph Bipartite?]                                                                                | Medium     |
 | [LC0787.cpp]     | [Cheapest Flights Within K Stops]                                                                    | Medium     |
 | [LC0788.cpp]     | [Rotated Digits]                                                                                     | Easy       |
 | [LC0796.cpp]     | [Rotate String]                                                                                      | Easy       |
@@ -1648,6 +1649,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0784.cpp]: Solutions/LC0784.cpp?ts=4
 [Letter Case Permutation]: https://leetcode.com/problems/letter-case-permutation/
+
+[LC0785.cpp]: Solutions/LC0785.cpp?ts=4
+[Is Graph Bipartite?]: https://leetcode.com/problems/is-graph-bipartite/
 
 [LC0787.cpp]: Solutions/LC0787.cpp?ts=4
 [Cheapest Flights Within K Stops]: https://leetcode.com/problems/cheapest-flights-within-k-stops/
