@@ -356,6 +356,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0785.cpp]     | [Is Graph Bipartite?]                                                                                | Medium     |
 | [LC0787.cpp]     | [Cheapest Flights Within K Stops]                                                                    | Medium     |
 | [LC0788.cpp]     | [Rotated Digits]                                                                                     | Easy       |
+| [LC0791.cpp]     | [Custom Sort String]                                                                                 | Medium     |
 | [LC0796.cpp]     | [Rotate String]                                                                                      | Easy       |
 | [LC0797.cpp]     | [All Paths From Source to Target]                                                                    | Medium     |
 | [LC0804.cpp]     | [Unique Morse Code Words]                                                                            | Easy       |
@@ -1658,6 +1659,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0788.cpp]: Solutions/LC0788.cpp?ts=4
 [Rotated Digits]: https://leetcode.com/problems/rotated-digits/
+
+[LC0791.cpp]: Solutions/LC0791.cpp?ts=4
+[Custom Sort String]: https://leetcode.com/problems/custom-sort-string/
 
 [LC0796.cpp]: Solutions/LC0796.cpp?ts=4
 [Rotate String]: https://leetcode.com/problems/rotate-string/
