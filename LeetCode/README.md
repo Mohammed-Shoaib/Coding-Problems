@@ -37,6 +37,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0034.cpp]     | [Find First and Last Position of Element in Sorted Array]                                            | Medium     |
 | [LC0035.cpp]     | [Search Insert Position]                                                                             | Easy       |
 | [LC0036.cpp]     | [Valid Sudoku]                                                                                       | Medium     |
+| [LC0037.cpp]     | [Sudoku Solver]                                                                                      | Hard       |
 | [LC0038.cpp]     | [Count and Say]                                                                                      | Easy       |
 | [LC0039.cpp]     | [Combination Sum]                                                                                    | Medium     |
 | [LC0040.cpp]     | [Combination Sum II]                                                                                 | Medium     |
@@ -708,6 +709,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0036.cpp]: Solutions/LC0036.cpp?ts=4
 [Valid Sudoku]: https://leetcode.com/problems/valid-sudoku/
+
+[LC0037.cpp]: Solutions/LC0037.cpp?ts=4
+[Sudoku Solver]: https://leetcode.com/problems/sudoku-solver/
 
 [LC0038.cpp]: Solutions/LC0038.cpp?ts=4
 [Count and Say]: https://leetcode.com/problems/count-and-say/
