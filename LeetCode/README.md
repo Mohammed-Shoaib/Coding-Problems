@@ -363,6 +363,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0797.cpp]     | [All Paths From Source to Target]                                                                    | Medium     |
 | [LC0804.cpp]     | [Unique Morse Code Words]                                                                            | Easy       |
 | [LC0812.cpp]     | [Largest Triangle Area]                                                                              | Easy       |
+| [LC0814.cpp]     | [Binary Tree Pruning]                                                                                | Medium     |
 | [LC0816.cpp]     | [Ambiguous Coordinates]                                                                              | Medium     |
 | [LC0821.cpp]     | [Shortest Distance to a Character]                                                                   | Easy       |
 | [LC0824.cpp]     | [Goat Latin]                                                                                         | Easy       |
@@ -1682,6 +1683,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0812.cpp]: Solutions/LC0812.cpp?ts=4
 [Largest Triangle Area]: https://leetcode.com/problems/largest-triangle-area/
+
+[LC0814.cpp]: Solutions/LC0814.cpp?ts=4
+[Binary Tree Pruning]: https://leetcode.com/problems/binary-tree-pruning/
 
 [LC0816.cpp]: Solutions/LC0816.cpp?ts=4
 [Ambiguous Coordinates]: https://leetcode.com/problems/ambiguous-coordinates/
