@@ -368,6 +368,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0821.cpp]     | [Shortest Distance to a Character]                                                                   | Easy       |
 | [LC0824.cpp]     | [Goat Latin]                                                                                         | Easy       |
 | [LC0832.cpp]     | [Flipping an Image]                                                                                  | Easy       |
+| [LC0833.cpp]     | [Find And Replace in String]                                                                         | Medium     |
 | [LC0835.cpp]     | [Image Overlap]                                                                                      | Medium     |
 | [LC0844.cpp]     | [Backspace String Compare]                                                                           | Easy       |
 | [LC0852.cpp]     | [Peak Index in a Mountain Array]                                                                     | Easy       |
@@ -1698,6 +1699,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0832.cpp]: Solutions/LC0832.cpp?ts=4
 [Flipping an Image]: https://leetcode.com/problems/flipping-an-image/
+
+[LC0833.cpp]: Solutions/LC0833.cpp?ts=4
+[Find And Replace in String]: https://leetcode.com/problems/find-and-replace-in-string/
 
 [LC0835.cpp]: Solutions/LC0835.cpp?ts=4
 [Image Overlap]: https://leetcode.com/problems/image-overlap/
