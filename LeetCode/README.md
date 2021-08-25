@@ -372,6 +372,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0835.cpp]     | [Image Overlap]                                                                                      | Medium     |
 | [LC0844.cpp]     | [Backspace String Compare]                                                                           | Easy       |
 | [LC0852.cpp]     | [Peak Index in a Mountain Array]                                                                     | Easy       |
+| [LC0856.cpp]     | [Score of Parentheses]                                                                               | Medium     |
 | [LC0859.cpp]     | [Buddy Strings]                                                                                      | Easy       |
 | [LC0860.cpp]     | [Lemonade Change]                                                                                    | Easy       |
 | [LC0867.cpp]     | [Transpose Matrix]                                                                                   | Easy       |
@@ -1711,6 +1712,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0852.cpp]: Solutions/LC0852.cpp?ts=4
 [Peak Index in a Mountain Array]: https://leetcode.com/problems/peak-index-in-a-mountain-array/
+
+[LC0856.cpp]: Solutions/LC0856.cpp?ts=4
+[Score of Parentheses]: https://leetcode.com/problems/score-of-parentheses/
 
 [LC0859.cpp]: Solutions/LC0859.cpp?ts=4
 [Buddy Strings]: https://leetcode.com/problems/buddy-strings/
