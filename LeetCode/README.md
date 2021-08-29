@@ -406,6 +406,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0967.cpp]     | [Numbers With Same Consecutive Differences]                                                          | Medium     |
 | [LC0968.cpp]     | [Binary Tree Cameras]                                                                                | Hard       |
 | [LC0969.cpp]     | [Pancake Sorting]                                                                                    | Medium     |
+| [LC0970.cpp]     | [Powerful Integers]                                                                                  | Medium     |
 | [LC0973.cpp]     | [K Closest Points to Origin]                                                                         | Medium     |
 | [LC0976.cpp]     | [Largest Perimeter Triangle]                                                                         | Easy       |
 | [LC0977.cpp]     | [Squares of a Sorted Array]                                                                          | Easy       |
@@ -1816,6 +1817,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0969.cpp]: Solutions/LC0969.cpp?ts=4
 [Pancake Sorting]: https://leetcode.com/problems/pancake-sorting/
+
+[LC0970.cpp]: Solutions/LC0970.cpp?ts=4
+[Powerful Integers]: https://leetcode.com/problems/powerful-integers/
 
 [LC0973.cpp]: Solutions/LC0973.cpp?ts=4
 [K Closest Points to Origin]: https://leetcode.com/problems/k-closest-points-to-origin/
