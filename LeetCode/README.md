@@ -414,6 +414,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0983.cpp]     | [Minimum Cost For Tickets]                                                                           | Medium     |
 | [LC0986.cpp]     | [Interval List Intersections]                                                                        | Medium     |
 | [LC0987.cpp]     | [Vertical Order Traversal of a Binary Tree]                                                          | Medium     |
+| [LC0991.cpp]     | [Broken Calculator]                                                                                  | Medium     |
 | [LC0993.cpp]     | [Cousins in Binary Tree]                                                                             | Easy       |
 | [LC0994.cpp]     | [Rotting Oranges]                                                                                    | Medium     |
 | [LC0997.cpp]     | [Find the Town Judge]                                                                                | Easy       |
@@ -1841,6 +1842,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0987.cpp]: Solutions/LC0987.cpp?ts=4
 [Vertical Order Traversal of a Binary Tree]: https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
+
+[LC0991.cpp]: Solutions/LC0991.cpp?ts=4
+[Broken Calculator]: https://leetcode.com/problems/broken-calculator/
 
 [LC0993.cpp]: Solutions/LC0993.cpp?ts=4
 [Cousins in Binary Tree]: https://leetcode.com/problems/cousins-in-binary-tree/
