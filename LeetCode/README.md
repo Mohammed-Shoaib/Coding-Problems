@@ -419,6 +419,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0994.cpp]     | [Rotting Oranges]                                                                                    | Medium     |
 | [LC0997.cpp]     | [Find the Town Judge]                                                                                | Easy       |
 | [LC1002.cpp]     | [Find Common Characters]                                                                             | Easy       |
+| [LC1004.cpp]     | [Max Consecutive Ones III]                                                                           | Medium     |
 | [LC1005.cpp]     | [Maximize Sum Of Array After K Negations]                                                            | Easy       |
 | [LC1008.cpp]     | [Construct Binary Search Tree from Preorder Traversal]                                               | Medium     |
 | [LC1009.cpp]     | [Complement of Base 10 Integer]                                                                      | Easy       |
@@ -1857,6 +1858,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1002.cpp]: Solutions/LC1002.cpp?ts=4
 [Find Common Characters]: https://leetcode.com/problems/find-common-characters/
+
+[LC1004.cpp]: Solutions/LC1004.cpp?ts=4
+[Max Consecutive Ones III]: https://leetcode.com/problems/max-consecutive-ones-iii/
 
 [LC1005.cpp]: Solutions/LC1005.cpp?ts=4
 [Maximize Sum Of Array After K Negations]: https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
