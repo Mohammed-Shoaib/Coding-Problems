@@ -430,6 +430,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1030.cpp]     | [Matrix Cells in Distance Order]                                                                     | Easy       |
 | [LC1032.cpp]     | [Stream of Characters]                                                                               | Hard       |
 | [LC1035.cpp]     | [Uncrossed Lines]                                                                                    | Medium     |
+| [LC1038.cpp]     | [Binary Search Tree to Greater Sum Tree]                                                             | Medium     |
 | [LC1041.cpp]     | [Robot Bounded In Circle]                                                                            | Medium     |
 | [LC1044.cpp]     | [Longest Duplicate Substring]                                                                        | Hard       |
 | [LC1046.cpp]     | [Last Stone Weight]                                                                                  | Easy       |
@@ -1891,6 +1892,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1035.cpp]: Solutions/LC1035.cpp?ts=4
 [Uncrossed Lines]: https://leetcode.com/problems/uncrossed-lines/
+
+[LC1038.cpp]: Solutions/LC1038.cpp?ts=4
+[Binary Search Tree to Greater Sum Tree]: https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
 
 [LC1041.cpp]: Solutions/LC1041.cpp?ts=4
 [Robot Bounded In Circle]: https://leetcode.com/problems/robot-bounded-in-circle/
