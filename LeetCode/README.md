@@ -591,6 +591,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1482.cpp]     | [Minimum Number of Days to Make m Bouquets]                                                          | Medium     |
 | [LC1483.cpp]     | [Kth Ancestor of a Tree Node]                                                                        | Hard       |
 | [LC1504.cpp]     | [Count Submatrices With All Ones]                                                                    | Medium     |
+| [LC1508.cpp]     | [Range Sum of Sorted Subarray Sums]                                                                  | Medium     |
 | [LC1512.cpp]     | [Number of Good Pairs]                                                                               | Easy       |
 | [LC1518.cpp]     | [Water Bottles]                                                                                      | Easy       |
 | [LC1528.cpp]     | [Shuffle String]                                                                                     | Easy       |
@@ -2377,6 +2378,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1504.cpp]: Solutions/LC1504.cpp?ts=4
 [Count Submatrices With All Ones]: https://leetcode.com/problems/count-submatrices-with-all-ones/
+
+[LC1508.cpp]: Solutions/LC1508.cpp?ts=4
+[Range Sum of Sorted Subarray Sums]: https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
 
 [LC1512.cpp]: Solutions/LC1512.cpp?ts=4
 [Number of Good Pairs]: https://leetcode.com/problems/number-of-good-pairs/
