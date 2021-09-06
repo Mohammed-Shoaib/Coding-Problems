@@ -644,6 +644,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1748.cpp]     | [Sum of Unique Elements]                                                                             | Easy       |
 | [LC1763.cpp]     | [Longest Nice Substring]                                                                             | Easy       |
 | [LC1768.cpp]     | [Merge Strings Alternately]                                                                          | Easy       |
+| [LC1781.cpp]     | [Sum of Beauty of All Substrings]                                                                    | Medium     |
 | [LC1812.cpp]     | [Determine Color of a Chessboard Square]                                                             | Easy       |
 | [LC1816.cpp]     | [Truncate Sentence]                                                                                  | Easy       |
 | [LC1822.cpp]     | [Sign of the Product of an Array]                                                                    | Easy       |
@@ -2537,6 +2538,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1768.cpp]: Solutions/LC1768.cpp?ts=4
 [Merge Strings Alternately]: https://leetcode.com/problems/merge-strings-alternately/
+
+[LC1781.cpp]: Solutions/LC1781.cpp?ts=4
+[Sum of Beauty of All Substrings]: https://leetcode.com/problems/sum-of-beauty-of-all-substrings/
 
 [LC1812.cpp]: Solutions/LC1812.cpp?ts=4
 [Determine Color of a Chessboard Square]: https://leetcode.com/problems/determine-color-of-a-chessboard-square/
