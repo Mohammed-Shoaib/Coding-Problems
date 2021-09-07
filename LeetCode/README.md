@@ -649,6 +649,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1816.cpp]     | [Truncate Sentence]                                                                                  | Easy       |
 | [LC1822.cpp]     | [Sign of the Product of an Array]                                                                    | Easy       |
 | [LC1827.cpp]     | [Minimum Operations to Make the Array Increasing]                                                    | Easy       |
+| [LC1828.cpp]     | [Queries on Number of Points Inside a Circle]                                                        | Medium     |
 | [LC1832.cpp]     | [Check if the Sentence Is Pangram]                                                                   | Easy       |
 | [LC1837.cpp]     | [Sum of Digits in Base K]                                                                            | Easy       |
 | [LC1844.cpp]     | [Replace All Digits with Characters]                                                                 | Easy       |
@@ -2553,6 +2554,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1827.cpp]: Solutions/LC1827.cpp?ts=4
 [Minimum Operations to Make the Array Increasing]: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
+
+[LC1828.cpp]: Solutions/LC1828.cpp?ts=4
+[Queries on Number of Points Inside a Circle]: https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/
 
 [LC1832.cpp]: Solutions/LC1832.cpp?ts=4
 [Check if the Sentence Is Pangram]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
