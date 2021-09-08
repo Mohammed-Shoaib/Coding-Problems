@@ -651,6 +651,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC1827.cpp]     | [Minimum Operations to Make the Array Increasing]                                                    | Easy       |
 | [LC1828.cpp]     | [Queries on Number of Points Inside a Circle]                                                        | Medium     |
 | [LC1832.cpp]     | [Check if the Sentence Is Pangram]                                                                   | Easy       |
+| [LC1833.cpp]     | [Maximum Ice Cream Bars]                                                                             | Medium     |
 | [LC1837.cpp]     | [Sum of Digits in Base K]                                                                            | Easy       |
 | [LC1844.cpp]     | [Replace All Digits with Characters]                                                                 | Easy       |
 | [LC1848.cpp]     | [Minimum Distance to the Target Element]                                                             | Easy       |
@@ -2560,6 +2561,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC1832.cpp]: Solutions/LC1832.cpp?ts=4
 [Check if the Sentence Is Pangram]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
+
+[LC1833.cpp]: Solutions/LC1833.cpp?ts=4
+[Maximum Ice Cream Bars]: https://leetcode.com/problems/maximum-ice-cream-bars/
 
 [LC1837.cpp]: Solutions/LC1837.cpp?ts=4
 [Sum of Digits in Base K]: https://leetcode.com/problems/sum-of-digits-in-base-k/
