@@ -16,6 +16,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1061A.cpp]      | [Coins](https://codeforces.com/problemset/problem/1061/A)                                            | 800        |
 | [1080A.cpp]      | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A)                                | 800        |
 | [1082A.cpp]      | [Vasya and Book](https://codeforces.com/problemset/problem/1082/A)                                   | 1200       |
+| [1104A.cpp]      | [Splitting into digits](https://codeforces.com/problemset/problem/1104/A)                            | 800        |
 | [1201B.cpp]      | [Zero Array](https://codeforces.com/problemset/problem/1201/B)                                       | 1500       |
 | [1374A.cpp]      | [Required Remainder](https://codeforces.com/problemset/problem/1374/A)                               | 800        |
 | [1374B.cpp]      | [Multiply by 2, divide by 6](https://codeforces.com/problemset/problem/1374/B)                       | 900        |
@@ -40,6 +41,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1061A.cpp]: Solutions/1061A.cpp?ts=4
 [1080A.cpp]: Solutions/1080A.cpp?ts=4
 [1082A.cpp]: Solutions/1082A.cpp?ts=4
+[1104A.cpp]: Solutions/1104A.cpp?ts=4
 [1201B.cpp]: Solutions/1201B.cpp?ts=4
 [1374A.cpp]: Solutions/1374A.cpp?ts=4
 [1374B.cpp]: Solutions/1374B.cpp?ts=4
