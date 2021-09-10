@@ -12,6 +12,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [4A.cpp]         | [Watermelon](https://codeforces.com/problemset/problem/4/A)                                          | 800        |
 | [50A.cpp]        | [Domino piling](https://codeforces.com/problemset/problem/50/A)                                      | 800        |
 | [71A.cpp]        | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A)                                 | 800        |
+| [112A.cpp]       | [Petya and Strings](https://codeforces.com/problemset/problem/112/A)                                 | 800        |
 | [1056A.cpp]      | [Determine Line](https://codeforces.com/problemset/problem/1056/A)                                   | 800        |
 | [1061A.cpp]      | [Coins](https://codeforces.com/problemset/problem/1061/A)                                            | 800        |
 | [1080A.cpp]      | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A)                                | 800        |
@@ -40,6 +41,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [4A.cpp]: Solutions/4A.cpp?ts=4
 [50A.cpp]: Solutions/50A.cpp?ts=4
 [71A.cpp]: Solutions/71A.cpp?ts=4
+[112A.cpp]: Solutions/112A.cpp?ts=4
 [1056A.cpp]: Solutions/1056A.cpp?ts=4
 [1061A.cpp]: Solutions/1061A.cpp?ts=4
 [1080A.cpp]: Solutions/1080A.cpp?ts=4
