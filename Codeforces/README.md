@@ -25,6 +25,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1201B.cpp]      | [Zero Array](https://codeforces.com/problemset/problem/1201/B)                                       | 1500       |
 | [1234A.cpp]      | [Equalize Prices Again](https://codeforces.com/problemset/problem/1234/A)                            | 800        |
 | [1265A.cpp]      | [Beautiful String](https://codeforces.com/problemset/problem/1265/A)                                 | 1000       |
+| [1269A.cpp]      | [Equation](https://codeforces.com/problemset/problem/1269/A)                                         | 800        |
 | [1374A.cpp]      | [Required Remainder](https://codeforces.com/problemset/problem/1374/A)                               | 800        |
 | [1374B.cpp]      | [Multiply by 2, divide by 6](https://codeforces.com/problemset/problem/1374/B)                       | 900        |
 | [1374C.cpp]      | [Move Brackets](https://codeforces.com/problemset/problem/1374/C)                                    | 1000       |
@@ -57,6 +58,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1201B.cpp]: Solutions/1201B.cpp?ts=4
 [1234A.cpp]: Solutions/1234A.cpp?ts=4
 [1265A.cpp]: Solutions/1265A.cpp?ts=4
+[1269A.cpp]: Solutions/1269A.cpp?ts=4
 [1374A.cpp]: Solutions/1374A.cpp?ts=4
 [1374B.cpp]: Solutions/1374B.cpp?ts=4
 [1374C.cpp]: Solutions/1374C.cpp?ts=4
