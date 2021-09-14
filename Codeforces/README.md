@@ -27,6 +27,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1265A.cpp]      | [Beautiful String](https://codeforces.com/problemset/problem/1265/A)                                 | 1000       |
 | [1269A.cpp]      | [Equation](https://codeforces.com/problemset/problem/1269/A)                                         | 800        |
 | [1270A.cpp]      | [Card Game](https://codeforces.com/problemset/problem/1270/A)                                        | 800        |
+| [1271A.cpp]      | [Suits](https://codeforces.com/problemset/problem/1271/A)                                            | 800        |
 | [1374A.cpp]      | [Required Remainder](https://codeforces.com/problemset/problem/1374/A)                               | 800        |
 | [1374B.cpp]      | [Multiply by 2, divide by 6](https://codeforces.com/problemset/problem/1374/B)                       | 900        |
 | [1374C.cpp]      | [Move Brackets](https://codeforces.com/problemset/problem/1374/C)                                    | 1000       |
@@ -61,6 +62,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1265A.cpp]: Solutions/1265A.cpp?ts=4
 [1269A.cpp]: Solutions/1269A.cpp?ts=4
 [1270A.cpp]: Solutions/1270A.cpp?ts=4
+[1271A.cpp]: Solutions/1271A.cpp?ts=4
 [1374A.cpp]: Solutions/1374A.cpp?ts=4
 [1374B.cpp]: Solutions/1374B.cpp?ts=4
 [1374C.cpp]: Solutions/1374C.cpp?ts=4
