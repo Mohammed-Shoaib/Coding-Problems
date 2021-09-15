@@ -29,6 +29,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1270A.cpp]      | [Card Game](https://codeforces.com/problemset/problem/1270/A)                                        | 800        |
 | [1271A.cpp]      | [Suits](https://codeforces.com/problemset/problem/1271/A)                                            | 800        |
 | [1272A.cpp]      | [Three Friends](https://codeforces.com/problemset/problem/1272/A)                                    | 900        |
+| [1277A.cpp]      | [Happy Birthday, Polycarp!](https://codeforces.com/problemset/problem/1277/A)                        | 1000       |
 | [1374A.cpp]      | [Required Remainder](https://codeforces.com/problemset/problem/1374/A)                               | 800        |
 | [1374B.cpp]      | [Multiply by 2, divide by 6](https://codeforces.com/problemset/problem/1374/B)                       | 900        |
 | [1374C.cpp]      | [Move Brackets](https://codeforces.com/problemset/problem/1374/C)                                    | 1000       |
@@ -65,6 +66,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1270A.cpp]: Solutions/1270A.cpp?ts=4
 [1271A.cpp]: Solutions/1271A.cpp?ts=4
 [1272A.cpp]: Solutions/1272A.cpp?ts=4
+[1277A.cpp]: Solutions/1277A.cpp?ts=4
 [1374A.cpp]: Solutions/1374A.cpp?ts=4
 [1374B.cpp]: Solutions/1374B.cpp?ts=4
 [1374C.cpp]: Solutions/1374C.cpp?ts=4
