@@ -32,6 +32,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1277A.cpp]      | [Happy Birthday, Polycarp!](https://codeforces.com/problemset/problem/1277/A)                        | 1000       |
 | [1278A.cpp]      | [Shuffle Hashing](https://codeforces.com/problemset/problem/1278/A)                                  | 1000       |
 | [1281A.cpp]      | [Suffix Three](https://codeforces.com/problemset/problem/1281/A)                                     | 800        |
+| [1282A.cpp]      | [Temporarily unavailable](https://codeforces.com/problemset/problem/1282/A)                          | 900        |
 | [1374A.cpp]      | [Required Remainder](https://codeforces.com/problemset/problem/1374/A)                               | 800        |
 | [1374B.cpp]      | [Multiply by 2, divide by 6](https://codeforces.com/problemset/problem/1374/B)                       | 900        |
 | [1374C.cpp]      | [Move Brackets](https://codeforces.com/problemset/problem/1374/C)                                    | 1000       |
@@ -71,6 +72,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1277A.cpp]: Solutions/1277A.cpp?ts=4
 [1278A.cpp]: Solutions/1278A.cpp?ts=4
 [1281A.cpp]: Solutions/1281A.cpp?ts=4
+[1282A.cpp]: Solutions/1282A.cpp?ts=4
 [1374A.cpp]: Solutions/1374A.cpp?ts=4
 [1374B.cpp]: Solutions/1374B.cpp?ts=4
 [1374C.cpp]: Solutions/1374C.cpp?ts=4
