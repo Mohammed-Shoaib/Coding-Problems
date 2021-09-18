@@ -35,6 +35,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1282A.cpp]      | [Temporarily unavailable](https://codeforces.com/problemset/problem/1282/A)                          | 900        |
 | [1283A.cpp]      | [Minutes Before the New Year](https://codeforces.com/problemset/problem/1283/A)                      | 800        |
 | [1284A.cpp]      | [New Year and Naming](https://codeforces.com/problemset/problem/1284/A)                              | 800        |
+| [1285A.cpp]      | [Mezo Playing Zoma](https://codeforces.com/problemset/problem/1285/A)                                | 800        |
 | [1374A.cpp]      | [Required Remainder](https://codeforces.com/problemset/problem/1374/A)                               | 800        |
 | [1374B.cpp]      | [Multiply by 2, divide by 6](https://codeforces.com/problemset/problem/1374/B)                       | 900        |
 | [1374C.cpp]      | [Move Brackets](https://codeforces.com/problemset/problem/1374/C)                                    | 1000       |
@@ -77,6 +78,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1282A.cpp]: Solutions/1282A.cpp?ts=4
 [1283A.cpp]: Solutions/1283A.cpp?ts=4
 [1284A.cpp]: Solutions/1284A.cpp?ts=4
+[1285A.cpp]: Solutions/1285A.cpp?ts=4
 [1374A.cpp]: Solutions/1374A.cpp?ts=4
 [1374B.cpp]: Solutions/1374B.cpp?ts=4
 [1374C.cpp]: Solutions/1374C.cpp?ts=4
