@@ -37,6 +37,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1284A.cpp]      | [New Year and Naming](https://codeforces.com/problemset/problem/1284/A)                              | 800        |
 | [1285A.cpp]      | [Mezo Playing Zoma](https://codeforces.com/problemset/problem/1285/A)                                | 800        |
 | [1287A.cpp]      | [Angry Students](https://codeforces.com/problemset/problem/1287/A)                                   | 800        |
+| [1296A.cpp]      | [Array with Odd Sum](https://codeforces.com/problemset/problem/1296/A)                               | 800        |
 | [1374A.cpp]      | [Required Remainder](https://codeforces.com/problemset/problem/1374/A)                               | 800        |
 | [1374B.cpp]      | [Multiply by 2, divide by 6](https://codeforces.com/problemset/problem/1374/B)                       | 900        |
 | [1374C.cpp]      | [Move Brackets](https://codeforces.com/problemset/problem/1374/C)                                    | 1000       |
@@ -81,6 +82,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1284A.cpp]: Solutions/1284A.cpp?ts=4
 [1285A.cpp]: Solutions/1285A.cpp?ts=4
 [1287A.cpp]: Solutions/1287A.cpp?ts=4
+[1296A.cpp]: Solutions/1296A.cpp?ts=4
 [1374A.cpp]: Solutions/1374A.cpp?ts=4
 [1374B.cpp]: Solutions/1374B.cpp?ts=4
 [1374C.cpp]: Solutions/1374C.cpp?ts=4
