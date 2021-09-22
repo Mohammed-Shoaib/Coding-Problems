@@ -43,6 +43,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1331A.cpp]      | [Is it rated?](https://codeforces.com/problemset/problem/1331/A)                                     |            |
 | [1333A.cpp]      | [Little Artem](https://codeforces.com/problemset/problem/1333/A)                                     | 1000       |
 | [1334A.cpp]      | [Level Statistics](https://codeforces.com/problemset/problem/1334/A)                                 | 1200       |
+| [1335A.cpp]      | [Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A)                          | 800        |
 | [1374A.cpp]      | [Required Remainder](https://codeforces.com/problemset/problem/1374/A)                               | 800        |
 | [1374B.cpp]      | [Multiply by 2, divide by 6](https://codeforces.com/problemset/problem/1374/B)                       | 900        |
 | [1374C.cpp]      | [Move Brackets](https://codeforces.com/problemset/problem/1374/C)                                    | 1000       |
@@ -93,6 +94,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1331A.cpp]: Solutions/1331A.cpp?ts=4
 [1333A.cpp]: Solutions/1333A.cpp?ts=4
 [1334A.cpp]: Solutions/1334A.cpp?ts=4
+[1335A.cpp]: Solutions/1335A.cpp?ts=4
 [1374A.cpp]: Solutions/1374A.cpp?ts=4
 [1374B.cpp]: Solutions/1374B.cpp?ts=4
 [1374C.cpp]: Solutions/1374C.cpp?ts=4
