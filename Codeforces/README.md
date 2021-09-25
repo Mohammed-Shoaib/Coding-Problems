@@ -58,6 +58,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1399E1.cpp]     | [Weights Division (easy version)](https://codeforces.com/problemset/problem/1399/E1)                 |            |
 | [1399E2.cpp]     | [Weights Division (hard version)](https://codeforces.com/problemset/problem/1399/E2)                 |            |
 | [1509A.cpp]      | [Average Height](https://codeforces.com/problemset/problem/1509/A)                                   | 800        |
+| [1512A.cpp]      | [Spy Detected!](https://codeforces.com/problemset/problem/1512/A)                                    | 800        |
 | [1527A.cpp]      | [And Then There Were K](https://codeforces.com/problemset/problem/1527/A)                            | 800        |
 | [1527C.cpp]      | [Sequence Pair Weight](https://codeforces.com/problemset/problem/1527/C)                             | 1600       |
 
@@ -113,6 +114,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1399E1.cpp]: Solutions/1399E1.cpp?ts=4
 [1399E2.cpp]: Solutions/1399E2.cpp?ts=4
 [1509A.cpp]: Solutions/1509A.cpp?ts=4
+[1512A.cpp]: Solutions/1512A.cpp?ts=4
 [1527A.cpp]: Solutions/1527A.cpp?ts=4
 [1527C.cpp]: Solutions/1527C.cpp?ts=4
 
