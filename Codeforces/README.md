@@ -18,6 +18,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [231A.cpp]       | [Team](https://codeforces.com/problemset/problem/231/A)                                              | 800        |
 | [263A.cpp]       | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)                                  | 800        |
 | [282A.cpp]       | [Bit++](https://codeforces.com/problemset/problem/282/A)                                             | 800        |
+| [514A.cpp]       | [Chewbaсca and Number](https://codeforces.com/problemset/problem/514/A)                              | 1200       |
 | [1056A.cpp]      | [Determine Line](https://codeforces.com/problemset/problem/1056/A)                                   | 800        |
 | [1061A.cpp]      | [Coins](https://codeforces.com/problemset/problem/1061/A)                                            | 800        |
 | [1080A.cpp]      | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A)                                | 800        |
@@ -78,6 +79,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [231A.cpp]: Solutions/231A.cpp?ts=4
 [263A.cpp]: Solutions/263A.cpp?ts=4
 [282A.cpp]: Solutions/282A.cpp?ts=4
+[514A.cpp]: Solutions/514A.cpp?ts=4
 [1056A.cpp]: Solutions/1056A.cpp?ts=4
 [1061A.cpp]: Solutions/1061A.cpp?ts=4
 [1080A.cpp]: Solutions/1080A.cpp?ts=4
