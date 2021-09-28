@@ -20,6 +20,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [282A.cpp]       | [Bit++](https://codeforces.com/problemset/problem/282/A)                                             | 800        |
 | [514A.cpp]       | [Chewbaсca and Number](https://codeforces.com/problemset/problem/514/A)                              | 1200       |
 | [1056A.cpp]      | [Determine Line](https://codeforces.com/problemset/problem/1056/A)                                   | 800        |
+| [1056B.cpp]      | [Divide Candies](https://codeforces.com/problemset/problem/1056/B)                                   | 1600       |
 | [1061A.cpp]      | [Coins](https://codeforces.com/problemset/problem/1061/A)                                            | 800        |
 | [1080A.cpp]      | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A)                                | 800        |
 | [1082A.cpp]      | [Vasya and Book](https://codeforces.com/problemset/problem/1082/A)                                   | 1200       |
@@ -81,6 +82,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [282A.cpp]: Solutions/282A.cpp?ts=4
 [514A.cpp]: Solutions/514A.cpp?ts=4
 [1056A.cpp]: Solutions/1056A.cpp?ts=4
+[1056B.cpp]: Solutions/1056B.cpp?ts=4
 [1061A.cpp]: Solutions/1061A.cpp?ts=4
 [1080A.cpp]: Solutions/1080A.cpp?ts=4
 [1082A.cpp]: Solutions/1082A.cpp?ts=4
