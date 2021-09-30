@@ -26,6 +26,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1080A.cpp]      | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A)                                | 800        |
 | [1080B.cpp]      | [Margarite and the best present](https://codeforces.com/problemset/problem/1080/B)                   | 900        |
 | [1082A.cpp]      | [Vasya and Book](https://codeforces.com/problemset/problem/1082/A)                                   | 1200       |
+| [1082B.cpp]      | [Vova and Trophies](https://codeforces.com/problemset/problem/1082/B)                                | 1600       |
 | [1104A.cpp]      | [Splitting into digits](https://codeforces.com/problemset/problem/1104/A)                            | 800        |
 | [1106A.cpp]      | [Lunar New Year and Cross Counting](https://codeforces.com/problemset/problem/1106/A)                | 800        |
 | [1108A.cpp]      | [Two distinct points](https://codeforces.com/problemset/problem/1108/A)                              | 800        |
@@ -90,6 +91,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1080A.cpp]: Solutions/1080A.cpp?ts=4
 [1080B.cpp]: Solutions/1080B.cpp?ts=4
 [1082A.cpp]: Solutions/1082A.cpp?ts=4
+[1082B.cpp]: Solutions/1082B.cpp?ts=4
 [1104A.cpp]: Solutions/1104A.cpp?ts=4
 [1106A.cpp]: Solutions/1106A.cpp?ts=4
 [1108A.cpp]: Solutions/1108A.cpp?ts=4
