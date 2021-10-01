@@ -30,6 +30,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1104A.cpp]      | [Splitting into digits](https://codeforces.com/problemset/problem/1104/A)                            | 800        |
 | [1104B.cpp]      | [Game with string](https://codeforces.com/problemset/problem/1104/B)                                 | 1200       |
 | [1106A.cpp]      | [Lunar New Year and Cross Counting](https://codeforces.com/problemset/problem/1106/A)                | 800        |
+| [1106B.cpp]      | [Lunar New Year and Food Ordering](https://codeforces.com/problemset/problem/1106/B)                 | 1500       |
 | [1108A.cpp]      | [Two distinct points](https://codeforces.com/problemset/problem/1108/A)                              | 800        |
 | [1114A.cpp]      | [Got Any Grapes?](https://codeforces.com/problemset/problem/1114/A)                                  | 800        |
 | [1201B.cpp]      | [Zero Array](https://codeforces.com/problemset/problem/1201/B)                                       | 1500       |
@@ -96,6 +97,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1104A.cpp]: Solutions/1104A.cpp?ts=4
 [1104B.cpp]: Solutions/1104B.cpp?ts=4
 [1106A.cpp]: Solutions/1106A.cpp?ts=4
+[1106B.cpp]: Solutions/1106B.cpp?ts=4
 [1108A.cpp]: Solutions/1108A.cpp?ts=4
 [1114A.cpp]: Solutions/1114A.cpp?ts=4
 [1201B.cpp]: Solutions/1201B.cpp?ts=4
