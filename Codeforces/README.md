@@ -58,6 +58,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1330A.cpp]      | [Dreamoon and Ranking Collection](https://codeforces.com/problemset/problem/1330/A)                  | 900        |
 | [1331A.cpp]      | [Is it rated?](https://codeforces.com/problemset/problem/1331/A)                                     |            |
 | [1333A.cpp]      | [Little Artem](https://codeforces.com/problemset/problem/1333/A)                                     | 1000       |
+| [1333F.cpp]      | [Kate and imperfection](https://codeforces.com/problemset/problem/1333/F)                            | 2200       |
 | [1334A.cpp]      | [Level Statistics](https://codeforces.com/problemset/problem/1334/A)                                 | 1200       |
 | [1335A.cpp]      | [Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A)                          | 800        |
 | [1339A.cpp]      | [Filling Diamonds](https://codeforces.com/problemset/problem/1339/A)                                 | 900        |
@@ -131,6 +132,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1330A.cpp]: Solutions/1330A.cpp?ts=4
 [1331A.cpp]: Solutions/1331A.cpp?ts=4
 [1333A.cpp]: Solutions/1333A.cpp?ts=4
+[1333F.cpp]: Solutions/1333F.cpp?ts=4
 [1334A.cpp]: Solutions/1334A.cpp?ts=4
 [1335A.cpp]: Solutions/1335A.cpp?ts=4
 [1339A.cpp]: Solutions/1339A.cpp?ts=4
