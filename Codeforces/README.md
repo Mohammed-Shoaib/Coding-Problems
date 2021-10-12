@@ -69,6 +69,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1335F.cpp]      | [Robots on a Grid](https://codeforces.com/problemset/problem/1335/F)                                 | 2200       |
 | [1339A.cpp]      | [Filling Diamonds](https://codeforces.com/problemset/problem/1339/A)                                 | 900        |
 | [1373A.cpp]      | [Donut Shops](https://codeforces.com/problemset/problem/1373/A)                                      | 1000       |
+| [1373E.cpp]      | [Sum of Digits](https://codeforces.com/problemset/problem/1373/E)                                    | 2200       |
 | [1374A.cpp]      | [Required Remainder](https://codeforces.com/problemset/problem/1374/A)                               | 800        |
 | [1374B.cpp]      | [Multiply by 2, divide by 6](https://codeforces.com/problemset/problem/1374/B)                       | 900        |
 | [1374C.cpp]      | [Move Brackets](https://codeforces.com/problemset/problem/1374/C)                                    | 1000       |
@@ -150,6 +151,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1335F.cpp]: Solutions/1335F.cpp?ts=4
 [1339A.cpp]: Solutions/1339A.cpp?ts=4
 [1373A.cpp]: Solutions/1373A.cpp?ts=4
+[1373E.cpp]: Solutions/1373E.cpp?ts=4
 [1374A.cpp]: Solutions/1374A.cpp?ts=4
 [1374B.cpp]: Solutions/1374B.cpp?ts=4
 [1374C.cpp]: Solutions/1374C.cpp?ts=4
