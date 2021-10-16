@@ -26,6 +26,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1061B.cpp]      | [Views Matter](https://codeforces.com/problemset/problem/1061/B)                                     | 1400       |
 | [1080A.cpp]      | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A)                                | 800        |
 | [1080B.cpp]      | [Margarite and the best present](https://codeforces.com/problemset/problem/1080/B)                   | 900        |
+| [1080C.cpp]      | [Masha and two friends](https://codeforces.com/problemset/problem/1080/C)                            | 1500       |
 | [1082A.cpp]      | [Vasya and Book](https://codeforces.com/problemset/problem/1082/A)                                   | 1200       |
 | [1082B.cpp]      | [Vova and Trophies](https://codeforces.com/problemset/problem/1082/B)                                | 1600       |
 | [1104A.cpp]      | [Splitting into digits](https://codeforces.com/problemset/problem/1104/A)                            | 800        |
@@ -111,6 +112,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1061B.cpp]: Solutions/1061B.cpp?ts=4
 [1080A.cpp]: Solutions/1080A.cpp?ts=4
 [1080B.cpp]: Solutions/1080B.cpp?ts=4
+[1080C.cpp]: Solutions/1080C.cpp?ts=4
 [1082A.cpp]: Solutions/1082A.cpp?ts=4
 [1082B.cpp]: Solutions/1082B.cpp?ts=4
 [1104A.cpp]: Solutions/1104A.cpp?ts=4
