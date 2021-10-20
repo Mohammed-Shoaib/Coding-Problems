@@ -44,6 +44,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1234D.cpp]      | [Distinct Characters Queries](https://codeforces.com/problemset/problem/1234/D)                      | 1600       |
 | [1265A.cpp]      | [Beautiful String](https://codeforces.com/problemset/problem/1265/A)                                 | 1000       |
 | [1265B.cpp]      | [Beautiful Numbers](https://codeforces.com/problemset/problem/1265/B)                                | 1300       |
+| [1265D.cpp]      | [Beautiful Sequence](https://codeforces.com/problemset/problem/1265/D)                               | 1900       |
 | [1269A.cpp]      | [Equation](https://codeforces.com/problemset/problem/1269/A)                                         | 800        |
 | [1269B.cpp]      | [Modulo Equality](https://codeforces.com/problemset/problem/1269/B)                                  | 1500       |
 | [1270A.cpp]      | [Card Game](https://codeforces.com/problemset/problem/1270/A)                                        | 800        |
@@ -132,6 +133,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1234D.cpp]: Solutions/1234D.cpp?ts=4
 [1265A.cpp]: Solutions/1265A.cpp?ts=4
 [1265B.cpp]: Solutions/1265B.cpp?ts=4
+[1265D.cpp]: Solutions/1265D.cpp?ts=4
 [1269A.cpp]: Solutions/1269A.cpp?ts=4
 [1269B.cpp]: Solutions/1269B.cpp?ts=4
 [1270A.cpp]: Solutions/1270A.cpp?ts=4
