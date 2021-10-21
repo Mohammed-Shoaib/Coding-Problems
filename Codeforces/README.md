@@ -47,6 +47,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1265D.cpp]      | [Beautiful Sequence](https://codeforces.com/problemset/problem/1265/D)                               | 1900       |
 | [1269A.cpp]      | [Equation](https://codeforces.com/problemset/problem/1269/A)                                         | 800        |
 | [1269B.cpp]      | [Modulo Equality](https://codeforces.com/problemset/problem/1269/B)                                  | 1500       |
+| [1269D.cpp]      | [Domino for Young](https://codeforces.com/problemset/problem/1269/D)                                 | 2000       |
 | [1270A.cpp]      | [Card Game](https://codeforces.com/problemset/problem/1270/A)                                        | 800        |
 | [1270B.cpp]      | [Interesting Subarray](https://codeforces.com/problemset/problem/1270/B)                             | 1200       |
 | [1271A.cpp]      | [Suits](https://codeforces.com/problemset/problem/1271/A)                                            | 800        |
@@ -136,6 +137,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1265D.cpp]: Solutions/1265D.cpp?ts=4
 [1269A.cpp]: Solutions/1269A.cpp?ts=4
 [1269B.cpp]: Solutions/1269B.cpp?ts=4
+[1269D.cpp]: Solutions/1269D.cpp?ts=4
 [1270A.cpp]: Solutions/1270A.cpp?ts=4
 [1270B.cpp]: Solutions/1270B.cpp?ts=4
 [1271A.cpp]: Solutions/1271A.cpp?ts=4
