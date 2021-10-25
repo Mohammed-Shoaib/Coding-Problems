@@ -60,6 +60,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1278A.cpp]      | [Shuffle Hashing](https://codeforces.com/problemset/problem/1278/A)                                  | 1000       |
 | [1278D.cpp]      | [Segment Tree](https://codeforces.com/problemset/problem/1278/D)                                     | 2100       |
 | [1281A.cpp]      | [Suffix Three](https://codeforces.com/problemset/problem/1281/A)                                     | 800        |
+| [1281D.cpp]      | [Beingawesomeism](https://codeforces.com/problemset/problem/1281/D)                                  | 1800       |
 | [1282A.cpp]      | [Temporarily unavailable](https://codeforces.com/problemset/problem/1282/A)                          | 900        |
 | [1283A.cpp]      | [Minutes Before the New Year](https://codeforces.com/problemset/problem/1283/A)                      | 800        |
 | [1283E.cpp]      | [New Year Parties](https://codeforces.com/problemset/problem/1283/E)                                 | 1800       |
@@ -153,6 +154,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1278A.cpp]: Solutions/1278A.cpp?ts=4
 [1278D.cpp]: Solutions/1278D.cpp?ts=4
 [1281A.cpp]: Solutions/1281A.cpp?ts=4
+[1281D.cpp]: Solutions/1281D.cpp?ts=4
 [1282A.cpp]: Solutions/1282A.cpp?ts=4
 [1283A.cpp]: Solutions/1283A.cpp?ts=4
 [1283E.cpp]: Solutions/1283E.cpp?ts=4
