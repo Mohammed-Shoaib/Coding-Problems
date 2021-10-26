@@ -63,6 +63,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1281D.cpp]      | [Beingawesomeism](https://codeforces.com/problemset/problem/1281/D)                                  | 1800       |
 | [1282A.cpp]      | [Temporarily unavailable](https://codeforces.com/problemset/problem/1282/A)                          | 900        |
 | [1283A.cpp]      | [Minutes Before the New Year](https://codeforces.com/problemset/problem/1283/A)                      | 800        |
+| [1283D.cpp]      | [Christmas Trees](https://codeforces.com/problemset/problem/1283/D)                                  | 1800       |
 | [1283E.cpp]      | [New Year Parties](https://codeforces.com/problemset/problem/1283/E)                                 | 1800       |
 | [1284A.cpp]      | [New Year and Naming](https://codeforces.com/problemset/problem/1284/A)                              | 800        |
 | [1285A.cpp]      | [Mezo Playing Zoma](https://codeforces.com/problemset/problem/1285/A)                                | 800        |
@@ -157,6 +158,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1281D.cpp]: Solutions/1281D.cpp?ts=4
 [1282A.cpp]: Solutions/1282A.cpp?ts=4
 [1283A.cpp]: Solutions/1283A.cpp?ts=4
+[1283D.cpp]: Solutions/1283D.cpp?ts=4
 [1283E.cpp]: Solutions/1283E.cpp?ts=4
 [1284A.cpp]: Solutions/1284A.cpp?ts=4
 [1285A.cpp]: Solutions/1285A.cpp?ts=4
