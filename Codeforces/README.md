@@ -69,6 +69,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1285A.cpp]      | [Mezo Playing Zoma](https://codeforces.com/problemset/problem/1285/A)                                | 800        |
 | [1285D.cpp]      | [Dr. Evil Underscores](https://codeforces.com/problemset/problem/1285/D)                             | 1900       |
 | [1287A.cpp]      | [Angry Students](https://codeforces.com/problemset/problem/1287/A)                                   | 800        |
+| [1287D.cpp]      | [Numbers on Tree](https://codeforces.com/problemset/problem/1287/D)                                  | 1800       |
 | [1296A.cpp]      | [Array with Odd Sum](https://codeforces.com/problemset/problem/1296/A)                               | 800        |
 | [1328A.cpp]      | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A)                             | 800        |
 | [1328E.cpp]      | [Tree Queries](https://codeforces.com/problemset/problem/1328/E)                                     | 1900       |
@@ -165,6 +166,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1285A.cpp]: Solutions/1285A.cpp?ts=4
 [1285D.cpp]: Solutions/1285D.cpp?ts=4
 [1287A.cpp]: Solutions/1287A.cpp?ts=4
+[1287D.cpp]: Solutions/1287D.cpp?ts=4
 [1296A.cpp]: Solutions/1296A.cpp?ts=4
 [1328A.cpp]: Solutions/1328A.cpp?ts=4
 [1328E.cpp]: Solutions/1328E.cpp?ts=4
