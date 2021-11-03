@@ -85,6 +85,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1333F.cpp]      | [Kate and imperfection](https://codeforces.com/problemset/problem/1333/F)                            | 2200       |
 | [1334A.cpp]      | [Level Statistics](https://codeforces.com/problemset/problem/1334/A)                                 | 1200       |
 | [1335A.cpp]      | [Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A)                          | 800        |
+| [1335D.cpp]      | [Anti-Sudoku](https://codeforces.com/problemset/problem/1335/D)                                      | 1300       |
 | [1335F.cpp]      | [Robots on a Grid](https://codeforces.com/problemset/problem/1335/F)                                 | 2200       |
 | [1339A.cpp]      | [Filling Diamonds](https://codeforces.com/problemset/problem/1339/A)                                 | 900        |
 | [1373A.cpp]      | [Donut Shops](https://codeforces.com/problemset/problem/1373/A)                                      | 1000       |
@@ -187,6 +188,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1333F.cpp]: Solutions/1333F.cpp?ts=4
 [1334A.cpp]: Solutions/1334A.cpp?ts=4
 [1335A.cpp]: Solutions/1335A.cpp?ts=4
+[1335D.cpp]: Solutions/1335D.cpp?ts=4
 [1335F.cpp]: Solutions/1335F.cpp?ts=4
 [1339A.cpp]: Solutions/1339A.cpp?ts=4
 [1373A.cpp]: Solutions/1373A.cpp?ts=4
