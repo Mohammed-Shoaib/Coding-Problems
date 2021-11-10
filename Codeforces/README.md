@@ -37,6 +37,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1106D.cpp]      | [Lunar New Year and a Wander](https://codeforces.com/problemset/problem/1106/D)                      | 1500       |
 | [1108A.cpp]      | [Two distinct points](https://codeforces.com/problemset/problem/1108/A)                              | 800        |
 | [1108B.cpp]      | [Divisors of Two Integers](https://codeforces.com/problemset/problem/1108/B)                         | 1100       |
+| [1108C.cpp]      | [Nice Garland](https://codeforces.com/problemset/problem/1108/C)                                     | 1300       |
 | [1108D.cpp]      | [Diverse Garland](https://codeforces.com/problemset/problem/1108/D)                                  | 1400       |
 | [1114A.cpp]      | [Got Any Grapes?](https://codeforces.com/problemset/problem/1114/A)                                  | 800        |
 | [1114B.cpp]      | [Yet Another Array Partitioning Task](https://codeforces.com/problemset/problem/1114/B)              | 1500       |
@@ -147,6 +148,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1106D.cpp]: Solutions/1106D.cpp?ts=4
 [1108A.cpp]: Solutions/1108A.cpp?ts=4
 [1108B.cpp]: Solutions/1108B.cpp?ts=4
+[1108C.cpp]: Solutions/1108C.cpp?ts=4
 [1108D.cpp]: Solutions/1108D.cpp?ts=4
 [1114A.cpp]: Solutions/1114A.cpp?ts=4
 [1114B.cpp]: Solutions/1114B.cpp?ts=4
