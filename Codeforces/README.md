@@ -55,6 +55,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1269D.cpp]      | [Domino for Young](https://codeforces.com/problemset/problem/1269/D)                                 | 2000       |
 | [1270A.cpp]      | [Card Game](https://codeforces.com/problemset/problem/1270/A)                                        | 800        |
 | [1270B.cpp]      | [Interesting Subarray](https://codeforces.com/problemset/problem/1270/B)                             | 1200       |
+| [1270C.cpp]      | [Make Good](https://codeforces.com/problemset/problem/1270/C)                                        | 1400       |
 | [1271A.cpp]      | [Suits](https://codeforces.com/problemset/problem/1271/A)                                            | 800        |
 | [1271B.cpp]      | [Blocks](https://codeforces.com/problemset/problem/1271/B)                                           | 1300       |
 | [1271D.cpp]      | [Portals](https://codeforces.com/problemset/problem/1271/D)                                          | 2100       |
@@ -169,6 +170,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1269D.cpp]: Solutions/1269D.cpp?ts=4
 [1270A.cpp]: Solutions/1270A.cpp?ts=4
 [1270B.cpp]: Solutions/1270B.cpp?ts=4
+[1270C.cpp]: Solutions/1270C.cpp?ts=4
 [1271A.cpp]: Solutions/1271A.cpp?ts=4
 [1271B.cpp]: Solutions/1271B.cpp?ts=4
 [1271D.cpp]: Solutions/1271D.cpp?ts=4
