@@ -58,6 +58,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1270C.cpp]      | [Make Good](https://codeforces.com/problemset/problem/1270/C)                                        | 1400       |
 | [1271A.cpp]      | [Suits](https://codeforces.com/problemset/problem/1271/A)                                            | 800        |
 | [1271B.cpp]      | [Blocks](https://codeforces.com/problemset/problem/1271/B)                                           | 1300       |
+| [1271C.cpp]      | [Shawarma Tent](https://codeforces.com/problemset/problem/1271/C)                                    | 1300       |
 | [1271D.cpp]      | [Portals](https://codeforces.com/problemset/problem/1271/D)                                          | 2100       |
 | [1271E.cpp]      | [Common Number](https://codeforces.com/problemset/problem/1271/E)                                    | 2100       |
 | [1272A.cpp]      | [Three Friends](https://codeforces.com/problemset/problem/1272/A)                                    | 900        |
@@ -173,6 +174,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1270C.cpp]: Solutions/1270C.cpp?ts=4
 [1271A.cpp]: Solutions/1271A.cpp?ts=4
 [1271B.cpp]: Solutions/1271B.cpp?ts=4
+[1271C.cpp]: Solutions/1271C.cpp?ts=4
 [1271D.cpp]: Solutions/1271D.cpp?ts=4
 [1271E.cpp]: Solutions/1271E.cpp?ts=4
 [1272A.cpp]: Solutions/1272A.cpp?ts=4
