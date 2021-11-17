@@ -65,6 +65,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1272C.cpp]      | [Yet Another Broken Keyboard](https://codeforces.com/problemset/problem/1272/C)                      | 1200       |
 | [1272D.cpp]      | [Remove One Element](https://codeforces.com/problemset/problem/1272/D)                               | 1500       |
 | [1277A.cpp]      | [Happy Birthday, Polycarp!](https://codeforces.com/problemset/problem/1277/A)                        | 1000       |
+| [1277C.cpp]      | [As Simple as One and Two](https://codeforces.com/problemset/problem/1277/C)                         | 1400       |
 | [1278A.cpp]      | [Shuffle Hashing](https://codeforces.com/problemset/problem/1278/A)                                  | 1000       |
 | [1278D.cpp]      | [Segment Tree](https://codeforces.com/problemset/problem/1278/D)                                     | 2100       |
 | [1281A.cpp]      | [Suffix Three](https://codeforces.com/problemset/problem/1281/A)                                     | 800        |
@@ -182,6 +183,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1272C.cpp]: Solutions/1272C.cpp?ts=4
 [1272D.cpp]: Solutions/1272D.cpp?ts=4
 [1277A.cpp]: Solutions/1277A.cpp?ts=4
+[1277C.cpp]: Solutions/1277C.cpp?ts=4
 [1278A.cpp]: Solutions/1278A.cpp?ts=4
 [1278D.cpp]: Solutions/1278D.cpp?ts=4
 [1281A.cpp]: Solutions/1281A.cpp?ts=4
