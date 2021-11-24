@@ -84,6 +84,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1285C.cpp]      | [Fadi and LCM](https://codeforces.com/problemset/problem/1285/C)                                     | 1400       |
 | [1285D.cpp]      | [Dr. Evil Underscores](https://codeforces.com/problemset/problem/1285/D)                             | 1900       |
 | [1287A.cpp]      | [Angry Students](https://codeforces.com/problemset/problem/1287/A)                                   | 800        |
+| [1287C.cpp]      | [Garland](https://codeforces.com/problemset/problem/1287/C)                                          | 1800       |
 | [1287D.cpp]      | [Numbers on Tree](https://codeforces.com/problemset/problem/1287/D)                                  | 1800       |
 | [1296A.cpp]      | [Array with Odd Sum](https://codeforces.com/problemset/problem/1296/A)                               | 800        |
 | [1296D.cpp]      | [Fight with Monsters](https://codeforces.com/problemset/problem/1296/D)                              | 1500       |
@@ -208,6 +209,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1285C.cpp]: Solutions/1285C.cpp?ts=4
 [1285D.cpp]: Solutions/1285D.cpp?ts=4
 [1287A.cpp]: Solutions/1287A.cpp?ts=4
+[1287C.cpp]: Solutions/1287C.cpp?ts=4
 [1287D.cpp]: Solutions/1287D.cpp?ts=4
 [1296A.cpp]: Solutions/1296A.cpp?ts=4
 [1296D.cpp]: Solutions/1296D.cpp?ts=4
