@@ -97,6 +97,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1330C.cpp]      | [Dreamoon Likes Coloring](https://codeforces.com/problemset/problem/1330/C)                          | 1800       |
 | [1330D.cpp]      | [Dreamoon Likes Sequences](https://codeforces.com/problemset/problem/1330/D)                         | 1700       |
 | [1331A.cpp]      | [Is it rated?](https://codeforces.com/problemset/problem/1331/A)                                     |            |
+| [1331C.cpp]      | [...And after happily lived ever they](https://codeforces.com/problemset/problem/1331/C)             |            |
 | [1331D.cpp]      | [Again?](https://codeforces.com/problemset/problem/1331/D)                                           |            |
 | [1333A.cpp]      | [Little Artem](https://codeforces.com/problemset/problem/1333/A)                                     | 1000       |
 | [1333D.cpp]      | [Challenges in school №41](https://codeforces.com/problemset/problem/1333/D)                         | 2100       |
@@ -225,6 +226,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1330C.cpp]: Solutions/1330C.cpp?ts=4
 [1330D.cpp]: Solutions/1330D.cpp?ts=4
 [1331A.cpp]: Solutions/1331A.cpp?ts=4
+[1331C.cpp]: Solutions/1331C.cpp?ts=4
 [1331D.cpp]: Solutions/1331D.cpp?ts=4
 [1333A.cpp]: Solutions/1333A.cpp?ts=4
 [1333D.cpp]: Solutions/1333D.cpp?ts=4
