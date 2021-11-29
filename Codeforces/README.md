@@ -100,6 +100,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1331C.cpp]      | [...And after happily lived ever they](https://codeforces.com/problemset/problem/1331/C)             |            |
 | [1331D.cpp]      | [Again?](https://codeforces.com/problemset/problem/1331/D)                                           |            |
 | [1333A.cpp]      | [Little Artem](https://codeforces.com/problemset/problem/1333/A)                                     | 1000       |
+| [1333C.cpp]      | [Eugene and an array](https://codeforces.com/problemset/problem/1333/C)                              | 1700       |
 | [1333D.cpp]      | [Challenges in school №41](https://codeforces.com/problemset/problem/1333/D)                         | 2100       |
 | [1333E.cpp]      | [Road to 1600](https://codeforces.com/problemset/problem/1333/E)                                     | 2400       |
 | [1333F.cpp]      | [Kate and imperfection](https://codeforces.com/problemset/problem/1333/F)                            | 2200       |
@@ -229,6 +230,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1331C.cpp]: Solutions/1331C.cpp?ts=4
 [1331D.cpp]: Solutions/1331D.cpp?ts=4
 [1333A.cpp]: Solutions/1333A.cpp?ts=4
+[1333C.cpp]: Solutions/1333C.cpp?ts=4
 [1333D.cpp]: Solutions/1333D.cpp?ts=4
 [1333E.cpp]: Solutions/1333E.cpp?ts=4
 [1333F.cpp]: Solutions/1333F.cpp?ts=4
