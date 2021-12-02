@@ -111,6 +111,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1335D.cpp]      | [Anti-Sudoku](https://codeforces.com/problemset/problem/1335/D)                                      | 1300       |
 | [1335F.cpp]      | [Robots on a Grid](https://codeforces.com/problemset/problem/1335/F)                                 | 2200       |
 | [1339A.cpp]      | [Filling Diamonds](https://codeforces.com/problemset/problem/1339/A)                                 | 900        |
+| [1339C.cpp]      | [Powered Addition](https://codeforces.com/problemset/problem/1339/C)                                 | 1500       |
 | [1339D.cpp]      | [Edge Weight Assignment](https://codeforces.com/problemset/problem/1339/D)                           | 1800       |
 | [1370D.cpp]      | [Odd-Even Subsequence](https://codeforces.com/problemset/problem/1370/D)                             | 2000       |
 | [1373A.cpp]      | [Donut Shops](https://codeforces.com/problemset/problem/1373/A)                                      | 1000       |
@@ -243,6 +244,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1335D.cpp]: Solutions/1335D.cpp?ts=4
 [1335F.cpp]: Solutions/1335F.cpp?ts=4
 [1339A.cpp]: Solutions/1339A.cpp?ts=4
+[1339C.cpp]: Solutions/1339C.cpp?ts=4
 [1339D.cpp]: Solutions/1339D.cpp?ts=4
 [1370D.cpp]: Solutions/1370D.cpp?ts=4
 [1373A.cpp]: Solutions/1373A.cpp?ts=4
