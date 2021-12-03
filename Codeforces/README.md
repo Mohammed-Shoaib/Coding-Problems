@@ -115,6 +115,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1339D.cpp]      | [Edge Weight Assignment](https://codeforces.com/problemset/problem/1339/D)                           | 1800       |
 | [1370D.cpp]      | [Odd-Even Subsequence](https://codeforces.com/problemset/problem/1370/D)                             | 2000       |
 | [1373A.cpp]      | [Donut Shops](https://codeforces.com/problemset/problem/1373/A)                                      | 1000       |
+| [1373C.cpp]      | [Pluses and Minuses](https://codeforces.com/problemset/problem/1373/C)                               | 1300       |
 | [1373D.cpp]      | [Maximum Sum on Even Positions](https://codeforces.com/problemset/problem/1373/D)                    | 1600       |
 | [1373E.cpp]      | [Sum of Digits](https://codeforces.com/problemset/problem/1373/E)                                    | 2200       |
 | [1374A.cpp]      | [Required Remainder](https://codeforces.com/problemset/problem/1374/A)                               | 800        |
@@ -248,6 +249,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1339D.cpp]: Solutions/1339D.cpp?ts=4
 [1370D.cpp]: Solutions/1370D.cpp?ts=4
 [1373A.cpp]: Solutions/1373A.cpp?ts=4
+[1373C.cpp]: Solutions/1373C.cpp?ts=4
 [1373D.cpp]: Solutions/1373D.cpp?ts=4
 [1373E.cpp]: Solutions/1373E.cpp?ts=4
 [1374A.cpp]: Solutions/1374A.cpp?ts=4
