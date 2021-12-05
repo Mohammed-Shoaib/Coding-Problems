@@ -134,6 +134,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1399E2.cpp]     | [Weights Division (hard version)](https://codeforces.com/problemset/problem/1399/E2)                 |            |
 | [1509A.cpp]      | [Average Height](https://codeforces.com/problemset/problem/1509/A)                                   | 800        |
 | [1512A.cpp]      | [Spy Detected!](https://codeforces.com/problemset/problem/1512/A)                                    | 800        |
+| [1512C.cpp]      | [A-B Palindrome](https://codeforces.com/problemset/problem/1512/C)                                   | 1200       |
 | [1512D.cpp]      | [Corrupted Array](https://codeforces.com/problemset/problem/1512/D)                                  | 1200       |
 | [1512E.cpp]      | [Permutation by Sum](https://codeforces.com/problemset/problem/1512/E)                               | 1600       |
 | [1512F.cpp]      | [Education](https://codeforces.com/problemset/problem/1512/F)                                        | 1900       |
@@ -269,6 +270,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1399E2.cpp]: Solutions/1399E2.cpp?ts=4
 [1509A.cpp]: Solutions/1509A.cpp?ts=4
 [1512A.cpp]: Solutions/1512A.cpp?ts=4
+[1512C.cpp]: Solutions/1512C.cpp?ts=4
 [1512D.cpp]: Solutions/1512D.cpp?ts=4
 [1512E.cpp]: Solutions/1512E.cpp?ts=4
 [1512F.cpp]: Solutions/1512F.cpp?ts=4
