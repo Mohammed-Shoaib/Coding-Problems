@@ -62,6 +62,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1271D.cpp]      | [Portals](https://codeforces.com/problemset/problem/1271/D)                                          | 2100       |
 | [1271E.cpp]      | [Common Number](https://codeforces.com/problemset/problem/1271/E)                                    | 2100       |
 | [1272A.cpp]      | [Three Friends](https://codeforces.com/problemset/problem/1272/A)                                    | 900        |
+| [1272B.cpp]      | [Snow Walking Robot](https://codeforces.com/problemset/problem/1272/B)                               | 1200       |
 | [1272C.cpp]      | [Yet Another Broken Keyboard](https://codeforces.com/problemset/problem/1272/C)                      | 1200       |
 | [1272D.cpp]      | [Remove One Element](https://codeforces.com/problemset/problem/1272/D)                               | 1500       |
 | [1277A.cpp]      | [Happy Birthday, Polycarp!](https://codeforces.com/problemset/problem/1277/A)                        | 1000       |
@@ -198,6 +199,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1271D.cpp]: Solutions/1271D.cpp?ts=4
 [1271E.cpp]: Solutions/1271E.cpp?ts=4
 [1272A.cpp]: Solutions/1272A.cpp?ts=4
+[1272B.cpp]: Solutions/1272B.cpp?ts=4
 [1272C.cpp]: Solutions/1272C.cpp?ts=4
 [1272D.cpp]: Solutions/1272D.cpp?ts=4
 [1277A.cpp]: Solutions/1277A.cpp?ts=4
