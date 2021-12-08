@@ -69,6 +69,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1277B.cpp]      | [Make Them Odd](https://codeforces.com/problemset/problem/1277/B)                                    | 1200       |
 | [1277C.cpp]      | [As Simple as One and Two](https://codeforces.com/problemset/problem/1277/C)                         | 1400       |
 | [1278A.cpp]      | [Shuffle Hashing](https://codeforces.com/problemset/problem/1278/A)                                  | 1000       |
+| [1278B.cpp]      | [A and B](https://codeforces.com/problemset/problem/1278/B)                                          | 1500       |
 | [1278C.cpp]      | [Berry Jam](https://codeforces.com/problemset/problem/1278/C)                                        | 1700       |
 | [1278D.cpp]      | [Segment Tree](https://codeforces.com/problemset/problem/1278/D)                                     | 2100       |
 | [1281A.cpp]      | [Suffix Three](https://codeforces.com/problemset/problem/1281/A)                                     | 800        |
@@ -207,6 +208,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1277B.cpp]: Solutions/1277B.cpp?ts=4
 [1277C.cpp]: Solutions/1277C.cpp?ts=4
 [1278A.cpp]: Solutions/1278A.cpp?ts=4
+[1278B.cpp]: Solutions/1278B.cpp?ts=4
 [1278C.cpp]: Solutions/1278C.cpp?ts=4
 [1278D.cpp]: Solutions/1278D.cpp?ts=4
 [1281A.cpp]: Solutions/1281A.cpp?ts=4
