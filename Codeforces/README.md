@@ -87,6 +87,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1284B.cpp]      | [New Year and Ascent Sequence](https://codeforces.com/problemset/problem/1284/B)                     | 1400       |
 | [1284C.cpp]      | [New Year and Permutation](https://codeforces.com/problemset/problem/1284/C)                         | 1600       |
 | [1285A.cpp]      | [Mezo Playing Zoma](https://codeforces.com/problemset/problem/1285/A)                                | 800        |
+| [1285B.cpp]      | [Just Eat It!](https://codeforces.com/problemset/problem/1285/B)                                     | 1300       |
 | [1285C.cpp]      | [Fadi and LCM](https://codeforces.com/problemset/problem/1285/C)                                     | 1400       |
 | [1285D.cpp]      | [Dr. Evil Underscores](https://codeforces.com/problemset/problem/1285/D)                             | 1900       |
 | [1287A.cpp]      | [Angry Students](https://codeforces.com/problemset/problem/1287/A)                                   | 800        |
@@ -229,6 +230,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1284B.cpp]: Solutions/1284B.cpp?ts=4
 [1284C.cpp]: Solutions/1284C.cpp?ts=4
 [1285A.cpp]: Solutions/1285A.cpp?ts=4
+[1285B.cpp]: Solutions/1285B.cpp?ts=4
 [1285C.cpp]: Solutions/1285C.cpp?ts=4
 [1285D.cpp]: Solutions/1285D.cpp?ts=4
 [1287A.cpp]: Solutions/1287A.cpp?ts=4
