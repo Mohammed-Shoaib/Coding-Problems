@@ -99,6 +99,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1296C.cpp]      | [Yet Another Walking Robot](https://codeforces.com/problemset/problem/1296/C)                        | 1500       |
 | [1296D.cpp]      | [Fight with Monsters](https://codeforces.com/problemset/problem/1296/D)                              | 1500       |
 | [1328A.cpp]      | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A)                             | 800        |
+| [1328B.cpp]      | [K-th Beautiful String](https://codeforces.com/problemset/problem/1328/B)                            | 1300       |
 | [1328C.cpp]      | [Ternary XOR](https://codeforces.com/problemset/problem/1328/C)                                      | 1200       |
 | [1328D.cpp]      | [Carousel](https://codeforces.com/problemset/problem/1328/D)                                         | 1800       |
 | [1328E.cpp]      | [Tree Queries](https://codeforces.com/problemset/problem/1328/E)                                     | 1900       |
@@ -244,6 +245,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1296C.cpp]: Solutions/1296C.cpp?ts=4
 [1296D.cpp]: Solutions/1296D.cpp?ts=4
 [1328A.cpp]: Solutions/1328A.cpp?ts=4
+[1328B.cpp]: Solutions/1328B.cpp?ts=4
 [1328C.cpp]: Solutions/1328C.cpp?ts=4
 [1328D.cpp]: Solutions/1328D.cpp?ts=4
 [1328E.cpp]: Solutions/1328E.cpp?ts=4
