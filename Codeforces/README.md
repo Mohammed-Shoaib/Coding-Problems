@@ -104,6 +104,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1328D.cpp]      | [Carousel](https://codeforces.com/problemset/problem/1328/D)                                         | 1800       |
 | [1328E.cpp]      | [Tree Queries](https://codeforces.com/problemset/problem/1328/E)                                     | 1900       |
 | [1330A.cpp]      | [Dreamoon and Ranking Collection](https://codeforces.com/problemset/problem/1330/A)                  | 900        |
+| [1330B.cpp]      | [Dreamoon Likes Permutations](https://codeforces.com/problemset/problem/1330/B)                      | 1400       |
 | [1330C.cpp]      | [Dreamoon Likes Coloring](https://codeforces.com/problemset/problem/1330/C)                          | 1800       |
 | [1330D.cpp]      | [Dreamoon Likes Sequences](https://codeforces.com/problemset/problem/1330/D)                         | 1700       |
 | [1331A.cpp]      | [Is it rated?](https://codeforces.com/problemset/problem/1331/A)                                     |            |
@@ -250,6 +251,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1328D.cpp]: Solutions/1328D.cpp?ts=4
 [1328E.cpp]: Solutions/1328E.cpp?ts=4
 [1330A.cpp]: Solutions/1330A.cpp?ts=4
+[1330B.cpp]: Solutions/1330B.cpp?ts=4
 [1330C.cpp]: Solutions/1330C.cpp?ts=4
 [1330D.cpp]: Solutions/1330D.cpp?ts=4
 [1331A.cpp]: Solutions/1331A.cpp?ts=4
