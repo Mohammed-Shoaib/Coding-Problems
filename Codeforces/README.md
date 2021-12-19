@@ -98,6 +98,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1296B.cpp]      | [Food Buying](https://codeforces.com/problemset/problem/1296/B)                                      | 900        |
 | [1296C.cpp]      | [Yet Another Walking Robot](https://codeforces.com/problemset/problem/1296/C)                        | 1500       |
 | [1296D.cpp]      | [Fight with Monsters](https://codeforces.com/problemset/problem/1296/D)                              | 1500       |
+| [1296E1.cpp]     | [String Coloring (easy version)](https://codeforces.com/problemset/problem/1296/E1)                  | 1800       |
 | [1296E2.cpp]     | [String Coloring (hard version)](https://codeforces.com/problemset/problem/1296/E2)                  | 2000       |
 | [1328A.cpp]      | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A)                             | 800        |
 | [1328B.cpp]      | [K-th Beautiful String](https://codeforces.com/problemset/problem/1328/B)                            | 1300       |
@@ -247,6 +248,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1296B.cpp]: Solutions/1296B.cpp?ts=4
 [1296C.cpp]: Solutions/1296C.cpp?ts=4
 [1296D.cpp]: Solutions/1296D.cpp?ts=4
+[1296E1.cpp]: Solutions/1296E1.cpp?ts=4
 [1296E2.cpp]: Solutions/1296E2.cpp?ts=4
 [1328A.cpp]: Solutions/1328A.cpp?ts=4
 [1328B.cpp]: Solutions/1328B.cpp?ts=4
