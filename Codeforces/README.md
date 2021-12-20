@@ -122,6 +122,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1335A.cpp]      | [Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A)                          | 800        |
 | [1335C.cpp]      | [Two Teams Composing](https://codeforces.com/problemset/problem/1335/C)                              | 1100       |
 | [1335D.cpp]      | [Anti-Sudoku](https://codeforces.com/problemset/problem/1335/D)                                      | 1300       |
+| [1335E1.cpp]     | [Three Blocks Palindrome (easy version)](https://codeforces.com/problemset/problem/1335/E1)          | 1700       |
 | [1335E2.cpp]     | [Three Blocks Palindrome (hard version)](https://codeforces.com/problemset/problem/1335/E2)          | 1800       |
 | [1335F.cpp]      | [Robots on a Grid](https://codeforces.com/problemset/problem/1335/F)                                 | 2200       |
 | [1339A.cpp]      | [Filling Diamonds](https://codeforces.com/problemset/problem/1339/A)                                 | 900        |
@@ -272,6 +273,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1335A.cpp]: Solutions/1335A.cpp?ts=4
 [1335C.cpp]: Solutions/1335C.cpp?ts=4
 [1335D.cpp]: Solutions/1335D.cpp?ts=4
+[1335E1.cpp]: Solutions/1335E1.cpp?ts=4
 [1335E2.cpp]: Solutions/1335E2.cpp?ts=4
 [1335F.cpp]: Solutions/1335F.cpp?ts=4
 [1339A.cpp]: Solutions/1339A.cpp?ts=4
