@@ -78,6 +78,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1281C.cpp]      | [Cut and Paste](https://codeforces.com/problemset/problem/1281/C)                                    | 1700       |
 | [1281D.cpp]      | [Beingawesomeism](https://codeforces.com/problemset/problem/1281/D)                                  | 1800       |
 | [1282A.cpp]      | [Temporarily unavailable](https://codeforces.com/problemset/problem/1282/A)                          | 900        |
+| [1282B2.cpp]     | [K for the Price of One (Hard Version)](https://codeforces.com/problemset/problem/1282/B2)           | 1600       |
 | [1282C.cpp]      | [Petya and Exam](https://codeforces.com/problemset/problem/1282/C)                                   | 1800       |
 | [1283A.cpp]      | [Minutes Before the New Year](https://codeforces.com/problemset/problem/1283/A)                      | 800        |
 | [1283B.cpp]      | [Candies Division](https://codeforces.com/problemset/problem/1283/B)                                 | 900        |
@@ -231,6 +232,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1281C.cpp]: Solutions/1281C.cpp?ts=4
 [1281D.cpp]: Solutions/1281D.cpp?ts=4
 [1282A.cpp]: Solutions/1282A.cpp?ts=4
+[1282B2.cpp]: Solutions/1282B2.cpp?ts=4
 [1282C.cpp]: Solutions/1282C.cpp?ts=4
 [1283A.cpp]: Solutions/1283A.cpp?ts=4
 [1283B.cpp]: Solutions/1283B.cpp?ts=4
