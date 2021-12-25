@@ -43,6 +43,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1114B.cpp]      | [Yet Another Array Partitioning Task](https://codeforces.com/problemset/problem/1114/B)              | 1500       |
 | [1201B.cpp]      | [Zero Array](https://codeforces.com/problemset/problem/1201/B)                                       | 1500       |
 | [1234A.cpp]      | [Equalize Prices Again](https://codeforces.com/problemset/problem/1234/A)                            | 800        |
+| [1234B1.cpp]     | [Social Network (easy version)](https://codeforces.com/problemset/problem/1234/B1)                   | 1000       |
 | [1234B2.cpp]     | [Social Network (hard version)](https://codeforces.com/problemset/problem/1234/B2)                   | 1300       |
 | [1234C.cpp]      | [Pipes](https://codeforces.com/problemset/problem/1234/C)                                            | 1500       |
 | [1234D.cpp]      | [Distinct Characters Queries](https://codeforces.com/problemset/problem/1234/D)                      | 1600       |
@@ -198,6 +199,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1114B.cpp]: Solutions/1114B.cpp?ts=4
 [1201B.cpp]: Solutions/1201B.cpp?ts=4
 [1234A.cpp]: Solutions/1234A.cpp?ts=4
+[1234B1.cpp]: Solutions/1234B1.cpp?ts=4
 [1234B2.cpp]: Solutions/1234B2.cpp?ts=4
 [1234C.cpp]: Solutions/1234C.cpp?ts=4
 [1234D.cpp]: Solutions/1234D.cpp?ts=4
