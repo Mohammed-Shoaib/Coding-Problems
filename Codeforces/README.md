@@ -131,6 +131,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1334B.cpp]      | [Middle Class](https://codeforces.com/problemset/problem/1334/B)                                     | 1100       |
 | [1334C.cpp]      | [Circle of Monsters](https://codeforces.com/problemset/problem/1334/C)                               | 1600       |
 | [1335A.cpp]      | [Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A)                          | 800        |
+| [1335B.cpp]      | [Construct the String](https://codeforces.com/problemset/problem/1335/B)                             | 900        |
 | [1335C.cpp]      | [Two Teams Composing](https://codeforces.com/problemset/problem/1335/C)                              | 1100       |
 | [1335D.cpp]      | [Anti-Sudoku](https://codeforces.com/problemset/problem/1335/D)                                      | 1300       |
 | [1335E1.cpp]     | [Three Blocks Palindrome (easy version)](https://codeforces.com/problemset/problem/1335/E1)          | 1700       |
@@ -298,6 +299,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1334B.cpp]: Solutions/1334B.cpp?ts=4
 [1334C.cpp]: Solutions/1334C.cpp?ts=4
 [1335A.cpp]: Solutions/1335A.cpp?ts=4
+[1335B.cpp]: Solutions/1335B.cpp?ts=4
 [1335C.cpp]: Solutions/1335C.cpp?ts=4
 [1335D.cpp]: Solutions/1335D.cpp?ts=4
 [1335E1.cpp]: Solutions/1335E1.cpp?ts=4
