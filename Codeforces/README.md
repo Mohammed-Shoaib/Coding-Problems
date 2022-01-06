@@ -138,6 +138,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1335E2.cpp]     | [Three Blocks Palindrome (hard version)](https://codeforces.com/problemset/problem/1335/E2)          | 1800       |
 | [1335F.cpp]      | [Robots on a Grid](https://codeforces.com/problemset/problem/1335/F)                                 | 2200       |
 | [1339A.cpp]      | [Filling Diamonds](https://codeforces.com/problemset/problem/1339/A)                                 | 900        |
+| [1339B.cpp]      | [Sorted Adjacent Differences](https://codeforces.com/problemset/problem/1339/B)                      | 1200       |
 | [1339C.cpp]      | [Powered Addition](https://codeforces.com/problemset/problem/1339/C)                                 | 1500       |
 | [1339D.cpp]      | [Edge Weight Assignment](https://codeforces.com/problemset/problem/1339/D)                           | 1800       |
 | [1352C.cpp]      | [K-th Not Divisible by n](https://codeforces.com/problemset/problem/1352/C)                          | 1200       |
@@ -306,6 +307,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1335E2.cpp]: Solutions/1335E2.cpp?ts=4
 [1335F.cpp]: Solutions/1335F.cpp?ts=4
 [1339A.cpp]: Solutions/1339A.cpp?ts=4
+[1339B.cpp]: Solutions/1339B.cpp?ts=4
 [1339C.cpp]: Solutions/1339C.cpp?ts=4
 [1339D.cpp]: Solutions/1339D.cpp?ts=4
 [1352C.cpp]: Solutions/1352C.cpp?ts=4
