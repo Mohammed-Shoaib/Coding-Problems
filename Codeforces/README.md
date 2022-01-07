@@ -143,6 +143,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1339D.cpp]      | [Edge Weight Assignment](https://codeforces.com/problemset/problem/1339/D)                           | 1800       |
 | [1352C.cpp]      | [K-th Not Divisible by n](https://codeforces.com/problemset/problem/1352/C)                          | 1200       |
 | [1353C.cpp]      | [Board Moves](https://codeforces.com/problemset/problem/1353/C)                                      | 1000       |
+| [1360B.cpp]      | [Honest Coach](https://codeforces.com/problemset/problem/1360/B)                                     | 800        |
 | [1370D.cpp]      | [Odd-Even Subsequence](https://codeforces.com/problemset/problem/1370/D)                             | 2000       |
 | [1373A.cpp]      | [Donut Shops](https://codeforces.com/problemset/problem/1373/A)                                      | 1000       |
 | [1373C.cpp]      | [Pluses and Minuses](https://codeforces.com/problemset/problem/1373/C)                               | 1300       |
@@ -312,6 +313,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1339D.cpp]: Solutions/1339D.cpp?ts=4
 [1352C.cpp]: Solutions/1352C.cpp?ts=4
 [1353C.cpp]: Solutions/1353C.cpp?ts=4
+[1360B.cpp]: Solutions/1360B.cpp?ts=4
 [1370D.cpp]: Solutions/1370D.cpp?ts=4
 [1373A.cpp]: Solutions/1373A.cpp?ts=4
 [1373C.cpp]: Solutions/1373C.cpp?ts=4
