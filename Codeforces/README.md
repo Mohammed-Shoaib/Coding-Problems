@@ -147,6 +147,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1365B.cpp]      | [Trouble Sort](https://codeforces.com/problemset/problem/1365/B)                                     | 1300       |
 | [1370D.cpp]      | [Odd-Even Subsequence](https://codeforces.com/problemset/problem/1370/D)                             | 2000       |
 | [1373A.cpp]      | [Donut Shops](https://codeforces.com/problemset/problem/1373/A)                                      | 1000       |
+| [1373B.cpp]      | [01 Game](https://codeforces.com/problemset/problem/1373/B)                                          | 900        |
 | [1373C.cpp]      | [Pluses and Minuses](https://codeforces.com/problemset/problem/1373/C)                               | 1300       |
 | [1373D.cpp]      | [Maximum Sum on Even Positions](https://codeforces.com/problemset/problem/1373/D)                    | 1600       |
 | [1373E.cpp]      | [Sum of Digits](https://codeforces.com/problemset/problem/1373/E)                                    | 2200       |
@@ -318,6 +319,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1365B.cpp]: Solutions/1365B.cpp?ts=4
 [1370D.cpp]: Solutions/1370D.cpp?ts=4
 [1373A.cpp]: Solutions/1373A.cpp?ts=4
+[1373B.cpp]: Solutions/1373B.cpp?ts=4
 [1373C.cpp]: Solutions/1373C.cpp?ts=4
 [1373D.cpp]: Solutions/1373D.cpp?ts=4
 [1373E.cpp]: Solutions/1373E.cpp?ts=4
