@@ -157,6 +157,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1374D.cpp]      | [Zero Remainder Array](https://codeforces.com/problemset/problem/1374/D)                             | 1400       |
 | [1374E1.cpp]     | [Reading Books (easy version)](https://codeforces.com/problemset/problem/1374/E1)                    | 1600       |
 | [1397A.cpp]      | [Juggling Letters](https://codeforces.com/problemset/problem/1397/A)                                 | 800        |
+| [1397B.cpp]      | [Power Sequence](https://codeforces.com/problemset/problem/1397/B)                                   | 1500       |
 | [1397C.cpp]      | [Multiples of Length](https://codeforces.com/problemset/problem/1397/C)                              | 1600       |
 | [1397D.cpp]      | [Stoned Game](https://codeforces.com/problemset/problem/1397/D)                                      | 1800       |
 | [1398C.cpp]      | [Good Subarrays](https://codeforces.com/problemset/problem/1398/C)                                   | 1600       |
@@ -329,6 +330,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1374D.cpp]: Solutions/1374D.cpp?ts=4
 [1374E1.cpp]: Solutions/1374E1.cpp?ts=4
 [1397A.cpp]: Solutions/1397A.cpp?ts=4
+[1397B.cpp]: Solutions/1397B.cpp?ts=4
 [1397C.cpp]: Solutions/1397C.cpp?ts=4
 [1397D.cpp]: Solutions/1397D.cpp?ts=4
 [1398C.cpp]: Solutions/1398C.cpp?ts=4
