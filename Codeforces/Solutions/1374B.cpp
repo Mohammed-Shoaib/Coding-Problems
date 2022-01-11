@@ -1,24 +1,23 @@
 // Problem Code: 1374B
-
+ 
 #include <iostream>
 
 using namespace std;
 
-int multiply_or_divide(int n) {
-	int cnt_2, cnt_3;
-	cnt_2 = cnt_3 = 0;
-	while (n % 2 == 0) {
-		cnt_2++;
-		n /= 2;
+int multiply_by_2_divide_by_6(int n) {
+	int moves = 0;
+	
+	while (n && n % 6 == 0) {
+		moves++;
+		n /= 6;
 	}
-	while (n % 3 == 0) {
-		cnt_3++;
+	
+	while (n && n % 3 == 0) {
+		moves += 2;
 		n /= 3;
 	}
-	if (n > 1 || cnt_2 > cnt_3)
-		return -1;
-	else
-		return 2 * cnt_3 - cnt_2;
+	
+	return (n == 1) ? moves : -1;
 }
 
 int main() {
@@ -27,7 +26,7 @@ int main() {
 	while (t--) {
 		int n;
 		cin >> n;
-		cout << multiply_or_divide(n) << endl;
+		cout << multiply_by_2_divide_by_6(n) << endl;
 	}
 	return 0;
 }
