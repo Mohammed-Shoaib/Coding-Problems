@@ -168,6 +168,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1399D.cpp]      | [Binary String To Subsequences](https://codeforces.com/problemset/problem/1399/D)                    |            |
 | [1399E1.cpp]     | [Weights Division (easy version)](https://codeforces.com/problemset/problem/1399/E1)                 |            |
 | [1399E2.cpp]     | [Weights Division (hard version)](https://codeforces.com/problemset/problem/1399/E2)                 |            |
+| [1472B.cpp]      | [Fair Division](https://codeforces.com/problemset/problem/1472/B)                                    | 800        |
 | [1509A.cpp]      | [Average Height](https://codeforces.com/problemset/problem/1509/A)                                   | 800        |
 | [1512A.cpp]      | [Spy Detected!](https://codeforces.com/problemset/problem/1512/A)                                    | 800        |
 | [1512C.cpp]      | [A-B Palindrome](https://codeforces.com/problemset/problem/1512/C)                                   | 1200       |
@@ -342,6 +343,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1399D.cpp]: Solutions/1399D.cpp?ts=4
 [1399E1.cpp]: Solutions/1399E1.cpp?ts=4
 [1399E2.cpp]: Solutions/1399E2.cpp?ts=4
+[1472B.cpp]: Solutions/1472B.cpp?ts=4
 [1509A.cpp]: Solutions/1509A.cpp?ts=4
 [1512A.cpp]: Solutions/1512A.cpp?ts=4
 [1512C.cpp]: Solutions/1512C.cpp?ts=4
