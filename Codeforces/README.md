@@ -170,6 +170,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1399E2.cpp]     | [Weights Division (hard version)](https://codeforces.com/problemset/problem/1399/E2)                 |            |
 | [1472B.cpp]      | [Fair Division](https://codeforces.com/problemset/problem/1472/B)                                    | 800        |
 | [1509A.cpp]      | [Average Height](https://codeforces.com/problemset/problem/1509/A)                                   | 800        |
+| [1509B.cpp]      | [TMT Document](https://codeforces.com/problemset/problem/1509/B)                                     | 1100       |
 | [1512A.cpp]      | [Spy Detected!](https://codeforces.com/problemset/problem/1512/A)                                    | 800        |
 | [1512C.cpp]      | [A-B Palindrome](https://codeforces.com/problemset/problem/1512/C)                                   | 1200       |
 | [1512D.cpp]      | [Corrupted Array](https://codeforces.com/problemset/problem/1512/D)                                  | 1200       |
@@ -345,6 +346,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1399E2.cpp]: Solutions/1399E2.cpp?ts=4
 [1472B.cpp]: Solutions/1472B.cpp?ts=4
 [1509A.cpp]: Solutions/1509A.cpp?ts=4
+[1509B.cpp]: Solutions/1509B.cpp?ts=4
 [1512A.cpp]: Solutions/1512A.cpp?ts=4
 [1512C.cpp]: Solutions/1512C.cpp?ts=4
 [1512D.cpp]: Solutions/1512D.cpp?ts=4
