@@ -157,6 +157,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1374C.cpp]      | [Move Brackets](https://codeforces.com/problemset/problem/1374/C)                                    | 1000       |
 | [1374D.cpp]      | [Zero Remainder Array](https://codeforces.com/problemset/problem/1374/D)                             | 1400       |
 | [1374E1.cpp]     | [Reading Books (easy version)](https://codeforces.com/problemset/problem/1374/E1)                    | 1600       |
+| [1385B.cpp]      | [Restore the Permutation by Merger](https://codeforces.com/problemset/problem/1385/B)                | 800        |
 | [1397A.cpp]      | [Juggling Letters](https://codeforces.com/problemset/problem/1397/A)                                 | 800        |
 | [1397B.cpp]      | [Power Sequence](https://codeforces.com/problemset/problem/1397/B)                                   | 1500       |
 | [1397C.cpp]      | [Multiples of Length](https://codeforces.com/problemset/problem/1397/C)                              | 1600       |
@@ -333,6 +334,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1374C.cpp]: Solutions/1374C.cpp?ts=4
 [1374D.cpp]: Solutions/1374D.cpp?ts=4
 [1374E1.cpp]: Solutions/1374E1.cpp?ts=4
+[1385B.cpp]: Solutions/1385B.cpp?ts=4
 [1397A.cpp]: Solutions/1397A.cpp?ts=4
 [1397B.cpp]: Solutions/1397B.cpp?ts=4
 [1397C.cpp]: Solutions/1397C.cpp?ts=4
