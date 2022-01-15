@@ -170,6 +170,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1399E1.cpp]     | [Weights Division (easy version)](https://codeforces.com/problemset/problem/1399/E1)                 |            |
 | [1399E2.cpp]     | [Weights Division (hard version)](https://codeforces.com/problemset/problem/1399/E2)                 |            |
 | [1472B.cpp]      | [Fair Division](https://codeforces.com/problemset/problem/1472/B)                                    | 800        |
+| [1475B.cpp]      | [New Year's Number](https://codeforces.com/problemset/problem/1475/B)                                | 900        |
 | [1509A.cpp]      | [Average Height](https://codeforces.com/problemset/problem/1509/A)                                   | 800        |
 | [1509B.cpp]      | [TMT Document](https://codeforces.com/problemset/problem/1509/B)                                     | 1100       |
 | [1512A.cpp]      | [Spy Detected!](https://codeforces.com/problemset/problem/1512/A)                                    | 800        |
@@ -347,6 +348,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1399E1.cpp]: Solutions/1399E1.cpp?ts=4
 [1399E2.cpp]: Solutions/1399E2.cpp?ts=4
 [1472B.cpp]: Solutions/1472B.cpp?ts=4
+[1475B.cpp]: Solutions/1475B.cpp?ts=4
 [1509A.cpp]: Solutions/1509A.cpp?ts=4
 [1509B.cpp]: Solutions/1509B.cpp?ts=4
 [1512A.cpp]: Solutions/1512A.cpp?ts=4
