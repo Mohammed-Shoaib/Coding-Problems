@@ -17,6 +17,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [112A.cpp]       | [Petya and Strings](https://codeforces.com/problemset/problem/112/A)                                 | 800        |
 | [118A.cpp]       | [String Task](https://codeforces.com/problemset/problem/118/A)                                       | 1000       |
 | [158A.cpp]       | [Next Round](https://codeforces.com/problemset/problem/158/A)                                        | 800        |
+| [158B.cpp]       | [Taxi](https://codeforces.com/problemset/problem/158/B)                                              | 1100       |
 | [231A.cpp]       | [Team](https://codeforces.com/problemset/problem/231/A)                                              | 800        |
 | [263A.cpp]       | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)                                  | 800        |
 | [282A.cpp]       | [Bit++](https://codeforces.com/problemset/problem/282/A)                                             | 800        |
@@ -196,6 +197,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [112A.cpp]: Solutions/112A.cpp?ts=4
 [118A.cpp]: Solutions/118A.cpp?ts=4
 [158A.cpp]: Solutions/158A.cpp?ts=4
+[158B.cpp]: Solutions/158B.cpp?ts=4
 [231A.cpp]: Solutions/231A.cpp?ts=4
 [263A.cpp]: Solutions/263A.cpp?ts=4
 [282A.cpp]: Solutions/282A.cpp?ts=4
