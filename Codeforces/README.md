@@ -26,6 +26,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [266B.cpp]       | [Queue at the School](https://codeforces.com/problemset/problem/266/B)                               | 800        |
 | [282A.cpp]       | [Bit++](https://codeforces.com/problemset/problem/282/A)                                             | 800        |
 | [339B.cpp]       | [Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B)                                | 1000       |
+| [363B.cpp]       | [Fence](https://codeforces.com/problemset/problem/363/B)                                             | 1100       |
 | [489C.cpp]       | [Given Length and Sum of Digits...](https://codeforces.com/problemset/problem/489/C)                 | 1400       |
 | [514A.cpp]       | [Chewbaсca and Number](https://codeforces.com/problemset/problem/514/A)                              | 1200       |
 | [656F.cpp]       | [Ace It!](https://codeforces.com/problemset/problem/656/F)                                           | 1900       |
@@ -211,6 +212,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [266B.cpp]: Solutions/266B.cpp?ts=4
 [282A.cpp]: Solutions/282A.cpp?ts=4
 [339B.cpp]: Solutions/339B.cpp?ts=4
+[363B.cpp]: Solutions/363B.cpp?ts=4
 [489C.cpp]: Solutions/489C.cpp?ts=4
 [514A.cpp]: Solutions/514A.cpp?ts=4
 [656F.cpp]: Solutions/656F.cpp?ts=4
