@@ -32,6 +32,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [492B.cpp]       | [Vanya and Lanterns](https://codeforces.com/problemset/problem/492/B)                                | 1200       |
 | [514A.cpp]       | [Chewbaсca and Number](https://codeforces.com/problemset/problem/514/A)                              | 1200       |
 | [514B.cpp]       | [Han Solo and Lazer Gun](https://codeforces.com/problemset/problem/514/B)                            | 1400       |
+| [520B.cpp]       | [Two Buttons](https://codeforces.com/problemset/problem/520/B)                                       | 1400       |
 | [656F.cpp]       | [Ace It!](https://codeforces.com/problemset/problem/656/F)                                           | 1900       |
 | [1030A.cpp]      | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A)                     | 800        |
 | [1056A.cpp]      | [Determine Line](https://codeforces.com/problemset/problem/1056/A)                                   | 800        |
@@ -221,6 +222,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [492B.cpp]: Solutions/492B.cpp?ts=4
 [514A.cpp]: Solutions/514A.cpp?ts=4
 [514B.cpp]: Solutions/514B.cpp?ts=4
+[520B.cpp]: Solutions/520B.cpp?ts=4
 [656F.cpp]: Solutions/656F.cpp?ts=4
 [1030A.cpp]: Solutions/1030A.cpp?ts=4
 [1056A.cpp]: Solutions/1056A.cpp?ts=4
