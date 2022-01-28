@@ -191,6 +191,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1512E.cpp]      | [Permutation by Sum](https://codeforces.com/problemset/problem/1512/E)                               | 1600       |
 | [1512F.cpp]      | [Education](https://codeforces.com/problemset/problem/1512/F)                                        | 1900       |
 | [1512G.cpp]      | [Short Task](https://codeforces.com/problemset/problem/1512/G)                                       | 1700       |
+| [1520B.cpp]      | [Ordinary Numbers](https://codeforces.com/problemset/problem/1520/B)                                 | 800        |
 | [1527A.cpp]      | [And Then There Were K](https://codeforces.com/problemset/problem/1527/A)                            | 800        |
 | [1527B1.cpp]     | [Palindrome Game (easy version)](https://codeforces.com/problemset/problem/1527/B1)                  | 1200       |
 | [1527B2.cpp]     | [Palindrome Game (hard version)](https://codeforces.com/problemset/problem/1527/B2)                  | 1900       |
@@ -381,6 +382,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1512E.cpp]: Solutions/1512E.cpp?ts=4
 [1512F.cpp]: Solutions/1512F.cpp?ts=4
 [1512G.cpp]: Solutions/1512G.cpp?ts=4
+[1520B.cpp]: Solutions/1520B.cpp?ts=4
 [1527A.cpp]: Solutions/1527A.cpp?ts=4
 [1527B1.cpp]: Solutions/1527B1.cpp?ts=4
 [1527B2.cpp]: Solutions/1527B2.cpp?ts=4
