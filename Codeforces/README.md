@@ -17,6 +17,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [71A.cpp]        | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A)                                 | 800        |
 | [110A.cpp]       | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A)                               | 800        |
 | [112A.cpp]       | [Petya and Strings](https://codeforces.com/problemset/problem/112/A)                                 | 800        |
+| [116A.cpp]       | [Tram](https://codeforces.com/problemset/problem/116/A)                                              | 800        |
 | [118A.cpp]       | [String Task](https://codeforces.com/problemset/problem/118/A)                                       | 1000       |
 | [158A.cpp]       | [Next Round](https://codeforces.com/problemset/problem/158/A)                                        | 800        |
 | [158B.cpp]       | [Taxi](https://codeforces.com/problemset/problem/158/B)                                              | 1100       |
@@ -211,6 +212,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [71A.cpp]: Solutions/71A.cpp?ts=4
 [110A.cpp]: Solutions/110A.cpp?ts=4
 [112A.cpp]: Solutions/112A.cpp?ts=4
+[116A.cpp]: Solutions/116A.cpp?ts=4
 [118A.cpp]: Solutions/118A.cpp?ts=4
 [158A.cpp]: Solutions/158A.cpp?ts=4
 [158B.cpp]: Solutions/158B.cpp?ts=4
