@@ -21,6 +21,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [118A.cpp]       | [String Task](https://codeforces.com/problemset/problem/118/A)                                       | 1000       |
 | [122A.cpp]       | [Lucky Division](https://codeforces.com/problemset/problem/122/A)                                    | 1000       |
 | [131A.cpp]       | [cAPS lOCK](https://codeforces.com/problemset/problem/131/A)                                         | 1000       |
+| [133A.cpp]       | [HQ9+](https://codeforces.com/problemset/problem/133/A)                                              | 900        |
 | [158A.cpp]       | [Next Round](https://codeforces.com/problemset/problem/158/A)                                        | 800        |
 | [158B.cpp]       | [Taxi](https://codeforces.com/problemset/problem/158/B)                                              | 1100       |
 | [200B.cpp]       | [Drinks](https://codeforces.com/problemset/problem/200/B)                                            | 800        |
@@ -218,6 +219,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [118A.cpp]: Solutions/118A.cpp?ts=4
 [122A.cpp]: Solutions/122A.cpp?ts=4
 [131A.cpp]: Solutions/131A.cpp?ts=4
+[133A.cpp]: Solutions/133A.cpp?ts=4
 [158A.cpp]: Solutions/158A.cpp?ts=4
 [158B.cpp]: Solutions/158B.cpp?ts=4
 [200B.cpp]: Solutions/200B.cpp?ts=4
