@@ -165,6 +165,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1353C.cpp]      | [Board Moves](https://codeforces.com/problemset/problem/1353/C)                                      | 1000       |
 | [1360B.cpp]      | [Honest Coach](https://codeforces.com/problemset/problem/1360/B)                                     | 800        |
 | [1365B.cpp]      | [Trouble Sort](https://codeforces.com/problemset/problem/1365/B)                                     | 1300       |
+| [1368A.cpp]      | [C+=](https://codeforces.com/problemset/problem/1368/A)                                              | 800        |
 | [1370D.cpp]      | [Odd-Even Subsequence](https://codeforces.com/problemset/problem/1370/D)                             | 2000       |
 | [1373A.cpp]      | [Donut Shops](https://codeforces.com/problemset/problem/1373/A)                                      | 1000       |
 | [1373B.cpp]      | [01 Game](https://codeforces.com/problemset/problem/1373/B)                                          | 900        |
@@ -365,6 +366,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1353C.cpp]: Solutions/1353C.cpp?ts=4
 [1360B.cpp]: Solutions/1360B.cpp?ts=4
 [1365B.cpp]: Solutions/1365B.cpp?ts=4
+[1368A.cpp]: Solutions/1368A.cpp?ts=4
 [1370D.cpp]: Solutions/1370D.cpp?ts=4
 [1373A.cpp]: Solutions/1373A.cpp?ts=4
 [1373B.cpp]: Solutions/1373B.cpp?ts=4
