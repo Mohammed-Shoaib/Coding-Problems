@@ -24,6 +24,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [133A.cpp]       | [HQ9+](https://codeforces.com/problemset/problem/133/A)                                              | 900        |
 | [136A.cpp]       | [Presents](https://codeforces.com/problemset/problem/136/A)                                          | 800        |
 | [141A.cpp]       | [Amusing Joke](https://codeforces.com/problemset/problem/141/A)                                      | 800        |
+| [144A.cpp]       | [Arrival of the General](https://codeforces.com/problemset/problem/144/A)                            | 800        |
 | [158A.cpp]       | [Next Round](https://codeforces.com/problemset/problem/158/A)                                        | 800        |
 | [158B.cpp]       | [Taxi](https://codeforces.com/problemset/problem/158/B)                                              | 1100       |
 | [200B.cpp]       | [Drinks](https://codeforces.com/problemset/problem/200/B)                                            | 800        |
@@ -225,6 +226,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [133A.cpp]: Solutions/133A.cpp?ts=4
 [136A.cpp]: Solutions/136A.cpp?ts=4
 [141A.cpp]: Solutions/141A.cpp?ts=4
+[144A.cpp]: Solutions/144A.cpp?ts=4
 [158A.cpp]: Solutions/158A.cpp?ts=4
 [158B.cpp]: Solutions/158B.cpp?ts=4
 [200B.cpp]: Solutions/200B.cpp?ts=4
