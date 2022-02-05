@@ -30,6 +30,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [158B.cpp]       | [Taxi](https://codeforces.com/problemset/problem/158/B)                                              | 1100       |
 | [160A.cpp]       | [Twins](https://codeforces.com/problemset/problem/160/A)                                             | 900        |
 | [200B.cpp]       | [Drinks](https://codeforces.com/problemset/problem/200/B)                                            | 800        |
+| [208A.cpp]       | [Dubstep](https://codeforces.com/problemset/problem/208/A)                                           | 900        |
 | [230B.cpp]       | [T-primes](https://codeforces.com/problemset/problem/230/B)                                          | 1300       |
 | [231A.cpp]       | [Team](https://codeforces.com/problemset/problem/231/A)                                              | 800        |
 | [263A.cpp]       | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)                                  | 800        |
@@ -234,6 +235,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [158B.cpp]: Solutions/158B.cpp?ts=4
 [160A.cpp]: Solutions/160A.cpp?ts=4
 [200B.cpp]: Solutions/200B.cpp?ts=4
+[208A.cpp]: Solutions/208A.cpp?ts=4
 [230B.cpp]: Solutions/230B.cpp?ts=4
 [231A.cpp]: Solutions/231A.cpp?ts=4
 [263A.cpp]: Solutions/263A.cpp?ts=4
