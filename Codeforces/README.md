@@ -32,6 +32,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [200B.cpp]       | [Drinks](https://codeforces.com/problemset/problem/200/B)                                            | 800        |
 | [208A.cpp]       | [Dubstep](https://codeforces.com/problemset/problem/208/A)                                           | 900        |
 | [228A.cpp]       | [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A)              | 800        |
+| [230A.cpp]       | [Dragons](https://codeforces.com/problemset/problem/230/A)                                           | 1000       |
 | [230B.cpp]       | [T-primes](https://codeforces.com/problemset/problem/230/B)                                          | 1300       |
 | [231A.cpp]       | [Team](https://codeforces.com/problemset/problem/231/A)                                              | 800        |
 | [263A.cpp]       | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)                                  | 800        |
@@ -238,6 +239,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [200B.cpp]: Solutions/200B.cpp?ts=4
 [208A.cpp]: Solutions/208A.cpp?ts=4
 [228A.cpp]: Solutions/228A.cpp?ts=4
+[230A.cpp]: Solutions/230A.cpp?ts=4
 [230B.cpp]: Solutions/230B.cpp?ts=4
 [231A.cpp]: Solutions/231A.cpp?ts=4
 [263A.cpp]: Solutions/263A.cpp?ts=4
