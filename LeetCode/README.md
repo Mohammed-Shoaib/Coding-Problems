@@ -30,6 +30,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0020.cpp]     | [Valid Parentheses]                                                                                  | Easy       |
 | [LC0021.cpp]     | [Merge Two Sorted Lists]                                                                             | Easy       |
 | [LC0022.cpp]     | [Generate Parentheses]                                                                               | Medium     |
+| [LC0023.cpp]     | [Merge k Sorted Lists]                                                                               | Hard       |
 | [LC0026.cpp]     | [Remove Duplicates from Sorted Array]                                                                | Easy       |
 | [LC0028.cpp]     | [Implement strStr()]                                                                                 | Easy       |
 | [LC0031.cpp]     | [Next Permutation]                                                                                   | Medium     |
@@ -708,6 +709,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0022.cpp]: Solutions/LC0022.cpp?ts=4
 [Generate Parentheses]: https://leetcode.com/problems/generate-parentheses/
+
+[LC0023.cpp]: Solutions/LC0023.cpp?ts=4
+[Merge k Sorted Lists]: https://leetcode.com/problems/merge-k-sorted-lists/
 
 [LC0026.cpp]: Solutions/LC0026.cpp?ts=4
 [Remove Duplicates from Sorted Array]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
