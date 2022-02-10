@@ -53,6 +53,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0051.cpp]     | [N-Queens]                                                                                           | Hard       |
 | [LC0052.cpp]     | [N-Queens II]                                                                                        | Hard       |
 | [LC0053.cpp]     | [Maximum Subarray]                                                                                   | Easy       |
+| [LC0054.cpp]     | [Spiral Matrix]                                                                                      | Medium     |
 | [LC0055.cpp]     | [Jump Game]                                                                                          | Medium     |
 | [LC0056.cpp]     | [Merge Intervals]                                                                                    | Medium     |
 | [LC0057.cpp]     | [Insert Interval]                                                                                    | Medium     |
@@ -778,6 +779,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0053.cpp]: Solutions/LC0053.cpp?ts=4
 [Maximum Subarray]: https://leetcode.com/problems/maximum-subarray/
+
+[LC0054.cpp]: Solutions/LC0054.cpp?ts=4
+[Spiral Matrix]: https://leetcode.com/problems/spiral-matrix/
 
 [LC0055.cpp]: Solutions/LC0055.cpp?ts=4
 [Jump Game]: https://leetcode.com/problems/jump-game/
