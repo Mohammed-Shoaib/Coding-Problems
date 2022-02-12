@@ -76,6 +76,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0076.cpp]     | [Minimum Window Substring]                                                                           | Hard       |
 | [LC0078.cpp]     | [Subsets]                                                                                            | Medium     |
 | [LC0079.cpp]     | [Word Search]                                                                                        | Medium     |
+| [LC0080.cpp]     | [Remove Duplicates from Sorted Array II]                                                             | Medium     |
 | [LC0081.cpp]     | [Search in Rotated Sorted Array II]                                                                  | Medium     |
 | [LC0083.cpp]     | [Remove Duplicates from Sorted List]                                                                 | Easy       |
 | [LC0086.cpp]     | [Partition List]                                                                                     | Medium     |
@@ -848,6 +849,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0079.cpp]: Solutions/LC0079.cpp?ts=4
 [Word Search]: https://leetcode.com/problems/word-search/
+
+[LC0080.cpp]: Solutions/LC0080.cpp?ts=4
+[Remove Duplicates from Sorted Array II]: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 
 [LC0081.cpp]: Solutions/LC0081.cpp?ts=4
 [Search in Rotated Sorted Array II]: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
