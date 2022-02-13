@@ -78,6 +78,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0079.cpp]     | [Word Search]                                                                                        | Medium     |
 | [LC0080.cpp]     | [Remove Duplicates from Sorted Array II]                                                             | Medium     |
 | [LC0081.cpp]     | [Search in Rotated Sorted Array II]                                                                  | Medium     |
+| [LC0082.cpp]     | [Remove Duplicates from Sorted List II]                                                              | Medium     |
 | [LC0083.cpp]     | [Remove Duplicates from Sorted List]                                                                 | Easy       |
 | [LC0086.cpp]     | [Partition List]                                                                                     | Medium     |
 | [LC0088.cpp]     | [Merge Sorted Array]                                                                                 | Easy       |
@@ -855,6 +856,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0081.cpp]: Solutions/LC0081.cpp?ts=4
 [Search in Rotated Sorted Array II]: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+
+[LC0082.cpp]: Solutions/LC0082.cpp?ts=4
+[Remove Duplicates from Sorted List II]: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 
 [LC0083.cpp]: Solutions/LC0083.cpp?ts=4
 [Remove Duplicates from Sorted List]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
