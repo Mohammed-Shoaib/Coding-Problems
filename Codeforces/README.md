@@ -11,6 +11,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1A.cpp]         | [Theatre Square](https://codeforces.com/problemset/problem/1/A)                                      | 1000       |
 | [4A.cpp]         | [Watermelon](https://codeforces.com/problemset/problem/4/A)                                          | 800        |
 | [4C.cpp]         | [Registration system](https://codeforces.com/problemset/problem/4/C)                                 | 1300       |
+| [25A.cpp]        | [IQ test](https://codeforces.com/problemset/problem/25/A)                                            | 1300       |
 | [32B.cpp]        | [Borze](https://codeforces.com/problemset/problem/32/B)                                              | 800        |
 | [34B.cpp]        | [Sale](https://codeforces.com/problemset/problem/34/B)                                               | 900        |
 | [50A.cpp]        | [Domino piling](https://codeforces.com/problemset/problem/50/A)                                      | 800        |
@@ -219,6 +220,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1A.cpp]: Solutions/1A.cpp?ts=4
 [4A.cpp]: Solutions/4A.cpp?ts=4
 [4C.cpp]: Solutions/4C.cpp?ts=4
+[25A.cpp]: Solutions/25A.cpp?ts=4
 [32B.cpp]: Solutions/32B.cpp?ts=4
 [34B.cpp]: Solutions/34B.cpp?ts=4
 [50A.cpp]: Solutions/50A.cpp?ts=4
