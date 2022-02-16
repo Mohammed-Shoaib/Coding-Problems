@@ -40,6 +40,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [263A.cpp]       | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)                                  | 800        |
 | [266A.cpp]       | [Stones on the Table](https://codeforces.com/problemset/problem/266/A)                               | 800        |
 | [266B.cpp]       | [Queue at the School](https://codeforces.com/problemset/problem/266/B)                               | 800        |
+| [268A.cpp]       | [Games](https://codeforces.com/problemset/problem/268/A)                                             | 800        |
 | [282A.cpp]       | [Bit++](https://codeforces.com/problemset/problem/282/A)                                             | 800        |
 | [339B.cpp]       | [Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B)                                | 1000       |
 | [363B.cpp]       | [Fence](https://codeforces.com/problemset/problem/363/B)                                             | 1100       |
@@ -250,6 +251,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [263A.cpp]: Solutions/263A.cpp?ts=4
 [266A.cpp]: Solutions/266A.cpp?ts=4
 [266B.cpp]: Solutions/266B.cpp?ts=4
+[268A.cpp]: Solutions/268A.cpp?ts=4
 [282A.cpp]: Solutions/282A.cpp?ts=4
 [339B.cpp]: Solutions/339B.cpp?ts=4
 [363B.cpp]: Solutions/363B.cpp?ts=4
