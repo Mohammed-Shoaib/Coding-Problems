@@ -38,6 +38,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [231A.cpp]       | [Team](https://codeforces.com/problemset/problem/231/A)                                              | 800        |
 | [236A.cpp]       | [Boy or Girl](https://codeforces.com/problemset/problem/236/A)                                       | 800        |
 | [263A.cpp]       | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)                                  | 800        |
+| [266A.cpp]       | [Stones on the Table](https://codeforces.com/problemset/problem/266/A)                               | 800        |
 | [266B.cpp]       | [Queue at the School](https://codeforces.com/problemset/problem/266/B)                               | 800        |
 | [282A.cpp]       | [Bit++](https://codeforces.com/problemset/problem/282/A)                                             | 800        |
 | [339B.cpp]       | [Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B)                                | 1000       |
@@ -247,6 +248,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [231A.cpp]: Solutions/231A.cpp?ts=4
 [236A.cpp]: Solutions/236A.cpp?ts=4
 [263A.cpp]: Solutions/263A.cpp?ts=4
+[266A.cpp]: Solutions/266A.cpp?ts=4
 [266B.cpp]: Solutions/266B.cpp?ts=4
 [282A.cpp]: Solutions/282A.cpp?ts=4
 [339B.cpp]: Solutions/339B.cpp?ts=4
