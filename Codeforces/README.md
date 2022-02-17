@@ -44,6 +44,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [271A.cpp]       | [Beautiful Year](https://codeforces.com/problemset/problem/271/A)                                    | 800        |
 | [281A.cpp]       | [Word Capitalization](https://codeforces.com/problemset/problem/281/A)                               | 800        |
 | [282A.cpp]       | [Bit++](https://codeforces.com/problemset/problem/282/A)                                             | 800        |
+| [318A.cpp]       | [Even Odds](https://codeforces.com/problemset/problem/318/A)                                         | 900        |
 | [339B.cpp]       | [Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B)                                | 1000       |
 | [363B.cpp]       | [Fence](https://codeforces.com/problemset/problem/363/B)                                             | 1100       |
 | [451B.cpp]       | [Sort the Array](https://codeforces.com/problemset/problem/451/B)                                    | 1300       |
@@ -257,6 +258,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [271A.cpp]: Solutions/271A.cpp?ts=4
 [281A.cpp]: Solutions/281A.cpp?ts=4
 [282A.cpp]: Solutions/282A.cpp?ts=4
+[318A.cpp]: Solutions/318A.cpp?ts=4
 [339B.cpp]: Solutions/339B.cpp?ts=4
 [363B.cpp]: Solutions/363B.cpp?ts=4
 [451B.cpp]: Solutions/451B.cpp?ts=4
