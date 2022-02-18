@@ -48,6 +48,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [337A.cpp]       | [Puzzles](https://codeforces.com/problemset/problem/337/A)                                           | 900        |
 | [339A.cpp]       | [Helpful Maths](https://codeforces.com/problemset/problem/339/A)                                     | 800        |
 | [339B.cpp]       | [Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B)                                | 1000       |
+| [344A.cpp]       | [Magnets](https://codeforces.com/problemset/problem/344/A)                                           | 800        |
 | [363B.cpp]       | [Fence](https://codeforces.com/problemset/problem/363/B)                                             | 1100       |
 | [451B.cpp]       | [Sort the Array](https://codeforces.com/problemset/problem/451/B)                                    | 1300       |
 | [489B.cpp]       | [BerSU Ball](https://codeforces.com/problemset/problem/489/B)                                        | 1200       |
@@ -264,6 +265,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [337A.cpp]: Solutions/337A.cpp?ts=4
 [339A.cpp]: Solutions/339A.cpp?ts=4
 [339B.cpp]: Solutions/339B.cpp?ts=4
+[344A.cpp]: Solutions/344A.cpp?ts=4
 [363B.cpp]: Solutions/363B.cpp?ts=4
 [451B.cpp]: Solutions/451B.cpp?ts=4
 [489B.cpp]: Solutions/489B.cpp?ts=4
