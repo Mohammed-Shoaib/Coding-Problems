@@ -14,6 +14,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [25A.cpp]        | [IQ test](https://codeforces.com/problemset/problem/25/A)                                            | 1300       |
 | [32B.cpp]        | [Borze](https://codeforces.com/problemset/problem/32/B)                                              | 800        |
 | [34B.cpp]        | [Sale](https://codeforces.com/problemset/problem/34/B)                                               | 900        |
+| [41A.cpp]        | [Translation](https://codeforces.com/problemset/problem/41/A)                                        | 800        |
 | [50A.cpp]        | [Domino piling](https://codeforces.com/problemset/problem/50/A)                                      | 800        |
 | [71A.cpp]        | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A)                                 | 800        |
 | [110A.cpp]       | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A)                               | 800        |
@@ -232,6 +233,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [25A.cpp]: Solutions/25A.cpp?ts=4
 [32B.cpp]: Solutions/32B.cpp?ts=4
 [34B.cpp]: Solutions/34B.cpp?ts=4
+[41A.cpp]: Solutions/41A.cpp?ts=4
 [50A.cpp]: Solutions/50A.cpp?ts=4
 [71A.cpp]: Solutions/71A.cpp?ts=4
 [110A.cpp]: Solutions/110A.cpp?ts=4
