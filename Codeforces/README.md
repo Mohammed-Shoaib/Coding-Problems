@@ -52,6 +52,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [344A.cpp]       | [Magnets](https://codeforces.com/problemset/problem/344/A)                                           | 800        |
 | [363B.cpp]       | [Fence](https://codeforces.com/problemset/problem/363/B)                                             | 1100       |
 | [405A.cpp]       | [Gravity Flip](https://codeforces.com/problemset/problem/405/A)                                      | 900        |
+| [443A.cpp]       | [Anton and Letters](https://codeforces.com/problemset/problem/443/A)                                 | 800        |
 | [451B.cpp]       | [Sort the Array](https://codeforces.com/problemset/problem/451/B)                                    | 1300       |
 | [489B.cpp]       | [BerSU Ball](https://codeforces.com/problemset/problem/489/B)                                        | 1200       |
 | [489C.cpp]       | [Given Length and Sum of Digits...](https://codeforces.com/problemset/problem/489/C)                 | 1400       |
@@ -271,6 +272,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [344A.cpp]: Solutions/344A.cpp?ts=4
 [363B.cpp]: Solutions/363B.cpp?ts=4
 [405A.cpp]: Solutions/405A.cpp?ts=4
+[443A.cpp]: Solutions/443A.cpp?ts=4
 [451B.cpp]: Solutions/451B.cpp?ts=4
 [489B.cpp]: Solutions/489B.cpp?ts=4
 [489C.cpp]: Solutions/489C.cpp?ts=4
