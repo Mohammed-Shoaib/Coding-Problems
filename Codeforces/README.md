@@ -55,6 +55,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [443A.cpp]       | [Anton and Letters](https://codeforces.com/problemset/problem/443/A)                                 | 800        |
 | [451A.cpp]       | [Game With Sticks](https://codeforces.com/problemset/problem/451/A)                                  | 900        |
 | [451B.cpp]       | [Sort the Array](https://codeforces.com/problemset/problem/451/B)                                    | 1300       |
+| [466A.cpp]       | [Cheap Travel](https://codeforces.com/problemset/problem/466/A)                                      | 1200       |
 | [489B.cpp]       | [BerSU Ball](https://codeforces.com/problemset/problem/489/B)                                        | 1200       |
 | [489C.cpp]       | [Given Length and Sum of Digits...](https://codeforces.com/problemset/problem/489/C)                 | 1400       |
 | [492B.cpp]       | [Vanya and Lanterns](https://codeforces.com/problemset/problem/492/B)                                | 1200       |
@@ -276,6 +277,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [443A.cpp]: Solutions/443A.cpp?ts=4
 [451A.cpp]: Solutions/451A.cpp?ts=4
 [451B.cpp]: Solutions/451B.cpp?ts=4
+[466A.cpp]: Solutions/466A.cpp?ts=4
 [489B.cpp]: Solutions/489B.cpp?ts=4
 [489C.cpp]: Solutions/489C.cpp?ts=4
 [492B.cpp]: Solutions/492B.cpp?ts=4
