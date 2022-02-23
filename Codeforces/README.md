@@ -58,6 +58,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [466A.cpp]       | [Cheap Travel](https://codeforces.com/problemset/problem/466/A)                                      | 1200       |
 | [467A.cpp]       | [George and Accommodation](https://codeforces.com/problemset/problem/467/A)                          | 800        |
 | [469A.cpp]       | [I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A)                                | 800        |
+| [479A.cpp]       | [Expression](https://codeforces.com/problemset/problem/479/A)                                        | 1000       |
 | [489B.cpp]       | [BerSU Ball](https://codeforces.com/problemset/problem/489/B)                                        | 1200       |
 | [489C.cpp]       | [Given Length and Sum of Digits...](https://codeforces.com/problemset/problem/489/C)                 | 1400       |
 | [492B.cpp]       | [Vanya and Lanterns](https://codeforces.com/problemset/problem/492/B)                                | 1200       |
@@ -282,6 +283,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [466A.cpp]: Solutions/466A.cpp?ts=4
 [467A.cpp]: Solutions/467A.cpp?ts=4
 [469A.cpp]: Solutions/469A.cpp?ts=4
+[479A.cpp]: Solutions/479A.cpp?ts=4
 [489B.cpp]: Solutions/489B.cpp?ts=4
 [489C.cpp]: Solutions/489C.cpp?ts=4
 [492B.cpp]: Solutions/492B.cpp?ts=4
