@@ -72,6 +72,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [520B.cpp]       | [Two Buttons](https://codeforces.com/problemset/problem/520/B)                                       | 1400       |
 | [546A.cpp]       | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)                               | 800        |
 | [580A.cpp]       | [Kefa and First Steps](https://codeforces.com/problemset/problem/580/A)                              | 900        |
+| [617A.cpp]       | [Elephant](https://codeforces.com/problemset/problem/617/A)                                          | 800        |
 | [656F.cpp]       | [Ace It!](https://codeforces.com/problemset/problem/656/F)                                           | 1900       |
 | [1030A.cpp]      | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A)                     | 800        |
 | [1056A.cpp]      | [Determine Line](https://codeforces.com/problemset/problem/1056/A)                                   | 800        |
@@ -303,6 +304,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [520B.cpp]: Solutions/520B.cpp?ts=4
 [546A.cpp]: Solutions/546A.cpp?ts=4
 [580A.cpp]: Solutions/580A.cpp?ts=4
+[617A.cpp]: Solutions/617A.cpp?ts=4
 [656F.cpp]: Solutions/656F.cpp?ts=4
 [1030A.cpp]: Solutions/1030A.cpp?ts=4
 [1056A.cpp]: Solutions/1056A.cpp?ts=4
