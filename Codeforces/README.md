@@ -17,6 +17,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [41A.cpp]        | [Translation](https://codeforces.com/problemset/problem/41/A)                                        | 800        |
 | [50A.cpp]        | [Domino piling](https://codeforces.com/problemset/problem/50/A)                                      | 800        |
 | [58A.cpp]        | [Chat room](https://codeforces.com/problemset/problem/58/A)                                          | 1000       |
+| [59A.cpp]        | [Word](https://codeforces.com/problemset/problem/59/A)                                               | 800        |
 | [71A.cpp]        | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A)                                 | 800        |
 | [110A.cpp]       | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A)                               | 800        |
 | [112A.cpp]       | [Petya and Strings](https://codeforces.com/problemset/problem/112/A)                                 | 800        |
@@ -247,6 +248,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [41A.cpp]: Solutions/41A.cpp?ts=4
 [50A.cpp]: Solutions/50A.cpp?ts=4
 [58A.cpp]: Solutions/58A.cpp?ts=4
+[59A.cpp]: Solutions/59A.cpp?ts=4
 [71A.cpp]: Solutions/71A.cpp?ts=4
 [110A.cpp]: Solutions/110A.cpp?ts=4
 [112A.cpp]: Solutions/112A.cpp?ts=4
