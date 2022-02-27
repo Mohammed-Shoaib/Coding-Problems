@@ -75,6 +75,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [580A.cpp]       | [Kefa and First Steps](https://codeforces.com/problemset/problem/580/A)                              | 900        |
 | [617A.cpp]       | [Elephant](https://codeforces.com/problemset/problem/617/A)                                          | 800        |
 | [656F.cpp]       | [Ace It!](https://codeforces.com/problemset/problem/656/F)                                           | 1900       |
+| [677A.cpp]       | [Vanya and Fence](https://codeforces.com/problemset/problem/677/A)                                   | 800        |
 | [1030A.cpp]      | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A)                     | 800        |
 | [1056A.cpp]      | [Determine Line](https://codeforces.com/problemset/problem/1056/A)                                   | 800        |
 | [1056B.cpp]      | [Divide Candies](https://codeforces.com/problemset/problem/1056/B)                                   | 1600       |
@@ -308,6 +309,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [580A.cpp]: Solutions/580A.cpp?ts=4
 [617A.cpp]: Solutions/617A.cpp?ts=4
 [656F.cpp]: Solutions/656F.cpp?ts=4
+[677A.cpp]: Solutions/677A.cpp?ts=4
 [1030A.cpp]: Solutions/1030A.cpp?ts=4
 [1056A.cpp]: Solutions/1056A.cpp?ts=4
 [1056B.cpp]: Solutions/1056B.cpp?ts=4
