@@ -79,6 +79,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [677A.cpp]       | [Vanya and Fence](https://codeforces.com/problemset/problem/677/A)                                   | 800        |
 | [705A.cpp]       | [Hulk](https://codeforces.com/problemset/problem/705/A)                                              | 800        |
 | [734A.cpp]       | [Anton and Danik](https://codeforces.com/problemset/problem/734/A)                                   | 800        |
+| [785A.cpp]       | [Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A)                             | 800        |
 | [1030A.cpp]      | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A)                     | 800        |
 | [1056A.cpp]      | [Determine Line](https://codeforces.com/problemset/problem/1056/A)                                   | 800        |
 | [1056B.cpp]      | [Divide Candies](https://codeforces.com/problemset/problem/1056/B)                                   | 1600       |
@@ -316,6 +317,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [677A.cpp]: Solutions/677A.cpp?ts=4
 [705A.cpp]: Solutions/705A.cpp?ts=4
 [734A.cpp]: Solutions/734A.cpp?ts=4
+[785A.cpp]: Solutions/785A.cpp?ts=4
 [1030A.cpp]: Solutions/1030A.cpp?ts=4
 [1056A.cpp]: Solutions/1056A.cpp?ts=4
 [1056B.cpp]: Solutions/1056B.cpp?ts=4
