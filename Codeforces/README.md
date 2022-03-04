@@ -202,6 +202,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1339B.cpp]      | [Sorted Adjacent Differences](https://codeforces.com/problemset/problem/1339/B)                      | 1200       |
 | [1339C.cpp]      | [Powered Addition](https://codeforces.com/problemset/problem/1339/C)                                 | 1500       |
 | [1339D.cpp]      | [Edge Weight Assignment](https://codeforces.com/problemset/problem/1339/D)                           | 1800       |
+| [1343C.cpp]      | [Alternating Subsequence](https://codeforces.com/problemset/problem/1343/C)                          | 1200       |
 | [1352C.cpp]      | [K-th Not Divisible by n](https://codeforces.com/problemset/problem/1352/C)                          | 1200       |
 | [1353C.cpp]      | [Board Moves](https://codeforces.com/problemset/problem/1353/C)                                      | 1000       |
 | [1360B.cpp]      | [Honest Coach](https://codeforces.com/problemset/problem/1360/B)                                     | 800        |
@@ -444,6 +445,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1339B.cpp]: Solutions/1339B.cpp?ts=4
 [1339C.cpp]: Solutions/1339C.cpp?ts=4
 [1339D.cpp]: Solutions/1339D.cpp?ts=4
+[1343C.cpp]: Solutions/1343C.cpp?ts=4
 [1352C.cpp]: Solutions/1352C.cpp?ts=4
 [1353C.cpp]: Solutions/1353C.cpp?ts=4
 [1360B.cpp]: Solutions/1360B.cpp?ts=4
