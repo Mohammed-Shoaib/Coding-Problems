@@ -61,6 +61,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [451A.cpp]       | [Game With Sticks](https://codeforces.com/problemset/problem/451/A)                                  | 900        |
 | [451B.cpp]       | [Sort the Array](https://codeforces.com/problemset/problem/451/B)                                    | 1300       |
 | [466A.cpp]       | [Cheap Travel](https://codeforces.com/problemset/problem/466/A)                                      | 1200       |
+| [466C.cpp]       | [Number of Ways](https://codeforces.com/problemset/problem/466/C)                                    | 1700       |
 | [467A.cpp]       | [George and Accommodation](https://codeforces.com/problemset/problem/467/A)                          | 800        |
 | [469A.cpp]       | [I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A)                                | 800        |
 | [479A.cpp]       | [Expression](https://codeforces.com/problemset/problem/479/A)                                        | 1000       |
@@ -304,6 +305,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [451A.cpp]: Solutions/451A.cpp?ts=4
 [451B.cpp]: Solutions/451B.cpp?ts=4
 [466A.cpp]: Solutions/466A.cpp?ts=4
+[466C.cpp]: Solutions/466C.cpp?ts=4
 [467A.cpp]: Solutions/467A.cpp?ts=4
 [469A.cpp]: Solutions/469A.cpp?ts=4
 [479A.cpp]: Solutions/479A.cpp?ts=4
