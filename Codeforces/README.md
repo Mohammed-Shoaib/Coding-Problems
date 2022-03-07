@@ -76,6 +76,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [520B.cpp]       | [Two Buttons](https://codeforces.com/problemset/problem/520/B)                                       | 1400       |
 | [546A.cpp]       | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)                               | 800        |
 | [580A.cpp]       | [Kefa and First Steps](https://codeforces.com/problemset/problem/580/A)                              | 900        |
+| [580C.cpp]       | [Kefa and Park](https://codeforces.com/problemset/problem/580/C)                                     | 1500       |
 | [617A.cpp]       | [Elephant](https://codeforces.com/problemset/problem/617/A)                                          | 800        |
 | [656F.cpp]       | [Ace It!](https://codeforces.com/problemset/problem/656/F)                                           | 1900       |
 | [677A.cpp]       | [Vanya and Fence](https://codeforces.com/problemset/problem/677/A)                                   | 800        |
@@ -320,6 +321,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [520B.cpp]: Solutions/520B.cpp?ts=4
 [546A.cpp]: Solutions/546A.cpp?ts=4
 [580A.cpp]: Solutions/580A.cpp?ts=4
+[580C.cpp]: Solutions/580C.cpp?ts=4
 [617A.cpp]: Solutions/617A.cpp?ts=4
 [656F.cpp]: Solutions/656F.cpp?ts=4
 [677A.cpp]: Solutions/677A.cpp?ts=4
