@@ -250,6 +250,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [1527B1.cpp]     | [Palindrome Game (easy version)](https://codeforces.com/problemset/problem/1527/B1)                  | 1200       |
 | [1527B2.cpp]     | [Palindrome Game (hard version)](https://codeforces.com/problemset/problem/1527/B2)                  | 1900       |
 | [1527C.cpp]      | [Sequence Pair Weight](https://codeforces.com/problemset/problem/1527/C)                             | 1600       |
+| [1538B.cpp]      | [Friends and Candies](https://codeforces.com/problemset/problem/1538/B)                              | 800        |
 
 [//]: # (Solutions)
 
@@ -495,5 +496,6 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [1527B1.cpp]: Solutions/1527B1.cpp?ts=4
 [1527B2.cpp]: Solutions/1527B2.cpp?ts=4
 [1527C.cpp]: Solutions/1527C.cpp?ts=4
+[1538B.cpp]: Solutions/1538B.cpp?ts=4
 
 [//]: # (EOF)
