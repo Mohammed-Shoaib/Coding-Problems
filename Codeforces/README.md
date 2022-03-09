@@ -48,6 +48,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [266B.cpp]       | [Queue at the School](https://codeforces.com/problemset/problem/266/B)                               | 800        |
 | [268A.cpp]       | [Games](https://codeforces.com/problemset/problem/268/A)                                             | 800        |
 | [271A.cpp]       | [Beautiful Year](https://codeforces.com/problemset/problem/271/A)                                    | 800        |
+| [279B.cpp]       | [Books](https://codeforces.com/problemset/problem/279/B)                                             | 1400       |
 | [281A.cpp]       | [Word Capitalization](https://codeforces.com/problemset/problem/281/A)                               | 800        |
 | [282A.cpp]       | [Bit++](https://codeforces.com/problemset/problem/282/A)                                             | 800        |
 | [318A.cpp]       | [Even Odds](https://codeforces.com/problemset/problem/318/A)                                         | 900        |
@@ -294,6 +295,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [266B.cpp]: Solutions/266B.cpp?ts=4
 [268A.cpp]: Solutions/268A.cpp?ts=4
 [271A.cpp]: Solutions/271A.cpp?ts=4
+[279B.cpp]: Solutions/279B.cpp?ts=4
 [281A.cpp]: Solutions/281A.cpp?ts=4
 [282A.cpp]: Solutions/282A.cpp?ts=4
 [318A.cpp]: Solutions/318A.cpp?ts=4
