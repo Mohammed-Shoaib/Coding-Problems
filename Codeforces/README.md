@@ -62,6 +62,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [443A.cpp]       | [Anton and Letters](https://codeforces.com/problemset/problem/443/A)                                 | 800        |
 | [451A.cpp]       | [Game With Sticks](https://codeforces.com/problemset/problem/451/A)                                  | 900        |
 | [451B.cpp]       | [Sort the Array](https://codeforces.com/problemset/problem/451/B)                                    | 1300       |
+| [459B.cpp]       | [Pashmak and Flowers](https://codeforces.com/problemset/problem/459/B)                               | 1300       |
 | [466A.cpp]       | [Cheap Travel](https://codeforces.com/problemset/problem/466/A)                                      | 1200       |
 | [466C.cpp]       | [Number of Ways](https://codeforces.com/problemset/problem/466/C)                                    | 1700       |
 | [467A.cpp]       | [George and Accommodation](https://codeforces.com/problemset/problem/467/A)                          | 800        |
@@ -310,6 +311,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [443A.cpp]: Solutions/443A.cpp?ts=4
 [451A.cpp]: Solutions/451A.cpp?ts=4
 [451B.cpp]: Solutions/451B.cpp?ts=4
+[459B.cpp]: Solutions/459B.cpp?ts=4
 [466A.cpp]: Solutions/466A.cpp?ts=4
 [466C.cpp]: Solutions/466C.cpp?ts=4
 [467A.cpp]: Solutions/467A.cpp?ts=4
