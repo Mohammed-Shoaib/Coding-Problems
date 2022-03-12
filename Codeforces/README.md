@@ -89,6 +89,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 | [791A.cpp]       | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A)                              | 800        |
 | [977A.cpp]       | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A)                                 | 800        |
 | [996A.cpp]       | [Hit the Lottery](https://codeforces.com/problemset/problem/996/A)                                   | 800        |
+| [996B.cpp]       | [World Cup](https://codeforces.com/problemset/problem/996/B)                                         | 1300       |
 | [1030A.cpp]      | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A)                     | 800        |
 | [1056A.cpp]      | [Determine Line](https://codeforces.com/problemset/problem/1056/A)                                   | 800        |
 | [1056B.cpp]      | [Divide Candies](https://codeforces.com/problemset/problem/1056/B)                                   | 1600       |
@@ -338,6 +339,7 @@ Solutions to some of the questions on the Codeforces [website](http://codeforces
 [791A.cpp]: Solutions/791A.cpp?ts=4
 [977A.cpp]: Solutions/977A.cpp?ts=4
 [996A.cpp]: Solutions/996A.cpp?ts=4
+[996B.cpp]: Solutions/996B.cpp?ts=4
 [1030A.cpp]: Solutions/1030A.cpp?ts=4
 [1056A.cpp]: Solutions/1056A.cpp?ts=4
 [1056B.cpp]: Solutions/1056B.cpp?ts=4
