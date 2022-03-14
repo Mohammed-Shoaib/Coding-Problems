@@ -205,6 +205,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0287.cpp]     | [Find the Duplicate Number]                                                                          | Medium     |
 | [LC0289.cpp]     | [Game of Life]                                                                                       | Medium     |
 | [LC0290.cpp]     | [Word Pattern]                                                                                       | Easy       |
+| [LC0292.cpp]     | [Nim Game]                                                                                           | Easy       |
 | [LC0295.cpp]     | [Find Median from Data Stream]                                                                       | Hard       |
 | [LC0297.cpp]     | [Serialize and Deserialize Binary Tree]                                                              | Hard       |
 | [LC0299.cpp]     | [Bulls and Cows]                                                                                     | Easy       |
@@ -1238,6 +1239,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0290.cpp]: Solutions/LC0290.cpp?ts=4
 [Word Pattern]: https://leetcode.com/problems/word-pattern/
+
+[LC0292.cpp]: Solutions/LC0292.cpp?ts=4
+[Nim Game]: https://leetcode.com/problems/nim-game/
 
 [LC0295.cpp]: Solutions/LC0295.cpp?ts=4
 [Find Median from Data Stream]: https://leetcode.com/problems/find-median-from-data-stream/
