@@ -224,6 +224,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0338.cpp]     | [Counting Bits]                                                                                      | Medium     |
 | [LC0342.cpp]     | [Power of Four]                                                                                      | Easy       |
 | [LC0344.cpp]     | [Reverse String]                                                                                     | Easy       |
+| [LC0345.cpp]     | [Reverse Vowels of a String]                                                                         | Easy       |
 | [LC0347.cpp]     | [Top K Frequent Elements]                                                                            | Medium     |
 | [LC0350.cpp]     | [Intersection of Two Arrays II]                                                                      | Easy       |
 | [LC0367.cpp]     | [Valid Perfect Square]                                                                               | Easy       |
@@ -1296,6 +1297,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0344.cpp]: Solutions/LC0344.cpp?ts=4
 [Reverse String]: https://leetcode.com/problems/reverse-string/
+
+[LC0345.cpp]: Solutions/LC0345.cpp?ts=4
+[Reverse Vowels of a String]: https://leetcode.com/problems/reverse-vowels-of-a-string/
 
 [LC0347.cpp]: Solutions/LC0347.cpp?ts=4
 [Top K Frequent Elements]: https://leetcode.com/problems/top-k-frequent-elements/
