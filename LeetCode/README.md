@@ -230,6 +230,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0367.cpp]     | [Valid Perfect Square]                                                                               | Easy       |
 | [LC0368.cpp]     | [Largest Divisible Subset]                                                                           | Medium     |
 | [LC0371.cpp]     | [Sum of Two Integers]                                                                                | Medium     |
+| [LC0374.cpp]     | [Guess Number Higher or Lower]                                                                       | Easy       |
 | [LC0377.cpp]     | [Combination Sum IV]                                                                                 | Medium     |
 | [LC0378.cpp]     | [Kth Smallest Element in a Sorted Matrix]                                                            | Medium     |
 | [LC0380.cpp]     | [Insert Delete GetRandom O(1)]                                                                       | Medium     |
@@ -1315,6 +1316,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0371.cpp]: Solutions/LC0371.cpp?ts=4
 [Sum of Two Integers]: https://leetcode.com/problems/sum-of-two-integers/
+
+[LC0374.cpp]: Solutions/LC0374.cpp?ts=4
+[Guess Number Higher or Lower]: https://leetcode.com/problems/guess-number-higher-or-lower/
 
 [LC0377.cpp]: Solutions/LC0377.cpp?ts=4
 [Combination Sum IV]: https://leetcode.com/problems/combination-sum-iv/
