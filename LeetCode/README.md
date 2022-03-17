@@ -256,6 +256,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0423.cpp]     | [Reconstruct Original Digits from English]                                                           | Medium     |
 | [LC0429.cpp]     | [N-ary Tree Level Order Traversal]                                                                   | Medium     |
 | [LC0430.cpp]     | [Flatten a Multilevel Doubly Linked List]                                                            | Medium     |
+| [LC0434.cpp]     | [Number of Segments in a String]                                                                     | Easy       |
 | [LC0435.cpp]     | [Non-overlapping Intervals]                                                                          | Medium     |
 | [LC0436.cpp]     | [Find Right Interval]                                                                                | Medium     |
 | [LC0437.cpp]     | [Path Sum III]                                                                                       | Medium     |
@@ -1395,6 +1396,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0430.cpp]: Solutions/LC0430.cpp?ts=4
 [Flatten a Multilevel Doubly Linked List]: https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
+
+[LC0434.cpp]: Solutions/LC0434.cpp?ts=4
+[Number of Segments in a String]: https://leetcode.com/problems/number-of-segments-in-a-string/
 
 [LC0435.cpp]: Solutions/LC0435.cpp?ts=4
 [Non-overlapping Intervals]: https://leetcode.com/problems/non-overlapping-intervals/
