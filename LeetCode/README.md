@@ -280,6 +280,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0473.cpp]     | [Matchsticks to Square]                                                                              | Medium     |
 | [LC0474.cpp]     | [Ones and Zeroes]                                                                                    | Medium     |
 | [LC0476.cpp]     | [Number Complement]                                                                                  | Easy       |
+| [LC0482.cpp]     | [License Key Formatting]                                                                             | Easy       |
 | [LC0485.cpp]     | [Max Consecutive Ones]                                                                               | Easy       |
 | [LC0494.cpp]     | [Target Sum]                                                                                         | Medium     |
 | [LC0495.cpp]     | [Teemo Attacking]                                                                                    | Medium     |
@@ -1468,6 +1469,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0476.cpp]: Solutions/LC0476.cpp?ts=4
 [Number Complement]: https://leetcode.com/problems/number-complement/
+
+[LC0482.cpp]: Solutions/LC0482.cpp?ts=4
+[License Key Formatting]: https://leetcode.com/problems/license-key-formatting/
 
 [LC0485.cpp]: Solutions/LC0485.cpp?ts=4
 [Max Consecutive Ones]: https://leetcode.com/problems/max-consecutive-ones/
